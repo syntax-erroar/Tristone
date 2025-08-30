@@ -1,0 +1,16 @@
+arelle
+sentence-transformers
+lxml
+sec-edgar-downloader
+edgar-tool
+alpha-vantage
+scikit-learn
+transformers
+torch
+yfinance
+openpyxl
+pandas
+numpy
+requests
+python-dateutil
+scipy
