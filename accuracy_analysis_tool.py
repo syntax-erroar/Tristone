@@ -15,7 +15,11 @@ import re
 
 class AccuracyAnalyzer:
     def __init__(self):
-        self.ideal_file = "Example of an ideal output for a tech company like microsoft.xlsx"
+        # Try the shorter filename first, fallback to original
+        if os.path.exists("ideal_template.xlsx"):
+            self.ideal_file = "ideal_template.xlsx"
+        else:
+            self.ideal_file = "Example of an ideal output for a tech company like microsoft.xlsx"
         self.enhanced_models = []
         self.analysis_results = {}
         
@@ -43,7 +47,8 @@ class AccuracyAnalyzer:
             return {}
         
         try:
-            wb = load_workbook(self.ideal_file, data_only=True)
+            # Try to open with read-only mode first to handle files that might be open
+            wb = load_workbook(self.ideal_file, data_only=True, read_only=True)
             ws = wb['Model']
             
             ideal_data = {
@@ -121,16 +126,113 @@ class AccuracyAnalyzer:
             
             return ideal_data
             
+        except PermissionError as e:
+            print(f"⚠️ Permission error accessing ideal template: {e}")
+            print("💡 The file might be open in Excel. Please close it and try again.")
+            print("🔄 Attempting alternative approach...")
+            
+            # Try alternative approach with pandas
+            try:
+                return self._extract_ideal_template_with_pandas()
+            except Exception as pandas_e:
+                print(f"❌ Alternative approach also failed: {pandas_e}")
+                return {}
+        
         except Exception as e:
             print(f"❌ Error extracting ideal template: {e}")
+            print("🔄 Attempting alternative approach...")
+            
+            # Try alternative approach with pandas
+            try:
+                return self._extract_ideal_template_with_pandas()
+            except Exception as pandas_e:
+                print(f"❌ Alternative approach also failed: {pandas_e}")
+                return {}
+    
+    def _extract_ideal_template_with_pandas(self) -> Dict:
+        """Alternative extraction method using pandas for files that can't be opened with openpyxl"""
+        print("📊 Using pandas to extract ideal template data...")
+        
+        try:
+            # Try to read with pandas
+            df = pd.read_excel(self.ideal_file, sheet_name='Model', header=None)
+            
+            ideal_data = {
+                'structure': {},
+                'financial_metrics': {},
+                'time_periods': [],
+                'data_values': {},
+                'layout_info': {}
+            }
+            
+            # Extract header information
+            if not df.empty:
+                ideal_data['layout_info']['title'] = df.iloc[0, 0] if pd.notna(df.iloc[0, 0]) else None
+                ideal_data['layout_info']['subtitle'] = df.iloc[1, 0] if len(df) > 1 and pd.notna(df.iloc[1, 0]) else None
+                
+                # Extract time periods from row 2 (0-indexed)
+                time_periods = []
+                if len(df) > 2:
+                    for col in range(1, min(len(df.columns), 60)):
+                        cell_value = df.iloc[2, col]
+                        if pd.notna(cell_value) and str(cell_value).strip():
+                            time_periods.append(str(cell_value).strip())
+                
+                ideal_data['time_periods'] = time_periods
+                print(f"  Found {len(time_periods)} time periods")
+                
+                # Extract financial metrics
+                metrics_found = 0
+                for row in range(3, min(len(df), 110)):
+                    metric_name = df.iloc[row, 0]
+                    
+                    if pd.notna(metric_name) and isinstance(metric_name, str):
+                        metric_name = metric_name.strip()
+                        
+                        if (len(metric_name) > 3 and 
+                            not metric_name.isupper() and 
+                            metric_name not in ['KPI\'S', 'Income Statement:', 'Cash Flows:']):
+                            
+                            metric_values = []
+                            
+                            # Extract values for this metric
+                            for col in range(1, min(len(time_periods) + 1, len(df.columns))):
+                                cell_value = df.iloc[row, col]
+                                if pd.notna(cell_value):
+                                    try:
+                                        if isinstance(cell_value, (int, float)):
+                                            metric_values.append(float(cell_value))
+                                        else:
+                                            cleaned = str(cell_value).replace(',', '').replace('%', '')
+                                            if cleaned.replace('.', '').replace('-', '').isdigit():
+                                                metric_values.append(float(cleaned))
+                                            else:
+                                                metric_values.append(None)
+                                    except:
+                                        metric_values.append(None)
+                                else:
+                                    metric_values.append(None)
+                            
+                            ideal_data['financial_metrics'][metric_name] = metric_values
+                            metrics_found += 1
+                
+                print(f"  Extracted {metrics_found} financial metrics using pandas")
+                
+                return ideal_data
+            
+        except Exception as e:
+            print(f"❌ Pandas extraction failed: {e}")
             return {}
+        
+        return {}
     
     def extract_enhanced_model_data(self, filename: str) -> Dict:
         """Extract structured data from enhanced model"""
         print(f"📊 Extracting data from enhanced model: {filename}")
         
         try:
-            wb = load_workbook(filename, data_only=True)
+            # Try to open with read-only mode first
+            wb = load_workbook(filename, data_only=True, read_only=True)
             
             # Try to find the main sheet
             main_sheet = None
@@ -224,9 +326,123 @@ class AccuracyAnalyzer:
             
             return enhanced_data
             
+        except PermissionError as e:
+            print(f"⚠️ Permission error accessing enhanced model: {e}")
+            print("🔄 Attempting alternative approach with pandas...")
+            
+            try:
+                return self._extract_enhanced_model_with_pandas(filename)
+            except Exception as pandas_e:
+                print(f"❌ Alternative approach also failed: {pandas_e}")
+                return {}
+        
         except Exception as e:
             print(f"❌ Error extracting enhanced model: {e}")
+            print("🔄 Attempting alternative approach with pandas...")
+            
+            try:
+                return self._extract_enhanced_model_with_pandas(filename)
+            except Exception as pandas_e:
+                print(f"❌ Alternative approach also failed: {pandas_e}")
+                return {}
+    
+    def _extract_enhanced_model_with_pandas(self, filename: str) -> Dict:
+        """Alternative extraction method using pandas for enhanced model files"""
+        print(f"📊 Using pandas to extract enhanced model data from {filename}...")
+        
+        try:
+            # Try to read with pandas - use first sheet if 'Model' not found
+            try:
+                df = pd.read_excel(filename, sheet_name='Model', header=None)
+            except:
+                # Try first sheet
+                df = pd.read_excel(filename, sheet_name=0, header=None)
+            
+            enhanced_data = {
+                'structure': {},
+                'financial_metrics': {},
+                'time_periods': [],
+                'data_values': {},
+                'layout_info': {},
+                'sheet_name': 'Model'
+            }
+            
+            # Extract header information
+            if not df.empty:
+                enhanced_data['layout_info']['title'] = df.iloc[0, 0] if pd.notna(df.iloc[0, 0]) else None
+                enhanced_data['layout_info']['subtitle'] = df.iloc[1, 0] if len(df) > 1 and pd.notna(df.iloc[1, 0]) else None
+                
+                # Find headers row (look for years)
+                headers_row = None
+                for row in range(min(10, len(df))):
+                    for col in range(min(60, len(df.columns))):
+                        cell_value = df.iloc[row, col]
+                        if pd.notna(cell_value) and str(cell_value).isdigit() and len(str(cell_value)) == 4:
+                            headers_row = row
+                            break
+                    if headers_row is not None:
+                        break
+                
+                # Extract time periods
+                time_periods = []
+                if headers_row is not None:
+                    for col in range(1, min(60, len(df.columns))):
+                        cell_value = df.iloc[headers_row, col]
+                        if pd.notna(cell_value) and str(cell_value).strip():
+                            time_periods.append(str(cell_value).strip())
+                
+                enhanced_data['time_periods'] = time_periods
+                print(f"  Found {len(time_periods)} time periods")
+                
+                # Extract financial metrics
+                metrics_found = 0
+                start_row = headers_row + 1 if headers_row is not None else 3
+                
+                for row in range(start_row, min(len(df), 200)):
+                    metric_name = df.iloc[row, 0]
+                    
+                    if pd.notna(metric_name) and isinstance(metric_name, str):
+                        metric_name = metric_name.strip()
+                        
+                        # Clean metric name (remove confidence scores)
+                        metric_name = re.sub(r'\s*\([0-9.]+\)', '', metric_name)
+                        
+                        if (len(metric_name) > 3 and 
+                            not metric_name.isupper() and
+                            metric_name not in ['KPI\'S', 'INCOME STATEMENT', 'CASH FLOW STATEMENT', 'BALANCE SHEET']):
+                            
+                            metric_values = []
+                            
+                            # Extract values for this metric
+                            for col in range(1, min(len(time_periods) + 1, len(df.columns))):
+                                cell_value = df.iloc[row, col]
+                                if pd.notna(cell_value):
+                                    try:
+                                        if isinstance(cell_value, (int, float)):
+                                            metric_values.append(float(cell_value))
+                                        else:
+                                            cleaned = str(cell_value).replace(',', '').replace('%', '').replace('$', '')
+                                            if cleaned.replace('.', '').replace('-', '').isdigit():
+                                                metric_values.append(float(cleaned))
+                                            else:
+                                                metric_values.append(None)
+                                    except:
+                                        metric_values.append(None)
+                                else:
+                                    metric_values.append(None)
+                            
+                            enhanced_data['financial_metrics'][metric_name] = metric_values
+                            metrics_found += 1
+                
+                print(f"  Extracted {metrics_found} financial metrics using pandas")
+                
+                return enhanced_data
+            
+        except Exception as e:
+            print(f"❌ Pandas extraction failed: {e}")
             return {}
+        
+        return {}
     
     def calculate_accuracy_metrics(self, ideal_data: Dict, enhanced_data: Dict) -> Dict:
         """Calculate detailed accuracy metrics"""
