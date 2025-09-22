@@ -1,0 +1,130 @@
+{
+  "revenue": [
+    "revenue",
+    "total revenue",
+    "net revenue",
+    "net sales",
+    "sales revenue",
+    "revenue from contracts with customers",
+    "revenue from operations",
+    "operating revenue",
+    "gross revenue",
+    "service revenue",
+    "product revenue"
+  ],
+  "net_income": [
+    "net income",
+    "net earnings",
+    "net profit",
+    "net income loss",
+    "earnings",
+    "profit",
+    "net result",
+    "income after taxes",
+    "net income attributable to shareholders"
+  ],
+  "total_assets": [
+    "total assets",
+    "assets",
+    "total current assets",
+    "total noncurrent assets",
+    "consolidated assets",
+    "total assets less current assets"
+  ],
+  "total_liabilities": [
+    "total liabilities",
+    "liabilities",
+    "total current liabilities",
+    "total noncurrent liabilities",
+    "consolidated liabilities",
+    "total debt"
+  ],
+  "shareholders_equity": [
+    "shareholders equity",
+    "stockholders equity",
+    "total equity",
+    "shareholders deficit",
+    "stockholders deficit",
+    "total shareholders equity",
+    "total stockholders equity",
+    "equity",
+    "retained earnings"
+  ],
+  "operating_income": [
+    "operating income",
+    "operating profit",
+    "operating earnings",
+    "income from operations",
+    "operating result",
+    "earnings before interest and taxes",
+    "ebit",
+    "operating income loss"
+  ],
+  "gross_profit": [
+    "gross profit",
+    "gross margin",
+    "gross income",
+    "gross profit margin",
+    "gross earnings"
+  ],
+  "research_development": [
+    "research and development",
+    "research development",
+    "r&d",
+    "research and development expense",
+    "development costs",
+    "research costs"
+  ],
+  "cash_flow_operations": [
+    "cash flow from operations",
+    "operating cash flow",
+    "net cash provided by operating activities",
+    "net cash used in operating activities",
+    "cash from operations"
+  ],
+  "cash_flow_investing": [
+    "cash flow from investing",
+    "investing cash flow",
+    "net cash provided by investing activities",
+    "net cash used in investing activities",
+    "cash from investing"
+  ],
+  "cash_flow_financing": [
+    "cash flow from financing",
+    "financing cash flow",
+    "net cash provided by financing activities",
+    "net cash used in financing activities",
+    "cash from financing"
+  ],
+  "total_debt": [
+    "total debt",
+    "total long term debt",
+    "total short term debt",
+    "debt",
+    "borrowings",
+    "total borrowings"
+  ],
+  "cash_equivalents": [
+    "cash and cash equivalents",
+    "cash equivalents",
+    "cash",
+    "cash and short term investments",
+    "liquid assets"
+  ],
+  "inventory": [
+    "inventory",
+    "inventories",
+    "total inventory",
+    "merchandise inventory",
+    "finished goods inventory",
+    "work in process inventory",
+    "raw materials inventory"
+  ],
+  "accounts_receivable": [
+    "accounts receivable",
+    "trade receivables",
+    "receivables",
+    "accounts receivable net",
+    "net receivables"
+  ]
+}

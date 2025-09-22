@@ -21,6 +21,7 @@ wheels/
 *.egg
 MANIFEST
 
+<<<<<<< HEAD
 # Excel files (keep only essential ones)
 *.xlsx
 !*_Multi_Year_All_Tables.xlsx
@@ -31,6 +32,12 @@ MANIFEST
 *.temp
 test_filtered/
 filtered_output/
+=======
+# Virtual environments
+venv/
+env/
+ENV/
+>>>>>>> 34f5283c8f8118e8dfa146229e2b855952634b12
 
 # IDE
 .vscode/
@@ -42,9 +49,21 @@ filtered_output/
 .DS_Store
 Thumbs.db
 
+<<<<<<< HEAD
 # Logs
 *.log
 
 # Database files
 *.db
 *.sqlite3
+=======
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Logs
+*.log
+
+# Output files (keep examples but ignore generated files)
+*_enhanced_model_*.xlsx
+>>>>>>> 34f5283c8f8118e8dfa146229e2b855952634b12
