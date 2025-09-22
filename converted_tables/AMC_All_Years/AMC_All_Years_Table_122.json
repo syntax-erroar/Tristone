@@ -1,0 +1,302 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2027",
+    "2024",
+    "2017"
+  ],
+  "confidence": 0.6000000000000001,
+  "line_items": [
+    {
+      "name": "Proceeds from the issuance of Senior Subordinated Sterling Notes due 2024 \u200b \u200b 327.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        327.8,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from the issuance of Senior Subordinated Notes due 2027 \u200b \u200b 475.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        475.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Payment of Nordic SEK Term Loan \u200b \u200b (144.4) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        144.4,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Payment of Nordic EUR Term Loan \u200b \u200b (169.5) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        169.5,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Net proceeds from equity offering \u200b \u200b 616.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        616.8,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payment of Bridge Loan due 2017 \u200b \u200b (350.0) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        350.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Scheduled principal payments under Term Loans \u200b \u200b (12.6) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        12.6,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under capital and financing lease obligations \u200b \u200b \u2014 \u200b \u200b (41.6) \u200b \u200b (29.1) \u200b \u2014 \u200b \u200b",
+      "values": [
+        70.7,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under promissory note \u200b \u200b \u2014 \u200b \u200b (1.4) \u200b \u200b \u2014 \u200b \u2014 \u200b",
+      "values": [
+        1.4,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash used to pay deferred financing fees \u200b \u200b (29.8) \u200b \u200b \u2014 \u200b \u200b (3.8) \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        33.6,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash used to pay dividends \u200b (104.6) \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b",
+      "values": [
+        104.6,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Taxes paid for restricted unit withholdings \u200b \u200b (6.5) \u200b \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b \u200b",
+      "values": [
+        6.5,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Purchase of treasury stock \u200b \u200b (34.0) \u200b \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b \u200b",
+      "values": [
+        34.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Change in intercompany advances \u200b \u200b (616.7) \u200b \u200b 662.1 \u200b \u200b (45.4) \u200b \u200b \u2014 \u200b \u200b \u2014 Net cash provided by (used) in financing activities \u200b (48.5) \u200b 619.1 \u200b (78.3) \u200b \u2014 \u200b",
+      "values": [
+        492.3,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Effect of exchange rate changes on cash and equivalents \u200b 56.8 \u200b (53.5) \u200b 14.4 \u200b \u2014 \u200b",
+      "values": [
+        17.7,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Net increase (decrease) in cash and equivalents \u200b \u200b (1.9) \u200b (12.7) \u200b 102.7 \u200b \u2014 \u200b",
+      "values": [
+        88.1,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash and equivalents at beginning of period \u200b 3.0 \u200b 108.6 \u200b 118.6 \u200b \u2014 \u200b",
+      "values": [
+        230.2,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (543.8) \u200b (83.0) \u200b \u2014 \u200b (626.8) Acquisition of Nordic Cinemas Group, net of cash and restricted cash acquired \u200b \u200b \u2014 \u200b \u200b (654.9) \u200b \u200b 77.3 \u200b \u200b \u2014 \u200b \u200b (577.6) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 136.2 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 136.2 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 89.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 89.0 Proceeds from disposition of Open Road \u200b \u2014 \u200b 9.2 \u200b \u2014 \u200b \u2014 \u200b 9.2 Proceeds (disbursements) from disposition of long-term assets \u200b \u200b \u2014 \u200b 34.9 \u200b (10.8) \u200b \u2014 \u200b 24.1 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.1) \u200b \u2014 \u200b \u2014 \u200b (11.1) Other, net \u200b \u2014 \u200b (2.1) \u200b (0.2) \u200b \u2014 \u200b (2.3) Net cash used in investing activities \u200b \u2014 \u200b (942.6) \u200b (16.7) \u200b \u2014 \u200b (959.3) Cash flows from financing activities",
+      "is_total": false
+    }
+  ]
+}

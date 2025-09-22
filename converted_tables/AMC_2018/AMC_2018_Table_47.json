@@ -1,0 +1,319 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2025",
+    "2024",
+    "2023"
+  ],
+  "confidence": 0.6000000000000001,
+  "line_items": [
+    {
+      "name": "Net cash provided by operating activities",
+      "values": [
+        7.2,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Operating",
+      "confidence": 0.4,
+      "parent_item": "Subsidiary Subsidiary Consolidating Consolidated (In millions) Holdings Guarantors Non-Guarantors Adjustments Holdings Cash flows from operating activities",
+      "is_total": false
+    },
+    {
+      "name": "Capital expenditures \u2014 (286.0) (290.3) \u2014",
+      "values": [
+        576.3,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Cash flows from investing activities",
+      "is_total": false
+    },
+    {
+      "name": "Capital expenditures \u2014 (286.0) (290.3) \u2014",
+      "values": [
+        576.3,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Cash flows from investing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from issuance of Senior Unsecured Convertible Notes due 2024600.0 \u2014 \u2014 \u2014",
+      "values": [
+        600.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Net borrowings under Revolving Credit Facility \u2014 \u2014 12.1 \u2014",
+      "values": [
+        12.1,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under Term Loan (13.8) \u2014 \u2014 \u2014",
+      "values": [
+        13.8,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under capital and financing lease obligations \u2014 (10.4) (60.6) \u2014",
+      "values": [
+        71.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under promissory note \u2014 (1.4) \u2014 \u2014",
+      "values": [
+        1.4,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash used to pay deferred financing costs (15.5) \u2014 \u2014 \u2014",
+      "values": [
+        15.5,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash used to pay dividends (258.1) \u2014 \u2014 \u2014",
+      "values": [
+        258.1,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Taxes paid for restricted unit withholdings (1.7) \u2014 \u2014 \u2014",
+      "values": [
+        1.7,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Retirement of Class B common stock (423.6) \u2014 \u2014 \u2014",
+      "values": [
+        423.6,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Purchase of treasury stock (21.8) \u2014 \u2014 \u2014",
+      "values": [
+        21.8,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Change in intercompany advances 167.1 (108.5) (58.6) \u2014 \u2014 Net cash provided by (used in) financing activities 32.6 (120.3) (107.1) \u2014",
+      "values": [
+        194.8,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Effect of exchange rate changes on cash and cash equivalents and restricted cash (40.6) 41.6 (6.5) \u2014",
+      "values": [
+        5.5,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Net increase (decrease) in cash and cash equivalents and restricted cash (0.8) 84.5 (78.0) \u2014",
+      "values": [
+        5.7,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash and cash equivalents and restricted cash at beginning of period 1.185.0232.2 \u2014",
+      "values": [
+        318.3,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from issuance of Senior Unsecured Convertible Notes due 2024600.0 \u2014 \u2014 \u2014 600.0 Net borrowings under Revolving Credit Facility \u2014 \u2014 12.1 \u2014 12.1 Principal payments under Term Loan (13.8) \u2014 \u2014 \u2014 (13.8) Principal payments under capital and financing lease obligations \u2014 (10.4) (60.6) \u2014 (71.0) Principal payments under promissory note \u2014 (1.4) \u2014 \u2014 (1.4) Cash used to pay deferred financing costs (15.5) \u2014 \u2014 \u2014 (15.5) Cash used to pay dividends (258.1) \u2014 \u2014 \u2014 (258.1) Taxes paid for restricted unit withholdings (1.7) \u2014 \u2014 \u2014 (1.7) Retirement of Class B common stock (423.6) \u2014 \u2014 \u2014 (423.6) Purchase of treasury stock (21.8) \u2014 \u2014 \u2014 (21.8) Change in intercompany advances 167.1 (108.5) (58.6) \u2014 \u2014 Net cash provided by (used in) financing activities 32.6 (120.3) (107.1) \u2014 (194.8) Effect of exchange rate changes on cash and cash equivalents and restricted cash (40.6) 41.6 (6.5) \u2014 (5.5) Net increase (decrease) in cash and cash equivalents and restricted cash (0.8) 84.5 (78.0) \u2014 5.7 Cash and cash equivalents and restricted cash at beginning of period 1.185.0232.2 \u2014 318.3 Cash and cash equivalents and restricted cash at end of period",
+      "values": [
+        0.3,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": "Proceeds from sale leaseback transactions \u2014 50.1 \u2014 \u2014 50.1 Proceeds from disposition of NCM \u2014 162.5 \u2014 \u2014 162.5 Proceeds from Screenvision merger \u2014 \u2014 45.8 \u2014 45.8 Proceeds from disposition of long-term assets \u2014 4.89.4 \u2014 14.2 Investments in non-consolidated entities, net \u2014 (11.4) \u2014 \u2014 (11.4) Other, net \u2014 (4.1) 2.0 \u2014 (2.1) Net cash used in investing activities \u2014 (84.1) (233.1) \u2014 (317.2) Cash flows from financing activities",
+      "is_total": false
+    }
+  ]
+}

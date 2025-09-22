@@ -1,0 +1,30 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2026",
+    "2021",
+    "2020"
+  ],
+  "confidence": 0.5,
+  "line_items": [
+    {
+      "name": "the Company consummated previously announced private offers to exchange its Existing Subordinated Notes for newly issued Second Lien Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

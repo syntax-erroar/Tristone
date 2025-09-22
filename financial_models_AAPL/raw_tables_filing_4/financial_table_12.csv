@@ -1,0 +1,16 @@
+0,1,2,3,4,5,7,8,9,11,13,14,16,17,19,20
+Level 1:,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Money market funds,481,nan,—,nan,—,481,nan,481,—,—,nan,nan,nan,nan,nan
+Mutual funds and equity securities,442,nan,12,nan,(26),428,nan,—,428,—,nan,nan,nan,nan,nan
+Subtotal,923,nan,12,nan,(26),909,nan,481,428,—,nan,nan,nan,nan,nan
+Level 2 (1):,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+U.S. Treasury securities,"19,406",nan,—,nan,"(1,292)","18,114",nan,35,"5,468","12,611",nan,nan,nan,nan,nan
+U.S. agency securities,"5,736",nan,—,nan,(600),"5,136",nan,36,271,"4,829",nan,nan,nan,nan,nan
+Non-U.S. government securities,"17,533",nan,6,nan,"(1,048)","16,491",nan,—,"11,332","5,159",nan,nan,nan,nan,nan
+"Certificates of deposit and timedeposits","1,354",nan,—,nan,—,"1,354",nan,"1,034",320,—,nan,nan,nan,nan,nan
+Commercial paper,608,nan,—,nan,—,608,nan,—,608,—,nan,nan,nan,nan,nan
+Corporate debt securities,"76,840",nan,6,nan,"(5,956)","70,890",nan,20,"12,627","58,243",nan,nan,nan,nan,nan
+Municipal securities,628,nan,—,nan,(26),602,nan,—,192,410,nan,nan,nan,nan,nan
+"Mortgage- and asset-backedsecurities","22,365",nan,6,nan,"(2,735)","19,636",nan,—,344,"19,292",nan,nan,nan,nan,nan
+Subtotal,"144,470",nan,18,nan,"(11,657)","132,831",nan,"1,125","31,162","100,544",nan,nan,nan,nan,nan
+Total (3),nan,"173,752",nan,$,30,$,"(11,683)",nan,"162,099",$,"29,965",$,"31,590",$,"100,544"

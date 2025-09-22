@@ -1,0 +1,81 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2020",
+    "2019",
+    "2018"
+  ],
+  "confidence": 0.6749999999999999,
+  "line_items": [
+    {
+      "name": "Unrealized net holding gain (loss) arising during the period \u200b \u200b \u2014 \u200b \u200b (0.1) \u200b \u200b",
+      "values": [
+        0.2,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Net gain (loss) arising during the period, net of tax \u200b (4.1) \u200b (15.5) \u200b 4.2 Equity method investee's cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Realized net gain reclassified into equity in earnings of non-consolidated entities \u200b \u2014 \u200b \u2014 \u200b",
+      "values": [
+        2.2,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": "Net gain (loss) arising during the period, net of tax \u200b (4.1) \u200b (15.5) \u200b 4.2 Equity method investee's cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Other comprehensive income (loss) \u200b 64.8 \u200b (31.6) \u200b",
+      "values": [
+        124.5,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.4,
+      "parent_item": "Net gain (loss) arising during the period, net of tax \u200b (4.1) \u200b (15.5) \u200b 4.2 Equity method investee's cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Total comprehensive loss \u200b \u200b (4,524.6) \u200b \u200b (180.7) \u200b \u200b",
+      "values": [
+        14.4,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Net gain (loss) arising during the period, net of tax \u200b (4.1) \u200b (15.5) \u200b 4.2 Equity method investee's cash flow hedge",
+      "is_total": false
+    }
+  ]
+}

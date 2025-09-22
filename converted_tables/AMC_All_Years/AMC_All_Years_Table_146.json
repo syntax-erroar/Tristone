@@ -1,0 +1,166 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2024",
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "confidence": 0.6375,
+  "line_items": [
+    {
+      "name": "D systems where rental payments continue to be variable and based on paid admissions and extends the term of the agreement to December",
+      "values": [
+        31.0,
+        2024.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "on March",
+      "values": [
+        15.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Consolidated Entities in March",
+      "values": [
+        2018.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The Sales closed on July",
+      "values": [
+        5.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million gain on the sale of its NCM investment during the year ended December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "During the years ended December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "On May",
+      "values": [
+        30.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million during the year ended December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

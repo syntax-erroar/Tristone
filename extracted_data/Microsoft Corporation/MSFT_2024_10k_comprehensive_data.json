@@ -1,0 +1,165 @@
+{
+  "1A": {
+    "section_name": "Risk Factors",
+    "tables": {
+      "table_1": [
+        "January 19, 2024 and amended on March 8, 2024, beginning in late November 2023, a nation-state associated threat actor used a password spray attack to compromise a legacy test account and, in turn, gain access to Microsoft email accounts. The threat actor used and may continue to use information it obtained to gain, or attempt to gain, unauthorized access to some of our source code repositories and internal systems, and the threat actor may utilize this information to otherwise adversely affect our business and results of operations. This incident has and may continue to result in harm to our reputation and customer relationships. Additionally, we may discover additional impacts of this or other incidents as part of our ongoing examination of this incident. Nation-state and state-sponsored actors can sustain malicious activities for extended periods and deploy significant resources to plan and carry out attacks. Nation-state attacks against us, our customers, or our partners have and may continue to intensify during periods of intense diplomatic or armed conflict, such as the ongoing conflict in Ukraine. Cyber incidents and attacks, individually or in the aggregate, could adversely affect our financial condition, results of operations, competitive position, and reputation, or expose us to legal or regulatory risk."
+      ],
+      "table_2": [
+        "income taxes and our tax estimates are reasonable, tax authorities may disagree with certain positions we have taken. In addition, economic and political pressures to increase tax revenue in various jurisdictions may make resolving tax disputes favorably more difficult. We are currently under Internal Revenue Service (“IRS”) audit for prior tax years and have received Notices of Proposed Adjustment (“NOPAs”) from the IRS for the tax years 2004 to 2013. The primary issues in the NOPAs relate to intercompany transfer pricing. In the NOPAs, the IRS is seeking an additional tax payment of $28.9 billion plus penalties and interest. The final resolution of the proposed adjustments, and other audits or litigation, may differ from the amounts recorded in our consolidated financial statements and adversely affect our results of operations in the period or periods in which that determination is made."
+      ],
+      "table_3": [
+        "customers and our IT, and we have experienced cybersecurity incidents in which such actors have gained unauthorized access to our IT systems and data, including customer systems and data. These actors use a wide variety of methods, which include developing and deploying malicious software; exploiting known and potential vulnerabilities or intentionally designed processes in hardware, software, or other infrastructure to attack our products and services or gain access to our networks and datacenters; using social engineering techniques to induce our employees, users, partners, or customers to disclose sensitive information, such as passwords, or take other actions to gain access to our data or our users’ or customers’ data; or acting in a coordinated manner or conducting coordinated attacks. For example, as previously disclosed in our Form 8-K filed with the Securities and Exchange Commission on January 19, 2024 and amended on March 8, 2024, beginning in late November 2023, a nation-state associated threat actor used a password spray attack to compromise a legacy test account and, in turn, gain access to Microsoft email accounts. The threat actor used and may continue to use information it obtained to gain, or attempt to gain, unauthorized access to some of our source code repositories and internal systems, and the threat actor may utilize this information to otherwise adversely affect our business and results of operations. This incident has and may continue to result in harm to our reputation and customer relationships. Additionally, we may discover additional impacts of this or other incidents as part of our ongoing examination of this incident. Nation-state and state-sponsored actors can sustain malicious activities for extended periods and deploy significant resources to plan and carry out attacks. Nation-state attacks against us, our customers, or our partners have and may continue to intensify during periods of intense diplomatic or armed conflict, such as the ongoing conflict in Ukraine. Cyber incidents and attacks, individually or in the aggregate, could adversely affect our financial condition, results of operations, competitive position, and reputation, or expose us to legal or regulatory risk."
+      ],
+      "table_4": [
+        "customers’ decisions to purchase or use our products or services across cloud and on-premises environments. Security threats are a significant challenge to companies like us, whose business is providing technology products and services to others. Threats to or attacks on our own IT infrastructure, such as the nation-state attack described in the prior risk factor, have also affected our customers and may do so in the future. Customers using our cloud-based services rely on the security of our infrastructure, including hardware and other elements provided by third parties, to ensure the reliability of our services and the protection of their data. Adversaries tend to focus their efforts on the most popular operating systems, programs, and services, including many of ours, and we expect that to continue. In addition, adversaries can attack our customers’ on-premises or cloud environments, sometimes exploiting previously unknown (“zero-day”) vulnerabilities, such as the attack in early calendar year 2021 with several of our Exchange Server on-premises products. Vulnerabilities in these or any product can persist even after we have issued security patches if customers have not installed the most recent updates, or if the attackers exploited the vulnerabilities before patching to install additional malware to further compromise customers’ systems. Adversaries will continue to attack customers using our cloud services as customers embrace digital transformation. Adversaries that acquire user account information can use that information to compromise our users’ accounts, including where accounts share the same attributes such as passwords. Inadequate account security practices may also result in unauthorized access, and user activity may result in ransomware or other malicious software impacting a customer’s use of our products or services. There may be vulnerabilities in open source software that may make our products susceptible to cyberattacks as we increasingly incorporate open source software into our products. Additionally, features that rely on generative AI may be susceptible to unanticipated security threats from adversaries as we add new generative AI features to our services while continuously developing our understanding of security risks and protection methods in the new field of generative AI."
+      ],
+      "table_5": [
+        "volume Microsoft products and the terms on which we make certain technologies used in these products, such as file formats, programming interfaces, and protocols, available to other companies. Flagship product releases such as Microsoft 365 and Windows can receive significant scrutiny under EU or other competition laws."
+      ],
+      "table_6": [
+        "technology products and services to others. Threats to or attacks on our own IT infrastructure, such as the nation-state attack described in the prior risk factor, have also affected our customers and may do so in the future. Customers using our cloud-based services rely on the security of our infrastructure, including hardware and other elements provided by third parties, to ensure the reliability of our services and the protection of their data. Adversaries tend to focus their efforts on the most popular operating systems, programs, and services, including many of ours, and we expect that to continue. In addition, adversaries can attack our customers’ on-premises or cloud environments, sometimes exploiting previously unknown (“zero-day”) vulnerabilities, such as the attack in early calendar year 2021 with several of our Exchange Server on-premises products. Vulnerabilities in these or any product can persist even after we have issued security patches if customers have not installed the most recent updates, or if the attackers exploited the vulnerabilities before patching to install additional malware to further compromise customers’ systems. Adversaries will continue to attack customers using our cloud services as customers embrace digital transformation. Adversaries that acquire user account information can use that information to compromise our users’ accounts, including where accounts share the same attributes such as passwords. Inadequate account security practices may also result in unauthorized access, and user activity may result in ransomware or other malicious software impacting a customer’s use of our products or services. There may be vulnerabilities in open source software that may make our products susceptible to cyberattacks as we increasingly incorporate open source software into our products. Additionally, features that rely on generative AI may be susceptible to unanticipated security threats from adversaries as we add new generative AI features to our services while continuously developing our understanding of security risks and protection methods in the new field of generative AI."
+      ],
+      "table_7": [
+        "Markets Act, which prohibits certain self-preferencing behaviors and places limitations on certain data use among other obligations. The Commission also continues to closely scrutinize the design of high-volume Microsoft products and the terms on which we make certain technologies used in these products, such as file formats, programming interfaces, and protocols, available to other companies. Flagship product releases such as Microsoft 365 and Windows can receive significant scrutiny under EU or other competition laws."
+      ],
+      "table_8": [
+        "regulatory complexity is the EU Whistleblower Directive, initiated in 2021, which presents compliance challenges as it is implemented in different forms by EU member states. Most countries in which we operate also have competition laws that prohibit competitors from colluding or otherwise attempting to reduce competition between themselves. While we devote substantial resources to our U.S. and international compliance programs and have implemented policies, training, and internal controls designed to reduce the risk of corrupt payments and collusive activity, our employees, partners, vendors, or agents may violate our policies. Our failure to comply with Anti-Corruption Laws or competition laws could result in significant fines and penalties, criminal sanctions against us, our officers, or our employees, prohibitions on the conduct of our business, and damage to our reputation, which could adversely affect our business, financial condition, and results of operations."
+      ],
+      "table_9": [
+        "regulatory requirements also affect our operations in and outside the U.S. relating to trade and investment. Economic sanctions in the U.S., the EU, and other countries prohibit most business with restricted entities or countries. U.S. export controls restrict Microsoft from offering many of its products and services to, or making investments in, certain entities in specified countries. U.S. import controls restrict us from integrating certain information and communication technologies into our supply chain and allow for government review of transactions involving information and communications technology from countries determined to be foreign adversaries. Supply chain regulations may impact the availability of goods or result in additional regulatory scrutiny. Periods of intense diplomatic or armed conflict, such as the ongoing conflict in Ukraine, may result in (1) new and rapidly evolving sanctions and trade restrictions, which may impair trade with sanctioned individuals and countries, and (2) negative impacts to regional trade ecosystems among our customers, partners, and us. Non-compliance with sanctions as well as general ecosystem disruptions could result in reputational harm, operational delays, monetary fines, loss of revenue, increased costs, loss of export privileges, or criminal sanctions, which could adversely affect our business, financial condition, and results of operations."
+      ]
+    },
+    "table_count": 9,
+    "word_count": 1796,
+    "character_count": 12210,
+    "has_financial_data": true,
+    "original_metadata": {
+      "section_code": "1A",
+      "original_length": 74433,
+      "original_word_count": 10874,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm",
+      "filing_date": "2024-07-30T16:06:22-04:00"
+    }
+  },
+  "7": {
+    "section_name": "Management's Discussion and Analysis",
+    "tables": {
+      "table_1": [
+        "Commercial remaining performance obligation Commercial portion of revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods Microsoft Cloud revenue and revenue growth Revenue from Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties Microsoft Cloud gross margin percentage Gross margin percentage for our Microsoft Cloud business"
+      ],
+      "table_2": [
+        "Office Commercial products and cloud services revenue growth Revenue from Office Commercial products and cloud services (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, and Copilot for Microsoft 365 Office Consumer products and cloud services revenue growth Revenue from Office Consumer products and cloud services, including Microsoft 365 Consumer and Copilot Pro subscriptions, Office licensed on-premises, and other Office services Office 365 Commercial seat growth The number of Office 365 Commercial seats at end of period where seats are paid users covered by an Office 365 Commercial subscription Microsoft 365 Consumer subscribers The number of Microsoft 365 Consumer and Copilot Pro subscribers at end of period Dynamics products and cloud services revenue growth Revenue from Dynamics products and cloud services, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM, Power Apps, and Power Automate; and on-premises ERP and CRM applications LinkedIn revenue growth Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions Server products and cloud services revenue growth Revenue from Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (“CALs”); and Nuance and GitHub"
+      ]
+    },
+    "table_count": 2,
+    "word_count": 290,
+    "character_count": 2116,
+    "has_financial_data": true,
+    "original_metadata": {
+      "section_code": "7",
+      "original_length": 59243,
+      "original_word_count": 8376,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm",
+      "filing_date": "2024-07-30T16:06:22-04:00"
+    }
+  },
+  "8": {
+    "section_name": "Financial Statements and Supplementary Data",
+    "tables": {
+      "table_1": [
+        "Less than 12 Months 12 Months or Greater Total Unrealized Losses (In millions) Fair Value Unrealized Losses Fair Value Unrealized Losses Total Fair Value June 30, 2024 U.S. government and agency securities $ $ ( 12 ) $ 45,821 $ ( 2,936 ) $ 46,350 $ ( 2,948 ) Foreign government bonds ( 2 ) ( 14 ) ( 16 ) Mortgage- and asset-backed securities ( 1 ) ( 34 ) ( 35 ) Corporate notes and bonds 1,310 ( 9 ) 5,779 ( 310 ) 7,089 ( 319 ) Municipal securities ( 1 ) ( 29 ) ( 30 ) Total $ 2,157 $ ( 25 ) $ 52,432 $ ( 3,323 ) $ 54,589 $ ( 3,348 )"
+      ],
+      "table_2": [
+        "Less than 12 Months 12 Months or Greater Total Unrealized Losses (In millions) Fair Value Unrealized Losses Fair Value Unrealized Losses Total Fair Value June 30, 2023 U.S. government and agency securities $ 7,950 $ ( 336 ) $ 45,273 $ ( 3,534 ) $ 53,223 $ ( 3,870 ) Foreign government bonds ( 5 ) ( 19 ) ( 24 ) Mortgage- and asset-backed securities ( 5 ) ( 34 ) ( 39 ) Corporate notes and bonds 2,326 ( 49 ) 7,336 ( 534 ) 9,662 ( 583 ) Municipal securities ( 3 ) ( 31 ) ( 34 ) Total $ 10,721 $ ( 398 ) $ 53,598 $ ( 4,152 ) $ 64,319 $ ( 4,550 )"
+      ],
+      "table_3": [
+        "Derivative Derivative Derivative Derivative (In millions) Assets Liabilities Assets Liabilities June 30, June 30, Designated as Hedging Instruments Foreign exchange contracts $ $ ( 76 ) $ $ ( 67 ) Interest rate contracts 0 0 Not Designated as Hedging Instruments Foreign exchange contracts ( 230 ) ( 332 ) Equity contracts ( 491 ) ( 400 ) Other contracts ( 3 ) ( 6 ) Gross amounts of derivatives ( 800 ) ( 805 ) Gross amounts of derivatives offset in the balance sheets ( 151 ) ( 202 ) Cash collateral received ( 104 ) ( 125 ) Net amounts of derivatives $ $ ( 752 ) $ $ ( 724 ) Reported as Short-term investments $ $ $ $ Other current assets 0 0 Other long-term assets 0 0 Other current liabilities ( 401 ) ( 341 ) Other long-term liabilities ( 351 ) ( 383 ) Total $ $ ( 752 ) $ $ ( 724 )"
+      ],
+      "table_4": [
+        "Year Ended June 30, 2023 Federal statutory rate 21.0 % 21.0 % 21.0 % Effect of: Foreign earnings taxed at lower rates ( 1.4 )% ( 1.8 )% ( 1.3 )% Impact of intangible property transfers 0 % 0 % ( 3.9 )% Foreign-derived intangible income deduction ( 1.1 )% ( 1.3 )% ( 1.1 )% State income taxes, net of federal benefit 1.5 % 1.6 % 1.4 % Research and development credit ( 1.1 )% ( 1.1 )% ( 0.9 )% Excess tax benefits relating to stock-based compensation ( 1.1 )% ( 0.7 )% ( 1.9 )% Interest, net 1.1 % 0.8 % 0.5 % Other reconciling items, net ( 0.7 )% 0.5 % ( 0.7 )% Effective rate 18.2 % 19.0 % 13.1 %"
+      ],
+      "table_5": [
+        "Declaration Date Record Date Payment Date Dividend Per Share Amount Fiscal Year 2024 (In millions) September 19, 2023 November 16, 2023 December 14, 2023 $ 0.75 $ 5,574 November 28, 2023 February 15, 2024 March 14, 2024 0.75 5,573 March 12, 2024 May 16, 2024 June 13, 2024 0.75 5,574 June 12, 2024 August 15, 2024 September 12, 2024 0.75 5,575 Total $ 3.00 $ 22,296 Fiscal Year 2023 September 20, 2022 November 17, 2022 December 8, 2022 $ 0.68 $ 5,066 November 29, 2022 February 16, 2023 March 9, 2023 0.68 5,059 March 14, 2023 May 18, 2023 June 8, 2023 0.68 5,054 June 13, 2023 August 17, 2023 September 14, 2023 0.68 5,051 Total $ 2.72 $ 20,230"
+      ],
+      "table_6": [
+        "Year ended June 30, Dividends per share (quarterly amounts) $ 0.68 – 0.75 $ 0.62 – 0.68 $ 0.56 – 0.62 Interest rates 3.8 % – 5.6 % 2.0 % – 5.4 % 0.03 % – 3.6 %"
+      ],
+      "table_7": [
+        "Shares Weighted Average Grant-Date Fair Value (In millions) Stock Awards Nonvested balance, beginning of year $ 250.37 Granted (a) 339.46 Vested ( 42 ) 246.71 Forfeited ( 7 ) 270.59 Nonvested balance, end of year $ 292.28"
+      ]
+    },
+    "table_count": 7,
+    "word_count": 723,
+    "character_count": 3493,
+    "has_financial_data": true,
+    "original_metadata": {
+      "section_code": "8",
+      "original_length": 178799,
+      "original_word_count": 24159,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm",
+      "filing_date": "2024-07-30T16:06:22-04:00"
+    }
+  },
+  "9A": {
+    "section_name": "Controls and Procedures",
+    "tables": {
+      "table_1": [
+        "for the year ended June 30, 2024. Based on this evaluation, management concluded that the Company’s internal control over financial reporting was effective as of June 30, 2024. There were no changes in our internal control over financial reporting during the quarter ended June 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Deloitte & Touche LLP has audited our internal control over financial reporting as of June 30, 2024; their report is included in Item 9A."
+      ],
+      "table_2": [
+        "for the year ended June 30, 2024, of the Company and our report dated July 30, 2024, expressed an unqualified opinion on those financial statements."
+      ],
+      "table_3": [
+        "for the year ended June 30, 2024. Accordingly, our audit did not include the internal control over financial reporting at Activision Blizzard, Inc."
+      ],
+      "table_4": [
+        "quarter ended June 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Deloitte & Touche LLP has audited our internal control over financial reporting as of June 30, 2024; their report is included in Item 9A."
+      ],
+      "table_5": [
+        "assets as of June 30, 2024 after excluding goodwill and intangible assets acquired, and 2% of our total revenues for the year ended June 30, 2024. Based on this evaluation, management concluded that the Company’s internal control over financial reporting was effective as of June 30, 2024. There were no changes in our internal control over financial reporting during the quarter ended June 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Deloitte & Touche LLP has audited our internal control over financial reporting as of June 30, 2024; their report is included in Item 9A."
+      ],
+      "table_6": [
+        "June 30, 2024, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of June 30, 2024, based on criteria established in Internal Control — Integrated Framework (2013) issued by COSO."
+      ],
+      "table_7": [
+        "June 30, 2024, of the Company and our report dated July 30, 2024, expressed an unqualified opinion on those financial statements."
+      ],
+      "table_8": [
+        "assets as of June 30, 2024 after excluding goodwill and intangible assets acquired, and 2 percent of total revenues for the year ended June 30, 2024. Accordingly, our audit did not include the internal control over financial reporting at Activision Blizzard, Inc."
+      ],
+      "table_9": [
+        "assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements."
+      ],
+      "table_10": [
+        "total revenues for the year ended June 30, 2024. Based on this evaluation, management concluded that the Company’s internal control over financial reporting was effective as of June 30, 2024. There were no changes in our internal control over financial reporting during the quarter ended June 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Deloitte & Touche LLP has audited our internal control over financial reporting as of June 30, 2024; their report is included in Item 9A."
+      ],
+      "table_11": [
+        "total revenues for the year ended June 30, 2024. Accordingly, our audit did not include the internal control over financial reporting at Activision Blizzard, Inc."
+      ],
+      "table_12": [
+        "consolidated financial statements since the date of acquisition and represented less than 1% of our total assets as of June 30, 2024 after excluding goodwill and intangible assets acquired, and 2% of our total revenues for the year ended June 30, 2024. Based on this evaluation, management concluded that the Company’s internal control over financial reporting was effective as of June 30, 2024. There were no changes in our internal control over financial reporting during the quarter ended June 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Deloitte & Touche LLP has audited our internal control over financial reporting as of June 30, 2024; their report is included in Item 9A."
+      ],
+      "table_13": [
+        "consolidated financial statements as of and for the year ended June 30, 2024, of the Company and our report dated July 30, 2024, expressed an unqualified opinion on those financial statements."
+      ],
+      "table_14": [
+        "financial statements constitute less than 1 percent of total assets as of June 30, 2024 after excluding goodwill and intangible assets acquired, and 2 percent of total revenues for the year ended June 30, 2024. Accordingly, our audit did not include the internal control over financial reporting at Activision Blizzard, Inc."
+      ],
+      "table_15": [
+        "financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements."
+      ]
+    },
+    "table_count": 15,
+    "word_count": 935,
+    "character_count": 6107,
+    "has_financial_data": true,
+    "original_metadata": {
+      "section_code": "9A",
+      "original_length": 7855,
+      "original_word_count": 1138,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm",
+      "filing_date": "2024-07-30T16:06:22-04:00"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Currency Benefits",
+      "values": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "December",
+      "values": [
+        31.0,
+        2017.0,
+        129.9
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "December",
+      "values": [
+        31.0,
+        2017.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2022",
+    "2021",
+    "2019"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Topic",
+      "values": [
+        740.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2022",
+        "2021",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "was effective for the Company in the first quarter of",
+      "values": [
+        2021.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2022",
+        "2021",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the FASB issued ASU",
+      "values": [
+        2021.0,
+        10.0,
+        0.0
+      ],
+      "years": [
+        "2022",
+        "2021",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Topic",
+      "values": [
+        832.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2022",
+        "2021",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2024",
+    "2023",
+    "2022"
+  ],
+  "confidence": 0.5,
+  "line_items": [
+    {
+      "name": "billion in",
+      "values": [
+        2022.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+0,1,2,3,4
+nan,nan,"March 31,",nan,"June 30,"
+nan,nan,2024,nan,2023
+Assets,nan,nan,nan,nan
+Current assets:,nan,nan,nan,nan
+Cash and cash equivalents,$,"19,634",$,"34,704"
+Short-term investments,nan,"60,387",nan,"76,558"
+"Total cash, cash equivalents, and short-term investments",nan,"80,021",nan,"111,262"
+"Accounts receivable, net of allowance for doubtful accounts of $616 and $650",nan,"44,029",nan,"48,688"
+Inventories,nan,"1,304",nan,"2,500"
+Other current assets,nan,"21,826",nan,"21,807"
+Total current assets,nan,"147,180",nan,"184,257"
+"Property and equipment, net of accumulated depreciation of $74,945 and",nan,nan,nan,nan
+"$68,251",nan,"121,375",nan,"95,641"
+Operating lease right-of-use assets,nan,"17,371",nan,"14,346"
+Equity and other investments,nan,"14,807",nan,"9,879"
+Goodwill,nan,"119,163",nan,"67,886"
+"Intangible assets, net",nan,"28,828",nan,"9,366"
+Other long-term assets,nan,"35,551",nan,"30,601"
+Total assets,$,"484,275",$,"411,976"
+Liabilities and stockholders’ equity,nan,nan,nan,nan
+Current liabilities:,nan,nan,nan,nan
+Accounts payable,$,"18,087",$,"18,095"
+Short-term debt,nan,"20,535",nan,0
+Current portion of long-term debt,nan,"2,249",nan,"5,247"
+Accrued compensation,nan,"10,432",nan,"11,009"
+Short-term income taxes,nan,"7,311",nan,"4,152"
+Short-term unearned revenue,nan,"41,888",nan,"50,901"
+Other current liabilities,nan,"18,023",nan,"14,745"
+Total current liabilities,nan,"118,525",nan,"104,149"
+Long-term debt,nan,"42,658",nan,"41,990"
+Long-term income taxes,nan,"26,786",nan,"25,560"
+Long-term unearned revenue,nan,"2,945",nan,"2,912"
+Deferred income taxes,nan,"2,469",nan,433
+Operating lease liabilities,nan,"14,469",nan,"12,728"
+Other long-term liabilities,nan,"23,271",nan,"17,981"
+Total liabilities,nan,"231,123",nan,"205,753"
+Commitments and contingencies,nan,nan,nan,nan
+Stockholders’ equity:,nan,nan,nan,nan
+"Common stock and paid-in capital – shares authorized 24,000; outstanding",nan,nan,nan,nan
+"7,433 and 7,432",nan,"99,193",nan,"93,718"
+Retained earnings,nan,"159,394",nan,"118,848"
+Accumulated other comprehensive loss,nan,"(5,435 )",nan,"(6,343 )"
+Total stockholders’ equity,nan,"253,152",nan,"206,223"
+Total liabilities and stockholders’ equity,$,"484,275",$,"411,976"

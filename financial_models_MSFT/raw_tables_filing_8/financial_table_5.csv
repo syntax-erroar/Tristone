@@ -1,0 +1,42 @@
+0,1,2,3,4
+"Three Months Ended September 30,",nan,2023,nan,2022
+Operations,nan,nan,nan,nan
+Net income,$,"22,291",$,"17,556"
+Adjustments to reconcile net income to net cash from operations:,nan,nan,nan,nan
+"Depreciation, amortization, and other",nan,"3,921",nan,"2,790"
+Stock-based compensation expense,nan,"2,507",nan,"2,192"
+Net recognized losses (gains) on investments and derivatives,nan,14,nan,(22)
+Deferred income taxes,nan,(568),nan,"(1,191)"
+Changes in operating assets and liabilities:,nan,nan,nan,nan
+Accounts receivable,nan,"11,034",nan,"11,729"
+Inventories,nan,(505),nan,(543)
+Other current assets,nan,(796),nan,(332)
+Other long-term assets,nan,"(2,013)",nan,(666)
+Accounts payable,nan,"1,214",nan,"(1,567)"
+Unearned revenue,nan,"(4,126)",nan,"(3,322)"
+Income taxes,nan,"1,425",nan,410
+Other current liabilities,nan,"(4,106)",nan,"(4,024)"
+Other long-term liabilities,nan,291,nan,188
+Net cash from operations,nan,"30,583",nan,"23,198"
+Financing,nan,nan,nan,nan
+"Proceeds from issuance of debt, maturities of 90 days or less, net",nan,"18,692",nan,0
+Proceeds from issuance of debt,nan,"7,073",nan,0
+Repayments of debt,nan,"(1,500)",nan,"(1,000)"
+Common stock issued,nan,685,nan,575
+Common stock repurchased,nan,"(4,831)",nan,"(5,573)"
+Common stock cash dividends paid,nan,"(5,051)",nan,"(4,621)"
+"Other, net",nan,(307),nan,(264)
+Net cash from (used in) financing,nan,"14,761",nan,"(10,883)"
+Investing,nan,nan,nan,nan
+Additions to property and equipment,nan,"(9,917)",nan,"(6,283)"
+"Acquisition of companies, net of cash acquired, and purchases of",nan,nan,nan,nan
+intangible and other assets,nan,"(1,186)",nan,(349)
+Purchases of investments,nan,"(8,460)",nan,"(5,013)"
+Maturities of investments,nan,"15,718",nan,"6,662"
+Sales of investments,nan,"5,330",nan,"2,711"
+"Other, net",nan,(982),nan,(860)
+Net cash from (used in) investing,nan,503,nan,"(3,132)"
+Effect of foreign exchange rates on cash and cash equivalents,nan,(99),nan,(230)
+Net change in cash and cash equivalents,nan,"45,748",nan,"8,953"
+"Cash and cash equivalents, beginning of period",nan,"34,704",nan,"13,931"
+"Cash and cash equivalents, end of period",$,"80,452",$,"22,884"

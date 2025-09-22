@@ -1,0 +1,149 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2025",
+    "2024",
+    "2023"
+  ],
+  "confidence": 0.6749999999999999,
+  "line_items": [
+    {
+      "name": "Net gain (loss) arising during the period, net of tax \u2014 (0.4) 0.1 \u2014",
+      "values": [
+        0.3,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Subsidiary Subsidiary Consolidating Consolidated (In millions) Holdings Guarantors Non-Guarantors Adjustments Holdings Net earnings $111.7 $119.7 $32.7 $(152.4) $111.7 Other comprehensive income (loss) Equity in other comprehensive income (loss) of subsidiaries (5.3) (3.6) \u2014 8.9 \u2014 Unrealized foreign currency translation adjustment, net of tax \u2014 (0.2) (3.7) \u2014 (3.9) Pension and other benefit adjustments",
+      "is_total": false
+    },
+    {
+      "name": "Net gain (loss) arising during the period, net of tax \u2014 (0.4) 0.1 \u2014",
+      "values": [
+        0.3,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Subsidiary Subsidiary Consolidating Consolidated (In millions) Holdings Guarantors Non-Guarantors Adjustments Holdings Net earnings $111.7 $119.7 $32.7 $(152.4) $111.7 Other comprehensive income (loss) Equity in other comprehensive income (loss) of subsidiaries (5.3) (3.6) \u2014 8.9 \u2014 Unrealized foreign currency translation adjustment, net of tax \u2014 (0.2) (3.7) \u2014 (3.9) Pension and other benefit adjustments",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding gain arising during the period, net of tax \u2014 0.6 \u2014 \u2014",
+      "values": [
+        0.6,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Marketable securities",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding gain arising during the period, net of tax \u2014 0.6 \u2014 \u2014",
+      "values": [
+        0.6,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Marketable securities",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding loss arising during the period, net of tax \u2014 (0.3) \u2014 \u2014",
+      "values": [
+        0.3,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Realized net gain reclassified into net investment income, net of tax \u2014 (1.8) \u2014 \u2014 (1.8) Equity method investees\u2019 cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Realized net loss reclassified into equity in earnings of non-consolidated entities, net of tax \u2014 0.4 \u2014 \u2014",
+      "values": [
+        0.4,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": "Realized net gain reclassified into net investment income, net of tax \u2014 (1.8) \u2014 \u2014 (1.8) Equity method investees\u2019 cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Other comprehensive loss",
+      "values": [
+        5.3,
+        5.3,
+        3.6
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Realized net gain reclassified into net investment income, net of tax \u2014 (1.8) \u2014 \u2014 (1.8) Equity method investees\u2019 cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding loss arising during the period, net of tax \u2014 (0.3) \u2014 \u2014 (0.3) Realized net loss reclassified into equity in earnings of non-consolidated entities, net of tax \u2014 0.4 \u2014 \u2014 0.4 Other comprehensive loss (5.3) (5.3) (3.6) 8.9 (5.3) Total comprehensive income",
+      "values": [
+        106.4,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": "Realized net gain reclassified into net investment income, net of tax \u2014 (1.8) \u2014 \u2014 (1.8) Equity method investees\u2019 cash flow hedge",
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2026",
+    "2025",
+    "2024",
+    "2023"
+  ],
+  "confidence": 0.6000000000000001,
+  "line_items": [
+    {
+      "name": "million at the market closing price on July",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "under ASC",
+      "values": [
+        470.0,
+        60.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "during the year ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Second Lien Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "In connection with the Second Lien Exchange on December",
+      "values": [
+        14.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million of the First Lien Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million at the market closing price on July",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "beginning on December",
+      "values": [
+        15.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and will mature on June",
+      "values": [
+        15.0,
+        2026.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The Second Lien Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "First Lien Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million principal amount of First Lien Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million related to the First Lien Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "beginning on December",
+      "values": [
+        15.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "subject to certain limitations specified in the First Lien Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "have not been registered under the Securities Act and will mature on April",
+      "values": [
+        24.0,
+        2026.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Senior Secured Notes due",
+      "values": [
+        2023.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "consisting of",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

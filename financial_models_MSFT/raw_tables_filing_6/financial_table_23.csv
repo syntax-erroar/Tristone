@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6
+Declaration Date,Record Date,Payment Date,nan,Per Share,nan,Amount
+Fiscal Year 2024,nan,nan,nan,nan,nan,(In millions)
+"September 19, 2023","November 16, 2023","December 14, 2023",$,0.75,$,"5,574"
+"November 28, 2023","February 15, 2024","March 14, 2024",nan,0.75,nan,"5,573"
+"March 12, 2024","May 16, 2024","June 13, 2024",nan,0.75,nan,"5,574"
+Total,nan,nan,$,2.25,$,"16,721"
+Fiscal Year 2023,nan,nan,nan,nan,nan,nan
+"September 20, 2022","November 17, 2022","December 8, 2022",$,0.68,$,"5,066"
+"November 29, 2022","February 16, 2023","March 9, 2023",nan,0.68,nan,"5,059"
+"March 14, 2023","May 18, 2023","June 8, 2023",nan,0.68,nan,"5,054"
+Total,nan,nan,$,2.04,$,"15,179"

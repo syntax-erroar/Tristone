@@ -1,0 +1,128 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2019",
+    "2018",
+    "2017",
+    "2012"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "No interest expense related to federal uncertain tax positions have been recognized for the years ended December",
+      "values": [
+        31.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2012"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and December",
+      "values": [
+        31.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2012"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "which the court granted on October",
+      "values": [
+        15.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2012"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "which the court granted on December",
+      "values": [
+        17.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2012"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "which the court granted on October",
+      "values": [
+        17.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2012"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "s stockholders of record as of September",
+      "values": [
+        25.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2012"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

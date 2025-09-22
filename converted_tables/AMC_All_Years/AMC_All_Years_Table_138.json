@@ -1,0 +1,166 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2020",
+    "2019",
+    "2018",
+    "2017"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "the FASB issued ASU",
+      "values": [
+        2016.0,
+        13.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "with early adoption permitted in the first quarter of",
+      "values": [
+        2019.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the FASB issued ASU",
+      "values": [
+        2018.0,
+        13.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "is effective for the Company in the first quarter of",
+      "values": [
+        2020.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the FASB issued ASU",
+      "values": [
+        2018.0,
+        15.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "is effective for the Company in the first quarter of",
+      "values": [
+        2020.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Entities have the option to apply the guidance prospectively to all implementation costs incurred after the date of adoption or retrospectively in accordance with ASC",
+      "values": [
+        250.0,
+        10.0,
+        45.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the comparative information has not been adjusted for the year ended December",
+      "values": [
+        31.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

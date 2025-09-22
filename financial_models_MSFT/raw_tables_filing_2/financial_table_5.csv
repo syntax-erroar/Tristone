@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8
+nan,Fair,Adjusted,nan,nan,nan,Cash,nan,Equity
+nan,Value,Cost Unrealized,Unrealized,nan,Recorded,and Cash,Short-term,and Other
+(In millions),Level,Basis,Gains,Losses,Basis,Equivalents Investments,nan,Investments
+"March 31, 2025",nan,nan,nan,nan,nan,nan,nan,nan
+Changes in Fair Value,nan,nan,nan,nan,nan,nan,nan,nan
+Recorded in Other,nan,nan,nan,nan,nan,nan,nan,nan
+Comprehensive Income,nan,nan,nan,nan,nan,nan,nan,nan
+Commercial paper,Level 2  $,"11,101 $",0 $,0  $,"11,101  $","11,002  $",99  $,0
+Certificates of deposit,Level 2,"3,517",0,0,"3,517","3,473",44,0
+U.S. government,nan,nan,nan,nan,nan,nan,nan,nan
+securities,Level 1,"42,349",7,"(1,747)","40,609",858,"39,751",0
+U.S. agency securities,Level 2,"1,953",0,0,"1,953","1,944",9,0
+Foreign government,nan,nan,nan,nan,nan,nan,nan,nan
+bonds,Level 2,321,6,(13),314,1,313,0
+Mortgage- and asset-,nan,nan,nan,nan,nan,nan,nan,nan
+backed securities,Level 2,"1,610",6,(27),"1,589",0,"1,589",0
+Corporate notes and,nan,nan,nan,nan,nan,nan,nan,nan
+bonds,Level 2,"8,637",62,(139),"8,560",0,"8,560",0
+Corporate notes and,nan,nan,nan,nan,nan,nan,nan,nan
+bonds,Level 3,"2,410",0,(12),"2,398",0,123,"2,275"
+Municipal securities,Level 2,216,1,(9),208,0,208,0
+Municipal securities,Level 3,104,0,(16),88,0,88,0
+Total debt investments,$,"72,218 $",82 $,"(1,963)  $","70,337  $","17,278  $","50,784  $","2,275"
+Changes in Fair Value,nan,nan,nan,nan,nan,nan,nan,nan
+Recorded in Net Income,nan,nan,nan,nan,nan,nan,nan,nan
+Equity investments,Level 1,nan,nan,$,"4,427  $",870  $,0  $,"3,557"
+Equity investments,Other,nan,nan,nan,"9,930",0,0,"9,930"
+Total equity,nan,nan,nan,nan,nan,nan,nan,nan
+investments,nan,nan,nan,$,"14,357  $",870  $,0,"$ 13,487"
+Cash,nan,nan,nan,$,"10,680  $","10,680  $",0  $,0
+"Derivatives, net (a)",nan,nan,nan,nan,279,0,6,273
+Total,nan,nan,nan,$,"95,653  $","28,828  $","50,790  $","16,035"

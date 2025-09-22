@@ -1,0 +1,33 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2022",
+    "2021",
+    "2020",
+    "2019"
+  ],
+  "confidence": 1.0,
+  "line_items": [
+    {
+      "name": "During the year ended December 31, 2017, PSU awards were granted to certain members of management and executive officers with three-year cumulative net profit, Adjusted EBITDA, and diluted earnings per share performance target conditions and service conditions, covering a performance period beginning January 1, 2017 and ending on December",
+      "values": [
+        31.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2022",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Operating Income",
+      "confidence": 1.0,
+      "parent_item": "December 31, 2018, PSU awards of 653,669 were granted to certain members of management and executive officers with three-year cumulative net profit, Adjusted EBITDA, and diluted earnings per share performance target conditions and service conditions, covering a performance period beginning January 1, 2018 and ending on December 31, 2020, prior to the performance condition modification on October 30, 2020. October 30, 2020 modification. On October 30, 2020, based upon the recommendation of the Compensation Committee, the Board of Directors of the Company approved a modification to the PSUs for the awards granted in 2018, 2019, and 2020. The modification included separating the three-year cumulative performance targets into three separate year performance targets applicable to each tranche year. Due to the dramatic impact of the COVID-19 pandemic on the Company\u2019s business, the Board of Directors waived attainment of the 2020 tranche year performance targets and established a vesting level for such PSUs at 90 %. In addition, the service conditions were modified, and vesting is now subject to the participant\u2019s continued employment through the end of the three-year cumulative period. The Company accounted for the modification in accordance with ASC 718-20, Compensation-Stock Compensation, as an exchange of the original award, that was not expected to vest, for a new award. The Company measured the fair value of the new award on the modification date, October 30, 2020, because the Company determined that achieving performance thresholds were probable for certain tranche awards. 2017 PSU Awards",
+      "is_total": false
+    }
+  ]
+}

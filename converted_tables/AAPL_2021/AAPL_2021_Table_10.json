@@ -1,0 +1,183 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2021",
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "of RSUs was",
+      "values": [
+        19.0,
+        0.0,
+        10.8
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "$10.8 billion and",
+      "values": [
+        8.6,
+        2021.0,
+        2020.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2021, 2020 and",
+      "values": [
+        2019.0,
+        2021.0,
+        2020.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2021, 2020 and",
+      "values": [
+        2019.0,
+        0.0,
+        53.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "approximately 53 million",
+      "values": [
+        0.0,
+        56.0,
+        59.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "59 million for",
+      "values": [
+        2021.0,
+        2020.0,
+        2019.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and 2019, respectively",
+      "values": [
+        0.0,
+        6.8,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "were $6.8 billion,",
+      "values": [
+        3.9,
+        3.0,
+        2021.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "billion in 2021,",
+      "values": [
+        2020.0,
+        2019.0,
+        2021.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Operations for 2021,",
+      "values": [
+        2020.0,
+        2019.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

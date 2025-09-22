@@ -1,0 +1,795 @@
+{
+  "1A": {
+    "section_name": "Risk Factors",
+    "tables": {},
+    "table_count": 0,
+    "word_count": 0,
+    "character_count": 0,
+    "has_financial_data": false,
+    "confidence_scores": {
+      "semantic_similarity": 0.4847651720046997,
+      "entity_density": 0.005547054322876817,
+      "entity_count": 58,
+      "content_length": 1.0,
+      "number_patterns": 1.0,
+      "keyword_presence": 0.7619047619047619,
+      "overall_confidence": 9.186586380004883
+    },
+    "is_financial_content": true,
+    "original_metadata": {
+      "section_code": "1A",
+      "original_length": 71872,
+      "original_word_count": 10456,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/msft-10k_20220630.htm",
+      "filing_date": "2022-07-28T16:06:19-04:00"
+    }
+  },
+  "7": {
+    "section_name": "Management's Discussion and Analysis",
+    "tables": {
+      "table_1": {
+        "rows": [
+          "• Microsoft Cloud (formerly commercial cloud) revenue increased 32% to $91.2 billion."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.36307039856910706,
+          "entity_density": 0.4166666666666667,
+          "entity_count": 5,
+          "content_length": 0.085,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.0897438526153564
+        },
+        "row_count": 1
+      },
+      "table_2": {
+        "rows": [
+          "• Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 18%."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.46656370162963867,
+          "entity_density": 0.2777777777777778,
+          "entity_count": 5,
+          "content_length": 0.116,
+          "number_patterns": 0.6666666666666666,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.040939450263977
+        },
+        "row_count": 1
+      },
+      "table_3": {
+        "rows": [
+          "• Office Consumer products and cloud services revenue increased 11% and Microsoft 365 Consumer subscribers grew to 59.7 million."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.3411484658718109,
+          "entity_density": 0.3157894736842105,
+          "entity_count": 6,
+          "content_length": 0.128,
+          "number_patterns": 0.6666666666666666,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.1683878898620605
+        },
+        "row_count": 1
+      },
+      "table_4": {
+        "rows": [
+          "• Dynamics products and cloud services revenue increased 25% driven by Dynamics 365 growth of 39%."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.3862563669681549,
+          "entity_density": 0.3125,
+          "entity_count": 5,
+          "content_length": 0.098,
+          "number_patterns": 0.6666666666666666,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.0260069370269775
+        },
+        "row_count": 1
+      },
+      "table_5": {
+        "rows": [
+          "• Server products and cloud services revenue increased 28% driven by Azure and other cloud services growth of 45%."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4354521632194519,
+          "entity_density": 0.21052631578947367,
+          "entity_count": 4,
+          "content_length": 0.114,
+          "number_patterns": 0.6666666666666666,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 0.8695111870765686
+        },
+        "row_count": 1
+      },
+      "table_6": {
+        "rows": [
+          "• Windows original equipment manufacturer licensing (“Windows OEM”) revenue increased 11%."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.37479692697525024,
+          "entity_density": 0.18181818181818182,
+          "entity_count": 2,
+          "content_length": 0.09,
+          "number_patterns": 0.6666666666666666,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 0.5462057590484619
+        },
+        "row_count": 1
+      },
+      "table_7": {
+        "rows": [
+          "• Windows Commercial products and cloud services revenue increased 11%."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4130239486694336,
+          "entity_density": 0.2,
+          "entity_count": 2,
+          "content_length": 0.071,
+          "number_patterns": 0.6666666666666666,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 0.5574988126754761
+        },
+        "row_count": 1
+      },
+      "table_8": {
+        "rows": [
+          "• Search and news advertising revenue excluding traffic acquisition costs increased 27%."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.35467419028282166,
+          "entity_density": 0.16666666666666666,
+          "entity_count": 2,
+          "content_length": 0.088,
+          "number_patterns": 0.6666666666666666,
+          "keyword_presence": 0.09523809523809523,
+          "overall_confidence": 0.5450876355171204
+        },
+        "row_count": 1
+      },
+      "table_9": {
+        "rows": [
+          "Commercial remaining performance obligation Commercial portion of revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods Microsoft Cloud revenue Revenue from Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties Microsoft Cloud gross margin percentage Gross margin percentage for our Microsoft Cloud business"
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4173103868961334,
+          "entity_density": 0.014705882352941176,
+          "entity_count": 1,
+          "content_length": 0.508,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 0.3652116656303406
+        },
+        "row_count": 1
+      },
+      "table_10": {
+        "rows": [
+          "Office Commercial products and cloud services revenue growth Revenue from Office Commercial products and cloud services (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, and Microsoft Viva Office Consumer products and cloud services revenue growth Revenue from Office Consumer products and cloud services, including Microsoft 365 Consumer subscriptions, Office licensed on-premises, and other Office services Office 365 Commercial seat growth The number of Office 365 Commercial seats at end of period where seats are paid users covered by an Office 365 Commercial subscription Microsoft 365 Consumer subscribers The number of Microsoft 365 Consumer subscribers at end of period Dynamics products and cloud services revenue growth Revenue from Dynamics products and cloud services, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM, Customer Insights, Power Apps, and Power Automate; and on-premises ERP and CRM applications LinkedIn revenue growth Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions Server products and cloud services revenue growth Revenue from Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (“CALs”); and Nuance and GitHub"
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.34257757663726807,
+          "entity_density": 0.004739336492890996,
+          "entity_count": 1,
+          "content_length": 1.0,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.09523809523809523,
+          "overall_confidence": 0.400877982378006
+        },
+        "row_count": 1
+      },
+      "table_11": {
+        "rows": [
+          "• Gross margin percentage decreased slightly. Excluding the impact of the fiscal year 2021 change in accounting estimate for the useful lives of our server and network equipment, gross margin percentage increased 1 point driven by improvement in Productivity and Business Processes."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.7019835114479065,
+          "entity_density": 0.07142857142857142,
+          "entity_count": 3,
+          "content_length": 0.282,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.0,
+          "overall_confidence": 0.7179816365242004
+        },
+        "row_count": 1
+      },
+      "table_12": {
+        "rows": [
+          "• Microsoft Cloud gross margin percentage decreased slightly to 70%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage increased 3 points driven by improvement across our cloud services, offset in part by sales mix shift to Azure and other cloud services."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.5335367918014526,
+          "entity_density": 0.06382978723404255,
+          "entity_count": 3,
+          "content_length": 0.304,
+          "number_patterns": 0.6666666666666666,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 0.73369300365448
+        },
+        "row_count": 1
+      },
+      "table_13": {
+        "rows": [
+          "• Research and development expenses increased $3.8 billion or 18% driven by investments in cloud engineering, Gaming, and LinkedIn."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4036552309989929,
+          "entity_density": 0.2631578947368421,
+          "entity_count": 5,
+          "content_length": 0.131,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.0737882852554321
+        },
+        "row_count": 1
+      },
+      "table_14": {
+        "rows": [
+          "• Sales and marketing expenses increased $1.7 billion or 8% driven by investments in commercial sales and LinkedIn. Sales and marketing included a favorable foreign currency impact of 2%."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.6105151176452637,
+          "entity_density": 0.2413793103448276,
+          "entity_count": 7,
+          "content_length": 0.187,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.09523809523809523,
+          "overall_confidence": 1.4338902235031128
+        },
+        "row_count": 1
+      },
+      "table_15": {
+        "rows": [
+          "• General and administrative expenses increased $793 million or 16% driven by investments in corporate functions."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4794844388961792,
+          "entity_density": 0.3125,
+          "entity_count": 5,
+          "content_length": 0.113,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.1008141040802002
+        },
+        "row_count": 1
+      },
+      "table_16": {
+        "rows": [
+          "• Office Commercial products and cloud services revenue increased $4.4 billion or 13%. Office 365 Commercial revenue grew 18% driven by seat growth of 14%, with continued momentum in small and medium business and frontline worker offerings, as well as growth in revenue per user. Office Commercial products revenue declined 22% driven by continued customer shift to cloud offerings."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.5425713062286377,
+          "entity_density": 0.2033898305084746,
+          "entity_count": 12,
+          "content_length": 0.382,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 2.171663522720337
+        },
+        "row_count": 1
+      },
+      "table_17": {
+        "rows": [
+          "• Office Consumer products and cloud services revenue increased $641 million or 11% driven by Microsoft 365 Consumer subscription revenue. Microsoft 365 Consumer subscribers grew 15% to 59.7 million."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.3760223388671875,
+          "entity_density": 0.3793103448275862,
+          "entity_count": 11,
+          "content_length": 0.199,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.9969104528427124
+        },
+        "row_count": 1
+      },
+      "table_18": {
+        "rows": [
+          "• LinkedIn revenue increased $3.5 billion or 34% driven by a strong job market in our Talent Solutions business and advertising demand in our Marketing Solutions business."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.44515377283096313,
+          "entity_density": 0.18518518518518517,
+          "entity_count": 5,
+          "content_length": 0.171,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.0725682973861694
+        },
+        "row_count": 1
+      },
+      "table_19": {
+        "rows": [
+          "• Dynamics products and cloud services revenue increased 25% driven by Dynamics 365 growth of 39%."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.3862563669681549,
+          "entity_density": 0.3125,
+          "entity_count": 5,
+          "content_length": 0.098,
+          "number_patterns": 0.6666666666666666,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.0260069370269775
+        },
+        "row_count": 1
+      },
+      "table_20": {
+        "rows": [
+          "• Gross margin increased $7.3 billion or 17% driven by growth in Office 365 Commercial and LinkedIn. Gross margin percentage was relatively unchanged. Excluding the impact of the change in accounting estimate, gross margin percentage increased 2 points driven by improvement across all cloud services."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.7417698502540588,
+          "entity_density": 0.15555555555555556,
+          "entity_count": 7,
+          "content_length": 0.301,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.0,
+          "overall_confidence": 1.4466534852981567
+        },
+        "row_count": 1
+      },
+      "table_21": {
+        "rows": [
+          "• Operating expenses increased $2.0 billion or 11% driven by investments in LinkedIn and cloud engineering."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.6439584493637085,
+          "entity_density": 0.3125,
+          "entity_count": 5,
+          "content_length": 0.107,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.09523809523809523,
+          "overall_confidence": 1.1484752893447876
+        },
+        "row_count": 1
+      },
+      "table_22": {
+        "rows": [
+          "• Server products and cloud services revenue increased $14.7 billion or 28% driven by Azure and other cloud services. Azure and other cloud services revenue grew 45% driven by growth in our consumption-based services. Server products revenue increased 5% driven by hybrid solutions, including Windows Server and SQL Server running in multi-cloud environments."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4667922556400299,
+          "entity_density": 0.16981132075471697,
+          "entity_count": 9,
+          "content_length": 0.359,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.693703293800354
+        },
+        "row_count": 1
+      },
+      "table_23": {
+        "rows": [
+          "• Enterprise Services revenue increased $464 million or 7% driven by growth in Enterprise Support Services."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.5302475690841675,
+          "entity_density": 0.3125,
+          "entity_count": 5,
+          "content_length": 0.107,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.1129047870635986
+        },
+        "row_count": 1
+      },
+      "table_24": {
+        "rows": [
+          "• Gross margin increased $9.4 billion or 22% driven by growth in Azure and other cloud services. Gross margin percentage decreased. Excluding the impact of the change in accounting estimate, gross margin percentage was relatively unchanged driven by improvement in Azure and other cloud services, offset in part by sales mix shift to Azure and other cloud services."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.7182648181915283,
+          "entity_density": 0.08620689655172414,
+          "entity_count": 5,
+          "content_length": 0.365,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.1404504776000977
+        },
+        "row_count": 1
+      },
+      "table_25": {
+        "rows": [
+          "• Operating expenses increased $2.8 billion or 16% driven by investments in Azure and other cloud services."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.6439584493637085,
+          "entity_density": 0.29411764705882354,
+          "entity_count": 5,
+          "content_length": 0.107,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.09523809523809523,
+          "overall_confidence": 1.144798755645752
+        },
+        "row_count": 1
+      },
+      "table_26": {
+        "rows": [
+          "• Windows revenue increased $2.3 billion or 10% driven by growth in Windows OEM and Windows Commercial. Windows OEM revenue increased 11% driven by continued strength in the commercial PC market, which has higher revenue per license. Windows Commercial products and cloud services revenue increased 11% driven by demand for Microsoft 365."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4397224485874176,
+          "entity_density": 0.15384615384615385,
+          "entity_count": 8,
+          "content_length": 0.338,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.5316427946090698
+        },
+        "row_count": 1
+      },
+      "table_27": {
+        "rows": [
+          "• Search and news advertising revenue increased $2.3 billion or 25%. Search and news advertising revenue excluding traffic acquisition costs increased 27% driven by higher revenue per search and search volume."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4010154604911804,
+          "entity_density": 0.22580645161290322,
+          "entity_count": 7,
+          "content_length": 0.209,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.09523809523809523,
+          "overall_confidence": 1.3806008100509644
+        },
+        "row_count": 1
+      },
+      "table_28": {
+        "rows": [
+          "• Gaming revenue increased $860 million or 6% on a strong prior year comparable that benefited from Xbox Series X|S launches and stay-at-home scenarios, driven by growth in Xbox hardware and Xbox content and services. Xbox hardware revenue increased 16% due to continued demand for Xbox Series X|S. Xbox content and services revenue increased 3% driven by growth in Xbox Game Pass subscriptions and first-party content, offset in part by a decline in third-party content."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.41012781858444214,
+          "entity_density": 0.13333333333333333,
+          "entity_count": 10,
+          "content_length": 0.471,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.8334414958953857
+        },
+        "row_count": 1
+      },
+      "table_29": {
+        "rows": [
+          "• Gross margin increased $3.1 billion or 10% driven by growth in Windows and Search and news advertising. Gross margin percentage was relatively unchanged."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.7417699098587036,
+          "entity_density": 0.20833333333333334,
+          "entity_count": 5,
+          "content_length": 0.155,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.0,
+          "overall_confidence": 1.1426091194152832
+        },
+        "row_count": 1
+      },
+      "table_30": {
+        "rows": [
+          "• Operating expenses increased $1.5 billion or 14% driven by investments in Gaming, Search and news advertising, and Windows marketing."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.6732435822486877,
+          "entity_density": 0.25,
+          "entity_count": 5,
+          "content_length": 0.135,
+          "number_patterns": 1.0,
+          "keyword_presence": 0.09523809523809523,
+          "overall_confidence": 1.1460965871810913
+        },
+        "row_count": 1
+      }
+    },
+    "table_count": 30,
+    "word_count": 1087,
+    "character_count": 7396,
+    "has_financial_data": true,
+    "confidence_scores": {
+      "semantic_similarity": 0.5868921875953674,
+      "entity_density": 0.05000530841915277,
+      "entity_count": 471,
+      "content_length": 1.0,
+      "number_patterns": 1.0,
+      "keyword_presence": 0.8571428571428571,
+      "overall_confidence": 71.18529510498047
+    },
+    "is_financial_content": true,
+    "original_metadata": {
+      "section_code": "7",
+      "original_length": 65522,
+      "original_word_count": 9419,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/msft-10k_20220630.htm",
+      "filing_date": "2022-07-28T16:06:19-04:00"
+    }
+  },
+  "8": {
+    "section_name": "Financial Statements and Supplementary Data",
+    "tables": {
+      "table_1": {
+        "rows": [
+          "• Level 1 – inputs are based upon unadjusted quoted prices for identical instruments in active markets. Our Level 1 investments include U.S. government securities, common and preferred stock, and mutual funds. Our Level 1 derivative assets and liabilities include those actively traded on exchanges."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.47278305888175964,
+          "entity_density": 0.022222222222222223,
+          "entity_count": 1,
+          "content_length": 0.299,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.09523809523809523,
+          "overall_confidence": 0.36682596802711487
+        },
+        "row_count": 1
+      },
+      "table_2": {
+        "rows": [
+          "• Level 2 – inputs are based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques (e.g. the Black-Scholes model) for which all significant inputs are observable in the market or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Where applicable, these models project future cash flows and discount the future amounts to a present value using market-based observable inputs including interest rate curves, credit spreads, foreign exchange rates, and forward and spot prices for currencies. Our Level 2 investments include commercial paper, certificates of deposit, U.S. agency securities, foreign government bonds, mortgage- and asset-backed securities, corporate notes and bonds, and municipal securities. Our Level 2 derivative assets and liabilities include certain over-the-counter forward, option, and swap contracts."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4633985161781311,
+          "entity_density": 0.006944444444444444,
+          "entity_count": 1,
+          "content_length": 1.0,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.19047619047619047,
+          "overall_confidence": 0.4458099603652954
+        },
+        "row_count": 1
+      },
+      "table_3": {
+        "rows": [
+          "• Level 3 – inputs are generally unobservable and typically reflect management’s estimates of assumptions that market participants would use in pricing the asset or liability. The fair values are therefore determined using model-based techniques, including option pricing models and discounted cash flow models. Our Level 3 assets and liabilities include investments in corporate notes and bonds , municipal securities , and goodwill and intangible assets, when they are recorded at fair value due to an impairment charge. Unobservable inputs used in the models are significant to the fair values of the assets and liabilities."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.6052141189575195,
+          "entity_density": 0.010526315789473684,
+          "entity_count": 1,
+          "content_length": 0.627,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.14285714285714285,
+          "overall_confidence": 0.43753740191459656
+        },
+        "row_count": 1
+      },
+      "table_4": {
+        "rows": [
+          "Less than 12 Months 12 Months or Greater Total Unrealized Losses (In millions) Fair Value Unrealized Losses Fair Value Unrealized Losses Total Fair Value June 30, 2022 U.S. government and agency securities $ 59,092 $ ( 1,835 ) $ 2,210 $ ( 352 ) $ 61,302 $ ( 2,187 ) Foreign government bonds ( 18 ) ( 6 ) ( 24 ) Mortgage- and asset-backed securities ( 26 ) ( 4 ) ( 30 ) Corporate notes and bonds 9,443 ( 477 ) ( 77 ) 10,229 ( 554 ) Municipal securities ( 12 ) ( 7 ) ( 19 ) Total $ 69,641 $ ( 2,368 ) $ 3,138 $ ( 446 ) $ 72,779 $ ( 2,814 )"
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.41915351152420044,
+          "entity_density": 0.31666666666666665,
+          "entity_count": 38,
+          "content_length": 0.537,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 5.978964805603027
+        },
+        "row_count": 1
+      },
+      "table_5": {
+        "rows": [
+          "Less than 12 Months 12 Months or Greater Total Unrealized Losses (In millions) Fair Value Unrealized Losses Fair Value Unrealized Losses Total Fair Value June 30, 2021 U.S. government and agency securities $ 5,294 $ ( 111 ) $ $ $ 5,294 $ ( 111 ) Foreign government bonds 3,148 ( 1 ) ( 1 ) 3,153 ( 2 ) Mortgage- and asset-backed securities 1,211 ( 5 ) ( 1 ) 1,298 ( 6 ) Corporate notes and bonds 1,678 ( 8 ) ( 1 ) 1,712 ( 9 ) Municipal securities ( 7 ) ( 7 ) Total $ 11,389 $ ( 132 ) $ $ ( 3 ) $ 11,516 $ ( 135 )"
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.41050687432289124,
+          "entity_density": 0.2672413793103448,
+          "entity_count": 31,
+          "content_length": 0.511,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 4.914318084716797
+        },
+        "row_count": 1
+      },
+      "table_6": {
+        "rows": [
+          "Derivative Derivative Derivative Derivative (In millions) Assets Liabilities Assets Liabilities June 30, June 30, Designated as Hedging Instruments Foreign exchange contracts $ $ ( 77 ) $ $ ( 8 ) Interest rate contracts Not Designated as Hedging Instruments Foreign exchange contracts ( 362 ) ( 291 ) Other contracts ( 112 ) ( 36 ) Gross amounts of derivatives ( 551 ) ( 335 ) Gross amounts of derivatives offset in the balance sheet ( 130 ) ( 141 ) Cash collateral received 0 ( 75 ) 0 ( 42 ) Net amounts of derivatives $ $ ( 493 ) $ $ ( 235 ) Reported as Short-term investments $ $ $ $ Other current assets Other long-term assets Other current liabilities ( 298 ) ( 182 ) Other long-term liabilities ( 195 ) ( 53 ) Total $ $ ( 493 ) $ $ ( 235 )"
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.5247650146484375,
+          "entity_density": 0.174496644295302,
+          "entity_count": 26,
+          "content_length": 0.745,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.23809523809523808,
+          "overall_confidence": 4.22630500793457
+        },
+        "row_count": 1
+      },
+      "table_7": {
+        "rows": [
+          "Year Ended June 30, Federal statutory rate 21.0 % 21.0 % 21.0 % Effect of: Foreign earnings taxed at lower rates ( 1.3 ) % ( 2.7 ) % ( 3.7 ) % Impact of intangible property transfers ( 3.9 ) % % % Foreign-derived intangible income deduction ( 1.1 ) % ( 1.3 ) % ( 1.1 ) % State income taxes, net of federal benefit 1.4 % 1.4 % 1.3 % Research and development credit ( 0.9 ) % ( 0.9 ) % ( 1.1 ) % Excess tax benefits relating to stock-based compensation ( 1.9 ) % ( 2.4 ) % ( 2.2 ) % Interest, net 0.5 % 0.5 % 1.0 % Other reconciling items, net ( 0.7 ) % ( 1.8 ) % 1.3 % Effective rate 13.1 % 13.8 % 16.5 %"
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.6020849943161011,
+          "entity_density": 0.26811594202898553,
+          "entity_count": 37,
+          "content_length": 0.603,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.19047619047619047,
+          "overall_confidence": 5.893016338348389
+        },
+        "row_count": 1
+      },
+      "table_8": {
+        "rows": [
+          "Declaration Date Record Date Payment Date Dividend Per Share Amount Fiscal Year 2022 (In millions) September 14, 2021 November 18, 2021 December 9, 2021 $ 0.62 $ 4,652 December 7, 2021 February 17, 2022 March 10, 2022 0.62 4,645 March 14, 2022 May 19, 2022 June 9, 2022 0.62 4,632 June 14, 2022 August 18, 2022 September 8, 2022 0.62 4,627 Total $ 2.48 $ 18,556 Fiscal Year 2021 September 15, 2020 November 19, 2020 December 10, 2020 $ 0.56 $ 4,230 December 2, 2020 February 18, 2021 March 11, 2021 0.56 4,221 March 16, 2021 May 20, 2021 June 10, 2021 0.56 4,214 June 16, 2021 August 19, 2021 September 9, 2021 0.56 4,206 Total $ 2.24 $ 16,871"
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.5682986974716187,
+          "entity_density": 0.5833333333333334,
+          "entity_count": 70,
+          "content_length": 0.643,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.0,
+          "overall_confidence": 10.873041152954102
+        },
+        "row_count": 1
+      },
+      "table_9": {
+        "rows": [
+          "Year ended June 30, Dividends per share (quarterly amounts) $ 0.56 – 0.62 $ 0.51 – 0.56 $ 0.46 – 0.51 Interest rates 0.03 % – 3.6 % 0.01 % – 1.5 % 0.1 % – 2.2 %"
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.6364563703536987,
+          "entity_density": 0.5789473684210527,
+          "entity_count": 22,
+          "content_length": 0.16,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 3.6480462551116943
+        },
+        "row_count": 1
+      },
+      "table_10": {
+        "rows": [
+          "Shares Weighted Average Grant-Date Fair Value (In millions) Stock Awards Nonvested balance, beginning of year $ 152.51 Granted (a) 291.22 Vested ( 47 ) 143.10 Forfeited ( 10 ) 189.88 Nonvested balance, end of year $ 227.59"
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.6264259815216064,
+          "entity_density": 0.2972972972972973,
+          "entity_count": 11,
+          "content_length": 0.222,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.945408821105957
+        },
+        "row_count": 1
+      },
+      "table_11": {
+        "rows": [
+          "• Dynamics business solutions, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM, Customer Insights, Power Apps, and Power Automate; and on-premises ERP and CRM applications."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.2866570055484772,
+          "entity_density": 0.03333333333333333,
+          "entity_count": 1,
+          "content_length": 0.222,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.0,
+          "overall_confidence": 0.30053094029426575
+        },
+        "row_count": 1
+      }
+    },
+    "table_count": 11,
+    "word_count": 1032,
+    "character_count": 5587,
+    "has_financial_data": true,
+    "confidence_scores": {
+      "semantic_similarity": 0.6002776026725769,
+      "entity_density": 0.05471839264721599,
+      "entity_count": 1536,
+      "content_length": 1.0,
+      "number_patterns": 0.6666666666666666,
+      "keyword_presence": 1.0,
+      "overall_confidence": 230.9110107421875
+    },
+    "is_financial_content": true,
+    "original_metadata": {
+      "section_code": "8",
+      "original_length": 202532,
+      "original_word_count": 28071,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/msft-10k_20220630.htm",
+      "filing_date": "2022-07-28T16:06:19-04:00"
+    }
+  },
+  "9A": {
+    "section_name": "Controls and Procedures",
+    "tables": {
+      "table_1": {
+        "rows": [
+          "Under the supervision and with the participation of our management, including the Chief Executive Officer and Chief Financial Officer, we have evaluated the effectiveness of our disclosure controls and procedures as required by Exchange Act Rule 13a-15(b) as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that these disclosure controls and procedures are effective."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.468193918466568,
+          "entity_density": 0.014285714285714285,
+          "entity_count": 1,
+          "content_length": 0.465,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.0,
+          "overall_confidence": 0.3664056360721588
+        },
+        "row_count": 1
+      },
+      "table_2": {
+        "rows": [
+          "Management conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, management concluded that the Company’s internal control over financial reporting was effective as of June 30, 2022. There were no changes in our internal control over financial reporting during the quarter ended June 30, 2022 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Deloitte & Touche LLP has audited our internal control over financial reporting as of June 30, 2022; their report is included in Item 9A."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4882173240184784,
+          "entity_density": 0.05172413793103448,
+          "entity_count": 6,
+          "content_length": 0.773,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.0,
+          "overall_confidence": 1.1596990823745728
+        },
+        "row_count": 1
+      },
+      "table_3": {
+        "rows": [
+          "We have audited the internal control over financial reporting of Microsoft Corporation and subsidiaries (the \"Company\") as of June 30, 2022, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of June 30, 2022, based on criteria established in Internal Control — Integrated Framework (2013) issued by COSO."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.4816524088382721,
+          "entity_density": 0.06329113924050633,
+          "entity_count": 5,
+          "content_length": 0.542,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.0,
+          "overall_confidence": 0.9872713088989258
+        },
+        "row_count": 1
+      },
+      "table_4": {
+        "rows": [
+          "We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended June 30, 2022, of the Company and our report dated July 28, 2022, expressed an unqualified opinion on those financial statements."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.6221440434455872,
+          "entity_density": 0.11764705882352941,
+          "entity_count": 6,
+          "content_length": 0.325,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.047619047619047616,
+          "overall_confidence": 1.168708324432373
+        },
+        "row_count": 1
+      },
+      "table_5": {
+        "rows": [
+          "A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements."
+        ],
+        "confidence_scores": {
+          "semantic_similarity": 0.5387645959854126,
+          "entity_density": 0.019867549668874173,
+          "entity_count": 3,
+          "content_length": 1.0,
+          "number_patterns": 0.3333333333333333,
+          "keyword_presence": 0.09523809523809523,
+          "overall_confidence": 0.7529504299163818
+        },
+        "row_count": 1
+      }
+    },
+    "table_count": 5,
+    "word_count": 467,
+    "character_count": 3200,
+    "has_financial_data": true,
+    "confidence_scores": {
+      "semantic_similarity": 0.5873562097549438,
+      "entity_density": 0.03680981595092025,
+      "entity_count": 36,
+      "content_length": 1.0,
+      "number_patterns": 0.3333333333333333,
+      "keyword_presence": 0.14285714285714285,
+      "overall_confidence": 5.725629806518555
+    },
+    "is_financial_content": true,
+    "original_metadata": {
+      "section_code": "9A",
+      "original_length": 6852,
+      "original_word_count": 978,
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/msft-10k_20220630.htm",
+      "filing_date": "2022-07-28T16:06:19-04:00"
+    }
+  }
+}

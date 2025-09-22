@@ -1,0 +1,183 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2023",
+    "2022",
+    "2013"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "(",
+      "values": [
+        1.0,
+        2023.0,
+        10.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Form 10-K |",
+      "values": [
+        48.0,
+        30.0,
+        2023.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2023 and September",
+      "values": [
+        24.0,
+        2022.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "operations, comprehensive income",
+      "values": [
+        0.0,
+        30.0,
+        2023.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013"
+      ],
+      "category": "Revenue",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Inc. at September",
+      "values": [
+        30.0,
+        2023.0,
+        24.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and September 24,",
+      "values": [
+        2022.0,
+        30.0,
+        2023.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "also have audited",
+      "values": [
+        0.0,
+        0.0,
+        30.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 30,",
+      "values": [
+        2023.0,
+        2013.0,
+        2.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "dated November 2,",
+      "values": [
+        2023.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "made by management",
+      "values": [
+        0.0,
+        1.0,
+        2.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

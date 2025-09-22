@@ -1,0 +1,132 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "cash_flow",
+  "currency_unit": "millions",
+  "years": [
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "December",
+      "values": [
+        31.0,
+        2017.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "December",
+      "values": [
+        31.0,
+        2016.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Cash and cash equivalents",
+      "values": [
+        313.3,
+        310.0,
+        207.1
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Restricted cash",
+      "values": [
+        10.78,
+        323.1,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Cash and cash equivalents",
+      "values": [
+        313.3,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Total cash and cash equivalents and restricted cash shown in the consolidated statements of cash flows",
+      "values": [
+        324.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

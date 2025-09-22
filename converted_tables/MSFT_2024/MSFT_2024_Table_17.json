@@ -1,0 +1,33 @@
+{
+  "company_name": "Microsoft Corporation",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2024",
+    "2023",
+    "2013",
+    "2004"
+  ],
+  "confidence": 0.5,
+  "line_items": [
+    {
+      "name": "Developing a range of independent estimates and comparing those to the discount rates selected by management. /s/ D ELOITTE & T OUCHE LLP Seattle, Washington July",
+      "values": [
+        30.0,
+        2024.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2023",
+        "2013",
+        "2004"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "We tested the operating effectiveness of internal controls over the business combination, including internal controls over the revenue and expense forecasts and the selection of appropriate discount rates. \u2022 We assessed the knowledge, skills, abilities, and objectivity of management\u2019s valuation specialist and evaluated the work performed. PART II Item 8 \u2022 When assessing the reasonableness of assumptions related to forecasted revenue and expenses, we evaluated whether the assumptions used were reasonable considering historical financial information of Activision Blizzard, Inc., and the Company\u2019s forecasted financial information. \u2022 With the assistance of our fair value specialists, we evaluated the reasonableness of the discount rates by",
+      "is_total": false
+    }
+  ]
+}

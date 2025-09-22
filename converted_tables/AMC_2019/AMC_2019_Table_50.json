@@ -1,0 +1,193 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2024"
+  ],
+  "confidence": 0.30000000000000004,
+  "line_items": [
+    {
+      "name": "Proceeds from issuance of convertible note due 2024 \u200b \u200b 600.0 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        600.0
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Net borrowings under revolving credit facilities \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 12.1 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        12.1
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Scheduled principal payments under Term Loans \u200b (13.8) \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b",
+      "values": [
+        13.8
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under capital and financing lease obligations \u200b \u200b \u2014 \u200b \u200b (39.8) \u200b \u200b (31.2) \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        71.0
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under promissory note \u200b \u200b \u2014 \u200b \u200b (1.4) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        1.4
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash used to pay deferred financing fees \u200b (15.5) \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b",
+      "values": [
+        15.5
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash used to pay dividends \u200b (258.1) \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b",
+      "values": [
+        258.1
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Taxes paid for restricted unit withholdings \u200b \u200b (1.7) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        1.7
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Retirement of Class B common stock \u200b \u200b (423.6) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        423.6
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Purchase of treasury stock \u200b \u200b (21.8) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        21.8
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Change in intercompany advances \u200b \u200b 167.1 \u200b \u200b (144.7) \u200b \u200b (22.4) \u200b \u200b \u2014 \u200b \u200b \u2014 Net cash provided by (used in) financing activities \u200b 32.6 \u200b (185.9) \u200b (41.5) \u200b \u2014 \u200b",
+      "values": [
+        194.8
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Effect of exchange rate changes on cash and cash equivalents and restricted cash \u200b (40.6) \u200b 41.6 \u200b (6.5) \u200b \u2014 \u200b",
+      "values": [
+        5.5
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Net increase (decrease) in cash and cash equivalents and restricted cash \u200b \u200b (0.8) \u200b 81.9 \u200b (75.4) \u200b \u2014 \u200b",
+      "values": [
+        5.7
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash and cash equivalents and restricted cash at beginning of period \u200b 1.1 \u200b 95.9 \u200b 221.3 \u200b \u2014 \u200b",
+      "values": [
+        318.3
+      ],
+      "years": [
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Capital expenditures \u200b \u2014 \u200b (395.5) \u200b (180.8) \u200b \u2014 \u200b (576.3) Proceeds from sale leaseback transactions \u200b \u200b \u2014 \u200b \u200b 50.1 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 50.1 Proceeds from disposition of NCM \u200b \u200b \u2014 \u200b \u200b 162.5 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 162.5 Proceeds from Screenvision merger \u200b \u200b \u2014 \u200b \u200b 45.8 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b 45.8 Proceeds from disposition of long-term assets \u200b \u200b \u2014 \u200b \u200b 8.5 \u200b \u200b 5.7 \u200b \u200b \u2014 \u200b \u200b 14.2 Investments in non-consolidated entities, net \u200b \u2014 \u200b (11.4) \u200b \u2014 \u200b \u2014 \u200b (11.4) Other, net \u200b \u2014 \u200b (3.6) \u200b 1.5 \u200b \u2014 \u200b (2.1) Net cash used in investing activities \u200b \u2014 \u200b (143.6) \u200b (173.6) \u200b \u2014 \u200b (317.2) Cash flows from financing activities",
+      "is_total": false
+    }
+  ]
+}

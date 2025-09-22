@@ -1,0 +1,284 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2018"
+  ],
+  "confidence": 0.30000000000000004,
+  "line_items": [
+    {
+      "name": "Net cash provided by (used in) operating activities",
+      "values": [
+        7.3
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Operating",
+      "confidence": 0.2,
+      "parent_item": "Subsidiary Subsidiary Consolidating Consolidated (In millions) Holdings Guarantors Non-Guarantors Adjustments Holdings Cash flows from operating activities",
+      "is_total": false
+    },
+    {
+      "name": "Capital expenditures \u2014 (410.9) (10.8) \u2014",
+      "values": [
+        421.7
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Cash flows from investing activities",
+      "is_total": false
+    },
+    {
+      "name": "Capital expenditures \u2014 (410.9) (10.8) \u2014",
+      "values": [
+        421.7
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Cash flows from investing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from the issuance of Term Loan due 2023498.7 \u2014 \u2014 \u2014",
+      "values": [
+        498.7
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from the issuance of Senior Subordinated Sterling Notes due 2024310.0 \u2014 \u2014 \u2014",
+      "values": [
+        310.0
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from the issuance of Senior Subordinated Notes due 2026595.0 \u2014 \u2014 \u2014",
+      "values": [
+        595.0
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from the issuance of Bridge Loan due 2017350.0 \u2014 \u2014 \u2014",
+      "values": [
+        350.0
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Payment of Odeon Senior Subordinated GBP Notes due 2018 (380.7) \u2014 \u2014 \u2014",
+      "values": [
+        380.7
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Payment of Odeon Senior Subordinated EUR Notes due 2018 (212.5) \u2014 \u2014 \u2014",
+      "values": [
+        212.5
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Payments under Revolving Credit Facility (75.0) \u2014 \u2014 \u2014",
+      "values": [
+        75.0
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Payments of stock issuance costs (0.8) \u2014 \u2014 \u2014",
+      "values": [
+        0.8
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Cost",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under Term Loan (8.8) \u2014 \u2014 \u2014",
+      "values": [
+        8.8
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under capital and financing lease obligations \u2014 (8.6) (2.2) \u2014",
+      "values": [
+        10.8
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under promissory note \u2014 (1.4) \u2014 \u2014",
+      "values": [
+        1.4
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash used to pay deferred financing fees (65.9) \u2014 \u2014 \u2014",
+      "values": [
+        65.9
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash used to pay dividends (79.6) \u2014 \u2014 \u2014",
+      "values": [
+        79.6
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Change in intercompany advances (935.1) 968.1 (33.0) \u2014 \u2014 Net cash provided by (used) in financing activities (4.7) 958.1 (35.2) \u2014",
+      "values": [
+        918.2
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Effect of exchange rate changes on cash and equivalents (1.5) 2.9 (0.8) \u2014",
+      "values": [
+        0.6
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Net increase (decrease) in cash and equivalents 1.1 (72.3) 90.2 \u2014",
+      "values": [
+        19.0
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash and equivalents at beginning of period 1.9167.042.3 \u2014",
+      "values": [
+        211.2
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from the issuance of Term Loan due 2023498.7 \u2014 \u2014 \u2014 498.7 Proceeds from the issuance of Senior Subordinated Sterling Notes due 2024310.0 \u2014 \u2014 \u2014 310.0 Proceeds from the issuance of Senior Subordinated Notes due 2026595.0 \u2014 \u2014 \u2014 595.0 Proceeds from the issuance of Bridge Loan due 2017350.0 \u2014 \u2014 \u2014 350.0 Payment of Odeon Senior Subordinated GBP Notes due 2018 (380.7) \u2014 \u2014 \u2014 (380.7) Payment of Odeon Senior Subordinated EUR Notes due 2018 (212.5) \u2014 \u2014 \u2014 (212.5) Payments under Revolving Credit Facility (75.0) \u2014 \u2014 \u2014 (75.0) Payments of stock issuance costs (0.8) \u2014 \u2014 \u2014 (0.8) Principal payments under Term Loan (8.8) \u2014 \u2014 \u2014 (8.8) Principal payments under capital and financing lease obligations \u2014 (8.6) (2.2) \u2014 (10.8) Principal payments under promissory note \u2014 (1.4) \u2014 \u2014 (1.4) Cash used to pay deferred financing fees (65.9) \u2014 \u2014 \u2014 (65.9) Cash used to pay dividends (79.6) \u2014 \u2014 \u2014 (79.6) Change in intercompany advances (935.1) 968.1 (33.0) \u2014 \u2014 Net cash provided by (used) in financing activities (4.7) 958.1 (35.2) \u2014 918.2 Effect of exchange rate changes on cash and equivalents (1.5) 2.9 (0.8) \u2014 0.6 Net increase (decrease) in cash and equivalents 1.1 (72.3) 90.2 \u2014 19.0 Cash and equivalents at beginning of period 1.9167.042.3 \u2014 211.2 Cash and equivalents at end of period",
+      "values": [
+        3.0
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Cost",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Odeon, net of cash acquired \u2014 (480.3) 64.7 \u2014 (415.6) Acquisition of Carmike, net of cash acquired \u2014 (584.3) 86.5 \u2014 (497.8) Acquisition of Starplex Cinemas, net of cash \u2014 0.7 \u2014 \u2014 0.7 Proceeds from disposition of long-term assets \u2014 19.9 \u2014 \u2014 19.9 Investments in non-consolidated entities, net \u2014 (10.5) \u2014 \u2014 (10.5) Other, net \u2014 (6.5) \u2014 \u2014 (6.5) Net cash provided by (used in) investing activities \u2014 (1,471.9) 140.4 \u2014 (1,331.5) Cash flows from financing activities",
+      "is_total": false
+    }
+  ]
+}

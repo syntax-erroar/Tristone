@@ -1,0 +1,284 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2017"
+  ],
+  "confidence": 0.30000000000000004,
+  "line_items": [
+    {
+      "name": "Net cash provided by (used in) operating activities",
+      "values": [
+        10.2
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Operating",
+      "confidence": 0.2,
+      "parent_item": "Subsidiary Subsidiary Consolidating Consolidated (In millions) Holdings Guarantors Non-Guarantors Adjustments Holdings Cash flows from operating activities",
+      "is_total": false
+    },
+    {
+      "name": "Capital expenditures \u2014 (407.5) (219.3) \u2014",
+      "values": [
+        626.8
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Cash flows from investing activities",
+      "is_total": false
+    },
+    {
+      "name": "Capital expenditures \u2014 (407.5) (219.3) \u2014",
+      "values": [
+        626.8
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Cash flows from investing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from the issuance of Senior Subordinated Sterling Notes due 2024327.8 \u2014 \u2014 \u2014",
+      "values": [
+        327.8
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from the issuance of Senior Subordinated Notes due 2027475.0 \u2014 \u2014 \u2014",
+      "values": [
+        475.0
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Payment of Nordic SEK Term Loan (144.4) \u2014 \u2014 \u2014",
+      "values": [
+        144.4
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Payment of Nordic EUR Term Loan (169.5) \u2014 \u2014 \u2014",
+      "values": [
+        169.5
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Net proceeds from equity offering 616.8 \u2014 \u2014 \u2014",
+      "values": [
+        616.8
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payment of Bridge Loan due 2017 (350.0) \u2014 \u2014 \u2014",
+      "values": [
+        350.0
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under Term Loan (12.6) \u2014 \u2014 \u2014",
+      "values": [
+        12.6
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under capital and financing lease obligations \u2014 (9.5) (61.2) \u2014",
+      "values": [
+        70.7
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payments under promissory note \u2014 (1.4) \u2014 \u2014",
+      "values": [
+        1.4
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash used to pay deferred financing costs (29.8) \u2014 (3.8) \u2014",
+      "values": [
+        33.6
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Cost",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash used to pay dividends (104.6) \u2014 \u2014 \u2014",
+      "values": [
+        104.6
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Taxes paid for restricted unit withholdings (6.5) \u2014 \u2014 \u2014",
+      "values": [
+        6.5
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Purchase of treasury stock (34.0) \u2014 \u2014 \u2014",
+      "values": [
+        34.0
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Change in intercompany advances (616.7) 654.1 (37.4) \u2014 \u2014 Net cash provided by (used in) financing activities (48.5) 643.2 (102.4) \u2014",
+      "values": [
+        492.3
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Effect of exchange rate changes on cash and cash equivalents and restricted cash 56.8 (53.5) 14.4 \u2014",
+      "values": [
+        17.7
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Net increase (decrease) in cash and cash equivalents and restricted cash (1.9) (9.7) 99.7 \u2014",
+      "values": [
+        88.1
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Cash and cash equivalents and restricted cash at beginning of period 3.094.7132.5 \u2014",
+      "values": [
+        230.2
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Proceeds from the issuance of Senior Subordinated Sterling Notes due 2024327.8 \u2014 \u2014 \u2014 327.8 Proceeds from the issuance of Senior Subordinated Notes due 2027475.0 \u2014 \u2014 \u2014 475.0 Payment of Nordic SEK Term Loan (144.4) \u2014 \u2014 \u2014 (144.4) Payment of Nordic EUR Term Loan (169.5) \u2014 \u2014 \u2014 (169.5) Net proceeds from equity offering 616.8 \u2014 \u2014 \u2014 616.8 Principal payment of Bridge Loan due 2017 (350.0) \u2014 \u2014 \u2014 (350.0) Principal payments under Term Loan (12.6) \u2014 \u2014 \u2014 (12.6) Principal payments under capital and financing lease obligations \u2014 (9.5) (61.2) \u2014 (70.7) Principal payments under promissory note \u2014 (1.4) \u2014 \u2014 (1.4) Cash used to pay deferred financing costs (29.8) \u2014 (3.8) \u2014 (33.6) Cash used to pay dividends (104.6) \u2014 \u2014 \u2014 (104.6) Taxes paid for restricted unit withholdings (6.5) \u2014 \u2014 \u2014 (6.5) Purchase of treasury stock (34.0) \u2014 \u2014 \u2014 (34.0) Change in intercompany advances (616.7) 654.1 (37.4) \u2014 \u2014 Net cash provided by (used in) financing activities (48.5) 643.2 (102.4) \u2014 492.3 Effect of exchange rate changes on cash and cash equivalents and restricted cash 56.8 (53.5) 14.4 \u2014 17.7 Net increase (decrease) in cash and cash equivalents and restricted cash (1.9) (9.7) 99.7 \u2014 88.1 Cash and cash equivalents and restricted cash at beginning of period 3.094.7132.5 \u2014 230.2 Cash and cash equivalents and restricted cash at end of period",
+      "values": [
+        1.1
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Cost",
+      "confidence": 0.2,
+      "parent_item": "Acquisition of Nordic, net of cash acquired \u2014 (654.9) 77.3 \u2014 (577.6) Proceeds from sale leaseback transactions \u2014 136.2 \u2014 \u2014 136.2 Proceeds from disposition of NCM shares \u2014 89.0 \u2014 \u2014 89.0 Proceeds from disposition of Open Road \u2014 9.2 \u2014 \u2014 9.2 Proceeds from disposition of long-term assets \u2014 10.513.6 \u2014 24.1 Investments in non-consolidated entities, net \u2014 (11.1) \u2014 \u2014 (11.1) Other, net \u2014 (2.1) (0.2) \u2014 (2.3) Net cash used in investing activities \u2014 (830.7) (128.6) \u2014 (959.3) Cash flows from financing activities",
+      "is_total": false
+    }
+  ]
+}

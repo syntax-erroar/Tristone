@@ -1,0 +1,24 @@
+{
+  "company_name": "Microsoft Corporation",
+  "statement_type": "balance_sheet",
+  "currency_unit": "billions",
+  "years": [
+    "2023"
+  ],
+  "confidence": 0.2,
+  "line_items": [
+    {
+      "name": "PART II Item",
+      "values": [
+        8.0
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

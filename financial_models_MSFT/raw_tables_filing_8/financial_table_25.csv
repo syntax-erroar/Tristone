@@ -1,0 +1,28 @@
+0,1,2,3,4
+"Three Months Ended September 30,",nan,2023,nan,2022
+Derivatives,nan,nan,nan,nan
+"Balance, beginning of period",$,(27),$,(13)
+"Unrealized losses, net of tax of $(4) and $(11)",nan,(15),nan,(40)
+Reclassification adjustments for losses included in other income,nan,nan,nan,nan
+"(expense), net",nan,46,nan,59
+Tax benefit included in provision for income taxes,nan,(10),nan,(12)
+Amounts reclassified from accumulated other comprehensive,nan,nan,nan,nan
+loss,nan,36,nan,47
+"Net change related to derivatives, net of tax of $6 and $1",nan,21,nan,7
+"Balance, end of period",$,(6),$,(6)
+Investments,nan,nan,nan,nan
+"Balance, beginning of period",$,"(3,582)",$,"(2,138)"
+"Unrealized losses, net of tax of $(75) and $(510)",nan,(283),nan,"(1,925)"
+Reclassification adjustments for losses included in other income,nan,nan,nan,nan
+"(expense), net",nan,29,nan,35
+Tax benefit included in provision for income taxes,nan,(6),nan,(7)
+Amounts reclassified from accumulated other comprehensive,nan,nan,nan,nan
+loss,nan,23,nan,28
+"Net change related to investments, net of tax of $(69) and",nan,nan,nan,nan
+$(503),nan,(260),nan,"(1,897)"
+"Balance, end of period",$,"(3,842)",$,"(4,035)"
+Translation Adjustments and Other,nan,nan,nan,nan
+"Balance, beginning of period",$,"(2,734)",$,"(2,527)"
+"Translation adjustments and other, net of tax of $0 and $0",nan,(355),nan,(775)
+"Balance, end of period",$,"(3,089)",$,"(3,302)"
+"Accumulated other comprehensive loss, end of period",$,"(6,937)",$,"(7,343)"

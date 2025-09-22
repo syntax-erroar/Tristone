@@ -1,0 +1,154 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2019"
+  ],
+  "confidence": 0.3272727272727273,
+  "line_items": [
+    {
+      "name": "(",
+      "values": [
+        1.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "loss carryforward of",
+      "values": [
+        212.8
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "to expire in",
+      "values": [
+        2019.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "completely expire in",
+      "values": [
+        2036.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        652.6
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Revenue",
+      "confidence": 0.5,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "except for approximately",
+      "values": [
+        6.8
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "periods ranging from",
+      "values": [
+        1.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "from 1 to",
+      "values": [
+        20.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "loss carryforwards of",
+      "values": [
+        243.5
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "periods ranging from",
+      "values": [
+        1.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "from 1 to",
+      "values": [
+        20.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

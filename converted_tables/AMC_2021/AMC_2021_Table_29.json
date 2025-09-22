@@ -1,0 +1,27 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "cash_flow",
+  "currency_unit": "millions",
+  "years": [
+    "2021",
+    "2020"
+  ],
+  "confidence": 0.7999999999999999,
+  "line_items": [
+    {
+      "name": "PSU Awards. On February 23, 2021, total PSUs of 2,687,813 were awarded (\u201c2021 PSU award\u201d) to certain members of management and executive officers, with the total PSUs divided into three separate year tranches, with each tranche allocated to a fiscal year within the performance period (\u201cTranche Year\u201d). The PSUs within each Tranche Year are further divided between two performance targets; the Adjusted EBITDA performance target and free cash flow performance target. The 2021 PSU awards will vest based on achieving 80 % to 120 % of the performance targets, with the corresponding vested unit amount ranging from 50 % to 200 % (or 30 % to 200 % for PSU awards granted prior to year",
+      "values": [
+        2020.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Operating Income",
+      "confidence": 0.7,
+      "parent_item": "Performance Stock Unit Award Agreement",
+      "is_total": false
+    }
+  ]
+}

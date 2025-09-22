@@ -1,0 +1,185 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "thousands",
+  "years": [
+    "2021",
+    "2020",
+    "2019",
+    "2018"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "is classified within Level",
+      "values": [
+        2.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "was",
+      "values": [
+        472000.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "s ASC Topic",
+      "values": [
+        606.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "that was to occur on October",
+      "values": [
+        1.0,
+        2016.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "management estimates that cost recoupment will be achieved in",
+      "values": [
+        2020.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "rather than",
+      "values": [
+        2021.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Note",
+      "values": [
+        3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "This Credit Facility was paid off and retired on August",
+      "values": [
+        2.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Note",
+      "values": [
+        4.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.6214285714285716,
+  "line_items": [
+    {
+      "name": "(",
+      "values": [
+        1.0,
+        1.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "or liabilities. (",
+      "values": [
+        2.0,
+        2.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "or liabilities. (",
+      "values": [
+        3.0,
+        26.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 26,",
+      "values": [
+        2020.0,
+        28.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and September 28,",
+      "values": [
+        2019.0,
+        18.6
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "$18.6 billion and",
+      "values": [
+        18.9,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "(refer to Note",
+      "values": [
+        5.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "income taxes",
+      "values": [
+        10.0,
+        40.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Income Taxes",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "As of September",
+      "values": [
+        26.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "As of September",
+      "values": [
+        26.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2020 and September",
+      "values": [
+        28.0,
+        2019.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "carrying value of",
+      "values": [
+        2.8,
+        2.9
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "as of September",
+      "values": [
+        26.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2020 and September",
+      "values": [
+        28.0,
+        2019.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

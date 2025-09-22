@@ -1,0 +1,90 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2027",
+    "2026",
+    "2025",
+    "2024"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "On February",
+      "values": [
+        26.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "to stockholders of record on March",
+      "values": [
+        9.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "X Rule",
+      "values": [
+        3.0,
+        10.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the Notes due",
+      "values": [
+        2025.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2018"
+  ],
+  "confidence": 0.5,
+  "line_items": [
+    {
+      "name": "Guarantors Adjustments Holdings Net loss",
+      "values": [
+        149.1
+      ],
+      "years": [
+        "2018"
+      ],
+      "category": "Net Income",
+      "confidence": 0.5,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

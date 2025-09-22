@@ -1,0 +1,166 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2020",
+    "2019",
+    "2018"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Total Balance December",
+      "values": [
+        31.0,
+        2018.0,
+        7.2
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "$7.2 \u200b $(",
+      "values": [
+        1.8,
+        0.1,
+        5.5
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "reclassifications \u200b (",
+      "values": [
+        16.5,
+        15.5,
+        0.1
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "(0.1) \u200b (",
+      "values": [
+        32.1,
+        0.5,
+        0.5
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "0.5 Balance December",
+      "values": [
+        31.0,
+        2019.0,
+        8.8
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "$(8.8) \u200b $(",
+      "values": [
+        17.3,
+        26.1,
+        67.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b \u200b (",
+      "values": [
+        4.1,
+        62.9,
+        1.9
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u2014 \u200b \u200b",
+      "values": [
+        1.9,
+        31.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "31, 2020 \u200b",
+      "values": [
+        60.1,
+        21.4,
+        38.7
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

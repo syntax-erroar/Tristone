@@ -1,0 +1,33 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2020",
+    "2019",
+    "2018",
+    "2017"
+  ],
+  "confidence": 0.5,
+  "line_items": [
+    {
+      "name": "one stock split to shareholders of record as of August",
+      "values": [
+        24.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "category": "Per Share",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "company_name": "Microsoft Corporation",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2025",
+    "2024",
+    "2023",
+    "2022"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "The federal capital loss carryforwards are subject to an annual limitation and will expire in fiscal year",
+      "values": [
+        2025.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "PART II Item",
+      "values": [
+        8.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2026",
+    "2025",
+    "2023",
+    "2022"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Proceeds from issuance of Term Loan due 2026 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        1990.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b (92.4) \u200b (173.8) \u200b \u200b (518.1) Proceeds from disposition of Baltics, net of cash and transaction costs \u200b \u200b 34.2 \u200b \u200b 6.2 \u200b \u200b \u2014 Acquisition of theatre assets \u200b \u200b (8.2) \u200b \u200b \u2014 \u200b \u200b (11.8) Proceeds from disposition of long-term assets \u200b 7.9 \u200b 19.8 \u200b \u200b 23.2 Investments in non-consolidated entities, net \u200b (9.3) \u200b (9.3) \u200b \u200b (9.7) Other, net \u200b (0.4) \u200b 2.5 \u200b \u200b 0.3 Net cash used in investing activities \u200b (68.2) \u200b (154.6) \u200b \u200b (516.1) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Payment of principal Senior Secured Notes due 2023 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        230.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b (92.4) \u200b (173.8) \u200b \u200b (518.1) Proceeds from disposition of Baltics, net of cash and transaction costs \u200b \u200b 34.2 \u200b \u200b 6.2 \u200b \u200b \u2014 Acquisition of theatre assets \u200b \u200b (8.2) \u200b \u200b \u2014 \u200b \u200b (11.8) Proceeds from disposition of long-term assets \u200b 7.9 \u200b 19.8 \u200b \u200b 23.2 Investments in non-consolidated entities, net \u200b (9.3) \u200b (9.3) \u200b \u200b (9.7) Other, net \u200b (0.4) \u200b 2.5 \u200b \u200b 0.3 Net cash used in investing activities \u200b (68.2) \u200b (154.6) \u200b \u200b (516.1) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Payment of principal Senior Subordinated Notes due 2022 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        375.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b (92.4) \u200b (173.8) \u200b \u200b (518.1) Proceeds from disposition of Baltics, net of cash and transaction costs \u200b \u200b 34.2 \u200b \u200b 6.2 \u200b \u200b \u2014 Acquisition of theatre assets \u200b \u200b (8.2) \u200b \u200b \u2014 \u200b \u200b (11.8) Proceeds from disposition of long-term assets \u200b 7.9 \u200b 19.8 \u200b \u200b 23.2 Investments in non-consolidated entities, net \u200b (9.3) \u200b (9.3) \u200b \u200b (9.7) Other, net \u200b (0.4) \u200b 2.5 \u200b \u200b 0.3 Net cash used in investing activities \u200b (68.2) \u200b (154.6) \u200b \u200b (516.1) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Call premiums paid for Senior Secured Notes due 2023 and Senior Subordinated Notes due 2022 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        15.9,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b (92.4) \u200b (173.8) \u200b \u200b (518.1) Proceeds from disposition of Baltics, net of cash and transaction costs \u200b \u200b 34.2 \u200b \u200b 6.2 \u200b \u200b \u2014 Acquisition of theatre assets \u200b \u200b (8.2) \u200b \u200b \u2014 \u200b \u200b (11.8) Proceeds from disposition of long-term assets \u200b 7.9 \u200b 19.8 \u200b \u200b 23.2 Investments in non-consolidated entities, net \u200b (9.3) \u200b (9.3) \u200b \u200b (9.7) Other, net \u200b (0.4) \u200b 2.5 \u200b \u200b 0.3 Net cash used in investing activities \u200b (68.2) \u200b (154.6) \u200b \u200b (516.1) Cash flows from financing activities",
+      "is_total": false
+    },
+    {
+      "name": "Principal payment of Term Loans due 2022 and 2023 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        1338.5,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2025",
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Capital expenditures \u200b (92.4) \u200b (173.8) \u200b \u200b (518.1) Proceeds from disposition of Baltics, net of cash and transaction costs \u200b \u200b 34.2 \u200b \u200b 6.2 \u200b \u200b \u2014 Acquisition of theatre assets \u200b \u200b (8.2) \u200b \u200b \u2014 \u200b \u200b (11.8) Proceeds from disposition of long-term assets \u200b 7.9 \u200b 19.8 \u200b \u200b 23.2 Investments in non-consolidated entities, net \u200b (9.3) \u200b (9.3) \u200b \u200b (9.7) Other, net \u200b (0.4) \u200b 2.5 \u200b \u200b 0.3 Net cash used in investing activities \u200b (68.2) \u200b (154.6) \u200b \u200b (516.1) Cash flows from financing activities",
+      "is_total": false
+    }
+  ]
+}

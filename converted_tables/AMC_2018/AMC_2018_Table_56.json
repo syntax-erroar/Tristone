@@ -1,0 +1,117 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "thousands",
+  "years": [
+    "2018",
+    "2017"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "described in Note",
+      "values": [
+        7.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "costs at December",
+      "values": [
+        31.0,
+        2018.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "31, 2018 and",
+      "values": [
+        2017.0,
+        11713000.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "totaled $11,713,000 and",
+      "values": [
+        10828000.0,
+        1.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "(Levels 1 and",
+      "values": [
+        2.0,
+        3.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Codification (\"ASC\"): Level",
+      "values": [
+        1.0,
+        2.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "market data. Level",
+      "values": [
+        3.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

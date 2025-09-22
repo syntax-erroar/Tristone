@@ -1,0 +1,223 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "billions",
+  "years": [
+    "2023",
+    "2022",
+    "2021",
+    "2020"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "as of September",
+      "values": [
+        25.0,
+        2021.0,
+        26.0,
+        2020.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "26, 2020 was",
+      "values": [
+        10.8,
+        10.3,
+        0.0,
+        25.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "both September 25,",
+      "values": [
+        2021.0,
+        26.0,
+        2020.0,
+        2.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "incremental borrowing rate",
+      "values": [
+        0.0,
+        25.0,
+        2021.0,
+        1.1
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "under additional leases",
+      "values": [
+        0.0,
+        0.0,
+        2022.0,
+        2023.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "terms ranging from",
+      "values": [
+        3.0,
+        20.0,
+        7.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "As of September",
+      "values": [
+        25.0,
+        2021.0,
+        26.0,
+        2020.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the Company had",
+      "values": [
+        6.0,
+        5.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Commercial Paper was",
+      "values": [
+        0.06,
+        0.62,
+        25.0,
+        2021.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2021 and September",
+      "values": [
+        26.0,
+        2020.0,
+        2021.0,
+        2020.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2021, 2020 and",
+      "values": [
+        2019.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

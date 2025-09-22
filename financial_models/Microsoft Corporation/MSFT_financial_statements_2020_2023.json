@@ -1,0 +1,86 @@
+{
+  "2020": {
+    "income_statement": {},
+    "balance_sheet": {
+      "Accounts receivable, net of allowance for doubtful accounts": {
+        "2020": 788.0,
+        "2019": 411.0,
+        "2018": 377.0
+      },
+      "Other long-term assets": {
+        "2020": 28.0,
+        "2019": 23.0,
+        "2018": 20.0
+      },
+      "Total": {
+        "2020": 816.0,
+        "2019": 434.0,
+        "2018": 397.0
+      }
+    },
+    "cash_flow": {}
+  },
+  "2021": {
+    "income_statement": {},
+    "balance_sheet": {
+      "Accounts receivable, net of allowance for doubtful accounts": {
+        "2021": 751.0,
+        "2020": 788.0,
+        "2019": 411.0
+      },
+      "Other long-term assets": {
+        "2021": 47.0,
+        "2020": 28.0,
+        "2019": 23.0
+      },
+      "Total": {
+        "2021": 798.0,
+        "2020": 816.0,
+        "2019": 434.0
+      }
+    },
+    "cash_flow": {}
+  },
+  "2022": {
+    "income_statement": {},
+    "balance_sheet": {
+      "Accounts receivable, net of allowance for doubtful accounts": {
+        "2022": 633.0,
+        "2021": 751.0,
+        "2020": 788.0
+      },
+      "Other long-term assets": {
+        "2022": 77.0,
+        "2021": 47.0,
+        "2020": 28.0
+      },
+      "Total": {
+        "2022": 710.0,
+        "2021": 798.0,
+        "2020": 816.0
+      }
+    },
+    "cash_flow": {}
+  },
+  "2023": {
+    "income_statement": {},
+    "balance_sheet": {
+      "Accounts receivable, net of allowance for doubtful accounts": {
+        "2023": 650.0,
+        "2022": 633.0,
+        "2021": 751.0
+      },
+      "Other long-term assets": {
+        "2023": 66.0,
+        "2022": 77.0,
+        "2021": 47.0
+      },
+      "Total": {
+        "2023": 716.0,
+        "2022": 710.0,
+        "2021": 798.0
+      }
+    },
+    "cash_flow": {}
+  }
+}

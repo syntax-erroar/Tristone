@@ -1,0 +1,50 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2026"
+  ],
+  "confidence": 0.30000000000000004,
+  "line_items": [
+    {
+      "name": "Convertible Notes due 2026 conversion, see Note",
+      "values": [
+        8.0
+      ],
+      "years": [
+        "2026"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Interest (including amounts capitalized of $0.2 million, $1.1 million and $1.0 million, respectively) \u200b $274.7 \u200b $237.5 \u200b $284.5 Income taxes received, net \u200b $(7.4) \u200b $(10.5) \u200b \u200b (1.7) Schedule of non-cash activities",
+      "is_total": false
+    },
+    {
+      "name": "Mudrick transaction, see Note",
+      "values": [
+        8.0
+      ],
+      "years": [
+        "2026"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Interest (including amounts capitalized of $0.2 million, $1.1 million and $1.0 million, respectively) \u200b $274.7 \u200b $237.5 \u200b $284.5 Income taxes received, net \u200b $(7.4) \u200b $(10.5) \u200b \u200b (1.7) Schedule of non-cash activities",
+      "is_total": false
+    },
+    {
+      "name": "DCIP digital projectors transaction, see Note",
+      "values": [
+        6.0
+      ],
+      "years": [
+        "2026"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Interest (including amounts capitalized of $0.2 million, $1.1 million and $1.0 million, respectively) \u200b $274.7 \u200b $237.5 \u200b $284.5 Income taxes received, net \u200b $(7.4) \u200b $(10.5) \u200b \u200b (1.7) Schedule of non-cash activities",
+      "is_total": false
+    }
+  ]
+}

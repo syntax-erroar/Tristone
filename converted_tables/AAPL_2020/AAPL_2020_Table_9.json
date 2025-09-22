@@ -1,0 +1,177 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.6545454545454545,
+  "line_items": [
+    {
+      "name": "revenue",
+      "values": [
+        0.0,
+        12.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "As of September",
+      "values": [
+        26.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "be recognized within",
+      "values": [
+        22.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "| 2020 Form",
+      "values": [
+        10.0,
+        41.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "interest income",
+      "values": [
+        0.0,
+        26.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other Income",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 26,",
+      "values": [
+        2020.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "fair value hedges",
+      "values": [
+        0.0,
+        465.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "$465 million and",
+      "values": [
+        777.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "for 2020 and",
+      "values": [
+        2019.0,
+        26.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 26,",
+      "values": [
+        2020.0,
+        28.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and September 28,",
+      "values": [
+        2019.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

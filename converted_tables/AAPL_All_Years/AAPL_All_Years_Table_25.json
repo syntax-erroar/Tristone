@@ -1,0 +1,102 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "billions",
+  "years": [
+    "2023"
+  ],
+  "confidence": 0.3,
+  "line_items": [
+    {
+      "name": "As of September",
+      "values": [
+        30.0
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 30,",
+      "values": [
+        2023.0
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "outstanding RSUs was",
+      "values": [
+        18.6
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "weighted-average period of",
+      "values": [
+        2.5
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2.5 years. Note",
+      "values": [
+        12.0
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "as of September",
+      "values": [
+        30.0
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 30,",
+      "values": [
+        2023.0
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

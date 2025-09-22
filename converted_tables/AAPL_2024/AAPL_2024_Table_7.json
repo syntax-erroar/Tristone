@@ -1,0 +1,447 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2024",
+    "2023"
+  ],
+  "confidence": 0.6620689655172415,
+  "line_items": [
+    {
+      "name": "(",
+      "values": [
+        1.0,
+        2.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "market data. (",
+      "values": [
+        2.0,
+        28.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 28,",
+      "values": [
+        2024.0,
+        2.6
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "(refer to Note",
+      "values": [
+        7.0,
+        3.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "income taxes",
+      "values": [
+        28.0,
+        2024.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Income Taxes",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "income taxes",
+      "values": [
+        30.0,
+        2023.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Income Taxes",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "marketable securities included",
+      "values": [
+        13.2,
+        13.8
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "use. The September",
+      "values": [
+        28.0,
+        2024.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "(refer to Note",
+      "values": [
+        7.0,
+        28.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "income taxes",
+      "values": [
+        2024.0,
+        86.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Income Taxes",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "had maturities between",
+      "values": [
+        1.0,
+        5.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and 5 years",
+      "values": [
+        0.0,
+        10.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "10 % between",
+      "values": [
+        5.0,
+        10.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and 10 years",
+      "values": [
+        0.0,
+        4.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "% greater than",
+      "values": [
+        10.0,
+        28.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 28,",
+      "values": [
+        2024.0,
+        14.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "had maturities between",
+      "values": [
+        1.0,
+        5.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and 5 years",
+      "values": [
+        0.0,
+        9.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "9 % between",
+      "values": [
+        5.0,
+        10.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and 10 years",
+      "values": [
+        0.0,
+        77.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "% greater than",
+      "values": [
+        10.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        0.0,
+        12.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        2024.0,
+        10.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        37.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "may use forwards",
+      "values": [
+        0.0,
+        28.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 28,",
+      "values": [
+        2024.0,
+        18.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "interest rate swaps",
+      "values": [
+        0.0,
+        28.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 28,",
+      "values": [
+        2024.0,
+        30.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and September 30,",
+      "values": [
+        2023.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2023",
+    "2022",
+    "2013",
+    "2009"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "s auditor since",
+      "values": [
+        2009.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013",
+        "2009"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "California November",
+      "values": [
+        2.0,
+        2023.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013",
+        "2009"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "California November",
+      "values": [
+        2.0,
+        2023.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013",
+        "2009"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Item",
+      "values": [
+        8.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2013",
+        "2009"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

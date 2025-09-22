@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+(In millions),Level,Cost Basis,nan,Gains,nan,Losses,nan,Basis,Equivalents,Investments,Investments
+"June 30, 2025",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Changes in Fair Value,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Recorded in Other,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Comprehensive Income,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Commercial paper,Level 2,"$ 10,880",$,0,$,0,$,"10,880","$ 9,939",$ 941,$ 0
+Certificates of deposit,Level 2,"2,653",nan,0,nan,0,nan,"2,653","2,309",344,0
+U.S. government,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+securities,Level 1,"52,878",nan,71,nan,"(1,462)",nan,"51,487","4,742","46,745",0
+U.S. agency securities,Level 2,"2,686",nan,0,nan,0,nan,"2,686",496,"2,190",0
+Foreign government,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+bonds,Level 2,349,nan,24,nan,(9),nan,364,0,364,0
+Mortgage- and asset-,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+backed securities,Level 2,"2,558",nan,10,nan,(27),nan,"2,541",0,"2,541",0
+Corporate notes and,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+bonds,Level 2,"10,763",nan,124,nan,(101),nan,"10,786",0,"10,786",0
+Corporate notes and,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+bonds,Level 3,"2,511",nan,65,nan,(5),nan,"2,571",0,111,"2,460"
+Municipal securities,Level 2,207,nan,1,nan,(7),nan,201,0,201,0
+Municipal securities,Level 3,104,nan,0,nan,(14),nan,90,0,90,0
+Total debt,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+investments,nan,"$ 85,589",$,295,$,"(1,625)",$,"84,259","$ 17,486","$ 64,313","$ 2,460"
+Changes in Fair Value,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Recorded in Net Income,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Equity investments,Level 1,nan,nan,nan,nan,nan,$,"4,577","$ 1,045",$ 0,"$ 3,532"
+Equity investments,Other,nan,nan,nan,nan,nan,nan,"9,141",0,0,"9,141"
+Total equity,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+investments,nan,nan,nan,nan,nan,nan,$,"13,718","$ 1,045",$ 0,"$ 12,673"
+Cash,nan,nan,nan,nan,nan,nan,$,"11,711","$ 11,711",$ 0,$ 0
+"Derivatives, net (a)",nan,nan,nan,nan,nan,nan,nan,282,0,10,272
+Total,nan,nan,nan,nan,nan,nan,$,"109,970","$ 30,242","$ 64,323","$ 15,405"

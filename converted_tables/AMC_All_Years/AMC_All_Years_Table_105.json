@@ -1,0 +1,76 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2019"
+  ],
+  "confidence": 0.30000000000000004,
+  "line_items": [
+    {
+      "name": "value at December",
+      "values": [
+        31.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "at December 31,",
+      "values": [
+        2019.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "31, 2019 of",
+      "values": [
+        157.7
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "classified as Level",
+      "values": [
+        3.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "hierarchy. See Note",
+      "values": [
+        1.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

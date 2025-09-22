@@ -1,0 +1,47 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2023",
+    "2017",
+    "2016"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "per share on December",
+      "values": [
+        20.0,
+        2016.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2017",
+        "2016"
+      ],
+      "category": "Per Share",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The acquisition was being treated as a purchase in accordance with ASC",
+      "values": [
+        805.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

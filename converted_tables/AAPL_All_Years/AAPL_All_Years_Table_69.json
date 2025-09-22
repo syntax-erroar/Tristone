@@ -1,0 +1,27 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.5,
+  "line_items": [
+    {
+      "name": "of total trade receivables as of September",
+      "values": [
+        28.0,
+        2019.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

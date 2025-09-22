@@ -1,0 +1,64 @@
+{
+  "company_name": "Microsoft Corporation",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2025",
+    "2024",
+    "2023"
+  ],
+  "confidence": 0.6000000000000001,
+  "line_items": [
+    {
+      "name": "Operating cash flows from operating leases",
+      "values": [
+        1829.0,
+        1670.0,
+        1522.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Operating",
+      "confidence": 0.4,
+      "parent_item": "In millions) Year Ended June 30, Cash paid for amounts included in the measurement of lease liabilities",
+      "is_total": false
+    },
+    {
+      "name": "Operating cash flows from operating leases",
+      "values": [
+        1829.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Operating",
+      "confidence": 0.4,
+      "parent_item": "In millions) Year Ended June 30, Cash paid for amounts included in the measurement of lease liabilities",
+      "is_total": false
+    },
+    {
+      "name": "Operating leases",
+      "values": [
+        367723031571.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Operating",
+      "confidence": 0.4,
+      "parent_item": "Operating cash flows from finance leases Financing cash flows from finance leases Right-of-use assets obtained in exchange for lease obligations",
+      "is_total": false
+    }
+  ]
+}

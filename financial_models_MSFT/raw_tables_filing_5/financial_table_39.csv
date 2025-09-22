@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+(In millions),nan,nan,nan,nan,nan,nan
+"Year Ended June 30,",nan,2024,nan,2023,nan,2022
+Derivatives,nan,nan,nan,nan,nan,nan
+"Balance, beginning of period",$,(27 ),$,(13 ),$,(19 )
+"Unrealized gains (losses), net of tax of $(4), $9, and $(15)",nan,(14 ),nan,34,nan,(57 )
+Reclassification adjustments for (gains) losses included in other income,nan,nan,nan,nan,nan,nan
+"(expense), net",nan,48,nan,(61 ),nan,79
+Tax expense (benefit) included in provision for income taxes,nan,(10 ),nan,13,nan,(16 )
+Amounts reclassified from accumulated other comprehensive loss,nan,38,nan,(48 ),nan,63
+"Net change related to derivatives, net of tax of $6, $(4), and $1",nan,24,nan,(14 ),nan,6
+"Balance, end of period",$,(3 ),$,(27 ),$,(13 )
+Investments,nan,nan,nan,nan,nan,nan
+"Balance, beginning of period",$,"(3,582 )",$,"(2,138 )",$,"3,222"
+"Unrealized gains (losses), net of tax of $247, $(393), and $(1,440)",nan,915,nan,"(1,523 )",nan,"(5,405 )"
+"Reclassification adjustments for losses included in other income (expense), net",nan,53,nan,99,nan,57
+Tax benefit included in provision for income taxes,nan,(11 ),nan,(20 ),nan,(12 )
+Amounts reclassified from accumulated other comprehensive loss,nan,42,nan,79,nan,45
+"Net change related to investments, net of tax of $258, $(373), and $(1,428)",nan,957,nan,"(1,444 )",nan,"(5,360 )"
+"Balance, end of period",$,"(2,625 )",$,"(3,582 )",$,"(2,138 )"
+Translation Adjustments and Other,nan,nan,nan,nan,nan,nan
+"Balance, beginning of period",$,"(2,734 )",$,"(2,527 )",$,"(1,381 )"
+"Translation adjustments and other, net of tax of $0, $0, and $0",nan,(228 ),nan,(207 ),nan,"(1,146 )"
+"Balance, end of period",$,"(2,962 )",$,"(2,734 )",$,"(2,527 )"
+"Accumulated other comprehensive loss, end of period",$,"(5,590 )",$,"(6,343 )",$,"(4,678 )"

@@ -1,0 +1,71 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2022",
+    "2021",
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.6000000000000001,
+  "line_items": [
+    {
+      "name": "other expense during the years ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2022",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": "December 31, 2020, PSU awards of 1,436,297 were granted to certain members of management and executive officers, with three-year cumulative Adjusted EBITDA and free cash flow target conditions and service conditions, covering a performance period beginning January 1, 2020 and ending on December 31, 2022. The PSUs will vest based on achieving 80 % to 120 % of the performance targets with the corresponding vested unit amount ranging from 50 % to 200 % (or 30 % to 200 % for PSU awards granted prior to year 2020). If the performance target is met at 100%, the PSU awards granted during the year ended December 31, 2020 will vest at 1,436,297 units in the aggregate. No PSUs will vest if Holdings does not achieve 80% of the three-year cumulative Adjusted EBITDA and free cash flow target. Additionally, unvested PSU\u2019s shall be ratably forfeited upon termination of service prior to December 31, 2022. The vested PSUs will be settled within 30 days of vesting which will occur upon certification of performance results by the Compensation Committee of the Board of Directors. ============================================================ During the year ended December 31, 2019, PSU awards of 730,167 were granted to certain members of management and executive officers, with three-year cumulative Adjusted EBITDA, diluted earnings per share, and net profit performance target conditions and service conditions, covering a performance period beginning January 1, 2019 and ending on December 31, 2021. During the year ended December 31, 2018, PSU awards of 653,669 were granted to certain members of management and executive officers with three-year cumulative net profit, Adjusted EBITDA, and diluted earnings per share performance target conditions and service conditions, covering a performance period beginning January 1, 2018 and ending on December 31, 2020. During the year ended December 31, 2017, PSU awards were granted to certain members of management and executive officers with three-year cumulative net profit, Adjusted EBITDA, and diluted earnings per share performance target conditions and service conditions, covering a performance period beginning January 1, 2017 and ending on December 31, 2019. The performance conditions were not met as of December 31, 2019 and 100 % of the awards were forfeited. On October 30, 2020, based upon the recommendation of the Compensation Committee, the Board of Directors of the Company approved a modification to the PSUs for the awards granted in 2018, 2019, and 2020. The modification included separating the three-year cumulative performance targets into three separate year performance targets applicable to each tranche year. Due to the dramatic impact of the COVID-19 pandemic on the Company\u2019s business, the Board of Directors waived attainment of the 2020 tranche year performance targets and established a vesting level for such PSUs at 90 %. In addition, the service conditions were modified, and vesting is now subject to the participant\u2019s continued employment through the end of the three-year cumulative period. The Company accounted for the modification in accordance with ASC 718-20, Compensation-Stock Compensation, as an exchange of the original award, that was not expected to vest, for a new award. The Company measured the fair value of the new award on the modification date, October 30, 2020, because the Company determined that achieving performance thresholds were probable for certain tranche awards. The Company recorded approximately $1.2 million, $(5.8) million, and $5.8 million of expense (credit) related to PSUs in general and administrative",
+      "is_total": false
+    },
+    {
+      "name": "million on these units during the year ended December",
+      "values": [
+        31.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2022",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "December 31, 2020, PSU awards of 1,436,297 were granted to certain members of management and executive officers, with three-year cumulative Adjusted EBITDA and free cash flow target conditions and service conditions, covering a performance period beginning January 1, 2020 and ending on December 31, 2022. The PSUs will vest based on achieving 80 % to 120 % of the performance targets with the corresponding vested unit amount ranging from 50 % to 200 % (or 30 % to 200 % for PSU awards granted prior to year 2020). If the performance target is met at 100%, the PSU awards granted during the year ended December 31, 2020 will vest at 1,436,297 units in the aggregate. No PSUs will vest if Holdings does not achieve 80% of the three-year cumulative Adjusted EBITDA and free cash flow target. Additionally, unvested PSU\u2019s shall be ratably forfeited upon termination of service prior to December 31, 2022. The vested PSUs will be settled within 30 days of vesting which will occur upon certification of performance results by the Compensation Committee of the Board of Directors. ============================================================ During the year ended December 31, 2019, PSU awards of 730,167 were granted to certain members of management and executive officers, with three-year cumulative Adjusted EBITDA, diluted earnings per share, and net profit performance target conditions and service conditions, covering a performance period beginning January 1, 2019 and ending on December 31, 2021. During the year ended December 31, 2018, PSU awards of 653,669 were granted to certain members of management and executive officers with three-year cumulative net profit, Adjusted EBITDA, and diluted earnings per share performance target conditions and service conditions, covering a performance period beginning January 1, 2018 and ending on December 31, 2020. During the year ended December 31, 2017, PSU awards were granted to certain members of management and executive officers with three-year cumulative net profit, Adjusted EBITDA, and diluted earnings per share performance target conditions and service conditions, covering a performance period beginning January 1, 2017 and ending on December 31, 2019. The performance conditions were not met as of December 31, 2019 and 100 % of the awards were forfeited. On October 30, 2020, based upon the recommendation of the Compensation Committee, the Board of Directors of the Company approved a modification to the PSUs for the awards granted in 2018, 2019, and 2020. The modification included separating the three-year cumulative performance targets into three separate year performance targets applicable to each tranche year. Due to the dramatic impact of the COVID-19 pandemic on the Company\u2019s business, the Board of Directors waived attainment of the 2020 tranche year performance targets and established a vesting level for such PSUs at 90 %. In addition, the service conditions were modified, and vesting is now subject to the participant\u2019s continued employment through the end of the three-year cumulative period. The Company accounted for the modification in accordance with ASC 718-20, Compensation-Stock Compensation, as an exchange of the original award, that was not expected to vest, for a new award. The Company measured the fair value of the new award on the modification date, October 30, 2020, because the Company determined that achieving performance thresholds were probable for certain tranche awards. The Company recorded approximately $1.2 million, $(5.8) million, and $5.8 million of expense (credit) related to PSUs in general and administrative",
+      "is_total": false
+    },
+    {
+      "name": "million on these units during the year ended December",
+      "values": [
+        31.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2022",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "December 31, 2020, PSU awards of 1,436,297 were granted to certain members of management and executive officers, with three-year cumulative Adjusted EBITDA and free cash flow target conditions and service conditions, covering a performance period beginning January 1, 2020 and ending on December 31, 2022. The PSUs will vest based on achieving 80 % to 120 % of the performance targets with the corresponding vested unit amount ranging from 50 % to 200 % (or 30 % to 200 % for PSU awards granted prior to year 2020). If the performance target is met at 100%, the PSU awards granted during the year ended December 31, 2020 will vest at 1,436,297 units in the aggregate. No PSUs will vest if Holdings does not achieve 80% of the three-year cumulative Adjusted EBITDA and free cash flow target. Additionally, unvested PSU\u2019s shall be ratably forfeited upon termination of service prior to December 31, 2022. The vested PSUs will be settled within 30 days of vesting which will occur upon certification of performance results by the Compensation Committee of the Board of Directors. ============================================================ During the year ended December 31, 2019, PSU awards of 730,167 were granted to certain members of management and executive officers, with three-year cumulative Adjusted EBITDA, diluted earnings per share, and net profit performance target conditions and service conditions, covering a performance period beginning January 1, 2019 and ending on December 31, 2021. During the year ended December 31, 2018, PSU awards of 653,669 were granted to certain members of management and executive officers with three-year cumulative net profit, Adjusted EBITDA, and diluted earnings per share performance target conditions and service conditions, covering a performance period beginning January 1, 2018 and ending on December 31, 2020. During the year ended December 31, 2017, PSU awards were granted to certain members of management and executive officers with three-year cumulative net profit, Adjusted EBITDA, and diluted earnings per share performance target conditions and service conditions, covering a performance period beginning January 1, 2017 and ending on December 31, 2019. The performance conditions were not met as of December 31, 2019 and 100 % of the awards were forfeited. On October 30, 2020, based upon the recommendation of the Compensation Committee, the Board of Directors of the Company approved a modification to the PSUs for the awards granted in 2018, 2019, and 2020. The modification included separating the three-year cumulative performance targets into three separate year performance targets applicable to each tranche year. Due to the dramatic impact of the COVID-19 pandemic on the Company\u2019s business, the Board of Directors waived attainment of the 2020 tranche year performance targets and established a vesting level for such PSUs at 90 %. In addition, the service conditions were modified, and vesting is now subject to the participant\u2019s continued employment through the end of the three-year cumulative period. The Company accounted for the modification in accordance with ASC 718-20, Compensation-Stock Compensation, as an exchange of the original award, that was not expected to vest, for a new award. The Company measured the fair value of the new award on the modification date, October 30, 2020, because the Company determined that achieving performance thresholds were probable for certain tranche awards. The Company recorded approximately $1.2 million, $(5.8) million, and $5.8 million of expense (credit) related to PSUs in general and administrative",
+      "is_total": false
+    }
+  ]
+}

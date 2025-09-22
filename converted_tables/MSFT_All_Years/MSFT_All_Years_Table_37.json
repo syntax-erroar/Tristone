@@ -1,0 +1,128 @@
+{
+  "company_name": "Microsoft Corporation",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2023",
+    "2022",
+    "2021",
+    "2020"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "This change in accounting estimate will be effective beginning fiscal year",
+      "values": [
+        2023.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "We had previously increased the estimated useful lives of both server and network equipment in July",
+      "values": [
+        2020.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and content such as Office",
+      "values": [
+        365.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "PART II Item",
+      "values": [
+        8.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "PART II Item",
+      "values": [
+        8.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "PART II Item",
+      "values": [
+        8.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

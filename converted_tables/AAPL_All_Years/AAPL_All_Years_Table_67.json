@@ -1,0 +1,115 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2020",
+    "2019",
+    "2018"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Foreign exchange contracts",
+      "values": [
+        365.0,
+        959.0,
+        682.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Cash flow hedges",
+      "is_total": false
+    },
+    {
+      "name": "Foreign exchange contracts",
+      "values": [
+        365.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Cash flow hedges",
+      "is_total": false
+    },
+    {
+      "name": "Foreign currency debt",
+      "values": [
+        15.0,
+        58.0,
+        4.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Interest rate contracts (57) \u2014 1 Total $308 $(959) $683 Net investment hedges",
+      "is_total": false
+    },
+    {
+      "name": "Foreign currency debt",
+      "values": [
+        15.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Interest rate contracts (57) \u2014 1 Total $308 $(959) $683 Net investment hedges",
+      "is_total": false
+    },
+    {
+      "name": "Foreign exchange contracts",
+      "values": [
+        1553.0,
+        116.0,
+        482.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Cash flow hedges",
+      "is_total": false
+    },
+    {
+      "name": "Foreign exchange contracts",
+      "values": [
+        1553.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Cash flow hedges",
+      "is_total": false
+    }
+  ]
+}

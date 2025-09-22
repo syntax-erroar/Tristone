@@ -1,0 +1,64 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2021",
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.6000000000000001,
+  "line_items": [
+    {
+      "name": "Unrealized net holding loss arising during the period \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b",
+      "values": [
+        0.1,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Net gain (loss) arising during the period, net of tax \u200b 12.3 \u200b (4.1) \u200b (15.5) Equity method investee's cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Other comprehensive income (loss) \u200b (67.0) \u200b 64.8 \u200b",
+      "values": [
+        31.6,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Revenue",
+      "confidence": 0.4,
+      "parent_item": "Net gain (loss) arising during the period, net of tax \u200b 12.3 \u200b (4.1) \u200b (15.5) Equity method investee's cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Total comprehensive loss \u200b \u200b (1,336.8) \u200b \u200b (4,524.6) \u200b \u200b",
+      "values": [
+        180.7,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Net gain (loss) arising during the period, net of tax \u200b 12.3 \u200b (4.1) \u200b (15.5) Equity method investee's cash flow hedge",
+      "is_total": false
+    }
+  ]
+}

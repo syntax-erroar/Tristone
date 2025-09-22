@@ -1,0 +1,1059 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2027",
+    "2026",
+    "2025",
+    "2024"
+  ],
+  "confidence": 0.6054545454545452,
+  "line_items": [
+    {
+      "name": "dated as of September",
+      "values": [
+        14.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The Supplemental Indenture amended the debt covenant under the Convertible Notes due",
+      "values": [
+        2024.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "are convertible at the option of the holders thereof on the same terms as the Convertible Notes due",
+      "values": [
+        2024.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "commencing on September",
+      "values": [
+        15.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "over the extended term of the Convertible Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and will amortize those costs to interest expense under the effective interest method over the extended term of the Convertible Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "For the years ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "related to the derivative liability fair value adjustments for embedded conversion feature in the Convertible Notes due",
+      "values": [
+        2024.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "For the years ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million recorded in other expense during the year ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "diluted share capital being issued upon conversion in full of the Convertible Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Per Share",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "dilution adjustments as set forth in the indenture governing the Convertible Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "at any time and from time to time until September",
+      "values": [
+        15.0,
+        2024.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "shares of Class A common stock before giving effect to the conversion price reset on September",
+      "values": [
+        14.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Per Share",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "on December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "On April",
+      "values": [
+        24.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "First Lien Notes due",
+      "values": [
+        2025.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "commencing October",
+      "values": [
+        15.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "will mature on April",
+      "values": [
+        15.0,
+        2025.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and will amortize those costs to interest expense under the effective interest method over the term of the First Lien Notes due",
+      "values": [
+        2025.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Sterling Notes Due",
+      "values": [
+        2024.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million related to the issuance of the Sterling Notes due",
+      "values": [
+        2024.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "mature on November",
+      "values": [
+        15.0,
+        2024.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "commencing on May",
+      "values": [
+        15.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Sterling Notes due",
+      "values": [
+        2024.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million related to the issuance of the additional Sterling Notes due",
+      "values": [
+        2024.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "mature on November",
+      "values": [
+        15.0,
+        2024.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "commencing on May",
+      "values": [
+        15.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Interest on the additional Sterling Notes will accrue from November",
+      "values": [
+        8.0,
+        2016.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "using net proceeds from certain equity offerings completed on or prior to November",
+      "values": [
+        15.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "days of November",
+      "values": [
+        8.0,
+        2016.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and it was declared effective June",
+      "values": [
+        7.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "All of the original notes were exchanged as of July",
+      "values": [
+        12.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of the then outstanding Sterling Notes due",
+      "values": [
+        2024.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Notes Due",
+      "values": [
+        2025.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "related to the issuance of the Notes due",
+      "values": [
+        2025.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "mature on June",
+      "values": [
+        15.0,
+        2025.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "commencing on December",
+      "values": [
+        15.0,
+        2015.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of the then outstanding Notes due",
+      "values": [
+        2025.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Notes Due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million related to the issuance of the Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "mature on November",
+      "values": [
+        15.0,
+        2026.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "commencing on May",
+      "values": [
+        15.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and it was declared effective June",
+      "values": [
+        7.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "All of the original notes were exchanged as of July",
+      "values": [
+        12.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of the then outstanding Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Notes Due",
+      "values": [
+        2027.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million related to the issuance of the Notes due",
+      "values": [
+        2027.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "mature on May",
+      "values": [
+        15.0,
+        2027.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "commencing on November",
+      "values": [
+        15.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "at a redemption price as set forth in the indenture governing the Notes due",
+      "values": [
+        2027.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and it was declared effective June",
+      "values": [
+        7.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "All of the original notes were exchanged as of July",
+      "values": [
+        12.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of the then outstanding Notes due",
+      "values": [
+        2027.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Mudrick Transaction On December",
+      "values": [
+        14.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

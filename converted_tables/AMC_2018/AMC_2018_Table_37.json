@@ -1,0 +1,98 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "confidence": 0.72,
+  "line_items": [
+    {
+      "name": "Unrealized net holding gain (loss) arising during the period \u2014 \u2014 \u2014",
+      "values": [
+        1.2,
+        0.5,
+        0.71
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Net gain (loss) arising during the period 3.80.44.2 (2.6) (0.4) (3.0) (0.5) 0.2 (0.3) Marketable securities",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding gain (loss) arising during the period \u2014 \u2014 \u2014",
+      "values": [
+        1.2,
+        0.5,
+        0.71
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Net gain (loss) arising during the period 3.80.44.2 (2.6) (0.4) (3.0) (0.5) 0.2 (0.3) Marketable securities",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding gain (loss) arising during the period 0.2 \u2014 0.2 \u2014 \u2014 \u2014",
+      "values": [
+        0.5,
+        0.2,
+        0.3
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Realized net gain reclassified into investment expense (income) \u2014 \u2014 \u2014 (0.6) 0.2 (0.4) (3.0) 1.2 (1.8) Equity method investees' cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Realized net (gain) loss reclassified into equity in earnings of non-consolidated entities (2.2) \u2014",
+      "values": [
+        2.2,
+        1.5,
+        0.6
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": "Realized net gain reclassified into investment expense (income) \u2014 \u2014 \u2014 (0.6) 0.2 (0.4) (3.0) 1.2 (1.8) Equity method investees' cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding gain (loss) arising during the period 0.2 \u2014 0.2 \u2014 \u2014 \u2014 (0.5) 0.2 (0.3) Realized net (gain) loss reclassified into equity in earnings of non-consolidated entities (2.2) \u2014 (2.2) (1.5) 0.6 (0.9) 0.5 (0.1) 0.4 Other comprehensive income (loss)",
+      "values": [
+        124.7,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": "Realized net gain reclassified into investment expense (income) \u2014 \u2014 \u2014 (0.6) 0.2 (0.4) (3.0) 1.2 (1.8) Equity method investees' cash flow hedge",
+      "is_total": false
+    }
+  ]
+}

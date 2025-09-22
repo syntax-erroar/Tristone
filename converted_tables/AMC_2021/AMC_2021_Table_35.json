@@ -1,0 +1,261 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2026",
+    "2021",
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.6230769230769231,
+  "line_items": [
+    {
+      "name": "\u200b \u200b December",
+      "values": [
+        31.0,
+        2021.0,
+        31.0,
+        2020.0
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2020 \u200b December",
+      "values": [
+        31.0,
+        2019.0,
+        78.9,
+        78.9
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b $(78.9) \u200b",
+      "values": [
+        66.8,
+        0.2,
+        67.0,
+        18.3
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b $(18.3) \u200b",
+      "values": [
+        1.8,
+        16.5,
+        0.0,
+        0.9
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "(0.9) \u200b \u200b",
+      "values": [
+        0.5,
+        0.4,
+        1.9,
+        1.9
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "1.9 \u200b \u200b",
+      "values": [
+        0.5,
+        0.5,
+        0.0,
+        13.0
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b \u200b (",
+      "values": [
+        0.7,
+        12.3,
+        4.1,
+        4.1
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b \u200b (",
+      "values": [
+        16.1,
+        0.6,
+        15.5,
+        0.1
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u2014 \u200b (",
+      "values": [
+        0.1,
+        66.8,
+        0.2,
+        67.0
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b $(67.0) \u200b",
+      "values": [
+        64.6,
+        0.2,
+        64.8,
+        34.0
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b $(34.0) \u200b",
+      "values": [
+        2.4,
+        31.6,
+        15.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "diluted",
+      "values": [
+        31.0,
+        2020.0,
+        31.0,
+        2019.0
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Per Share",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Convertible Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

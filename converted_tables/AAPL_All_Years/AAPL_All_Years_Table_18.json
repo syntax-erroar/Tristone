@@ -1,0 +1,50 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "cash_flow",
+  "currency_unit": "millions",
+  "years": [
+    "2023"
+  ],
+  "confidence": 0.30000000000000004,
+  "line_items": [
+    {
+      "name": "Apple Inc. |",
+      "values": [
+        2023.0
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "| 2023 Form",
+      "values": [
+        10.0
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Form 10-K |",
+      "values": [
+        31.0
+      ],
+      "years": [
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

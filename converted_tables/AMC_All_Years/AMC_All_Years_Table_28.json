@@ -1,0 +1,102 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2017"
+  ],
+  "confidence": 0.3857142857142857,
+  "line_items": [
+    {
+      "name": "year ended December",
+      "values": [
+        31.0
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "ended December 31,",
+      "values": [
+        2017.0
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "RSU awards of",
+      "values": [
+        129214.0
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "covered by Section",
+      "values": [
+        162.0
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        1.0
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Revenue",
+      "confidence": 0.5,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        3.0
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Revenue",
+      "confidence": 0.5,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "be settled within",
+      "values": [
+        30.0
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

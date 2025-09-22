@@ -1,0 +1,52 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2019",
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "and",
+      "values": [
+        2018.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "on March",
+      "values": [
+        1.0,
+        2016.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

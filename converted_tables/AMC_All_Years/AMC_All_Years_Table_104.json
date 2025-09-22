@@ -1,0 +1,64 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2024",
+    "2020",
+    "2018"
+  ],
+  "confidence": 0.6000000000000001,
+  "line_items": [
+    {
+      "name": "value. See Note",
+      "values": [
+        14.0,
+        14.0,
+        2018.0
+      ],
+      "years": [
+        "2024",
+        "2020",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Convertible Notes due",
+      "values": [
+        2024.0,
+        8.0,
+        14.0
+      ],
+      "years": [
+        "2024",
+        "2020",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "to September 14,",
+      "values": [
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2020",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}
