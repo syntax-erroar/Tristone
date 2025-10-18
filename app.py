@@ -587,15 +587,62 @@ def run_automated_downloader_tab():
             if files:
                 st.success(f"Completed. {len(files)} outputs produced.")
                 st.subheader("Outputs")
+                
+                # Create a temporary directory for downloads
+                import tempfile
+                import zipfile
+                import shutil
+                
                 for f in files:
                     try:
                         size = os.path.getsize(f)
-                    except Exception:
-                        size = 0
-                    st.markdown(f"- `{f}` ({size:,} bytes)")
+                        filename = os.path.basename(f)
+                        
+                        # Display file info
+                        st.markdown(f"- `{filename}` ({size:,} bytes)")
+                        
+                        # Add download button for each file
+                        if os.path.exists(f):
+                            with open(f, 'rb') as file:
+                                st.download_button(
+                                    label=f"📥 Download {filename}",
+                                    data=file.read(),
+                                    file_name=filename,
+                                    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                    key=f"download_{filename}"
+                                )
+                    except Exception as e:
+                        st.error(f"Error processing {f}: {e}")
+                
+                # Add download all button
+                if len(files) > 1:
+                    try:
+                        # Create a zip file with all outputs
+                        zip_buffer = tempfile.NamedTemporaryFile(delete=False, suffix='.zip')
+                        with zipfile.ZipFile(zip_buffer.name, 'w', zipfile.ZIP_DEFLATED) as zip_file:
+                            for f in files:
+                                if os.path.exists(f):
+                                    zip_file.write(f, os.path.basename(f))
+                        
+                        # Read the zip file
+                        with open(zip_buffer.name, 'rb') as zip_file:
+                            zip_data = zip_file.read()
+                        
+                        # Clean up
+                        os.unlink(zip_buffer.name)
+                        
+                        # Download button for all files
+                        st.download_button(
+                            label="📦 Download All Files (ZIP)",
+                            data=zip_data,
+                            file_name=f"{ticker}_{form_type}_all_files.zip",
+                            mime="application/zip",
+                            key="download_all"
+                        )
+                    except Exception as e:
+                        st.warning(f"Could not create zip file: {e}")
             else:
                 st.error("⚠️ 0 files found. Please check your ticker symbol and try again.")
-                st.info("Make sure the ticker is correct (e.g., AMZN, AAPL, TSLA) and try again before moving forward.")
         except Exception as e:
             st.error(f"Error: {e}")
 
