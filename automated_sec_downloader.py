@@ -297,6 +297,540 @@ class AdvancedSECDownloader:
         print(f"  ✅ Deduplicated file created: {os.path.basename(output_path)}")
         return output_path
     
+    # ===================== First-Pass: Exact-Name + Row-Proximity =====================
+    def _apply_financial_formatting(self, file_path: str) -> None:
+        try:
+            wb = openpyxl.load_workbook(file_path)
+        except Exception:
+            return
+        
+        # Financial statement styling
+        header_fill = PatternFill(start_color="FFDEEAF6", end_color="FFDEEAF6", fill_type="solid")
+        header_font = Font(bold=True, size=11, color="000000")
+        metric_font = Font(size=10, color="000000")
+        number_font = Font(size=10, color="000000")
+        section_header_font = Font(bold=True, size=10, color="000000", italic=True)
+        
+        for ws in wb.worksheets:
+            try:
+                if ws.max_row == 0 or ws.max_column == 0:
+                    continue
+                
+                # Freeze header row
+                ws.freeze_panes = "A2"
+                
+                # Style header row
+                for col_idx in range(1, ws.max_column + 1):
+                    cell = ws.cell(row=1, column=col_idx)
+                    cell.font = header_font
+                    cell.fill = header_fill
+                    cell.alignment = openpyxl.styles.Alignment(horizontal='center', vertical='center')
+                
+                # Process each column
+                for col_idx in range(1, ws.max_column + 1):
+                    column_letter = get_column_letter(col_idx)
+                    max_len = 0
+                    is_numeric_col = False
+                    
+                    # Analyze column content
+                    for row_idx in range(1, ws.max_row + 1):
+                        val = ws.cell(row=row_idx, column=col_idx).value
+                        if val is None:
+                            continue
+                        
+                        val_str = str(val).strip()
+                        if len(val_str) > max_len:
+                            max_len = len(val_str)
+                        
+                        # Check if this is a numeric column (not the first column)
+                        if col_idx != 1 and val_str and val_str not in ['', 'None']:
+                            # Skip if it's a conflict marker or contains text separators
+                            if not (val_str.startswith('{') and val_str.endswith('}')) and '|' not in val_str:
+                                try:
+                                    # Try to parse as number
+                                    clean_val = val_str.replace(',', '').replace('$', '').replace('%', '').replace('(', '-').replace(')', '')
+                                    float(clean_val)
+                                    is_numeric_col = True
+                                except:
+                                    pass
+                    
+                    # Set column width
+                    if col_idx == 1:  # Metric name column
+                        adjusted_width = max(15, min(50, max_len + 3))
+                    else:  # Value columns
+                        adjusted_width = max(12, min(20, max_len + 2))
+                    
+                    ws.column_dimensions[column_letter].width = adjusted_width
+                    
+                    # Apply formatting to each cell in the column
+                    for row_idx in range(1, ws.max_row + 1):
+                        cell = ws.cell(row=row_idx, column=col_idx)
+                        
+                        if row_idx == 1:  # Header row
+                            cell.font = header_font
+                            cell.fill = header_fill
+                            cell.alignment = openpyxl.styles.Alignment(horizontal='center', vertical='center')
+                        else:  # Data rows
+                            if col_idx == 1:  # Metric name column
+                                # Check if this is a section header (contains ">" or is all caps)
+                                metric_name = str(cell.value).strip()
+                                if '>' in metric_name or (metric_name.isupper() and len(metric_name) > 3):
+                                    cell.font = section_header_font
+                                    cell.fill = PatternFill(start_color="FFF2F2F2", end_color="FFF2F2F2", fill_type="solid")
+                                else:
+                                    cell.font = metric_font
+                                cell.alignment = openpyxl.styles.Alignment(horizontal='left', vertical='center')
+                            else:  # Value columns
+                                cell.font = number_font
+                                cell.alignment = openpyxl.styles.Alignment(horizontal='right', vertical='center')
+                                
+                                # Apply number formatting for numeric values
+                                if is_numeric_col and cell.value is not None:
+                                    val_str = str(cell.value).strip()
+                                    if val_str and val_str not in ['', 'None']:
+                                        # Skip conflict markers and text separators
+                                        if not (val_str.startswith('{') and val_str.endswith('}')) and '|' not in val_str:
+                                            try:
+                                                # Check if value is already in parentheses format
+                                                if val_str.startswith('(') and val_str.endswith(')'):
+                                                    # Extract the number and make it negative
+                                                    clean_val = val_str[1:-1].replace(',', '').replace('$', '').replace('%', '')
+                                                    float_val = -float(clean_val)
+                                                else:
+                                                    # Convert to float normally
+                                                    clean_val = val_str.replace(',', '').replace('$', '').replace('%', '')
+                                                    float_val = float(clean_val)
+                                                
+                                                # Apply standard financial number format with parentheses for negatives
+                                                cell.number_format = '#,##0.00_);(#,##0.00)'
+                                                
+                                                # Set the actual numeric value
+                                                cell.value = float_val
+                                            except:
+                                                # Keep as text if conversion fails
+                                                pass
+                
+                # Add professional borders
+                thin_border = openpyxl.styles.Border(
+                    left=openpyxl.styles.Side(style='thin', color='CCCCCC'),
+                    right=openpyxl.styles.Side(style='thin', color='CCCCCC'),
+                    top=openpyxl.styles.Side(style='thin', color='CCCCCC'),
+                    bottom=openpyxl.styles.Side(style='thin', color='CCCCCC')
+                )
+                
+                thick_border = openpyxl.styles.Border(
+                    left=openpyxl.styles.Side(style='medium', color='666666'),
+                    right=openpyxl.styles.Side(style='medium', color='666666'),
+                    top=openpyxl.styles.Side(style='medium', color='666666'),
+                    bottom=openpyxl.styles.Side(style='medium', color='666666')
+                )
+                
+                # Apply borders
+                for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
+                    for cell in row:
+                        if cell.row == 1:  # Header row gets thick border
+                            cell.border = thick_border
+                        else:
+                            cell.border = thin_border
+                
+                # Add alternating row colors for better readability
+                light_fill = PatternFill(start_color="FFF8F8F8", end_color="FFF8F8F8", fill_type="solid")
+                for row_idx in range(2, ws.max_row + 1):
+                    if row_idx % 2 == 0:  # Even rows
+                        for col_idx in range(1, ws.max_column + 1):
+                            cell = ws.cell(row=row_idx, column=col_idx)
+                            # Only apply if not already filled (section headers)
+                            if cell.fill.start_color.index == '00000000':  # Default fill
+                                cell.fill = light_fill
+                
+            except Exception as e:
+                print(f"  ⚠️ Error formatting sheet {ws.title}: {e}")
+        
+        try:
+            wb.save(file_path)
+        except Exception as e:
+            print(f"  ⚠️ Error saving formatted file: {e}")
+    # ===================== Context-Aware + Value-Based + Post-Merge Logic =====================
+    def _extract_year_from_text(self, text):
+        if pd.isna(text):
+            return None
+        text_str = str(text).strip()
+        m = re.search(r"\b(19|20)\d{2}\b", text_str)
+        if m:
+            return int(m.group())
+        return None
+    
+    def _detect_year_headers(self, df, max_rows_to_check=10):
+        year_map = {}
+        for row_idx in range(min(max_rows_to_check, len(df))):
+            row = df.iloc[row_idx].tolist()
+            for col_idx, cell in enumerate(row):
+                year = self._extract_year_from_text(cell)
+                if year and col_idx not in year_map:
+                    year_map[col_idx] = year
+        return year_map
+    
+    def _normalize_value_for_comparison(self, value):
+        """Normalize value for comparison - remove formatting and handle floats"""
+        if pd.isna(value):
+            return None
+        value_str = str(value).strip()
+        value_str = value_str.replace(',', '')
+        value_str = value_str.replace('$', '')
+        value_str = value_str.replace('%', '')
+        try:
+            return float(value_str)
+        except:
+            return value_str.lower()
+    
+    def _check_value_compatibility(self, new_values, new_col_indices, existing_occurrences):
+        """Check if new metric values are compatible with existing group"""
+        existing_col_values = {}
+        for occurrence in existing_occurrences:
+            if len(occurrence) == 4:
+                display_name, row_idx, values, value_col_indices = occurrence
+            else:
+                display_name, row_idx, values, value_col_indices, _ = occurrence
+            for val, col_idx in zip(values, value_col_indices):
+                normalized_val = self._normalize_value_for_comparison(val)
+                if col_idx not in existing_col_values:
+                    existing_col_values[col_idx] = set()
+                existing_col_values[col_idx].add(normalized_val)
+        
+        for new_val, new_col in zip(new_values, new_col_indices):
+            if new_col in existing_col_values:
+                normalized_new_val = self._normalize_value_for_comparison(new_val)
+                if normalized_new_val not in existing_col_values[new_col]:
+                    return False
+        return True
+    
+    def _detect_metric_pattern_with_context(self, row, min_values=1, max_gap=2):
+        """Detect metric pattern with context awareness"""
+        metrics = []
+        i = 0
+        while i < len(row):
+            cell = row[i]
+            if pd.isna(cell) or str(cell).strip() == '':
+                i += 1
+                continue
+            cell_str = str(cell).strip()
+            if re.search(r'[a-zA-Z]', cell_str) and not self._is_numeric_value(cell_str):
+                values = []
+                value_col_indices = []
+                j = i + 1
+                gap_count = 0
+                first_value_found = False
+                while j < len(row) and gap_count <= max_gap:
+                    next_cell = row[j]
+                    next_str = str(next_cell).strip() if pd.notna(next_cell) else ''
+                    if self._is_numeric_value(next_str):
+                        values.append(next_str)
+                        value_col_indices.append(j)
+                        first_value_found = True
+                        gap_count = 0
+                        j += 1
+                    elif first_value_found and re.search(r'[a-zA-Z]', next_str):
+                        break
+                    elif pd.isna(next_cell) or next_str == '':
+                        if first_value_found:
+                            break
+                        else:
+                            gap_count += 1
+                            j += 1
+                    else:
+                        if first_value_found:
+                            break
+                        else:
+                            gap_count += 1
+                            j += 1
+                has_values = len(values) >= min_values
+                metrics.append((cell_str, values, value_col_indices, i, has_values))
+                i = j if has_values else i + 1
+            else:
+                i += 1
+        return metrics
+    
+    def _parse1_identify_metrics_with_context(self, df, start_row=0):
+        """Parse 1: Build hierarchical context & identify unique metrics"""
+        all_metrics = []
+        context_stack = []
+        for idx in range(start_row, len(df)):
+            row_data = df.iloc[idx].tolist()
+            if all(pd.isna(cell) or str(cell).strip() == '' for cell in row_data):
+                continue
+            detected = self._detect_metric_pattern_with_context(row_data)
+            for metric_name, values, value_col_indices, metric_col_idx, has_values in detected:
+                if not has_values:
+                    context_stack = [metric_name]
+                else:
+                    if context_stack:
+                        full_name = " > ".join(context_stack) + " > " + metric_name
+                        display_name = " > ".join(context_stack) + " > " + metric_name
+                    else:
+                        full_name = metric_name
+                        display_name = metric_name
+                    all_metrics.append((full_name, display_name, idx, values, value_col_indices))
+        if not all_metrics:
+            return {}
+        
+        metric_groups = {}
+        for full_name, display_name, row_idx, values, value_col_indices in all_metrics:
+            norm_full_name = self._normalize_metric_name(full_name)
+            matched_key = None
+            for existing_key in metric_groups.keys():
+                if self._normalize_metric_name(existing_key) == norm_full_name:
+                    existing_occurrences = metric_groups[existing_key]
+                    existing_rows = [occ[1] for occ in existing_occurrences]
+                    is_nearby = any(abs(row_idx - er) <= 1 for er in existing_rows)
+                    if is_nearby:
+                        values_match = self._check_value_compatibility(values, value_col_indices, existing_occurrences)
+                        if values_match:
+                            matched_key = existing_key
+                            break
+            if matched_key:
+                metric_groups[matched_key].append((display_name, row_idx, values, value_col_indices))
+            else:
+                metric_groups[full_name] = [(display_name, row_idx, values, value_col_indices)]
+        return metric_groups
+    
+    def _parse2_map_values_to_years(self, metric_groups, year_map):
+        """Parse 2: Map values to years with disambiguation"""
+        metric_year_values = {}
+        name_counter = {}
+        for full_name, occurrences in metric_groups.items():
+            year_values = {}
+            for occurrence in occurrences:
+                if len(occurrence) == 4:
+                    display_name, row_idx, values, value_col_indices = occurrence
+                else:
+                    display_name, row_idx, values, value_col_indices, _ = occurrence
+                for value, col_idx in zip(values, value_col_indices):
+                    if col_idx in year_map:
+                        year = year_map[col_idx]
+                        if year not in year_values:
+                            year_values[year] = []
+                        year_values[year].append(value)
+            
+            has_conflicts = False
+            for year, values in year_values.items():
+                unique_normalized = set(self._normalize_value_for_comparison(v) for v in values)
+                if len(unique_normalized) > 1:
+                    has_conflicts = True
+                    break
+            
+            if has_conflicts:
+                name_counter[full_name] = name_counter.get(full_name, 0) + 1
+                disambiguated_name = f"{full_name} [Variant {name_counter[full_name]}]"
+                metric_year_values[disambiguated_name] = year_values
+            else:
+                metric_year_values[full_name] = year_values
+        return metric_year_values
+    
+    def _parse3_build_output(self, metric_year_values):
+        """Parse 3: Build deduplicated output"""
+        all_years = set()
+        for year_values in metric_year_values.values():
+            all_years.update(year_values.keys())
+        if not all_years:
+            return pd.DataFrame()
+        min_year = min(all_years)
+        max_year = max(all_years)
+        year_columns = list(range(max_year, min_year - 1, -1))
+        output_rows = []
+        for full_name, year_values in metric_year_values.items():
+            row = {'Metric Name': full_name}
+            for year in year_columns:
+                if year in year_values:
+                    values = year_values[year]
+                    if len(values) == 1:
+                        row[str(year)] = values[0]
+                    else:
+                        unique_values = list(set(values))
+                        if len(unique_values) == 1:
+                            row[str(year)] = unique_values[0]
+                        else:
+                            row[str(year)] = "{" + ",".join(unique_values) + "}"
+                else:
+                    row[str(year)] = None
+            output_rows.append(row)
+        columns = ['Metric Name'] + [str(year) for year in year_columns]
+        return pd.DataFrame(output_rows, columns=columns)
+    
+    def _merge_rows_by_values(self, df):
+        """Post-process: Merge rows with matching values"""
+        if df is None or df.empty:
+            return df, set()
+        year_cols = [col for col in df.columns if col != 'Metric Name']
+        if not year_cols:
+            return df, set()
+        
+        row_value_patterns = []
+        for i in range(len(df)):
+            row = df.iloc[i]
+            value_pattern = {}
+            for col in year_cols:
+                val = row[col]
+                normalized = self._normalize_value_for_comparison(val)
+                if normalized is not None and normalized != 0 and normalized != '':
+                    val_str = str(val).strip()
+                    if not (val_str.startswith('{') and val_str.endswith('}')):
+                        value_pattern[col] = normalized
+            row_value_patterns.append(value_pattern)
+        
+        merged_indices = set()
+        merged_rows = []
+        merged_row_indices = set()
+        
+        for i in range(len(df)):
+            if i in merged_indices:
+                continue
+            current_row = df.iloc[i]
+            current_name = current_row['Metric Name']
+            current_pattern = row_value_patterns[i]
+            
+            if not current_pattern:
+                merged_rows.append(current_row.to_dict())
+                continue
+            
+            merged_names = [current_name]
+            rows_to_merge = [i]
+            
+            for j in range(i + 1, len(df)):
+                if j in merged_indices:
+                    continue
+                compare_row = df.iloc[j]
+                compare_name = compare_row['Metric Name']
+                compare_pattern = row_value_patterns[j]
+                
+                if not compare_pattern:
+                    continue
+                
+                has_match = False
+                for col in current_pattern:
+                    if col in compare_pattern:
+                        if current_pattern[col] == compare_pattern[col]:
+                            has_match = True
+                            break
+                
+                if has_match:
+                    merged_names.append(compare_name)
+                    rows_to_merge.append(j)
+                    merged_indices.add(j)
+            
+            merged_row = {'Metric Name': ' / '.join(merged_names)}
+            for col in year_cols:
+                all_values = []
+                for row_idx in rows_to_merge:
+                    val = df.iloc[row_idx][col]
+                    if pd.notna(val) and str(val).strip() != '':
+                        normalized = self._normalize_value_for_comparison(val)
+                        if normalized is not None and normalized != 0 and normalized != '':
+                            val_str = str(val).strip()
+                            if not (val_str.startswith('{') and val_str.endswith('}')):
+                                all_values.append(val)
+                if len(all_values) == 0:
+                    merged_row[col] = None
+                elif len(all_values) == 1:
+                    merged_row[col] = all_values[0]
+                else:
+                    unique_normalized = set(self._normalize_value_for_comparison(v) for v in all_values)
+                    if len(unique_normalized) == 1:
+                        merged_row[col] = all_values[0]
+                    else:
+                        merged_row[col] = ' | '.join(str(v) for v in all_values)
+            
+            if len(merged_names) > 1:
+                merged_row_indices.add(len(merged_rows))
+            merged_rows.append(merged_row)
+        
+        result_df = pd.DataFrame(merged_rows)
+        return result_df, merged_row_indices
+    
+    def _apply_yellow_highlighting(self, file_path, sheet_merged_rows_map):
+        """Apply yellow highlighting to merged rows"""
+        try:
+            wb = openpyxl.load_workbook(file_path)
+            yellow_fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
+            for sheet_name, merged_row_indices in sheet_merged_rows_map.items():
+                if sheet_name not in wb.sheetnames:
+                    continue
+                ws = wb[sheet_name]
+                for row_idx in merged_row_indices:
+                    excel_row = row_idx + 2
+                    for cell in ws[excel_row]:
+                        cell.fill = yellow_fill
+            wb.save(file_path)
+        except Exception:
+            pass
+    
+    def context_aware_deduplicate(self, input_path: str, output_path_before: Optional[str] = None, output_path_after: Optional[str] = None, header_rows: int = 10, data_start_row: int = 0, merge_duplicates: bool = True) -> tuple:
+        """Process Excel file with context-aware + value-based + post-merge logic"""
+        try:
+            xls = pd.ExcelFile(input_path)
+        except Exception as e:
+            print(f"  ❌ Error reading Excel: {e}")
+            return None, None
+        
+        if output_path_before is None:
+            base, ext = os.path.splitext(input_path)
+            output_path_before = f"{base}_deduplicated_before_merge{ext}"
+        if output_path_after is None and merge_duplicates:
+            base, ext = os.path.splitext(input_path)
+            output_path_after = f"{base}_deduplicated_after_merge{ext}"
+        
+        writer_before = pd.ExcelWriter(output_path_before, engine='openpyxl')
+        writer_after = pd.ExcelWriter(output_path_after, engine='openpyxl') if merge_duplicates else None
+        sheet_merged_rows_map = {}
+        
+        for sheet_name in xls.sheet_names:
+            try:
+                df = pd.read_excel(input_path, sheet_name=sheet_name, header=None)
+            except Exception as e:
+                print(f"  ⚠️ Skipping sheet '{sheet_name}' (read error): {e}")
+                continue
+            
+            year_map = self._detect_year_headers(df, max_rows_to_check=header_rows)
+            metric_groups = self._parse1_identify_metrics_with_context(df, start_row=data_start_row)
+            
+            if not metric_groups:
+                pd.DataFrame().to_excel(writer_before, sheet_name=sheet_name, index=False)
+                if writer_after:
+                    pd.DataFrame().to_excel(writer_after, sheet_name=sheet_name, index=False)
+                continue
+            
+            metric_year_values = self._parse2_map_values_to_years(metric_groups, year_map)
+            output_df = self._parse3_build_output(metric_year_values)
+            
+            if output_df is not None and not output_df.empty:
+                output_df.to_excel(writer_before, sheet_name=sheet_name, index=False)
+                
+                if merge_duplicates and writer_after:
+                    output_df_merged, merged_row_indices = self._merge_rows_by_values(output_df)
+                    output_df_merged.to_excel(writer_after, sheet_name=sheet_name, index=False)
+                    sheet_merged_rows_map[sheet_name] = merged_row_indices
+        
+        writer_before.close()
+        if writer_after:
+            writer_after.close()
+        
+        if merge_duplicates and sheet_merged_rows_map and output_path_after:
+            self._apply_yellow_highlighting(output_path_after, sheet_merged_rows_map)
+            try:
+                self._apply_financial_formatting(output_path_after)
+            except Exception:
+                pass
+        
+        try:
+            self._apply_financial_formatting(output_path_before)
+        except Exception:
+            pass
+        
+        print(f"  ✅ Context-aware output created: {os.path.basename(output_path_before)}")
+        if merge_duplicates and output_path_after:
+            print(f"  ✅ Post-merge output created: {os.path.basename(output_path_after)}")
+        
+        return output_path_before, output_path_after
+    
     def _normalize_form_types(self, form_type_input: str) -> List[str]:
         """Normalize user-provided form types into a list like ["10-K", "10-Q"]. Supports
         comma-separated inputs and aliases like 10K/10Q, and the keyword 'all'."""
@@ -421,8 +955,20 @@ class AdvancedSECDownloader:
                 # For 10-K, use fiscal year with better formatting
                 return f"FY{year}"
             elif ft.startswith("10-Q"):
-                # For 10-Q, use quarter with year and month info
-                quarter = 1 if month <= 3 else 2 if month <= 6 else 3 if month <= 9 else 4
+                # For 10-Q, determine fiscal quarter based on period of report
+                # Q1: Jan-Mar, Q2: Apr-Jun, Q3: Jul-Sep
+                # Note: Q4 is covered by 10-K annual filing, not 10-Q
+                if month <= 3:
+                    quarter = 1
+                elif month <= 6:
+                    quarter = 2
+                elif month <= 9:
+                    quarter = 3
+                else:
+                    # Q4 period should be handled by 10-K, not 10-Q
+                    # If we somehow get here, treat as Q3 to avoid Q4 10-Q labels
+                    quarter = 3
+                
                 month_name = dt.strftime("%b")  # Jan, Feb, Mar, etc.
                 return f"Q{quarter}_{year}_{month_name}"
             elif ft.startswith("8-K"):
@@ -455,7 +1001,17 @@ class AdvancedSECDownloader:
             if ft.startswith("10-K"):
                 return f"{year}-10K"
             if ft.startswith("10-Q"):
-                quarter = 1 if month <= 3 else 2 if month <= 6 else 3 if month <= 9 else 4
+                # Q1: Jan-Mar, Q2: Apr-Jun, Q3: Jul-Sep
+                # Q4 is covered by 10-K annual filing, not 10-Q
+                if month <= 3:
+                    quarter = 1
+                elif month <= 6:
+                    quarter = 2
+                elif month <= 9:
+                    quarter = 3
+                else:
+                    # Q4 period should be handled by 10-K, treat as Q3 to avoid Q4 10-Q labels
+                    quarter = 3
                 return f"{year}-Q{quarter}"
             return f"{year}"
         except Exception:
@@ -2128,7 +2684,9 @@ pause
                         continue
 
                     # Drop completely empty columns then rows
-                    cleaned = df.dropna(axis=1, how='all')
+                    # First, replace empty strings and whitespace with NaN for better detection
+                    df_cleaned = df.replace(r'^\s*$', pd.NA, regex=True)
+                    cleaned = df_cleaned.dropna(axis=1, how='all')
                     cleaned = cleaned.dropna(how='all')
 
                     # If everything got dropped, write an empty sheet to preserve structure
@@ -2684,17 +3242,21 @@ pause
             # STEP 1: Remove empty rows and columns from each sheet and save a new workbook
             no_empty_file = self._remove_empty_rows_and_columns(detailed_file, ticker, form_type)
             
-            # STEP 2: (Removed) Row-wise cleaning stage was deprecated per user request
+            # STEP 2: Context-aware + value-based + post-merge processing on the 'RemovedEmptyRowsCols' file
             row_wise_cleaned_file = None
-
-            # STEP 3: Apply semantic deduplication on the 'RemovedEmptyRowsCols' file (if present)
             dedup_file = None
-            target_for_dedup = no_empty_file or detailed_file
-            if target_for_dedup:
+            if no_empty_file:
                 try:
-                    dedup_file = self.deduplicate_excel_file(target_for_dedup, None, verbose=False)
+                    row_wise_cleaned_file, dedup_file = self.context_aware_deduplicate(
+                        no_empty_file, 
+                        None, 
+                        None, 
+                        header_rows=10, 
+                        data_start_row=0, 
+                        merge_duplicates=True
+                    )
                 except Exception as e:
-                    print(f"  ⚠️ Deduplication skipped due to error: {e}")
+                    print(f"  ⚠️ Context-aware processing skipped due to error: {e}")
 
             return detailed_file, no_empty_file, row_wise_cleaned_file, dedup_file
             

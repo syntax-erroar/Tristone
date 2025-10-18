@@ -1,6 +1,6 @@
 @echo off
 REM Advanced SEC Excel Downloader
-REM Generated on 2025-10-09 11:39:00
+REM Generated on 2025-10-18 14:50:41
 
 echo Starting automated SEC Excel download for AMZN 10-K...
 echo.
@@ -14,22 +14,6 @@ echo.
 
 REM Filing #1: AMAZON COM INC
 echo Downloading filing #1...
-echo URL: https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/Financial_Report.xlsx
-
-REM Try curl first
-curl -L -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -H "Accept: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" --retry 3 --retry-delay 2 -o "AMZN_10-K_FY2024_0001018724_25_000004.xlsx" "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/Financial_Report.xlsx"
-if %errorlevel% equ 0 (
-    echo SUCCESS: Downloaded AMZN_10-K_FY2024_0001018724_25_000004.xlsx
-) else (
-    echo ERROR: Curl failed for AMZN_10-K_FY2024_0001018724_25_000004.xlsx
-)
-
-REM Add delay between downloads
-timeout /t 3 /nobreak >nul
-echo.
-
-REM Filing #2: AMAZON COM INC
-echo Downloading filing #2...
 echo URL: https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/Financial_Report.xlsx
 
 REM Try curl first
@@ -44,8 +28,8 @@ REM Add delay between downloads
 timeout /t 3 /nobreak >nul
 echo.
 
-REM Filing #3: AMAZON COM INC
-echo Downloading filing #3...
+REM Filing #2: AMAZON COM INC
+echo Downloading filing #2...
 echo URL: https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/Financial_Report.xlsx
 
 REM Try curl first
@@ -54,6 +38,38 @@ if %errorlevel% equ 0 (
     echo SUCCESS: Downloaded AMZN_10-K_FY2022_0001018724_23_000004.xlsx
 ) else (
     echo ERROR: Curl failed for AMZN_10-K_FY2022_0001018724_23_000004.xlsx
+)
+
+REM Add delay between downloads
+timeout /t 3 /nobreak >nul
+echo.
+
+REM Filing #3: AMAZON COM INC
+echo Downloading filing #3...
+echo URL: https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/Financial_Report.xlsx
+
+REM Try curl first
+curl -L -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -H "Accept: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" --retry 3 --retry-delay 2 -o "AMZN_10-K_FY2021_0001018724_22_000005.xlsx" "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/Financial_Report.xlsx"
+if %errorlevel% equ 0 (
+    echo SUCCESS: Downloaded AMZN_10-K_FY2021_0001018724_22_000005.xlsx
+) else (
+    echo ERROR: Curl failed for AMZN_10-K_FY2021_0001018724_22_000005.xlsx
+)
+
+REM Add delay between downloads
+timeout /t 3 /nobreak >nul
+echo.
+
+REM Filing #4: AMAZON COM INC
+echo Downloading filing #4...
+echo URL: https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/Financial_Report.xlsx
+
+REM Try curl first
+curl -L -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -H "Accept: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" --retry 3 --retry-delay 2 -o "AMZN_10-K_FY2020_0001018724_21_000004.xlsx" "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/Financial_Report.xlsx"
+if %errorlevel% equ 0 (
+    echo SUCCESS: Downloaded AMZN_10-K_FY2020_0001018724_21_000004.xlsx
+) else (
+    echo ERROR: Curl failed for AMZN_10-K_FY2020_0001018724_21_000004.xlsx
 )
 
 REM Add delay between downloads

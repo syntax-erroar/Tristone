@@ -242,8 +242,8 @@ if not is_authenticated():
             st.error("Invalid email or password")
     st.stop()
 
-# Show logout in sidebar when authenticated
-st.sidebar.button("Logout", on_click=logout)
+# Logout button bottom-right for easy access
+# Placed after auth gate so it only renders for authenticated users
 
 # Show admin tools if current user is admin (by role) or matches ENV admin email
 current_user = get_current_user_email()
@@ -313,7 +313,14 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("SEC Tools Suite")
+header_cols = st.columns([8, 1])
+with header_cols[0]:
+    st.title("SEC Tools Suite")
+with header_cols[1]:
+    st.markdown("<div style=\"height: 1.75rem;\"></div>", unsafe_allow_html=True)
+    if st.button("Logout"):
+        logout()
+        st.rerun()
 st.caption("Unified tools to search, download, and transform SEC EDGAR filings. Your default workflow starts below.")
 
 
@@ -528,14 +535,14 @@ def run_automated_downloader_tab():
     col1, col2, col3 = st.columns(3)
     with col1:
         ticker = st.text_input("Ticker", value=default_ticker, placeholder="e.g., AMZN, AAPL, TSLA", key="auto_ticker")
-    with col2:
+        form_options = ["10-K", "10-Q"]
+        form_index = form_options.index(default_form) if default_form in form_options else 0
+        form_type = st.selectbox("Form Type", form_options, index=form_index, key="auto_form_type")
         download_both = st.checkbox("Download both 10-K and 10-Q", value=False, key="auto_download_both")
         if download_both:
             st.info("Will download both 10-K and 10-Q filings")
-        else:
-            form_options = ["10-K", "10-Q"]
-            form_index = form_options.index(default_form) if default_form in form_options else 0
-            form_type = st.selectbox("Form Type", form_options, index=form_index, key="auto_form_type")
+    with col2:
+        st.empty()
     with col3:
         st.empty()
 
@@ -603,5 +610,4 @@ with tabs[5]:
     run_extractor_tab()
 with tabs[6]:
     run_stream_tab()
-
 
