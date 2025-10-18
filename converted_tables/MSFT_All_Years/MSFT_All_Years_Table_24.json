@@ -1,0 +1,207 @@
+{
+  "company_name": "Microsoft Corporation",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2023",
+    "2022"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Derivative Assets Derivative Liabilities Derivative Assets Derivative Liabilities June",
+      "values": [
+        30.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "June",
+      "values": [
+        30.0,
+        0.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Designated as Hedging Instruments Foreign exchange contracts",
+      "values": [
+        67.0,
+        77.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Not Designated as Hedging Instruments Foreign exchange contracts",
+      "values": [
+        332.0,
+        362.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Equity contracts",
+      "values": [
+        400.0,
+        95.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Other contracts",
+      "values": [
+        6.0,
+        17.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Gross amounts of derivatives",
+      "values": [
+        805.0,
+        551.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Gross amounts of derivatives offset in the balance sheet",
+      "values": [
+        202.0,
+        130.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Cash collateral received",
+      "values": [
+        125.0,
+        75.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Net amounts of derivatives",
+      "values": [
+        724.0,
+        493.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Other current liabilities",
+      "values": [
+        341.0,
+        298.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "term liabilities",
+      "values": [
+        383.0,
+        195.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "as of June",
+      "values": [
+        30.0,
+        2022.0
+      ],
+      "years": [
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

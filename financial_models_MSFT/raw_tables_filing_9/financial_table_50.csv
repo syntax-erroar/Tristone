@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6
+(In millions),nan,nan,nan,nan,nan,nan
+"Year Ended June 30,",nan,2023,nan,2022,nan,2021
+Derivatives,nan,nan,nan,nan,nan,nan
+"Balance, beginning of period",$,(13),$,(19),$,(38)
+"Unrealized gains (losses), net of tax of $9, $(15), and $9",nan,34,nan,(57 ),nan,34
+Reclassification adjustments for (gains) losses included in other,nan,nan,nan,nan,nan,nan
+"income (expense), net",nan,(61),nan,79,nan,(17 )
+Tax expense (benefit) included in provision for income taxes,nan,13,nan,(16 ),nan,2
+Amounts reclassified from accumulated other comprehensive,nan,nan,nan,nan,nan,nan
+income (loss),nan,(48),nan,63,nan,(15 )
+"Net change related to derivatives, net of tax of $(4), $1, and $7",nan,(14),nan,6,nan,19
+"Balance, end of period",$,(27),$,(13),nan,nan
+nan,nan,nan,nan,nan,$,(19)
+Investments,nan,nan,nan,nan,nan,nan
+"Balance, beginning of period",nan,"(2,13",nan,nan,nan,nan
+nan,$,8),$,"3,222",$,"5,478"
+"Unrealized losses, net of tax of $(393), $(1,440), and $(589)",nan,"(1,52",nan,nan,nan,nan
+nan,nan,3 ),nan,"(5,405 )",nan,"(2,216 )"
+Reclassification adjustments for (gains) losses included in other,nan,nan,nan,nan,nan,nan
+"income (expense), net",nan,99,nan,57,nan,(63 )
+Tax expense (benefit) included in provision for income taxes,nan,(20),nan,(12 ),nan,13
+Amounts reclassified from accumulated other comprehensive,nan,nan,nan,nan,nan,nan
+income (loss),nan,79,nan,45,nan,(50 )
+"Net change related to investments, net of tax of $(373), $(1,428), and",nan,"(1,44",nan,nan,nan,nan
+$(602),nan,4),nan,"(5,360 )",nan,"(2,266 )"
+Cumulative effect of accounting changes,nan,0,nan,0,nan,10
+"Balance, end of period",nan,"(3,58",nan,nan,nan,nan
+nan,$,2),nan,nan,nan,nan
+nan,nan,nan,"$ (2,138)",nan,$,"3,222"
+Translation Adjustments and Other,nan,nan,nan,nan,nan,nan
+"Balance, beginning of period",nan,"(2,52",nan,nan,nan,"(2,25"
+nan,$,7),"$ (1,381)",nan,$,4)
+"Translation adjustments and other, net of tax of $0, $0, and $(9)",nan,(207),nan,"(1,146 )",nan,873
+"Balance, end of period",nan,"(2,73",nan,nan,nan,nan
+nan,$,4),"$ (2,527)",nan,"$ (1,381)",nan
+"Accumulated other comprehensive income (loss), end of period",nan,"(6,34",nan,nan,nan,nan
+nan,$,3),"$ (4,678)",nan,$,"1,822"

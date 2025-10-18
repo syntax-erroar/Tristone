@@ -1,0 +1,47 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2025",
+    "2024",
+    "2023"
+  ],
+  "confidence": 0.75,
+  "line_items": [
+    {
+      "name": "Realized net gain reclassified into equity in earnings of non-consolidated entities, net of tax \u200b \u2014 \u200b (0.9) \u200b \u2014 \u200b \u2014 \u200b",
+      "values": [
+        0.9,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": "Unrealized net holding gain arising during the period, net of tax \u200b \u2014 \u200b 0.7 \u200b \u2014 \u200b \u2014 \u200b 0.7 Realized net gain reclassified into net investment income, net of tax \u200b \u2014 \u200b (0.4) \u200b \u2014 \u200b \u2014 \u200b (0.4) Equity method investee's cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Other comprehensive income \u200b 128.1 \u200b 128.1 \u200b 112.1 \u200b (240.2) \u200b",
+      "values": [
+        128.1,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Revenue",
+      "confidence": 0.4,
+      "parent_item": "Unrealized net holding gain arising during the period, net of tax \u200b \u2014 \u200b 0.7 \u200b \u2014 \u200b \u2014 \u200b 0.7 Realized net gain reclassified into net investment income, net of tax \u200b \u2014 \u200b (0.4) \u200b \u2014 \u200b \u2014 \u200b (0.4) Equity method investee's cash flow hedge",
+      "is_total": false
+    }
+  ]
+}

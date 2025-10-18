@@ -1,0 +1,47 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2021",
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.75,
+  "line_items": [
+    {
+      "name": "The Company accounts for income taxes in accordance with ASC",
+      "values": [
+        740.0,
+        10.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Income Taxes",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million for the years ended December",
+      "values": [
+        31.0,
+        2021.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

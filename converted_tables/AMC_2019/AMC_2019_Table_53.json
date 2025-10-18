@@ -1,0 +1,98 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "thousands",
+  "years": [
+    "2020",
+    "2019",
+    "2018"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "as of December",
+      "values": [
+        31.0,
+        2019.0,
+        2018.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and comprehensive income",
+      "values": [
+        0.0,
+        31.0,
+        2019.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Cinema Implementation Partners",
+      "values": [
+        0.0,
+        31.0,
+        2019.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "31, 2019 and",
+      "values": [
+        2018.0,
+        31.0,
+        2019.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "LLP \u200b Roseland",
+      "values": [
+        0.0,
+        18.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

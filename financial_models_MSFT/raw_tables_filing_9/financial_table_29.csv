@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+(In millions),Level,nan,Basis,nan,Gains,nan,Losses,nan,Basis,nan,ts,nan,ts,nan,ts
+"June 30, 2022",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Changes in Fair,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Value Recorded,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+in Other,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Comprehensive,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Income,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Commercial,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+paper,Level 2,$,"2,500",$,0,$,0,$,"2,500",$,"2,498",$,2,$,0
+Certificates of,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+deposit,Level 2,nan,"2,071",nan,0,nan,0,nan,"2,071",nan,"2,032",nan,39,nan,0
+U.S. government,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+securities,Level 1,nan,"79,696",nan,29,nan,"(2,178 )",nan,"77,547",nan,9,nan,"77,538",nan,0
+U.S. agency,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+securities,Level 2,nan,419,nan,0,nan,(9 ),nan,410,nan,0,nan,410,nan,0
+Foreign,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+government,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+bonds,Level 2,nan,506,nan,0,nan,(24 ),nan,482,nan,0,nan,482,nan,0
+Mortgage- and,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+asset-backed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+securities,Level 2,nan,727,nan,1,nan,(30 ),nan,698,nan,0,nan,698,nan,0
+Corporate notes,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+and bonds,Level 2,nan,"11,661",nan,4,nan,(554 ),nan,"11,111",nan,0,nan,"11,111",nan,0
+Corporate notes,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+and bonds,Level 3,nan,67,nan,0,nan,0,nan,67,nan,0,nan,67,nan,0
+Municipal,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+securities,Level 2,nan,368,nan,19,nan,(13 ),nan,374,nan,0,nan,374,nan,0
+Municipal,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+securities,Level 3,nan,103,nan,0,nan,(6 ),nan,97,nan,0,nan,97,nan,0
+Total debt,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+investments,nan,"$ 98,118",nan,$,53,$,"(2,814 )","$ 95,357",nan,$,"4,539",$,"90,818",$,0
+Changes in Fair,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Value Recorded,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+in Net Income,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Equity,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+investments,Level 1,nan,nan,nan,nan,nan,nan,$,"1,590",$,"1,134",$,0,$,456
+Equity,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+investments,Other,nan,nan,nan,nan,nan,nan,nan,"6,435",nan,0,nan,0,nan,"6,435"
+Total equity,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+investments,nan,nan,nan,nan,nan,nan,nan,$,"8,025",$,"1,134",$,0,$,"6,891"
+Cash,nan,nan,nan,nan,nan,nan,nan,$,"8,258",$,"8,258",$,0,$,0
+(a),nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"Derivatives, net",nan,nan,nan,nan,nan,nan,nan,nan,8,nan,0,nan,8,nan,0
+Total,nan,nan,nan,nan,nan,nan,nan,nan,"111,64",nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,$,8,$,"13,931",$,"90,826",$,"6,891"

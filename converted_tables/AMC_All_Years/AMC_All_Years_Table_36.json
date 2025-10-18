@@ -1,0 +1,166 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2021",
+    "2020",
+    "2013"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "AMC Entertainment Holdings",
+      "values": [
+        0.0,
+        0.0,
+        31.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of December 31,",
+      "values": [
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "period ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "statements present fairly",
+      "values": [
+        0.0,
+        0.0,
+        31.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "at December 31,",
+      "values": [
+        2020.0,
+        31.0,
+        2020.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "also have audited",
+      "values": [
+        0.0,
+        0.0,
+        31.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of December 31,",
+      "values": [
+        2020.0,
+        2013.0,
+        12.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "dated March 12,",
+      "values": [
+        2021.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "made by management",
+      "values": [
+        0.0,
+        1.0,
+        2.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

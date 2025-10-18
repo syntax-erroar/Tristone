@@ -1,0 +1,57 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2019",
+    "2018"
+  ],
+  "confidence": 0.6000000000000001,
+  "line_items": [
+    {
+      "name": "December",
+      "values": [
+        31.0,
+        2019.0
+      ],
+      "years": [
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "that were derecognized and recorded as a cumulative effect adjustment to accumulated deficit upon adoption of ASC",
+      "values": [
+        842.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "at the carrying amount of the capital lease asset and capital lease obligation as of December",
+      "values": [
+        31.0,
+        2018.0
+      ],
+      "years": [
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

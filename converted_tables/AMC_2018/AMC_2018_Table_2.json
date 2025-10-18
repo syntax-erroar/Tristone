@@ -1,0 +1,149 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "confidence": 0.6749999999999999,
+  "line_items": [
+    {
+      "name": "Net gain (loss) arising during the period, net of tax",
+      "values": [
+        4.2,
+        3.0,
+        0.3
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Year Ended (in millions) December 31, 2018 December 31, 2017 December 31, 2016 Net earnings (loss) $110.1 $(487.2) $111.7 Other comprehensive income (loss) Unrealized foreign currency translation adjustment (127.7) 131.7 (3.9) Realized loss on foreign currency transactions, net of tax 1.0 \u2014 \u2014 Pension and other benefit adjustments",
+      "is_total": false
+    },
+    {
+      "name": "Net gain (loss) arising during the period, net of tax",
+      "values": [
+        4.2,
+        3.0,
+        0.3
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Year Ended (in millions) December 31, 2018 December 31, 2017 December 31, 2016 Net earnings (loss) $110.1 $(487.2) $111.7 Other comprehensive income (loss) Unrealized foreign currency translation adjustment (127.7) 131.7 (3.9) Realized loss on foreign currency transactions, net of tax 1.0 \u2014 \u2014 Pension and other benefit adjustments",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding gain arising during the period, net of tax \u2014",
+      "values": [
+        0.7,
+        6.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Marketable securities",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding gain arising during the period, net of tax \u2014",
+      "values": [
+        0.7,
+        6.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Marketable securities",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding gain (loss) arising during the period, net of tax 0.2 \u2014",
+      "values": [
+        0.3,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": "Realized net gain reclassified into investment income, net of tax \u2014 (0.4) (1.8) Equity method investees' cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Realized net loss (gain) reclassified into equity in earnings of non-consolidated entities, net of tax",
+      "values": [
+        2.2,
+        0.9,
+        0.4
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": "Realized net gain reclassified into investment income, net of tax \u2014 (0.4) (1.8) Equity method investees' cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Other comprehensive income (loss)",
+      "values": [
+        124.5,
+        128.1,
+        5.3
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Revenue",
+      "confidence": 0.4,
+      "parent_item": "Realized net gain reclassified into investment income, net of tax \u2014 (0.4) (1.8) Equity method investees' cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding gain (loss) arising during the period, net of tax 0.2 \u2014 (0.3) Realized net loss (gain) reclassified into equity in earnings of non-consolidated entities, net of tax (2.2) (0.9) 0.4 Other comprehensive income (loss) (124.5) 128.1 (5.3) Total comprehensive income (loss)",
+      "values": [
+        14.4,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": "Realized net gain reclassified into investment income, net of tax \u2014 (0.4) (1.8) Equity method investees' cash flow hedge",
+      "is_total": false
+    }
+  ]
+}

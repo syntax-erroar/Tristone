@@ -1,0 +1,102 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2018",
+    "2017"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "year period ended December",
+      "values": [
+        31.0,
+        2018.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "effective January",
+      "values": [
+        1.0,
+        2018.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the Company revalued its ending net deferred tax assets and related valuation allowance at December",
+      "values": [
+        31.0,
+        2017.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million in the consolidated statement of operations for the year ended December",
+      "values": [
+        31.0,
+        2017.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The Company does not expect it will be subject to this tax in the current year and therefore has not included any tax impacts of GILTI in its consolidated financial statements for the year ended December",
+      "values": [
+        31.0,
+        2018.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The Company does not expect it will be subject to this tax in the current year and therefore has not included any tax impacts of BEAT in its consolidated financial statements for the year ended December",
+      "values": [
+        31.0,
+        2018.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

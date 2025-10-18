@@ -1,0 +1,1027 @@
+RAW TABLES EXTRACTION SUMMARY
+==================================================
+
+Filing: filing_1
+Year: 2025, Type: 10-Q
+Financial Tables Found: 15
+  Table 0: None ((4, 3))
+    Preview:
+         0                                                                                      1   2
+0  Item 1.                                                                   Financial Statements   1
+1  Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations  13
+2  Item 3.                             Quantitative and Qualitative Disclosures About Market Risk  19
+
+  Table 1: None ((7, 3))
+    Preview:
+          0                                                            1   2
+0   Item 1.                                            Legal Proceedings  20
+1  Item 1A.                                                 Risk Factors  21
+2   Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds  21
+
+  Table 2: None ((26, 9))
+    Preview:
+            0    1         2    3         4    5         6    7         8
+0         nan  nan  June 28,  nan  June 29,  nan  June 28,  nan  June 29,
+1         nan  nan      2025  nan      2024  nan      2025  nan      2024
+2  Net sales:  nan       nan  nan       nan  nan       nan  nan       nan
+
+  Table 3: None ((5, 5))
+    Preview:
+                                                         0      1     2      3      4
+0           Change in fair value of derivative instruments  (523)   406    810    331
+1  Adjustment for net (gains)/losses realized and included    nan   nan    nan    nan
+2                                            in net income  (571)  (87)  (415)  (678)
+
+  Table 4: None ((5, 5))
+    Preview:
+                                                         0    1      2      3      4
+0       Change in fair value of marketable debt securities  640  268.0   90.0  3,306
+1  Adjustment for net (gains)/losses realized and included  nan    NaN    NaN    nan
+2                                            in net income  (1)   30.0  404.0    164
+
+  Table 5: None ((35, 6))
+    Preview:
+                           0    1       2    3    4       5
+0                    ASSETS:  nan     nan  nan  nan     nan
+1            Current assets:  nan     nan  nan  nan     nan
+2  Cash and cash equivalents    $  36,269  nan    $  29,943
+
+  Table 6: None ((10, 9))
+    Preview:
+         0    1         2    3         4    5         6    7         8
+0      nan  nan  June 28,  nan  June 29,  nan  June 28,  nan  June 29,
+1      nan  nan      2025  nan      2024  nan      2025  nan      2024
+2  iPhone®    $    44,582    $    39,296    $   160,561    $   154,961
+
+  Table 7: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 8: None ((10, 9))
+    Preview:
+            0    1         2    3         4    5         6    7         8
+0         nan  nan  June 28,  nan  June 29,  nan  June 28,  nan  June 29,
+1         nan  nan      2025  nan      2024  nan      2025  nan      2024
+2  Numerator:  nan       nan  nan       nan  nan       nan  nan       nan
+
+  Table 9: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 10: None ((5, 5))
+    Preview:
+            0    1         2    3              4
+0         nan  nan  June 28,  nan  September 28,
+1         nan  nan      2025  nan           2024
+2  Components    $     2,288    $          3,627
+
+  Table 11: None ((17, 9))
+    Preview:
+        0    1         2    3         4    5         6    7         8
+0     nan  nan  June 28,  nan  June 29,  nan  June 28,  nan  June 29,
+1     nan  nan      2025  nan      2024  nan      2025  nan      2024
+2  ricas:  nan       nan  nan       nan  nan       nan  nan       nan
+
+  Table 12: None ((8, 11))
+    Preview:
+         0    1         2    3         4       5    6         7    8         9       10
+0       nan  nan  June 28,  nan  June 29,     nan  nan  June 28,  nan  June 29,     nan
+1       nan  nan      2025  nan      2024  Change  nan      2025  nan      2024  Change
+2  Americas    $    41,198    $    37,678     9 %    $   134,161    $   125,381     7 %
+
+  Table 13: None ((8, 11))
+    Preview:
+       0    1         2    3         4       5    6         7    8         9       10
+0     nan  nan  June 28,  nan  June 29,     nan  nan  June 28,  nan  June 29,     nan
+1     nan  nan      2025  nan      2024  Change  nan      2025  nan      2024  Change
+2  iPhone    $    44,582    $    39,296    13 %    $   160,561    $   154,961     4 %
+
+  Table 14: None ((6, 5))
+    Preview:
+     0    1        2                 3                   4
+0  nan  nan      nan            Shares  Approximate Dollar
+1  nan  nan      nan      Purchased as            Value of
+2  nan  nan  Average  Part of Publicly     Shares That May
+
+------------------------------
+
+Filing: filing_2
+Year: 2025, Type: 10-Q
+Financial Tables Found: 12
+  Table 0: None ((4, 3))
+    Preview:
+         0                                                                                      1   2
+0  Item 1.                                                                   Financial Statements   1
+1  Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations  12
+2  Item 3.                             Quantitative and Qualitative Disclosures About Market Risk  18
+
+  Table 1: None ((7, 3))
+    Preview:
+          0                                                            1   2
+0   Item 1.                                            Legal Proceedings  19
+1  Item 1A.                                                 Risk Factors  20
+2   Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds  22
+
+  Table 2: None ((26, 9))
+    Preview:
+            0    1          2    3          4    5          6    7          8
+0         nan  nan  March 29,  nan  March 30,  nan  March 29,  nan  March 30,
+1         nan  nan       2025  nan       2024  nan       2025  nan       2024
+2  Net sales:  nan        nan  nan        nan  nan        nan  nan        nan
+
+  Table 3: None ((35, 6))
+    Preview:
+                           0    1       2    3    4       5
+0                    ASSETS:  nan     nan  nan  nan     nan
+1            Current assets:  nan     nan  nan  nan     nan
+2  Cash and cash equivalents    $  28,162  nan    $  29,943
+
+  Table 4: None ((10, 9))
+    Preview:
+         0    1          2    3          4    5          6    7          8
+0      nan  nan  March 29,  nan  March 30,  nan  March 29,  nan  March 30,
+1      nan  nan       2025  nan       2024  nan       2025  nan       2024
+2  iPhone®    $     46,841    $     45,963    $    115,979    $    115,665
+
+  Table 5: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 6: None ((10, 9))
+    Preview:
+            0    1          2    3          4    5          6    7          8
+0         nan  nan  March 29,  nan  March 30,  nan  March 29,  nan  March 30,
+1         nan  nan       2025  nan       2024  nan       2025  nan       2024
+2  Numerator:  nan        nan  nan        nan  nan        nan  nan        nan
+
+  Table 7: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 8: None ((17, 9))
+    Preview:
+        0    1          2    3          4    5          6    7          8
+0     nan  nan  March 29,  nan  March 30,  nan  March 29,  nan  March 30,
+1     nan  nan       2025  nan       2024  nan       2025  nan       2024
+2  ricas:  nan        nan  nan        nan  nan        nan  nan        nan
+
+  Table 9: None ((8, 11))
+    Preview:
+         0    1          2    3          4       5    6          7    8          9       10
+0       nan  nan  March 29,  nan  March 30,     nan  nan  March 29,  nan  March 30,     nan
+1       nan  nan       2025  nan       2024  Change  nan       2025  nan       2024  Change
+2  Americas    $     40,315    $     37,273     8 %    $     92,963    $     87,703     6 %
+
+  Table 10: None ((8, 11))
+    Preview:
+       0    1          2    3          4       5    6          7    8          9       10
+0     nan  nan  March 29,  nan  March 30,     nan  nan  March 29,  nan  March 30,     nan
+1     nan  nan       2025  nan       2024  Change  nan       2025  nan       2024  Change
+2  iPhone    $     46,841    $     45,963     2 %    $    115,979    $    115,665     — %
+
+  Table 11: None ((6, 5))
+    Preview:
+     0    1        2                 3                   4
+0  nan  nan      nan            Shares  Approximate Dollar
+1  nan  nan      nan      Purchased as            Value of
+2  nan  nan  Average  Part of Publicly     Shares That May
+
+------------------------------
+
+Filing: filing_3
+Year: 2025, Type: 10-Q
+Financial Tables Found: 13
+  Table 0: None ((4, 3))
+    Preview:
+         0                                                                                      1   2
+0  Item 1.                                                                   Financial Statements   1
+1  Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations  12
+2  Item 3.                             Quantitative and Qualitative Disclosures About Market Risk  17
+
+  Table 1: None ((7, 3))
+    Preview:
+          0                                                            1   2
+0   Item 1.                                            Legal Proceedings  18
+1  Item 1A.                                                 Risk Factors  19
+2   Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds  20
+
+  Table 2: None ((23, 5))
+    Preview:
+            0    1             2    3             4
+0         nan  nan  December 28,  nan  December 30,
+1         nan  nan          2024  nan          2023
+2  Net sales:  nan           nan  nan           nan
+
+  Table 3: None ((35, 6))
+    Preview:
+                           0    1       2    3    4       5
+0                    ASSETS:  nan     nan  nan  nan     nan
+1            Current assets:  nan     nan  nan  nan     nan
+2  Cash and cash equivalents    $  30,299  nan    $  29,943
+
+  Table 4: None ((18, 3))
+    Preview:
+                                  0        1      2
+0     Depreciation and amortization    3,080  2,848
+1  Share-based compensation expense    3,286  2,997
+2                             Other  (2,009)  (989)
+
+  Table 5: None ((8, 5))
+    Preview:
+         0    1             2    3             4
+0      nan  nan  December 28,  nan  December 30,
+1      nan  nan          2024  nan          2023
+2  iPhone®    $        69,138    $        69,702
+
+  Table 6: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 7: None ((10, 5))
+    Preview:
+            0    1             2    3             4
+0         nan  nan  December 28,  nan  December 30,
+1         nan  nan          2024  nan          2023
+2  Numerator:  nan           nan  nan           nan
+
+  Table 8: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 9: None ((17, 5))
+    Preview:
+        0    1             2    3             4
+0     nan  nan  December 28,  nan  December 30,
+1     nan  nan          2024  nan          2023
+2  ricas:  nan           nan  nan           nan
+
+  Table 10: None ((8, 6))
+    Preview:
+          0    1             2    3             4       5
+0       nan  nan  December 28,  nan  December 30,     nan
+1       nan  nan          2024  nan          2023  Change
+2  Americas    $        52,648    $        50,430     4 %
+
+  Table 11: None ((8, 6))
+    Preview:
+        0    1             2    3             4       5
+0     nan  nan  December 28,  nan  December 30,     nan
+1     nan  nan          2024  nan          2023  Change
+2  iPhone    $        69,138    $        69,702    (1)%
+
+  Table 12: None ((6, 5))
+    Preview:
+     0    1        2                 3                   4
+0  nan  nan      nan            Shares  Approximate Dollar
+1  nan  nan      nan      Purchased as            Value of
+2  nan  nan  Average  Part of Publicly     Shares That May
+
+------------------------------
+
+Filing: filing_4
+Year: 2024, Type: 10-K
+Financial Tables Found: 23
+  Table 0: None ((9, 3))
+    Preview:
+         0                                                                                                              1   2
+0  Item 5.  Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity\rSecurities  19
+1  Item 6.                                                                                                     [Reserved]  20
+2  Item 7.                          Management’s Discussion and Analysis of Financial Condition and Results of Operations  21
+
+  Table 1: None ((6, 5))
+    Preview:
+     0    1        2                 3                   4
+0  nan  nan      nan            Shares  Approximate Dollar
+1  nan  nan      nan      Purchased as            Value of
+2  nan  nan  Average  Part of Publicly     Shares That May
+
+  Table 2: None ((6, 9))
+    Preview:
+               0    1        2     3    4        5     6    7        8
+0       Americas    $  167,045   3 %    $  162,560  (4)%    $  169,658
+1         Europe  nan  101,328   7 %  nan   94,294  (1)%  nan   95,118
+2  Greater China  nan   66,952  (8)%  nan   72,559  (2)%  nan   74,200
+
+  Table 3: None ((6, 9))
+    Preview:
+        0    1        2     3    4        5      6    7        8
+0  iPhone    $  201,183   — %    $  200,583   (2)%    $  205,489
+1     Mac  nan   29,984   2 %  nan   29,357  (27)%  nan   40,177
+2    iPad  nan   26,694  (6)%  nan   28,300   (3)%  nan   29,292
+
+  Table 4: income_statement ((6, 2))
+    Preview:
+                                                                                                                                    0     2
+0  Consolidated Statements of Comprehensive Income for the years ended September 28, 2024, September 30, 2023\rand September 24, 2022  30.0
+1                                                         Consolidated Balance Sheets as of September 28, 2024 and September 30, 2023   NaN
+2  Consolidated Statements of Shareholders’ Equity for the years ended September 28, 2024, September 30, 2023 and\rSeptember 24, 2022  32.0
+
+  Table 5: None ((26, 4))
+    Preview:
+            0              1              2              3
+0         nan  September 28,  September 30,  September 24,
+1         nan           2024           2023           2022
+2  Net sales:            nan            nan            nan
+
+  Table 6: None ((35, 6))
+    Preview:
+                           0    1       2    3    4       5
+0                    ASSETS:  nan     nan  nan  nan     nan
+1            Current assets:  nan     nan  nan  nan     nan
+2  Cash and cash equivalents    $  29,943  nan    $  29,965
+
+  Table 7: None ((36, 4))
+    Preview:
+                                                                           0              1              2              3
+0                                                                        nan  September 28,  September 30,  September 24,
+1                                                                        nan           2024           2023           2022
+2  sh, cash equivalents, and restricted cash and cash equivalents, beginning            nan            nan            nan
+
+  Table 8: None ((6, 7))
+    Preview:
+        0    1        2    3        4    5        6
+0  iPhone    $  201,183    $  200,583    $  205,489
+1     Mac  nan   29,984  nan   29,357  nan   40,177
+2    iPad  nan   26,694  nan   28,300  nan   29,292
+
+  Table 9: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 10: None ((8, 7))
+    Preview:
+              0    1       2    3       4    5       6
+0    Numerator:  nan     nan  nan     nan  nan     nan
+1    Net income    $  93,736    $  96,995    $  99,803
+2  Denominator:  nan     nan  nan     nan  nan     nan
+
+  Table 11: None ((15, 16))
+    Preview:
+                                   0    1    2    3    4     5    7    8    9    11   13   14   16   17   19   20
+0                            Level 1:  nan  nan  nan  nan   nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+1                  Money market funds  481  nan    —  nan     —  481  nan  481    —    —  nan  nan  nan  nan  nan
+2  Mutual funds and equity securities  442  nan   12  nan  (26)  428  nan    —  428    —  nan  nan  nan  nan  nan
+
+  Table 12: None ((6, 5))
+    Preview:
+                                                0    1       2    3       4
+0                              Land and buildings    $  24,690    $  23,446
+1  Machinery, equipment and internal-use software  nan  80,205  nan  78,314
+2                          Leasehold improvements  nan  14,233  nan  12,839
+
+  Table 13: None ((3, 5))
+    Preview:
+                                0    1       2    3       4
+0             Deferred tax assets    $  19,499    $  17,852
+1        Other non-current assets  nan  55,335  nan  46,906
+2  Total other non-current assets    $  74,834    $  64,758
+
+  Table 14: None ((3, 5))
+    Preview:
+                                 0    1       2    3       4
+0             Income taxes payable    $  26,601    $   8,819
+1        Other current liabilities  nan  51,703  nan  50,010
+2  Total other current liabilities    $  78,304    $  58,829
+
+  Table 15: None ((19, 5))
+    Preview:
+                                      0    1       2    3      4
+0                  Deferred tax assets:  nan     nan  nan    nan
+1  Capitalized research and development    $  10,739    $  6,294
+2              Tax credit carryforwards  nan   8,856  nan  8,302
+
+  Table 16: None ((10, 6))
+    Preview:
+                      0                                   1    2       3    4       5
+0  Right-of-use assets:                                 nan  nan     nan  nan     nan
+1      Operating leases            Other non-current assets    $  10,234    $  10,661
+2        Finance leases  Property, plant and equipment, net  nan   1,069  nan   1,015
+
+  Table 17: None ((9, 7))
+    Preview:
+      0    1      2    3    4    5      6
+0  2025    $  1,820    $  171    $  1,991
+1  2026  nan  1,914  nan  131  nan  2,045
+2  2027  nan  1,674  nan   59  nan  1,733
+
+  Table 18: None ((7, 7))
+    Preview:
+                                                     0    1      2    3        4    5      6
+0                              rities 90 days or less:  nan    nan  nan      nan  nan    nan
+1  Proceeds from/(Repayments of) commercial paper, net    $  3,960    $  (1,333)    $  5,264
+2                         rities greater than 90 days:  nan    nan  nan      nan  nan    nan
+
+  Table 19: None ((15, 7))
+    Preview:
+                  0    1        2    3        4    5        6
+0            ricas:  nan      nan  nan      nan  nan      nan
+1         Net sales    $  167,045    $  162,560    $  169,658
+2  Operating income    $   67,656    $   60,508    $   62,683
+
+  Table 20: None ((5, 7))
+    Preview:
+           0    1        2    3        4    5        6
+0     sales:  nan      nan  nan      nan  nan      nan
+1       U.S.    $  142,196    $  138,573    $  147,859
+2  China (1)  nan   66,952  nan   72,559  nan   74,200
+
+  Table 21: income_statement ((6, 2))
+    Preview:
+                                                                                                                                    0     2
+0  Consolidated Statements of Comprehensive Income for the years ended September 28, 2024, September 30, 2023\rand September 24, 2022  30.0
+1                                                         Consolidated Balance Sheets as of September 28, 2024 and September 30, 2023   NaN
+2  Consolidated Statements of Shareholders’ Equity for the years ended September 28, 2024, September 30, 2023 and\rSeptember 24, 2022  32.0
+
+  Table 22: None ((53, 5))
+    Preview:
+         0                    1     2        3             4
+0      nan                  nan   nan      nan  Filing Date/
+1  Exhibit                  nan   nan      nan    Period End
+2   Number  Exhibit Description  Form  Exhibit          Date
+
+------------------------------
+
+Filing: filing_5
+Year: 2024, Type: 10-Q
+Financial Tables Found: 14
+  Table 0: None ((4, 3))
+    Preview:
+         0                                                                                      1   2
+0  Item 1.                                                                   Financial Statements   1
+1  Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations  13
+2  Item 3.                             Quantitative and Qualitative Disclosures About Market Risk  18
+
+  Table 1: None ((7, 3))
+    Preview:
+          0                                                            1   2
+0   Item 1.                                            Legal Proceedings  19
+1  Item 1A.                                                 Risk Factors  19
+2   Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds  20
+
+  Table 2: None ((26, 9))
+    Preview:
+            0    1         2    3        4    5         6    7        8
+0         nan  nan  June 29,  nan  July 1,  nan  June 29,  nan  July 1,
+1         nan  nan      2024  nan     2023  nan      2024  nan     2023
+2  Net sales:  nan       nan  nan      nan  nan       nan  nan      nan
+
+  Table 3: None ((35, 6))
+    Preview:
+                           0    1       2    3    4       5
+0                    ASSETS:  nan     nan  nan  nan     nan
+1            Current assets:  nan     nan  nan  nan     nan
+2  Cash and cash equivalents    $  25,565  nan    $  29,965
+
+  Table 4: None ((15, 5))
+    Preview:
+                          0        1        2        3        4
+0          of equity awards  (1,920)  (1,595)  (3,802)  (3,310)
+1  Share-based compensation    2,955    2,694    9,088    8,438
+2           Ending balances   79,850   70,667   79,850   70,667
+
+  Table 5: None ((6, 9))
+    Preview:
+                                                0    1         2    3        4    5         6    7        8
+0                                             nan  nan  June 29,  nan  July 1,  nan  June 29,  nan  July 1,
+1                                             nan  nan      2024  nan     2023  nan      2024  nan     2023
+2  Total shareholders’ equity, beginning balances    $    74,194    $   62,158    $    62,146    $   50,672
+
+  Table 6: None ((8, 9))
+    Preview:
+         0    1         2    3        4    5         6    7        8
+0      nan  nan  June 29,  nan  July 1,  nan  June 29,  nan  July 1,
+1      nan  nan      2024  nan     2023  nan      2024  nan     2023
+2  iPhone®    $    39,296    $   39,669    $   154,961    $  156,778
+
+  Table 7: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 8: None ((10, 9))
+    Preview:
+            0    1         2    3        4    5         6    7        8
+0         nan  nan  June 29,  nan  July 1,  nan  June 29,  nan  July 1,
+1         nan  nan      2024  nan     2023  nan      2024  nan     2023
+2  Numerator:  nan       nan  nan      nan  nan       nan  nan      nan
+
+  Table 9: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 10: None ((17, 9))
+    Preview:
+        0    1         2    3        4    5         6    7        8
+0     nan  nan  June 29,  nan  July 1,  nan  June 29,  nan  July 1,
+1     nan  nan      2024  nan     2023  nan      2024  nan     2023
+2  ricas:  nan       nan  nan      nan  nan       nan  nan      nan
+
+  Table 11: None ((9, 11))
+    Preview:
+                             0    1         2    3        4       5    6         7    8        9       10
+0                           nan  nan  June 29,  nan  July 1,     nan  nan  June 29,  nan  July 1,     nan
+1                           nan  nan      2024  nan     2023  Change  nan      2024  nan     2023  Change
+2  sales by reportable segment:  nan       nan  nan      nan     nan  nan       nan  nan      nan     nan
+
+  Table 12: None ((9, 11))
+    Preview:
+                  0    1         2    3        4       5    6         7    8        9       10
+0                nan  nan  June 29,  nan  July 1,     nan  nan  June 29,  nan  July 1,     nan
+1                nan  nan      2024  nan     2023  Change  nan      2024  nan     2023  Change
+2  ales by category:  nan       nan  nan      nan     nan  nan       nan  nan      nan     nan
+
+  Table 13: None ((6, 5))
+    Preview:
+     0    1        2                 3                   4
+0  nan  nan      nan            Shares  Approximate Dollar
+1  nan  nan      nan      Purchased as            Value of
+2  nan  nan  Average  Part of Publicly     Shares That May
+
+------------------------------
+
+Filing: filing_6
+Year: 2024, Type: 10-Q
+Financial Tables Found: 19
+  Table 0: None ((4, 3))
+    Preview:
+         0                                                                                      1   2
+0  Item 1.                                                                   Financial Statements   1
+1  Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations  13
+2  Item 3.                             Quantitative and Qualitative Disclosures About Market Risk  18
+
+  Table 1: None ((7, 3))
+    Preview:
+          0                                                            1   2
+0   Item 1.                                            Legal Proceedings  19
+1  Item 1A.                                                 Risk Factors  19
+2   Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds  20
+
+  Table 2: None ((26, 9))
+    Preview:
+            0    1          2    3         4    5          6    7         8
+0         nan  nan  March 30,  nan  April 1,  nan  March 30,  nan  April 1,
+1         nan  nan       2024  nan      2023  nan       2024  nan      2023
+2  Net sales:  nan        nan  nan       nan  nan        nan  nan       nan
+
+  Table 3: None ((12, 9))
+    Preview:
+       0    1          2    3         4    5          6    7         8
+0    nan  nan  March 30,  nan  April 1,  nan  March 30,  nan  April 1,
+1    nan  nan       2024  nan      2023  nan       2024  nan      2023
+2  ncome    $     23,636    $    24,160    $     57,552    $    54,158
+
+  Table 4: None ((35, 6))
+    Preview:
+                           0    1       2    3    4       5
+0                    ASSETS:  nan     nan  nan  nan     nan
+1            Current assets:  nan     nan  nan  nan     nan
+2  Cash and cash equivalents    $  32,695  nan    $  29,965
+
+  Table 5: None ((15, 5))
+    Preview:
+                          0       1       2        3        4
+0          of equity awards   (222)   (281)  (1,882)  (1,715)
+1  Share-based compensation   3,049   2,760    6,133    5,744
+2           Ending balances  78,815  69,568   78,815   69,568
+
+  Table 6: None ((6, 9))
+    Preview:
+                                                0    1          2    3         4    5          6    7         8
+0                                             nan  nan  March 30,  nan  April 1,  nan  March 30,  nan  April 1,
+1                                             nan  nan       2024  nan      2023  nan       2024  nan      2023
+2  Total shareholders’ equity, beginning balances    $     74,100    $    56,727    $     62,146    $    50,672
+
+  Table 7: None ((32, 5))
+    Preview:
+                                                                0    1          2    3         4
+0                                                             nan  nan  March 30,  nan  April 1,
+1                                                             nan  nan       2024  nan      2023
+2  Cash, cash equivalents and restricted cash, beginning balances    $     30,737    $    24,977
+
+  Table 8: None ((8, 9))
+    Preview:
+         0    1          2    3         4    5          6    7         8
+0      nan  nan  March 30,  nan  April 1,  nan  March 30,  nan  April 1,
+1      nan  nan       2024  nan      2023  nan       2024  nan      2023
+2  iPhone®    $     45,963    $    51,334    $    115,665    $   117,109
+
+  Table 9: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 10: None ((10, 9))
+    Preview:
+            0    1          2    3         4    5          6    7         8
+0         nan  nan  March 30,  nan  April 1,  nan  March 30,  nan  April 1,
+1         nan  nan       2024  nan      2023  nan       2024  nan      2023
+2  Numerator:  nan        nan  nan       nan  nan        nan  nan       nan
+
+  Table 11: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 12: None ((7, 1))
+    Preview:
+                                                                                                                             0
+0  The carrying amounts of the Company’s hedged items in fair value hedges as of March 30, 2024 and September 30, 2023 were as
+1                                                                                                       follows (in millions):
+2                                                                                                      March 30, September 30,
+
+  Table 13: None ((17, 9))
+    Preview:
+        0    1          2    3         4    5          6    7         8
+0     nan  nan  March 30,  nan  April 1,  nan  March 30,  nan  April 1,
+1     nan  nan       2024  nan      2023  nan       2024  nan      2023
+2  ricas:  nan        nan  nan       nan  nan        nan  nan       nan
+
+  Table 14: None ((9, 11))
+    Preview:
+                            0    1          2    3         4       5    6          7    8         9       10
+0                          nan  nan  March 30,  nan  April 1,     nan  nan  March 30,  nan  April 1,     nan
+1                          nan  nan       2024  nan      2023  Change  nan       2024  nan      2023  Change
+2  ales by reportable segment:  nan        nan  nan       nan     nan  nan        nan  nan       nan     nan
+
+  Table 15: None ((9, 11))
+    Preview:
+                  0    1          2    3         4       5    6          7    8         9       10
+0                nan  nan  March 30,  nan  April 1,     nan  nan  March 30,  nan  April 1,     nan
+1                nan  nan       2024  nan      2023  Change  nan       2024  nan      2023  Change
+2  ales by category:  nan        nan  nan       nan     nan  nan        nan  nan       nan     nan
+
+  Table 16: None ((4, 1))
+    Preview:
+                                                                                                                                          0
+0  disclose specified additional information in its income tax rate reconciliation and provide additional information for reconciling items
+1         that meet a quantitative threshold. ASU 2023-09 will also require the Company to disaggregate its income taxes paid disclosure by
+2   federal, state and foreign taxes, with further disaggregation required for significant individual jurisdictions. The Company will adopt
+
+  Table 17: None ((4, 1))
+    Preview:
+                                                                                                                                     0
+0        course of business. The Company settled certain matters during the second quarter of 2024 that did not individually or in the
+1  aggregate have a material impact on the Company’s financial condition or operating results. The outcome of litigation is inherently
+2       uncertain. If one or more legal matters were resolved against the Company in a reporting period for amounts above management’s
+
+  Table 18: None ((6, 5))
+    Preview:
+     0    1        2                 3                   4
+0  nan  nan      nan            Shares  Approximate Dollar
+1  nan  nan      nan      Purchased as            Value of
+2  nan  nan  Average  Part of Publicly     Shares That May
+
+------------------------------
+
+Filing: filing_7
+Year: 2024, Type: 10-Q
+Financial Tables Found: 14
+  Table 0: None ((4, 3))
+    Preview:
+         0                                                                                      1   2
+0  Item 1.                                                                   Financial Statements   1
+1  Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations  13
+2  Item 3.                             Quantitative and Qualitative Disclosures About Market Risk  18
+
+  Table 1: None ((7, 3))
+    Preview:
+          0                                                            1   2
+0   Item 1.                                            Legal Proceedings  19
+1  Item 1A.                                                 Risk Factors  19
+2   Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds  20
+
+  Table 2: None ((23, 5))
+    Preview:
+            0    1             2    3             4
+0         nan  nan  December 30,  nan  December 31,
+1         nan  nan          2023  nan          2022
+2  Net sales:  nan           nan  nan           nan
+
+  Table 3: None ((35, 6))
+    Preview:
+                           0    1       2    3    4       5
+0                    ASSETS:  nan     nan  nan  nan     nan
+1            Current assets:  nan     nan  nan  nan     nan
+2  Cash and cash equivalents    $  40,760  nan    $  29,965
+
+  Table 4: None ((11, 5))
+    Preview:
+                                                0    1             2    3             4
+0                                             nan  nan  December 30,  nan  December 31,
+1                                             nan  nan          2023  nan          2022
+2  Total shareholders’ equity, beginning balances    $        62,146    $        50,672
+
+  Table 5: None ((6, 3))
+    Preview:
+                                           0        1        2
+0       Other current and non-current assets  (1,457)  (4,099)
+1                           Accounts payable  (4,542)  (6,075)
+2  Other current and non-current liabilities  (3,865)    3,889
+
+  Table 6: None ((8, 5))
+    Preview:
+         0    1             2    3             4
+0      nan  nan  December 30,  nan  December 31,
+1      nan  nan          2023  nan          2022
+2  iPhone®    $        69,702    $        65,775
+
+  Table 7: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 8: None ((10, 5))
+    Preview:
+            0    1             2    3             4
+0         nan  nan  December 30,  nan  December 31,
+1         nan  nan          2023  nan          2022
+2  Numerator:  nan           nan  nan           nan
+
+  Table 9: None ((21, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 10: None ((17, 5))
+    Preview:
+        0    1             2    3             4
+0     nan  nan  December 30,  nan  December 31,
+1     nan  nan          2023  nan          2022
+2  ricas:  nan           nan  nan           nan
+
+  Table 11: None ((9, 6))
+    Preview:
+                             0    1             2    3             4       5
+0                          nan  nan  December 30,  nan  December 31,     nan
+1                          nan  nan          2023  nan          2022  Change
+2  ales by reportable segment:  nan           nan  nan           nan     nan
+
+  Table 12: None ((9, 6))
+    Preview:
+                   0    1             2    3             4       5
+0                nan  nan  December 30,  nan  December 31,     nan
+1                nan  nan          2023  nan          2022  Change
+2  ales by category:  nan           nan  nan           nan     nan
+
+  Table 13: None ((4, 1))
+    Preview:
+                                                                                                                                          0
+0  disclose specified additional information in its income tax rate reconciliation and provide additional information for reconciling items
+1         that meet a quantitative threshold. ASU 2023-09 will also require the Company to disaggregate its income taxes paid disclosure by
+2   federal, state and foreign taxes, with further disaggregation required for significant individual jurisdictions. The Company will adopt
+
+------------------------------
+
+Filing: filing_8
+Year: 2023, Type: 10-K
+Financial Tables Found: 31
+  Table 0: None ((9, 3))
+    Preview:
+         0                                                                                                              1   2
+0  Item 5.  Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of\rEquity Securities  18
+1  Item 6.                                                                                                     [Reserved]  19
+2  Item 7.                          Management’s Discussion and Analysis of Financial Condition and Results of Operations  20
+
+  Table 1: None ((7, 9))
+    Preview:
+                             0    1        2     3    4        5     6    7        8
+0  ales by reportable segment:  nan      nan   nan  nan      nan   nan  nan      nan
+1                     Americas    $  162,560  (4)%    $  169,658  11 %    $  153,306
+2                       Europe  nan   94,294  (1)%  nan   95,118   7 %  nan   89,307
+
+  Table 2: None ((7, 9))
+    Preview:
+                   0    1        2      3    4        5     6    7        8
+0  ales by category:  nan      nan    nan  nan      nan   nan  nan      nan
+1          (1)iPhone    $  200,583   (2)%    $  205,489   7 %    $  191,973
+2             (1)Mac  nan   29,357  (27)%  nan   40,177  14 %  nan   35,190
+
+  Table 3: income_statement ((6, 2))
+    Preview:
+                                                                                                                                    0     2
+0  Consolidated Statements of Comprehensive Income for the years ended September 30, 2023,\rSeptember 24, 2022 and September 25, 2021  29.0
+1                                                         Consolidated Balance Sheets as of September 30, 2023 and September 24, 2022   NaN
+2  Consolidated Statements of Shareholders’ Equity for the years ended September 30, 2023, September\r24, 2022 and September 25, 2021  31.0
+
+  Table 4: None ((26, 4))
+    Preview:
+            0              1              2              3
+0         nan  September 30,  September 24,  September 25,
+1         nan           2023           2022           2021
+2  Net sales:            nan            nan            nan
+
+  Table 5: None ((37, 6))
+    Preview:
+                           0        1    2       3    4       5
+0                        nan  ASSETS:  nan     nan  nan     nan
+1                ent assets:      nan  nan     nan  nan     nan
+2  Cash and cash equivalents      nan    $  29,965    $  23,646
+
+  Table 6: None ((18, 4))
+    Preview:
+                                                0              1              2              3
+0                                             nan  September 30,  September 24,  September 25,
+1                                             nan           2023           2022           2021
+2  Total shareholders’ equity, beginning balances       $ 50,672       $ 63,090       $ 65,339
+
+  Table 7: None ((7, 4))
+    Preview:
+                                                           0         1         2         3
+0  Payments for acquisition of property, plant and equipment  (10,959)  (10,708)  (11,085)
+1                                                      Other   (1,337)   (2,086)     (385)
+2           Cash generated by/(used in) investing activities     3,705  (22,354)  (14,545)
+
+  Table 8: None ((22, 4))
+    Preview:
+                                                                0              1              2              3
+0                                                             nan  September 30,  September 24,  September 25,
+1                                                             nan           2023           2022           2021
+2  Cash, cash equivalents and restricted cash, beginning balances       $ 24,977       $ 35,929       $ 39,789
+
+  Table 9: None ((6, 7))
+    Preview:
+                                                     0    1         2    3        4    5        6
+0                              Repayments of term debt  nan  (11,151)  nan  (9,543)  nan  (8,750)
+1  Proceeds from/(Repayments of) commercial paper, net  nan   (3,978)  nan    3,955  nan    1,022
+2                                                Other  nan     (581)  nan    (160)  nan      976
+
+  Table 10: None ((25, 9))
+    Preview:
+     0         1           2           3    4      5            6           7            8
+0  nan       nan         nan         nan  nan    nan     Cash and     Current  Non-Current
+1  nan  Adjusted  Unrealized  Unrealized  nan   Fair         Cash  Marketable   Marketable
+2  nan      Cost       Gains      Losses  nan  Value  Equivalents  Securities   Securities
+
+  Table 11: None ((28, 13))
+    Preview:
+         0          1    2    3    4         5          6    7       8    9       10   11       12
+0  Subtotal    144,470  nan   18  nan  (11,657)    132,831  nan   1,125  nan  31,162  nan  100,544
+1       (2)        nan  nan  nan  nan       nan        nan  nan     nan  nan     nan  nan      nan
+2     Total  $ 173,752    $   30    $  (11,683)  $ 162,099    $  29,965    $  31,590    $  100,544
+
+  Table 12: None ((5, 5))
+    Preview:
+                                                0        1    2        3    5
+0  Machinery, equipment and internal-use software   78,314  nan   81,060  nan
+1                          Leasehold improvements   12,839  nan   11,271  nan
+2             Gross property, plant and equipment  114,599  nan  114,457  nan
+
+  Table 13: None ((2, 5))
+    Preview:
+                                0       1       2       3       5
+0        Other non-current assets  46,906     nan  39,053     nan
+1  Total other non-current assets       $  64,758     nan  54,428
+
+  Table 14: None ((2, 5))
+    Preview:
+                                 0       1       2       3       5
+0        Other current liabilities  50,010     nan  54,293     nan
+1  Total other current liabilities       $  58,829     nan  60,845
+
+  Table 15: None ((2, 5))
+    Preview:
+                                     0       1       2       3       5
+0        Other non-current liabilities  34,391     nan  32,485     nan
+1  Total other non-current liabilities       $  49,848     nan  49,142
+
+  Table 16: None ((3, 7))
+    Preview:
+                                   0        1      2        3    4        5      8
+0                   Interest expense  (3,933)    nan  (2,931)  nan  (2,645)    NaN
+1        Other income/(expense), net    (382)    nan    (228)  nan       60    NaN
+2  Total other income/(expense), net      nan  (565)      nan    $    (334)  258.0
+
+  Table 17: None ((13, 7))
+    Preview:
+          0    1        2    3        4    5        6
+0  Federal:  nan      nan  nan      nan  nan      nan
+1   Current    $    9,445    $    7,890    $    8,257
+2  Deferred  nan  (3,644)  nan  (2,265)  nan  (7,176)
+
+  Table 18: None ((8, 7))
+    Preview:
+                                    0    1        2    3        4    5        6
+0               Computed expected tax    $   23,885    $   25,012    $   22,933
+1  State taxes, net of federal effect  nan    1,124  nan    1,518  nan    1,151
+2    Earnings of foreign subsidiaries  nan  (5,744)  nan  (4,366)  nan  (4,715)
+
+  Table 19: None ((19, 5))
+    Preview:
+                                        0    1      2    3      4
+0                    Deferred tax assets:  nan    nan  nan    nan
+1                Tax credit carryforwards    $  8,302    $  6,962
+2  Accrued liabilities and other reserves  nan  6,365  nan  6,515
+
+  Table 20: None ((10, 6))
+    Preview:
+                      0                                   1    2       3    4       5
+0  Right-of-use assets:                                 nan  nan     nan  nan     nan
+1      Operating leases            Other non-current assets    $  10,661    $  10,417
+2        Finance leases  Property, plant and equipment, net  nan   1,015  nan     952
+
+  Table 21: None ((8, 8))
+    Preview:
+      0      1    2    3    4      5    7    8
+0  2025  1,875  nan  151  nan  2,026  nan  nan
+1  2026  1,732  nan  120  nan  1,852  nan  nan
+2  2027  1,351  nan   52  nan  1,403  nan  nan
+
+  Table 22: None ((6, 7))
+    Preview:
+                                                    0    1       2      4      6      7     10
+0  Proceeds from/(Repayments of) commercial paper, net    $  (1,333    nan  5,264    nan  (357
+1                     Maturities greater than 90 days:  nan     nan    nan    nan    nan   nan
+2                       Proceeds from commercial paper    —     nan  5,948    nan  7,946   nan
+
+  Table 23: None ((4, 6))
+    Preview:
+                        0                1              2              3              4              5
+0                     nan       Maturities         Amount      Effective         Amount      Effective
+1                     nan  (calendar year)  (in millions)  Interest Rate  (in millions)  Interest Rate
+2  – 2022 debt issuances:              nan            nan            nan            nan            nan
+
+  Table 24: None ((7, 3))
+    Preview:
+      0    1       2
+0  2024    $   9,943
+1  2025  nan  10,775
+2  2026  nan  12,265
+
+  Table 25: None ((7, 3))
+    Preview:
+      0    1      2
+0  2024    $  4,258
+1  2025  nan  2,674
+2  2026  nan  3,434
+
+  Table 26: None ((15, 7))
+    Preview:
+                  0    1        2    3        4    5        6
+0            ricas:  nan      nan  nan      nan  nan      nan
+1         Net sales    $  162,560    $  169,658    $  153,306
+2  Operating income    $   60,508    $   62,683    $   53,382
+
+  Table 27: None ((5, 7))
+    Preview:
+          0    1        2    3        4    5        6
+0    sales:  nan      nan  nan      nan  nan      nan
+1      U.S.    $  138,573    $  147,859    $  133,803
+2  (1)China  nan   72,559  nan   74,200  nan   68,366
+
+  Table 28: None ((7, 7))
+    Preview:
+                 0    1        2    3        4    5        6
+0  Total net sales    $  383,285    $  394,328    $  365,817
+1              nan  nan      nan  nan     2023  nan     2022
+2   -lived assets:  nan      nan  nan      nan  nan      nan
+
+  Table 29: income_statement ((6, 2))
+    Preview:
+                                                                                                                                    0     2
+0  Consolidated Statements of Comprehensive Income for the years ended September 30, 2023,\rSeptember 24, 2022 and September 25, 2021  29.0
+1                                                         Consolidated Balance Sheets as of September 30, 2023 and September 24, 2022   NaN
+2  Consolidated Statements of Shareholders’ Equity for the years ended September 30, 2023, September\r24, 2022 and September 25, 2021  31.0
+
+  Table 30: None ((55, 13))
+    Preview:
+        0    1    2    3    4    5    6    7    8    9    11   12          13
+0      nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan      Filing
+1      nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan       Date/
+2  Exhibit  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  Period End
+
+------------------------------
+

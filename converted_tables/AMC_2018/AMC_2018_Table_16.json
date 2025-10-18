@@ -1,0 +1,30 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "confidence": 0.5,
+  "line_items": [
+    {
+      "name": "million for the year ended December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "The fair value measurement of tangible and intangible assets and liabilities were based on significant inputs not observable in the market and thus represent Level 3 measurements within the fair value measurement hierarchy. Level 3 fair market values were determined using a variety of information, including estimated future cash flows, appraisals, and market comparables. The purchase price paid by the Company in the acquisition resulted in recognition of goodwill because it exceeded the estimated fair value of the assets acquired and liabilities assumed. The Company paid a price in excess of estimated fair value of the assets acquired and liabilities assumed because the acquisition of Nordic enhances its position as the largest movie exhibition company in Europe and broadens and diversifies its European platform. The Company also expects to realize synergy and cost savings related to the acquisition because of purchasing and procurement economies of scale. During the years ended December 31, 2018 and December 31, 2017, the Company incurred acquisition-related and transition costs for Nordic of approximately $1.5 million and $10.1 million, which were included in general and administrative expense",
+      "is_total": false
+    }
+  ]
+}

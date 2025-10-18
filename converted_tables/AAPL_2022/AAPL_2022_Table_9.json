@@ -1,0 +1,242 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "billions",
+  "years": [
+    "2026",
+    "2023",
+    "2022",
+    "2021"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "as of September",
+      "values": [
+        24.0,
+        2022.0,
+        25.0,
+        2021.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "25, 2021 was",
+      "values": [
+        10.1,
+        10.8,
+        0.0,
+        24.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 24,",
+      "values": [
+        2022.0,
+        25.0,
+        2021.0,
+        2.3
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2.3 % and",
+      "values": [
+        2.0,
+        0.0,
+        24.0,
+        2022.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the Company had",
+      "values": [
+        1.2,
+        0.0,
+        0.0,
+        2023.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "between 2023 and",
+      "values": [
+        2026.0,
+        1.0,
+        21.0,
+        2022.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "| 2022 Form",
+      "values": [
+        10.0,
+        44.0,
+        7.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "As of September",
+      "values": [
+        24.0,
+        2022.0,
+        25.0,
+        2021.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the Company had",
+      "values": [
+        10.0,
+        6.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Commercial Paper was",
+      "values": [
+        2.31,
+        0.06,
+        24.0,
+        2022.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2022 and September",
+      "values": [
+        25.0,
+        2021.0,
+        2022.0,
+        2021.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2022, 2021 and",
+      "values": [
+        2020.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

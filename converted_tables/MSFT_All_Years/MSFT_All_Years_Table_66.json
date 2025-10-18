@@ -1,0 +1,192 @@
+{
+  "company_name": "Microsoft Corporation",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2021",
+    "2020"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Assets Liabilities Assets Liabilities June",
+      "values": [
+        30.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "June",
+      "values": [
+        30.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Designated as Hedging Instruments Foreign exchange contracts",
+      "values": [
+        8.0,
+        54.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Interest rate contracts Not Designated as Hedging Instruments Foreign exchange contracts",
+      "values": [
+        291.0,
+        334.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Other contracts",
+      "values": [
+        36.0,
+        11.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Gross amounts of derivatives",
+      "values": [
+        335.0,
+        399.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Gross amounts of derivatives offset in the balance sheet",
+      "values": [
+        141.0,
+        154.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Cash collateral received",
+      "values": [
+        0.0,
+        42.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Net amounts of derivatives",
+      "values": [
+        235.0,
+        395.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Net Income",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "term assets Other current liabilities",
+      "values": [
+        182.0,
+        334.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "term liabilities",
+      "values": [
+        53.0,
+        61.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "as of June",
+      "values": [
+        30.0,
+        2020.0
+      ],
+      "years": [
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

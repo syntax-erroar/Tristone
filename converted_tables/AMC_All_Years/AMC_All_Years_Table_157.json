@@ -1,0 +1,42 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2018",
+    "2017"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Accrued expenses and other liabilities (0.3) (0.3) \u2014 \u2014 Other long-term liabilities",
+      "values": [
+        37.5,
+        46.9
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": "U.S. Pension Benefits International Pension Benefits (In millions) December 31, 2018 December 31, 2017 December 31, 2018 December 31, 2017 Amounts recognized in the Balance Sheet",
+      "is_total": false
+    },
+    {
+      "name": "Accrued expenses and other liabilities (0.3) (0.3) \u2014 \u2014 Other long-term liabilities (37.5) (46.9) (17.1) (15.8) Net asset (liability) recognized",
+      "values": [
+        37.8,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": "U.S. Pension Benefits International Pension Benefits (In millions) December 31, 2018 December 31, 2017 December 31, 2018 December 31, 2017 Amounts recognized in the Balance Sheet",
+      "is_total": false
+    }
+  ]
+}

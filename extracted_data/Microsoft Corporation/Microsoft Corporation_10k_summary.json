@@ -1,0 +1,217 @@
+{
+  "extraction_date": "2025-09-18T12:07:59.105450",
+  "total_filings": 5,
+  "filings": {
+    "2020": {
+      "company_name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "filing_date": "2020-07-30T20:44:46-04:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 1695,
+          "characters": 11336,
+          "tables": 10,
+          "has_financial_data": true
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 1689,
+          "characters": 11295,
+          "tables": 47,
+          "has_financial_data": true
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 1010,
+          "characters": 5584,
+          "tables": 11,
+          "has_financial_data": true
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 464,
+          "characters": 3131,
+          "tables": 8,
+          "has_financial_data": true
+        }
+      },
+      "stats": {
+        "words": 4858,
+        "characters": 31346,
+        "tables": 76,
+        "paragraphs": 0
+      }
+    },
+    "2021": {
+      "company_name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "filing_date": "2021-07-29T16:21:55-04:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 1673,
+          "characters": 11214,
+          "tables": 8,
+          "has_financial_data": true
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 1023,
+          "characters": 6905,
+          "tables": 26,
+          "has_financial_data": true
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 1014,
+          "characters": 5581,
+          "tables": 11,
+          "has_financial_data": true
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 464,
+          "characters": 3131,
+          "tables": 8,
+          "has_financial_data": true
+        }
+      },
+      "stats": {
+        "words": 4174,
+        "characters": 26831,
+        "tables": 53,
+        "paragraphs": 0
+      }
+    },
+    "2022": {
+      "company_name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "filing_date": "2022-07-28T16:06:19-04:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 1791,
+          "characters": 12129,
+          "tables": 8,
+          "has_financial_data": true
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 1087,
+          "characters": 7396,
+          "tables": 30,
+          "has_financial_data": true
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 1035,
+          "characters": 5625,
+          "tables": 11,
+          "has_financial_data": true
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 452,
+          "characters": 3048,
+          "tables": 8,
+          "has_financial_data": true
+        }
+      },
+      "stats": {
+        "words": 4365,
+        "characters": 28198,
+        "tables": 57,
+        "paragraphs": 0
+      }
+    },
+    "2023": {
+      "company_name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "filing_date": "2023-07-27T16:01:56-04:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 1714,
+          "characters": 12042,
+          "tables": 8,
+          "has_financial_data": true
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 283,
+          "characters": 2091,
+          "tables": 2,
+          "has_financial_data": true
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 562,
+          "characters": 2705,
+          "tables": 6,
+          "has_financial_data": true
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 452,
+          "characters": 3048,
+          "tables": 8,
+          "has_financial_data": true
+        }
+      },
+      "stats": {
+        "words": 3011,
+        "characters": 19886,
+        "tables": 24,
+        "paragraphs": 0
+      }
+    },
+    "2024": {
+      "company_name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "filing_date": "2024-07-30T16:06:22-04:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 1796,
+          "characters": 12210,
+          "tables": 9,
+          "has_financial_data": true
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 290,
+          "characters": 2116,
+          "tables": 2,
+          "has_financial_data": true
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 723,
+          "characters": 3493,
+          "tables": 7,
+          "has_financial_data": true
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 935,
+          "characters": 6107,
+          "tables": 15,
+          "has_financial_data": true
+        }
+      },
+      "stats": {
+        "words": 3744,
+        "characters": 23926,
+        "tables": 33,
+        "paragraphs": 0
+      }
+    }
+  },
+  "overall_stats": {
+    "total_words": 20152,
+    "total_characters": 130187,
+    "total_tables": 243,
+    "total_paragraphs": 0
+  }
+}

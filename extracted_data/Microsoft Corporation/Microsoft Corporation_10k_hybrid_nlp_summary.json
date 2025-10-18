@@ -1,0 +1,183 @@
+{
+  "extraction_date": "2025-09-18T12:42:11.651099",
+  "extraction_method": "hybrid_nlp",
+  "total_filings": 2,
+  "filings": {
+    "2021": {
+      "company_name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "filing_date": "2021-07-29T16:21:55-04:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 0,
+          "characters": 0,
+          "tables": 0,
+          "has_financial_data": false,
+          "is_financial_content": true,
+          "confidence_scores": {
+            "semantic_similarity": 0.4847651720046997,
+            "entity_density": 0.006557056175376786,
+            "entity_count": 67,
+            "content_length": 1.0,
+            "number_patterns": 1.0,
+            "keyword_presence": 0.7619047619047619,
+            "overall_confidence": 10.536787986755371
+          },
+          "overall_confidence": 10.536787986755371
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 1067,
+          "characters": 7208,
+          "tables": 28,
+          "has_financial_data": true,
+          "is_financial_content": true,
+          "confidence_scores": {
+            "semantic_similarity": 0.5868921875953674,
+            "entity_density": 0.05406813209709345,
+            "entity_count": 519,
+            "content_length": 1.0,
+            "number_patterns": 1.0,
+            "keyword_presence": 0.9047619047619048,
+            "overall_confidence": 78.39324951171875
+          },
+          "overall_confidence": 78.39324951171875
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 1010,
+          "characters": 5539,
+          "tables": 11,
+          "has_financial_data": true,
+          "is_financial_content": true,
+          "confidence_scores": {
+            "semantic_similarity": 0.6088155508041382,
+            "entity_density": 0.0530508592499826,
+            "entity_count": 1525,
+            "content_length": 1.0,
+            "number_patterns": 0.6666666666666666,
+            "keyword_presence": 1.0,
+            "overall_confidence": 229.2628173828125
+          },
+          "overall_confidence": 229.2628173828125
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 479,
+          "characters": 3283,
+          "tables": 5,
+          "has_financial_data": true,
+          "is_financial_content": true,
+          "confidence_scores": {
+            "semantic_similarity": 0.5873562097549438,
+            "entity_density": 0.033468559837728194,
+            "entity_count": 33,
+            "content_length": 1.0,
+            "number_patterns": 0.3333333333333333,
+            "keyword_presence": 0.14285714285714285,
+            "overall_confidence": 5.274961471557617
+          },
+          "overall_confidence": 5.274961471557617
+        }
+      },
+      "stats": {
+        "words": 2556,
+        "characters": 16030,
+        "tables": 44,
+        "average_confidence": 80.86695861816406
+      }
+    },
+    "2022": {
+      "company_name": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "filing_date": "2022-07-28T16:06:19-04:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 0,
+          "characters": 0,
+          "tables": 0,
+          "has_financial_data": false,
+          "is_financial_content": true,
+          "confidence_scores": {
+            "semantic_similarity": 0.4847651720046997,
+            "entity_density": 0.005547054322876817,
+            "entity_count": 58,
+            "content_length": 1.0,
+            "number_patterns": 1.0,
+            "keyword_presence": 0.7619047619047619,
+            "overall_confidence": 9.186586380004883
+          },
+          "overall_confidence": 9.186586380004883
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 1087,
+          "characters": 7396,
+          "tables": 30,
+          "has_financial_data": true,
+          "is_financial_content": true,
+          "confidence_scores": {
+            "semantic_similarity": 0.5868921875953674,
+            "entity_density": 0.05000530841915277,
+            "entity_count": 471,
+            "content_length": 1.0,
+            "number_patterns": 1.0,
+            "keyword_presence": 0.8571428571428571,
+            "overall_confidence": 71.18529510498047
+          },
+          "overall_confidence": 71.18529510498047
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 1032,
+          "characters": 5587,
+          "tables": 11,
+          "has_financial_data": true,
+          "is_financial_content": true,
+          "confidence_scores": {
+            "semantic_similarity": 0.6002776026725769,
+            "entity_density": 0.05471839264721599,
+            "entity_count": 1536,
+            "content_length": 1.0,
+            "number_patterns": 0.6666666666666666,
+            "keyword_presence": 1.0,
+            "overall_confidence": 230.9110107421875
+          },
+          "overall_confidence": 230.9110107421875
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 467,
+          "characters": 3200,
+          "tables": 5,
+          "has_financial_data": true,
+          "is_financial_content": true,
+          "confidence_scores": {
+            "semantic_similarity": 0.5873562097549438,
+            "entity_density": 0.03680981595092025,
+            "entity_count": 36,
+            "content_length": 1.0,
+            "number_patterns": 0.3333333333333333,
+            "keyword_presence": 0.14285714285714285,
+            "overall_confidence": 5.725629806518555
+          },
+          "overall_confidence": 5.725629806518555
+        }
+      },
+      "stats": {
+        "words": 2586,
+        "characters": 16183,
+        "tables": 46,
+        "average_confidence": 79.25212860107422
+      }
+    }
+  },
+  "overall_stats": {
+    "total_words": 5142,
+    "total_characters": 32213,
+    "total_tables": 90,
+    "average_confidence": 80.05953979492188
+  }
+}

@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8
+nan,nan,nan,nan,nan,nan,Cash and,Current,Non-Current
+nan,Adjusted,Unrealized,Unrealized,nan,Fair,Cash,Marketable,Marketable
+nan,Cost,Gains,Losses,nan,Value,Equivalents,Securities,Securities
+Cash,"$ 28,359",$ —,$ —,$,"28,359","$ 28,359",$ —,$ —
+Level 1:,nan,nan,nan,nan,nan,nan,nan,nan
+Money market funds,481,—,—,nan,481,481,—,—
+Mutual funds and equity,nan,nan,nan,nan,nan,nan,nan,nan
+securities,442,12,(26),nan,428,—,428,—
+Subtotal,923,12,(26),nan,909,481,428,—
+(1),nan,nan,nan,nan,nan,nan,nan,nan
+Level 2 :,nan,nan,nan,nan,nan,nan,nan,nan
+U.S. Treasury securities,"19,406",—,"(1,292)",nan,"18,114",35,"5,468","12,611"
+U.S. agency securities,"5,736",—,(600),nan,"5,136",36,271,"4,829"
+Non-U.S. government,nan,nan,nan,nan,nan,nan,nan,nan
+securities,"17,533",6,"(1,048)",nan,"16,491",—,"11,332","5,159"
+Certificates of deposit and,nan,nan,nan,nan,nan,nan,nan,nan
+time deposits,"1,354",—,—,nan,"1,354","1,034",320,—
+Commercial paper,608,—,—,nan,608,—,608,—
+Corporate debt securities,"76,840",6,"(5,956)",nan,"70,890",20,"12,627","58,243"
+Municipal securities,628,—,(26),nan,602,—,192,410
+Mortgage- and asset-backed,nan,nan,nan,nan,nan,nan,nan,nan
+securities,"22,365",6,"(2,735)",nan,"19,636",—,344,"19,292"
+Subtotal,"144,470",18,"(11,657)",nan,"132,831","1,125","31,162","100,544"
+(2),nan,nan,nan,nan,nan,nan,nan,nan
+Total,"$ 173,752",$ 30,"$ (11,683)","$ 162,099",nan,"$ 29,965","$ 31,590","$ 100,544"

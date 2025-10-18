@@ -1,0 +1,528 @@
+{
+  "company_ticker": "AMC",
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "year": "2019",
+  "file_path": "cleaned_financial_statements_AMC\\AMC_10K_Part8_Cleaned_2019.txt",
+  "total_tables": 49,
+  "tables_info": [
+    {
+      "table_index": 1,
+      "line_items_count": 3,
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2013"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.7
+    },
+    {
+      "table_index": 2,
+      "line_items_count": 3,
+      "years": [
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6000000000000001
+    },
+    {
+      "table_index": 5,
+      "line_items_count": 1,
+      "years": [
+        "2026",
+        "2023",
+        "2022"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 6,
+      "line_items_count": 23,
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6130434782608697
+    },
+    {
+      "table_index": 7,
+      "line_items_count": 2,
+      "years": [
+        "2024",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 8,
+      "line_items_count": 8,
+      "years": [
+        "2024",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 9,
+      "line_items_count": 3,
+      "years": [
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.7
+    },
+    {
+      "table_index": 10,
+      "line_items_count": 6,
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6499999999999999
+    },
+    {
+      "table_index": 11,
+      "line_items_count": 1,
+      "years": [
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "cash_flow",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 12,
+      "line_items_count": 8,
+      "years": [
+        "2020",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 14,
+      "line_items_count": 4,
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 15,
+      "line_items_count": 1,
+      "years": [
+        "2019"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.2
+    },
+    {
+      "table_index": 16,
+      "line_items_count": 3,
+      "years": [
+        "2019",
+        "2018"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6000000000000001
+    },
+    {
+      "table_index": 17,
+      "line_items_count": 3,
+      "years": [
+        "2019"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 18,
+      "line_items_count": 2,
+      "years": [
+        "2019"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 20,
+      "line_items_count": 1,
+      "years": [
+        "2019"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.2
+    },
+    {
+      "table_index": 21,
+      "line_items_count": 1,
+      "years": [
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 22,
+      "line_items_count": 8,
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6375
+    },
+    {
+      "table_index": 23,
+      "line_items_count": 6,
+      "years": [
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.7499999999999999
+    },
+    {
+      "table_index": 26,
+      "line_items_count": 40,
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6000000000000002
+    },
+    {
+      "table_index": 27,
+      "line_items_count": 1,
+      "years": [
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 28,
+      "line_items_count": 2,
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 29,
+      "line_items_count": 5,
+      "years": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.7799999999999999
+    },
+    {
+      "table_index": 31,
+      "line_items_count": 6,
+      "years": [
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 32,
+      "line_items_count": 1,
+      "years": [
+        "2028",
+        "2022",
+        "2020",
+        "2019"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 33,
+      "line_items_count": 6,
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2012"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 34,
+      "line_items_count": 3,
+      "years": [
+        "2024",
+        "2020",
+        "2018"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6000000000000001
+    },
+    {
+      "table_index": 35,
+      "line_items_count": 5,
+      "years": [
+        "2019"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 36,
+      "line_items_count": 10,
+      "years": [
+        "2019",
+        "2018"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 37,
+      "line_items_count": 12,
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.725
+    },
+    {
+      "table_index": 38,
+      "line_items_count": 1,
+      "years": [
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.7999999999999999
+    },
+    {
+      "table_index": 39,
+      "line_items_count": 4,
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 40,
+      "line_items_count": 2,
+      "years": [
+        "2018"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 41,
+      "line_items_count": 2,
+      "years": [
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 42,
+      "line_items_count": 1,
+      "years": [
+        "2018"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 43,
+      "line_items_count": 1,
+      "years": [
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 44,
+      "line_items_count": 2,
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.75
+    },
+    {
+      "table_index": 45,
+      "line_items_count": 2,
+      "years": [
+        "2019"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 46,
+      "line_items_count": 2,
+      "years": [
+        "2018"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 47,
+      "line_items_count": 2,
+      "years": [
+        "2019"
+      ],
+      "statement_type": "cash_flow",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 48,
+      "line_items_count": 16,
+      "years": [
+        "2026",
+        "2023",
+        "2022"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6000000000000001
+    },
+    {
+      "table_index": 49,
+      "line_items_count": 2,
+      "years": [
+        "2018"
+      ],
+      "statement_type": "cash_flow",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 50,
+      "line_items_count": 14,
+      "years": [
+        "2024"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 51,
+      "line_items_count": 2,
+      "years": [
+        "2017"
+      ],
+      "statement_type": "cash_flow",
+      "confidence": 0.30000000000000004
+    },
+    {
+      "table_index": 52,
+      "line_items_count": 17,
+      "years": [
+        "2027",
+        "2024",
+        "2017"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6000000000000001
+    },
+    {
+      "table_index": 53,
+      "line_items_count": 5,
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 56,
+      "line_items_count": 11,
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6545454545454545
+    },
+    {
+      "table_index": 57,
+      "line_items_count": 9,
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 58,
+      "line_items_count": 2,
+      "years": [
+        "2019"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.30000000000000004
+    }
+  ]
+}

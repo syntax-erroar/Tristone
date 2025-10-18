@@ -1,0 +1,63 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2017"
+  ],
+  "confidence": 0.30000000000000004,
+  "line_items": [
+    {
+      "name": "Net gain (loss) arising during the period, net of tax \u2014 6.3 (2.1) \u2014",
+      "values": [
+        4.2
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Subsidiary Subsidiary Consolidating Consolidated (In millions) Holdings Guarantors Non-Guarantors Adjustments Holdings Net earnings $110.1 $14.5 $75.4 $(89.9) $110.1 Other comprehensive income (loss) Equity in other comprehensive income (loss) of subsidiaries (124.5) (99.1) \u2014 223.6 \u2014 Unrealized foreign currency translation adjustment, net of tax \u2014 (30.7) (97.0) \u2014 (127.7) Realized loss on foreign currency transactions, net of tax \u2014 1.0 \u2014 \u2014 1.0 Pension and other benefit adjustments",
+      "is_total": false
+    },
+    {
+      "name": "Net gain (loss) arising during the period, net of tax \u2014 6.3 (2.1) \u2014",
+      "values": [
+        4.2
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Subsidiary Subsidiary Consolidating Consolidated (In millions) Holdings Guarantors Non-Guarantors Adjustments Holdings Net earnings $110.1 $14.5 $75.4 $(89.9) $110.1 Other comprehensive income (loss) Equity in other comprehensive income (loss) of subsidiaries (124.5) (99.1) \u2014 223.6 \u2014 Unrealized foreign currency translation adjustment, net of tax \u2014 (30.7) (97.0) \u2014 (127.7) Realized loss on foreign currency transactions, net of tax \u2014 1.0 \u2014 \u2014 1.0 Pension and other benefit adjustments",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding (loss) gain arising during the period, net of tax \u2014 0.2 \u2014 \u2014",
+      "values": [
+        0.2
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Equity method investees\u2019 cash flow hedge",
+      "is_total": false
+    },
+    {
+      "name": "Unrealized net holding (loss) gain arising during the period, net of tax \u2014 0.2 \u2014 \u2014",
+      "values": [
+        0.2
+      ],
+      "years": [
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.2,
+      "parent_item": "Equity method investees\u2019 cash flow hedge",
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2020",
+    "2019",
+    "2018"
+  ],
+  "confidence": 0.7166666666666667,
+  "line_items": [
+    {
+      "name": "dilutive securities representing",
+      "values": [
+        62.0,
+        2019.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of the assets",
+      "values": [
+        0.0,
+        40.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of the assets",
+      "values": [
+        0.0,
+        9.7,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "was $9.7 billion,",
+      "values": [
+        11.3,
+        9.3,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "billion during 2020,",
+      "values": [
+        2019.0,
+        2018.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "liabilities of $(",
+      "values": [
+        2.9,
+        3.4,
+        2019.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "during 2019 and",
+      "values": [
+        2018.0,
+        2020.0,
+        10.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Form 10-K |",
+      "values": [
+        37.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "high credit ratings",
+      "values": [
+        0.0,
+        2.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        0.0,
+        2020.0,
+        10.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Form 10-K |",
+      "values": [
+        38.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the customer. Therefore",
+      "values": [
+        0.0,
+        0.0,
+        26.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        2020.0,
+        28.0,
+        2019.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        10.2,
+        8.1,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        26.0,
+        2020.0,
+        65.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        0.0,
+        25.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        8.0,
+        2.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        2019.0,
+        2018.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

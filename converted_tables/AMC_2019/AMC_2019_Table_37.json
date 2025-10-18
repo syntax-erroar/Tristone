@@ -1,0 +1,217 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "confidence": 0.725,
+  "line_items": [
+    {
+      "name": "Hedge Total Balance",
+      "values": [
+        0.0,
+        31.0,
+        2017.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "31, 2017 \u200b",
+      "values": [
+        129.9,
+        6.6,
+        0.6
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b $0.6 \u200b",
+      "values": [
+        1.7,
+        125.6,
+        127.7
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b (127.7) \u200b",
+      "values": [
+        4.2,
+        0.2,
+        123.3
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "income \u200b \u200b",
+      "values": [
+        1.0,
+        2.2,
+        1.2
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Revenue",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b \u200b (",
+      "values": [
+        126.7,
+        4.2,
+        2.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b \u200b (",
+      "values": [
+        124.5,
+        2016.0,
+        1.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "earnings",
+      "values": [
+        0.6,
+        0.6,
+        2018.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "earnings",
+      "values": [
+        2.0,
+        4.0,
+        0.6
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "earnings",
+      "values": [
+        0.4,
+        5.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "earnings",
+      "values": [
+        31.0,
+        2018.0,
+        7.2
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "earnings",
+      "values": [
+        1.8,
+        0.1,
+        5.5
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

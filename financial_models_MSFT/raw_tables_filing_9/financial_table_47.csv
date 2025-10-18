@@ -1,0 +1,34 @@
+0,1,2,4
+"(In millions, except lease term and discount rate)",nan,nan,nan
+"June 30,",2023,nan,2022
+Operating Leases,nan,nan,nan
+Operating lease right-of-use assets $,"14,346",$,"13,148"
+Other current liabilities $,"2,409",$,"2,228"
+Operating lease liabilities,"12,728",nan,"11,489"
+Total operating lease liabilities $,"15,137",$,"13,717"
+Finance Leases,nan,nan,nan
+"Property and equipment, at cost $","20,538",$,"17,388"
+Accumulated depreciation,"(4,647)",nan,"(3,285 )"
+"Property and equipment, net $","15,891",$,"14,103"
+Other current liabilities $,"1,197",$,"1,060"
+Other long-term liabilities,"15,870",nan,"13,842"
+Total finance lease liabilities $,"17,067",$,"14,902"
+Weighted Average Remaining Lease Term,nan,nan,nan
+Operating leases,8 years,nan,8 years
+Finance leases,11 years,nan,12 years
+Weighted Average Discount Rate,nan,nan,nan
+Operating leases,2.9%,nan,2.1%
+Finance leases,3.4%,nan,3.1%
+"The following table outlines maturities of our lease liabilities as of June 30, 2023:",nan,nan,nan
+(In millions),nan,nan,nan
+nan,Operating,nan,Finance
+"Year Ending June 30,",Leases,nan,Leases
+2024  $,"2,784  $",nan,"1,747"
+2025,"2,508",nan,"2,087"
+2026,"2,142",nan,"1,771"
+2027,"1,757",nan,"1,780"
+2028,"1,582",nan,"1,787"
+Thereafter,"6,327",nan,"11,462"
+Total lease payments,"17,100",nan,"20,634"
+Less imputed interest,"(1,963)",nan,"(3,567)"
+Total  $,"15,137",$,"17,067"

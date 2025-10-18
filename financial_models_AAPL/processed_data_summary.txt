@@ -1,0 +1,15 @@
+PROCESSED DATA SUMMARY
+==============================
+
+Year: 2025
+
+Year: 2024
+  income_statement: 2 line items
+    Consolidated Statements of Comprehensive Income for the years ended September 28, 2024, September 30, 2023and September 24, 2022: 2 entries
+    Consolidated Statements of Shareholders’ Equity for the years ended September 28, 2024, September 30, 2023 andSeptember 24, 2022: 2 entries
+
+Year: 2023
+  income_statement: 2 line items
+    Consolidated Statements of Comprehensive Income for the years ended September 30, 2023,September 24, 2022 and September 25, 2021: 2 entries
+    Consolidated Statements of Shareholders’ Equity for the years ended September 30, 2023, September24, 2022 and September 25, 2021: 2 entries
+

@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6,7,8
+nan,nan,2023,nan,2022,nan,2023,nan,2022
+Operations,nan,nan,nan,nan,nan,nan,nan,nan
+Net income,$,"21,870",$,"16,425",$,"44,161",$,"33,981"
+Adjustments to reconcile net income to net cash from,nan,nan,nan,nan,nan,nan,nan,nan
+operations:,nan,nan,nan,nan,nan,nan,nan,nan
+"Depreciation, amortization, and other",nan,"5,959",nan,"3,648",nan,"9,880",nan,"6,438"
+Stock-based compensation expense,nan,"2,828",nan,"2,538",nan,"5,335",nan,"4,730"
+Net recognized losses on investments and,nan,nan,nan,nan,nan,nan,nan,nan
+derivatives,nan,198,nan,214,nan,212,nan,192
+Deferred income taxes,nan,"(1,702 )",nan,"(1,305 )",nan,"(2,270 )",nan,"(2,496 )"
+Changes in operating assets and liabilities:,nan,nan,nan,nan,nan,nan,nan,nan
+Accounts receivable,nan,"(2,951 )",nan,"(3,164 )",nan,"8,083",nan,"8,565"
+Inventories,nan,"1,474",nan,"1,305",nan,969,nan,762
+Other current assets,nan,725,nan,(392 ),nan,(71 ),nan,(724 )
+Other long-term assets,nan,"(1,427 )",nan,(65 ),nan,"(3,440 )",nan,(731 )
+Accounts payable,nan,"(2,521 )",nan,"(2,058 )",nan,"(1,307 )",nan,"(3,625 )"
+Unearned revenue,nan,"(5,538 )",nan,"(5,186 )",nan,"(9,664 )",nan,"(8,508 )"
+Income taxes,nan,"(1,554 )",nan,"(2,863 )",nan,(129 ),nan,"(2,453 )"
+Other current liabilities,nan,"1,518",nan,"1,819",nan,"(2,588 )",nan,"(2,205 )"
+Other long-term liabilities,nan,(26 ),nan,257,nan,265,nan,445
+Net cash from operations,nan,"18,853",nan,"11,173",nan,"49,436",nan,"34,371"
+Financing,nan,nan,nan,nan,nan,nan,nan,nan
+"Proceeds from issuance (repayments) of debt,",nan,nan,nan,nan,nan,nan,nan,nan
+"maturities of 90 days or less, net",nan,"(8,490 )",nan,0,nan,"10,202",nan,0
+Proceeds from issuance of debt,nan,"10,773",nan,0,nan,"17,846",nan,0
+Repayments of debt,nan,"(2,916 )",nan,(750 ),nan,"(4,416 )",nan,"(1,750 )"
+Common stock issued,nan,261,nan,243,nan,946,nan,818
+Common stock repurchased,nan,"(4,000 )",nan,"(5,459 )",nan,"(8,831 )",nan,"(11,032 )"
+Common stock cash dividends paid,nan,"(5,574 )",nan,"(5,066 )",nan,"(10,625 )",nan,"(9,687 )"
+"Other, net",nan,(201 ),nan,(317 ),nan,(508 ),nan,(581 )
+Net cash from (used in) financing,nan,"(10,147 )",nan,"(11,349 )",nan,"4,614",nan,"(22,232 )"
+Investing,nan,nan,nan,nan,nan,nan,nan,nan
+Additions to property and equipment,nan,"(9,735 )",nan,"(6,274 )",nan,"(19,652 )",nan,"(12,557 )"
+"Acquisition of companies, net of cash acquired, and",nan,nan,nan,nan,nan,nan,nan,nan
+purchases of intangible and other assets,nan,"(65,029 )",nan,(679 ),nan,"(66,215 )",nan,"(1,028 )"
+Purchases of investments,nan,"(4,258 )",nan,"(11,599 )",nan,"(12,718 )",nan,"(16,612 )"
+Maturities of investments,nan,"4,150",nan,"6,928",nan,"19,868",nan,"13,590"
+Sales of investments,nan,"1,600",nan,"4,775",nan,"6,930",nan,"7,486"
+"Other, net",nan,"1,347",nan,(301 ),nan,365,nan,"(1,161 )"
+Net cash used in investing,nan,"(71,925 )",nan,"(7,150 )",nan,"(71,422 )",nan,"(10,282 )"
+Effect of foreign exchange rates on cash and cash,nan,nan,nan,nan,nan,nan,nan,nan
+equivalents,nan,72,nan,88,nan,(27 ),nan,(142 )
+Net change in cash and cash equivalents,nan,"(63,147 )",nan,"(7,238 )",nan,"(17,399 )",nan,"1,715"
+"Cash and cash equivalents, beginning of period",nan,"80,452",nan,"22,884",nan,"34,704",nan,"13,931"
+"Cash and cash equivalents, end of period",$,"17,305",$,"15,646",$,"17,305",$,"15,646"

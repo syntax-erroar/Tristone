@@ -1,0 +1,217 @@
+{
+  "extraction_date": "2025-09-18T11:28:23.951929",
+  "total_filings": 5,
+  "filings": {
+    "2021": {
+      "company_name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "filing_date": "2021-02-08T07:27:23-05:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 3499,
+          "characters": 22625,
+          "tables": 24,
+          "has_financial_data": true
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 740,
+          "characters": 3896,
+          "tables": 12,
+          "has_financial_data": true
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 4492,
+          "characters": 25347,
+          "tables": 45,
+          "has_financial_data": true
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 329,
+          "characters": 2321,
+          "tables": 6,
+          "has_financial_data": true
+        }
+      },
+      "stats": {
+        "words": 9060,
+        "characters": 54189,
+        "tables": 87,
+        "paragraphs": 0
+      }
+    },
+    "2022": {
+      "company_name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "filing_date": "2022-02-04T20:11:27-05:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 4630,
+          "characters": 29521,
+          "tables": 30,
+          "has_financial_data": true
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 700,
+          "characters": 3617,
+          "tables": 11,
+          "has_financial_data": true
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 4260,
+          "characters": 24047,
+          "tables": 44,
+          "has_financial_data": true
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 326,
+          "characters": 2293,
+          "tables": 6,
+          "has_financial_data": true
+        }
+      },
+      "stats": {
+        "words": 9916,
+        "characters": 59478,
+        "tables": 91,
+        "paragraphs": 0
+      }
+    },
+    "2023": {
+      "company_name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "filing_date": "2023-01-30T21:29:15-05:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 3073,
+          "characters": 19702,
+          "tables": 20,
+          "has_financial_data": true
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 723,
+          "characters": 3784,
+          "tables": 12,
+          "has_financial_data": true
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 3972,
+          "characters": 22777,
+          "tables": 42,
+          "has_financial_data": true
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 326,
+          "characters": 2293,
+          "tables": 6,
+          "has_financial_data": true
+        }
+      },
+      "stats": {
+        "words": 8094,
+        "characters": 48556,
+        "tables": 80,
+        "paragraphs": 0
+      }
+    },
+    "2024": {
+      "company_name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "filing_date": "2024-01-26T21:00:20-05:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 966,
+          "characters": 6161,
+          "tables": 9,
+          "has_financial_data": true
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 729,
+          "characters": 3792,
+          "tables": 10,
+          "has_financial_data": true
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 4353,
+          "characters": 24105,
+          "tables": 44,
+          "has_financial_data": true
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 326,
+          "characters": 2293,
+          "tables": 6,
+          "has_financial_data": true
+        }
+      },
+      "stats": {
+        "words": 6374,
+        "characters": 36351,
+        "tables": 69,
+        "paragraphs": 0
+      }
+    },
+    "2025": {
+      "company_name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "filing_date": "2025-01-29T20:42:33-05:00",
+      "sections": {
+        "1A": {
+          "name": "Risk Factors",
+          "words": 831,
+          "characters": 5302,
+          "tables": 8,
+          "has_financial_data": true
+        },
+        "7": {
+          "name": "Management's Discussion and Analysis",
+          "words": 718,
+          "characters": 3700,
+          "tables": 10,
+          "has_financial_data": true
+        },
+        "8": {
+          "name": "Financial Statements and Supplementary Data",
+          "words": 4417,
+          "characters": 24474,
+          "tables": 44,
+          "has_financial_data": true
+        },
+        "9A": {
+          "name": "Controls and Procedures",
+          "words": 326,
+          "characters": 2293,
+          "tables": 6,
+          "has_financial_data": true
+        }
+      },
+      "stats": {
+        "words": 6292,
+        "characters": 35769,
+        "tables": 68,
+        "paragraphs": 0
+      }
+    }
+  },
+  "overall_stats": {
+    "total_words": 39736,
+    "total_characters": 234343,
+    "total_tables": 395,
+    "total_paragraphs": 0
+  }
+}

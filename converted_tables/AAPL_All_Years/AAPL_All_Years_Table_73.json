@@ -1,0 +1,76 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2020"
+  ],
+  "confidence": 0.30000000000000004,
+  "line_items": [
+    {
+      "name": "Apple Inc. |",
+      "values": [
+        2020.0
+      ],
+      "years": [
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "| 2020 Form",
+      "values": [
+        10.0
+      ],
+      "years": [
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Form 10-K |",
+      "values": [
+        53.0
+      ],
+      "years": [
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "as of September",
+      "values": [
+        26.0
+      ],
+      "years": [
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 26,",
+      "values": [
+        2020.0
+      ],
+      "years": [
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

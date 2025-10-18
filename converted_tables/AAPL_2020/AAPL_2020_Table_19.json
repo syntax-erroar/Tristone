@@ -1,0 +1,217 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2020",
+    "2019",
+    "2013"
+  ],
+  "confidence": 0.625,
+  "line_items": [
+    {
+      "name": "(",
+      "values": [
+        1.0,
+        0.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "earnings",
+      "values": [
+        10.0,
+        58.0,
+        26.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 26,",
+      "values": [
+        2020.0,
+        28.0,
+        2019.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "statements of operations",
+      "values": [
+        0.0,
+        0.0,
+        26.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "ended September 26,",
+      "values": [
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "all material respects",
+      "values": [
+        0.0,
+        26.0,
+        2020.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2020 and September",
+      "values": [
+        28.0,
+        2019.0,
+        26.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "ended September 26,",
+      "values": [
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "as of September",
+      "values": [
+        26.0,
+        2020.0,
+        2013.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "report dated October",
+      "values": [
+        29.0,
+        2020.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "a test basis",
+      "values": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "statements and (",
+      "values": [
+        2.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

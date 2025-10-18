@@ -1,0 +1,223 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2018",
+    "2017",
+    "2016",
+    "2014"
+  ],
+  "confidence": 0.6818181818181818,
+  "line_items": [
+    {
+      "name": "LLC NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Note",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "On March",
+      "values": [
+        31.0,
+        2014.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Note",
+      "values": [
+        2.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "beginning after December",
+      "values": [
+        15.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The Company reviewed the terms and conditions of its existing customer contracts and applied the five discrete criteria required for recognizing revenue as set forth in ASU",
+      "values": [
+        2014.0,
+        9.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "beginning after December",
+      "values": [
+        15.0,
+        2017.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The Company adopted this standard retrospectively on January",
+      "values": [
+        1.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The amendments will be effective for the Company beginning after December",
+      "values": [
+        15.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and",
+      "values": [
+        2016.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenues earned from Canadian sources totaled",
+      "values": [
+        1812000.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Revenue earned by the Company under the CNI MSA for theatres located in Latin America was",
+      "values": [
+        722000.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "2014"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

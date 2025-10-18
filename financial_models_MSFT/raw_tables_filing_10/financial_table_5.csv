@@ -1,0 +1,43 @@
+0,1,2
+2023 2022,2023,2022
+Operations,nan,nan
+"Net income $ 18,299 $ 16,728","$ 52,280","$ 55,998"
+Adjustments to reconcile net income to net cash from,nan,nan
+operations:,nan,nan
+"Depreciation, amortization, and other 3,549 3,773","9,987","10,481"
+"Stock-based compensation expense 2,465 1,906","7,195","5,505"
+Net recognized losses (gains) on investments and,nan,nan
+derivatives (40 )  105,152,(566 )
+"Deferred income taxes (1,675 ) (198 )","(4,171 )","(5,985 )"
+Changes in operating assets and liabilities:,nan,nan
+"Accounts receivable (1,408 ) 857","7,157","5,800"
+Inventories 106  (279 ),868,(662 )
+"Other current assets 1,152  91",428,"1,861"
+Other long-term assets (554 ) (724 ),"(1,285 )","(2,230 )"
+Accounts payable (407 ) 520,"(4,032 )",284
+Unearned revenue (181 ) (209 ),"(8,689 )","(7,437 )"
+"Income taxes 1,414  1,091","(1,039 )","1,687"
+"Other current liabilities 1,715 1,287",(490 ),"(1,111 )"
+Other long-term liabilities 6 438,451,781
+"Net cash from operations 24,441 25,386","58,812","64,406"
+Financing,nan,nan
+"Repayments of debt 0  (4,197 )","(1,750 )","(9,023 )"
+Common stock issued 536 477,"1,354","1,380"
+"Common stock repurchased (5,509 ) (8,822 )","(16,541 )","(23,939 )"
+"Common stock cash dividends paid (5,059 ) (4,645 )","(14,746 )","(13,503 )"
+"Other, net (258 ) (158 )",(839 ),(522 )
+"Net cash used in financing (10,290 ) (17,345 )","(32,522 )","(45,607 )"
+Investing,nan,nan
+"Additions to property and equipment (6,607 ) (5,340 )","(19,164 )","(17,015 )"
+"Acquisition of companies, net of cash acquired, and",nan,nan
+"purchases of intangible and other assets (301 ) (18,719 )","(1,329 )","(20,775 )"
+"Purchases of investments (9,063 ) (8,723 )","(25,675 )","(21,537 )"
+"Maturities of investments 13,154 1,099","26,744","15,214"
+"Sales of investments 1,239 16,693","8,725","25,218"
+"Other, net (1,686 ) (1,181 )","(2,847 )","(1,687 )"
+"Net cash used in investing (3,264 ) (16,171 )","(13,546 )","(20,582 )"
+Effect of foreign exchange rates on cash and cash,nan,nan
+equivalents 29  24,(113 ),57
+"Net change in cash and cash equivalents 10,916  (8,106 )","12,631","(1,726 )"
+"Cash and cash equivalents, beginning of period 15,646 20,604","13,931","14,224"
+"Cash and cash equivalents, end of period $ 26,562 $ 12,498","$ 26,562","$ 12,498"

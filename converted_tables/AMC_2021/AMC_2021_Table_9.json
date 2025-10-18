@@ -1,0 +1,299 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2026",
+    "2023",
+    "2022",
+    "2021"
+  ],
+  "confidence": 0.6000000000000001,
+  "line_items": [
+    {
+      "name": "beginning with the quarter ending June",
+      "values": [
+        30.0,
+        2023.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million as of December",
+      "values": [
+        31.0,
+        2021.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million in transaction costs during the year ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "during the year ended December",
+      "values": [
+        31.0,
+        2021.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "s theatre screens and attendees through February",
+      "values": [
+        2037.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million for the years ended December",
+      "values": [
+        31.0,
+        2021.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "during the years ended December",
+      "values": [
+        31.0,
+        2021.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "during the years ended December",
+      "values": [
+        31.0,
+        2021.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and December",
+      "values": [
+        31.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Qualitative impairment tests performed during",
+      "values": [
+        2021.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "December",
+      "values": [
+        31.0,
+        2021.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "quantitative goodwill impairment tests performed during",
+      "values": [
+        2020.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "quantitative goodwill impairment test of the Domestic and International reporting units as of March",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "quantitative impairment test of the Domestic and International reporting units as of September",
+      "values": [
+        30.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "quantitative impairment test of the Domestic and International reporting units as of December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

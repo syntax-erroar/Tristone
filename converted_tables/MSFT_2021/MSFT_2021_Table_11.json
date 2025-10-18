@@ -1,0 +1,24 @@
+{
+  "company_name": "Microsoft Corporation",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2021"
+  ],
+  "confidence": 0.2,
+  "line_items": [
+    {
+      "name": "PART II Item",
+      "values": [
+        8.0
+      ],
+      "years": [
+        "2021"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

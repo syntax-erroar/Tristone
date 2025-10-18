@@ -1,0 +1,56 @@
+0,1,2,3,4,5,6,7,8,9,11,12,13
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,Filing
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,Date/
+Exhibit,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,Period End
+Number,Exhibit Description,nan,nan,nan,nan,nan,nan,nan,nan,Form,Exhibit,Date
+4.29,Officer’s Certificate of,the,"Registrant,",dated,as,of,May,"10,","2023,",8-K,4.1,5/10/23
+nan,including forms of global notes representing the 4.421% Notes due,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+nan,"2026, 4.000% Notes",due,"2028, 4.150%",Notes,nan,due,"2030,",4.300%,nan,nan,nan,nan
+nan,Notes due 2033 and 4.850% Notes due 2053.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+4.30*,Apple Inc. Deferred Compensation Plan.,nan,nan,nan,nan,nan,nan,nan,nan,S-8,4.1,8/23/18
+10.1*,"Apple Inc. Employee Stock Purchase Plan, as amended and restated as",nan,nan,nan,nan,nan,nan,nan,nan,8-K,10.1,3/13/15
+nan,"of March 10, 2015.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.2*,Form of Indemnification Agreement between the Registrant and each,nan,nan,nan,nan,nan,nan,nan,nan,10-Q,10.2,6/27/09
+nan,director and executive officer of the Registrant.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.3*,"Apple Inc. Non-Employee Director Stock Plan, as amended November 9,",nan,nan,nan,nan,nan,nan,nan,nan,10-Q,10.1,12/25/21
+nan,2021.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.4*,"Apple Inc. 2014 Employee Stock Plan, as amended and restated as of",nan,nan,nan,nan,nan,nan,nan,nan,10-K,10.8,9/30/17
+nan,"October 1, 2017.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.5*,Form of Restricted Stock Unit Award Agreement under 2014 Employee,nan,nan,nan,nan,nan,nan,nan,nan,10-K,10.20,9/30/17
+nan,"Stock Plan effective as of September 26, 2017.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.6*,Form of Restricted Stock Unit Award Agreement under Non-Employee,nan,nan,nan,nan,nan,nan,nan,nan,10-Q,10.2,3/31/18
+nan,"Director Stock Plan effective as of February 13, 2018.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.7*,Form of Restricted Stock Unit Award Agreement under 2014 Employee,nan,nan,nan,nan,nan,nan,nan,nan,10-K,10.17,9/29/18
+nan,"Stock Plan effective as of August 21, 2018.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.8*,Form of Performance Award Agreement under 2014 Employee Stock,nan,nan,nan,nan,nan,nan,nan,nan,10-K,10.18,9/29/18
+nan,"Plan effective as of August 21, 2018.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.9*,Form of Restricted Stock Unit Award Agreement under 2014 Employee,nan,nan,nan,nan,nan,nan,nan,nan,10-K,10.15,9/28/19
+nan,"Stock Plan effective as of September 29, 2019.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.10*,Form of Performance Award Agreement under 2014 Employee Stock,nan,nan,nan,nan,nan,nan,nan,nan,10-K,10.16,9/28/19
+nan,"Plan effective as of September 29, 2019.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.11*,Form of Restricted Stock Unit Award Agreement under 2014 Employee,nan,nan,nan,nan,nan,nan,nan,nan,10-K,10.16,9/26/20
+nan,"Stock Plan effective as of August 18, 2020.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.12*,Form of Performance Award Agreement under 2014 Employee Stock,nan,nan,nan,nan,nan,nan,nan,nan,10-K,10.17,9/26/20
+nan,"Plan effective as of August 18, 2020.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.13*,Form of CEO Restricted,Stock,Unit Award,Agreement,nan,nan,under,nan,2014,10-Q,10.1,12/26/20
+nan,"Employee Stock Plan effective as of September 27, 2020.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.14*,Form of CEO Performance,nan,Award Agreement,nan,under,nan,2014,Employee,nan,10-Q,10.2,12/26/20
+nan,"Stock Plan effective as of September 27, 2020.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.15*,Apple Inc. 2022 Employee Stock Plan.,nan,nan,nan,nan,nan,nan,nan,nan,8-K,10.1,3/4/22
+10.16*,Form of Restricted Stock Unit Award Agreement under 2022 Employee,nan,nan,nan,nan,nan,nan,nan,nan,8-K,10.2,3/4/22
+nan,"Stock Plan effective as of March 4, 2022.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.17*,Form of Performance Award Agreement under 2022 Employee Stock,nan,nan,nan,nan,nan,nan,nan,nan,8-K,10.3,3/4/22
+nan,"Plan effective as of March 4, 2022.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.18*,Apple Inc. Executive Cash Incentive Plan.,nan,nan,nan,nan,nan,nan,nan,nan,8-K,10.1,8/19/22
+10.19*,Form of CEO Restricted,Stock,Unit Award,Agreement,nan,nan,under,nan,2022,10-Q,10.1,12/31/22
+nan,"Employee Stock Plan effective as of September 25, 2022.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+10.20*,Form of CEO Performance,nan,Award Agreement,nan,under,nan,2022,Employee,nan,10-Q,10.2,12/31/22
+nan,"Stock Plan effective as of September 25, 2022.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+21.1**,Subsidiaries of the Registrant.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+23.1**,Consent of Independent Registered Public Accounting Firm.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+24.1**,Power of Attorney (included,nan,on the Signatures,nan,page,nan,of this,Annual,nan,nan,nan,nan
+nan,Report on Form 10-K).,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+31.1**,Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+31.2**,Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+32.1***,Section 1350 Certifications,nan,of Chief,Executive,nan,Officer,nan,and,Chief,nan,nan,nan
+nan,Financial Officer.,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan

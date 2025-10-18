@@ -1,0 +1,150 @@
+{
+  "company_ticker": "MSFT",
+  "company_name": "Microsoft Corporation",
+  "year": "2022",
+  "file_path": "cleaned_financial_statements_MSFT\\MSFT_10K_Part8_Cleaned_2022.txt",
+  "total_tables": 13,
+  "tables_info": [
+    {
+      "table_index": 5,
+      "line_items_count": 6,
+      "years": [
+        "2023",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 7,
+      "line_items_count": 2,
+      "years": [
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 8,
+      "line_items_count": 2,
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 9,
+      "line_items_count": 1,
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 10,
+      "line_items_count": 2,
+      "years": [
+        "2021",
+        "2019"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 11,
+      "line_items_count": 1,
+      "years": [
+        "2022"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.2
+    },
+    {
+      "table_index": 12,
+      "line_items_count": 12,
+      "years": [
+        "2022",
+        "2021"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 13,
+      "line_items_count": 6,
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "statement_type": "cash_flow",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 16,
+      "line_items_count": 2,
+      "years": [
+        "2022",
+        "2017",
+        "2015"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 17,
+      "line_items_count": 1,
+      "years": [
+        "2022",
+        "2021",
+        "2020"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 18,
+      "line_items_count": 2,
+      "years": [
+        "2025",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 20,
+      "line_items_count": 3,
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6000000000000001
+    },
+    {
+      "table_index": 22,
+      "line_items_count": 1,
+      "years": [
+        "2022",
+        "2021",
+        "2013"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.5
+    }
+  ]
+}

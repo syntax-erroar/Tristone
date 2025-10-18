@@ -1,0 +1,24 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2020"
+  ],
+  "confidence": 0.2,
+  "line_items": [
+    {
+      "name": "At December",
+      "values": [
+        31.0
+      ],
+      "years": [
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

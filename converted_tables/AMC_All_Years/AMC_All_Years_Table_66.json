@@ -1,0 +1,223 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2021",
+    "2020",
+    "2019",
+    "2018"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "No interest expense or penalties related to federal uncertain tax positions have been recognized for the years ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "ownership change limitation due to changes in our stock ownership on January",
+      "values": [
+        29.0,
+        2021.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The motion was fully briefed on September",
+      "values": [
+        21.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "which the court granted on October",
+      "values": [
+        15.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "which the court granted on December",
+      "values": [
+        17.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "which the court granted on October",
+      "values": [
+        17.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "which the court granted on May",
+      "values": [
+        18.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "which was granted on June",
+      "values": [
+        25.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the Company received a second stockholder litigation demand requesting substantially the same action as the stockholder demand it received on December",
+      "values": [
+        31.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "s stockholders of record as of September",
+      "values": [
+        25.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

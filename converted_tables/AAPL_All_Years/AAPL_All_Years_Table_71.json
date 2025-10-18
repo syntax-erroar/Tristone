@@ -1,0 +1,42 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Note",
+      "values": [
+        8.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "line items, for",
+      "values": [
+        2020.0,
+        2019.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

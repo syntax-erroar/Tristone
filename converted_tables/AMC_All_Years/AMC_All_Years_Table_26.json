@@ -1,0 +1,109 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2026",
+    "2024",
+    "2021",
+    "2020"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Convertible Notes due",
+      "values": [
+        2026.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2024",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The modification did not result in the recognition of any gain or loss and the Company established new effective interest rates based on the carrying value of the Convertible Notes due",
+      "values": [
+        2024.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2024",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "are convertible at the option of the holders thereof on the same terms as the Convertible Notes due",
+      "values": [
+        2024.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2024",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "commencing on September",
+      "values": [
+        15.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2026",
+        "2024",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "for unamortized discount and deferred charges at the date of conversion following the guidance in ASC",
+      "values": [
+        815.0,
+        15.0,
+        40.0,
+        1.0
+      ],
+      "years": [
+        "2026",
+        "2024",
+        "2021",
+        "2020"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

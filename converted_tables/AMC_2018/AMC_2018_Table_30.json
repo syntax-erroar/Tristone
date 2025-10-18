@@ -1,0 +1,24 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2019"
+  ],
+  "confidence": 0.2,
+  "line_items": [
+    {
+      "name": "respectively during the calendar year",
+      "values": [
+        2019.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

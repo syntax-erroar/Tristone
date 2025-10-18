@@ -1,0 +1,24 @@
+0,1,2,3,4
+nan,nan,"December 30,",nan,"December 31,"
+nan,nan,2023,nan,2022
+Net sales:,nan,nan,nan,nan
+Products,$,"96,458",$,"96,388"
+Services,nan,"23,117",nan,"20,766"
+Total net sales,nan,"119,575",nan,"117,154"
+Cost of sales:,nan,nan,nan,nan
+Products,nan,"58,440",nan,"60,765"
+Services,nan,"6,280",nan,"6,057"
+Total cost of sales,nan,"64,720",nan,"66,822"
+Gross margin,nan,"54,855",nan,"50,332"
+Operating expenses:,nan,nan,nan,nan
+Research and development,nan,"7,696",nan,"7,709"
+"Selling, general and administrative",nan,"6,786",nan,"6,607"
+Total operating expenses,nan,"14,482",nan,"14,316"
+Operating income,nan,"40,373",nan,"36,016"
+"Other income/(expense), net",nan,(50),nan,(393)
+Income before provision for income taxes,nan,"40,323",nan,"35,623"
+Provision for income taxes,nan,"6,407",nan,"5,625"
+Net income,$,"33,916",$,"29,998"
+Earnings per share:,nan,nan,nan,nan
+Basic,$,2.19,$,1.89
+Diluted,$,2.18,$,1.88

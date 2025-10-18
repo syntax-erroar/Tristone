@@ -1,0 +1,115 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2025",
+    "2024",
+    "2023"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "December",
+      "values": [
+        31.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Level",
+      "values": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Level",
+      "values": [
+        2.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Level",
+      "values": [
+        3.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Fair value of Interest Rate Swap",
+      "values": [
+        472.0,
+        1.0,
+        472.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Fair value of Interest Rate Swap",
+      "values": [
+        472.0,
+        1.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

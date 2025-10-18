@@ -1,0 +1,102 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "billions",
+  "years": [
+    "2022"
+  ],
+  "confidence": 0.3,
+  "line_items": [
+    {
+      "name": "As of September",
+      "values": [
+        24.0
+      ],
+      "years": [
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 24,",
+      "values": [
+        2022.0
+      ],
+      "years": [
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "stock options was",
+      "values": [
+        16.7
+      ],
+      "years": [
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "weighted-average period of",
+      "values": [
+        2.6
+      ],
+      "years": [
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "2.6 years. Note",
+      "values": [
+        10.0
+      ],
+      "years": [
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "as of September",
+      "values": [
+        24.0
+      ],
+      "years": [
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 24,",
+      "values": [
+        2022.0
+      ],
+      "years": [
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

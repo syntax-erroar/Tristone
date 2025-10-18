@@ -1,0 +1,115 @@
+{
+  "company_name": "Microsoft Corporation",
+  "statement_type": "cash_flow",
+  "currency_unit": "millions",
+  "years": [
+    "2025",
+    "2024",
+    "2023"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "Year Ended June",
+      "values": [
+        30.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Hedged items",
+      "values": [
+        50.0,
+        188.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Excluded from effectiveness assessment Interest rate contracts Derivatives",
+      "values": [
+        92.0,
+        37.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Hedged items",
+      "values": [
+        93.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Designated as Cash Flow Hedging Instruments Foreign exchange contracts Amount reclassified from accumulated other comprehensive income",
+      "values": [
+        79.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Revenue",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Not Designated as Hedging Instruments Foreign exchange contracts",
+      "values": [
+        123.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

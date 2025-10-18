@@ -1,0 +1,1475 @@
+{
+  "2020": {
+    "income_statement": {
+      "Repayments of short-term debt, maturities of 90 days or less, net": {
+        "2020": 90.0
+      },
+      "September 18, 2019": {
+        "2020": 18.0
+      },
+      "December 4, 2019": {
+        "2020": 4.0
+      },
+      "March 9, 2020": {
+        "2020": 9.0
+      },
+      "June 17, 2020": {
+        "2020": 17.0
+      },
+      "Fiscal Year 2019": {
+        "2020": 2019.0
+      },
+      "September 18, 2018": {
+        "2020": 18.0
+      },
+      "November 28, 2018": {
+        "2020": 28.0
+      },
+      "March 11, 2019": {
+        "2020": 11.0
+      },
+      "June 12, 2019": {
+        "2020": 12.0
+      },
+      "Unrealized gains (losses), net of tax of$(10), $2, and $11": {
+        "2020": 2.0
+      },
+      "Net change related to derivatives, net of tax of$(10), $(6), and $5": {
+        "2020": 5.0
+      },
+      "Net change related to investments, net of tax of$1,058, $635, and $(1,165)": {
+        "2020": 1058.0
+      },
+      "Translation adjustments and other, net of tax effects of$1, $(1), and $0": {
+        "2020": 1.0
+      }
+    },
+    "balance_sheet": {
+      "accounts receivable": {
+        "2020": 788.0,
+        "2019": 411.0,
+        "2018": 377.0
+      },
+      "Other long-term assets": {
+        "2020": 28.0,
+        "2019": 23.0,
+        "2018": 20.0
+      },
+      "Total": {
+        "2020": 816.0,
+        "2019": 434.0,
+        "2018": 397.0
+      },
+      "June 30, 2019": {
+        "2020": 30.0
+      }
+    },
+    "cash_flow": {},
+    "raw_tables": [
+      {
+        "_ai_confidence": 0.4855552911758423,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.36823058128356934,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5190290808677673,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "Repayments of short-term debt, maturities of 90 days or less, net": {
+          "2020": 90.0
+        },
+        "_ai_confidence": 0.5100681781768799,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5238880515098572,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.2346879243850708,
+        "_table_type": "unknown"
+      },
+      {
+        "accounts receivable": {
+          "2020": 788.0,
+          "2019": 411.0,
+          "2018": 377.0
+        },
+        "Other long-term assets": {
+          "2020": 28.0,
+          "2019": 23.0,
+          "2018": 20.0
+        },
+        "Total": {
+          "2020": 816.0,
+          "2019": 434.0,
+          "2018": 397.0
+        },
+        "_ai_confidence": 0.30391645431518555,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.37276792526245117,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.33049261569976807,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3243310749530792,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.331072598695755,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.4499576687812805,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.4777742326259613,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.3410637378692627,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.2958106994628906,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.18995943665504456,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.22557154297828674,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.45333927869796753,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "June 30, 2019": {
+          "2020": 30.0
+        },
+        "_ai_confidence": 0.36297035217285156,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.5588449239730835,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.25171273946762085,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.21688123047351837,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.253778874874115,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.4311799108982086,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.2249581217765808,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.25257977843284607,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3667002320289612,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.2135290801525116,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.12899869680404663,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.2133130580186844,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.16898596286773682,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.2658138573169708,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.17034843564033508,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3775176405906677,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.54256272315979,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.2801221013069153,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.19382081925868988,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3429179787635803,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.2738199830055237,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.38551583886146545,
+        "_table_type": "cash_flow"
+      },
+      {
+        "_ai_confidence": 0.5086247324943542,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "2022": {
+          "2021": 2022.0
+        },
+        "2023": {
+          "2021": 2023.0
+        },
+        "2024": {
+          "2021": 2024.0
+        },
+        "2025": {
+          "2021": 2025.0
+        },
+        "_ai_confidence": 0.31250399351119995,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.26011449098587036,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.27637770771980286,
+        "_table_type": "unknown"
+      },
+      {
+        "September 18, 2019": {
+          "2020": 18.0
+        },
+        "December 4, 2019": {
+          "2020": 4.0
+        },
+        "March 9, 2020": {
+          "2020": 9.0
+        },
+        "June 17, 2020": {
+          "2020": 17.0
+        },
+        "Fiscal Year 2019": {
+          "2020": 2019.0
+        },
+        "September 18, 2018": {
+          "2020": 18.0
+        },
+        "November 28, 2018": {
+          "2020": 28.0
+        },
+        "March 11, 2019": {
+          "2020": 11.0
+        },
+        "June 12, 2019": {
+          "2020": 12.0
+        },
+        "_ai_confidence": 0.37371641397476196,
+        "_table_type": "income_statement"
+      },
+      {
+        "Unrealized gains (losses), net of tax of$(10), $2, and $11": {
+          "2020": 2.0
+        },
+        "Net change related to derivatives, net of tax of$(10), $(6), and $5": {
+          "2020": 5.0
+        },
+        "Net change related to investments, net of tax of$1,058, $635, and $(1,165)": {
+          "2020": 1058.0
+        },
+        "Translation adjustments and other, net of tax effects of$1, $(1), and $0": {
+          "2020": 1.0
+        },
+        "_ai_confidence": 0.5526086688041687,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.2889813780784607,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.17997653782367706,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3074014186859131,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.18895702064037323,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.2690960466861725,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.10170873999595642,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.19433704018592834,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.10511038452386856,
+        "_table_type": "unknown"
+      },
+      {
+        "Fiscal Year 2019": {
+          "2020": 2019.0
+        },
+        "_ai_confidence": 0.4894329905509949,
+        "_table_type": "income_statement"
+      }
+    ],
+    "ai_insights": {},
+    "_ai_insights": {
+      "table_type": "income_statement",
+      "confidence": 0.4894329905509949,
+      "enhancement_applied": true
+    },
+    "_md_a_context": "ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS\n\nThe following Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations (&#8220;MD&#38;A&#8221;) is intended to help the reader understand the results of operations and financial condition of Microsoft Corporation. MD&#38;A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and the accompanying Notes to Financial Statements (Part II, Item 8 of this Form 10-K).\n\nOVERVIEW \n\nMicrosoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive to create local opportunity, growth, and impact in every country around the world. Our platforms and tools help drive small business productivity, large business competitiveness, and public-sector efficiency. They also support new startups, improve educational and health outcomes, and empowe",
+    "_risk_factors": "ITEM 1A. RISK FACTORS \n\nOur operations and financial results are subject to various risks and uncertainties, including those described below, that could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our common stock.\n\nWe face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins. \n\nCompetition in the technology sector\n\nOur competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources. Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services. Our ability to remain competitive depends on our s"
+  },
+  "2021": {
+    "income_statement": {
+      "September 15, 2020": {
+        "2021": 15.0
+      },
+      "December 2, 2020": {
+        "2021": 2.0
+      },
+      "March 16, 2021": {
+        "2021": 16.0
+      },
+      "June 16, 2021": {
+        "2021": 16.0
+      },
+      "Fiscal Year 2020": {
+        "2021": 2020.0
+      },
+      "September 18, 2019": {
+        "2021": 18.0
+      },
+      "December 4, 2019": {
+        "2021": 4.0
+      },
+      "March 9, 2020": {
+        "2021": 9.0
+      },
+      "June 17, 2020": {
+        "2021": 17.0
+      },
+      "Unrealized gains (losses), net of tax of$9, $(10), and $2": {
+        "2021": 2.0
+      },
+      "Net change related to derivatives, net of tax of$7, $(10), and $(6)": {
+        "2021": 7.0
+      },
+      "Unrealized gains (losses), net of tax of$(589), $1,057, and $616": {
+        "2021": 1057.0
+      },
+      "Net change related to investments, net of tax of$(602), $1,058, and $635": {
+        "2021": 1058.0
+      }
+    },
+    "balance_sheet": {
+      "accounts receivable": {
+        "2021": 751.0,
+        "2020": 788.0,
+        "2019": 411.0
+      },
+      "Other long-term assets": {
+        "2021": 47.0,
+        "2020": 28.0,
+        "2019": 23.0
+      },
+      "Total": {
+        "2021": 798.0,
+        "2020": 816.0,
+        "2019": 434.0
+      },
+      "June 30, 2020": {
+        "2021": 30.0
+      }
+    },
+    "cash_flow": {},
+    "raw_tables": [
+      {
+        "_ai_confidence": 0.49771368503570557,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3739749789237976,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5244650840759277,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.5094630718231201,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5322444438934326,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.238482266664505,
+        "_table_type": "unknown"
+      },
+      {
+        "accounts receivable": {
+          "2021": 751.0,
+          "2020": 788.0,
+          "2019": 411.0
+        },
+        "Other long-term assets": {
+          "2021": 47.0,
+          "2020": 28.0,
+          "2019": 23.0
+        },
+        "Total": {
+          "2021": 798.0,
+          "2020": 816.0,
+          "2019": 434.0
+        },
+        "_ai_confidence": 0.3097347021102905,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.38042277097702026,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.33637452125549316,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3600084185600281,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.34538549184799194,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.4733934998512268,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.45254427194595337,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.33854156732559204,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.3410637378692627,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.2063908874988556,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.23398619890213013,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.4578501582145691,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "June 30, 2020": {
+          "2021": 30.0
+        },
+        "_ai_confidence": 0.3740667998790741,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.491567462682724,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.27031129598617554,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.22414104640483856,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.27259716391563416,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.4149326682090759,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.246981680393219,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.4311799108982086,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.2249581217765808,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.25523892045021057,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.36607450246810913,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.22053536772727966,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.13220331072807312,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.22436322271823883,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.1530127227306366,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.2583577632904053,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.18579190969467163,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.38284820318222046,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5458681583404541,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.2830079197883606,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.20242083072662354,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3480669856071472,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.27851602435112,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.39245447516441345,
+        "_table_type": "cash_flow"
+      },
+      {
+        "_ai_confidence": 0.5269288420677185,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "2023": {
+          "2022": 2023.0
+        },
+        "2024": {
+          "2022": 2024.0
+        },
+        "2025": {
+          "2022": 2025.0
+        },
+        "2026": {
+          "2022": 2026.0
+        },
+        "_ai_confidence": 0.3154304325580597,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.26629117131233215,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.2940022349357605,
+        "_table_type": "unknown"
+      },
+      {
+        "September 15, 2020": {
+          "2021": 15.0
+        },
+        "December 2, 2020": {
+          "2021": 2.0
+        },
+        "March 16, 2021": {
+          "2021": 16.0
+        },
+        "June 16, 2021": {
+          "2021": 16.0
+        },
+        "Fiscal Year 2020": {
+          "2021": 2020.0
+        },
+        "September 18, 2019": {
+          "2021": 18.0
+        },
+        "December 4, 2019": {
+          "2021": 4.0
+        },
+        "March 9, 2020": {
+          "2021": 9.0
+        },
+        "June 17, 2020": {
+          "2021": 17.0
+        },
+        "_ai_confidence": 0.38784223794937134,
+        "_table_type": "income_statement"
+      },
+      {
+        "Unrealized gains (losses), net of tax of$9, $(10), and $2": {
+          "2021": 2.0
+        },
+        "Net change related to derivatives, net of tax of$7, $(10), and $(6)": {
+          "2021": 7.0
+        },
+        "Unrealized gains (losses), net of tax of$(589), $1,057, and $616": {
+          "2021": 1057.0
+        },
+        "Net change related to investments, net of tax of$(602), $1,058, and $635": {
+          "2021": 1058.0
+        },
+        "_ai_confidence": 0.5534102916717529,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3014829754829407,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.1929495632648468,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3018800616264343,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.20256391167640686,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.27573367953300476,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.11307192593812943,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.20673677325248718,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.10631042718887329,
+        "_table_type": "unknown"
+      }
+    ],
+    "ai_insights": {},
+    "_ai_insights": {
+      "table_type": "balance_sheet",
+      "confidence": 0.3018800616264343,
+      "enhancement_applied": true
+    },
+    "_md_a_context": "ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS\n\nThe following Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations (&#8220;MD&#38;A&#8221;) is intended to help the reader understand the results of operations and financial condition of Microsoft Corporation. MD&#38;A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and the accompanying Notes to Financial Statements (Part II, Item 8 of this Form 10-K). This section generally discusses the results of our operations for the year ended June 30, 2021 compared to the year ended June 30, 2020. For a discussion of the year ended June 30, 2020 compared to the year ended June 30, 2019, please refer to Part II, Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in our Annual Report on Form 10-K for the year ended June 30, 2020.\n\nOVERVI",
+    "_risk_factors": "ITEM 1A. RISK FACTORS \n\nOur operations and financial results are subject to various risks and uncertainties, including those described below, that could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our common stock.\n\nSTRATEGIC AND COMPETITIVE RISKS \n\nWe face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins. \n\nCompetition in the technology sector\n\nOur competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources. Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services. Our ability to r"
+  },
+  "2022": {
+    "income_statement": {
+      "September 14, 2021": {
+        "2022": 14.0
+      },
+      "December 7, 2021": {
+        "2022": 7.0
+      },
+      "March 14, 2022": {
+        "2022": 14.0
+      },
+      "June 14, 2022": {
+        "2022": 14.0
+      },
+      "Fiscal Year 2021": {
+        "2022": 2021.0
+      },
+      "September 15, 2020": {
+        "2022": 15.0
+      },
+      "December 2, 2020": {
+        "2022": 2.0
+      },
+      "March 16, 2021": {
+        "2022": 16.0
+      },
+      "June 16, 2021": {
+        "2022": 16.0
+      },
+      "Net change related to derivatives, net of tax of$1, $7, and $(10)": {
+        "2022": 1.0
+      },
+      "Unrealized gains (losses), net of tax of$(1,440), $(589), and $1,057": {
+        "2022": 1057.0
+      },
+      "Net change related to investments, net of tax of$(1,428), $(602), and $1,058": {
+        "2022": 1058.0
+      },
+      "Translation adjustments and other, net of tax of$0, $(9), and $1": {
+        "2022": 0.0
+      }
+    },
+    "balance_sheet": {
+      "accounts receivable": {
+        "2022": 633.0,
+        "2021": 751.0,
+        "2020": 788.0
+      },
+      "Other long-term assets": {
+        "2022": 77.0,
+        "2021": 47.0,
+        "2020": 28.0
+      },
+      "Total": {
+        "2022": 710.0,
+        "2021": 798.0,
+        "2020": 816.0
+      },
+      "June 30, 2021": {
+        "2022": 30.0
+      }
+    },
+    "cash_flow": {},
+    "raw_tables": [
+      {
+        "_ai_confidence": 0.5168273448944092,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3882525563240051,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5411556363105774,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.5243979692459106,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.561485767364502,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.2427346259355545,
+        "_table_type": "unknown"
+      },
+      {
+        "accounts receivable": {
+          "2022": 633.0,
+          "2021": 751.0,
+          "2020": 788.0
+        },
+        "Other long-term assets": {
+          "2022": 77.0,
+          "2021": 47.0,
+          "2020": 28.0
+        },
+        "Total": {
+          "2022": 710.0,
+          "2021": 798.0,
+          "2020": 816.0
+        },
+        "_ai_confidence": 0.30850934982299805,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.39850717782974243,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.36729905009269714,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3705175817012787,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3569619059562683,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5090612769126892,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.4733934998512268,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.35780301690101624,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.33854156732559204,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.21138793230056763,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.2283850908279419,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.46048611402511597,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "June 30, 2021": {
+          "2022": 30.0
+        },
+        "_ai_confidence": 0.37295448780059814,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.3226391673088074,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.2714967727661133,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.19855421781539917,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.2887538969516754,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.38119447231292725,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.18451985716819763,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.40325719118118286,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.22550572454929352,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.25698763132095337,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3563627004623413,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.21465575695037842,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.11793272942304611,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.23073206841945648,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.13784191012382507,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.2700549364089966,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.1863320767879486,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3729923963546753,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5351006984710693,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.29067492485046387,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.18006132543087006,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3368992805480957,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3061756491661072,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.39563050866127014,
+        "_table_type": "cash_flow"
+      },
+      {
+        "_ai_confidence": 0.5167797803878784,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "2024": {
+          "2023": 2024.0
+        },
+        "2025": {
+          "2023": 2025.0
+        },
+        "2026": {
+          "2023": 2026.0
+        },
+        "2027": {
+          "2023": 2027.0
+        },
+        "_ai_confidence": 0.31295767426490784,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.27358558773994446,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.30330902338027954,
+        "_table_type": "unknown"
+      },
+      {
+        "September 14, 2021": {
+          "2022": 14.0
+        },
+        "December 7, 2021": {
+          "2022": 7.0
+        },
+        "March 14, 2022": {
+          "2022": 14.0
+        },
+        "June 14, 2022": {
+          "2022": 14.0
+        },
+        "Fiscal Year 2021": {
+          "2022": 2021.0
+        },
+        "September 15, 2020": {
+          "2022": 15.0
+        },
+        "December 2, 2020": {
+          "2022": 2.0
+        },
+        "March 16, 2021": {
+          "2022": 16.0
+        },
+        "June 16, 2021": {
+          "2022": 16.0
+        },
+        "_ai_confidence": 0.39302968978881836,
+        "_table_type": "income_statement"
+      },
+      {
+        "Net change related to derivatives, net of tax of$1, $7, and $(10)": {
+          "2022": 1.0
+        },
+        "Unrealized gains (losses), net of tax of$(1,440), $(589), and $1,057": {
+          "2022": 1057.0
+        },
+        "Net change related to investments, net of tax of$(1,428), $(602), and $1,058": {
+          "2022": 1058.0
+        },
+        "Translation adjustments and other, net of tax of$0, $(9), and $1": {
+          "2022": 0.0
+        },
+        "_ai_confidence": 0.5332687497138977,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.32634568214416504,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.20038682222366333,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.30696403980255127,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.21956323087215424,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.29096856713294983,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.1017109751701355,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.21263089776039124,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.10497336089611053,
+        "_table_type": "unknown"
+      }
+    ],
+    "ai_insights": {},
+    "_ai_insights": {
+      "table_type": "balance_sheet",
+      "confidence": 0.30696403980255127,
+      "enhancement_applied": true
+    },
+    "_md_a_context": "ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS\n\nThe following Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations (&#8220;MD&#38;A&#8221;) is intended to help the reader understand the results of operations and financial condition of Microsoft Corporation. MD&#38;A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and the accompanying Notes to Financial Statements (Part II, Item 8 of this Form 10-K). This section generally discusses the results of our operations for the year ended June 30, 2022 compared to the year ended June 30, 2021. For a discussion of the year ended June 30, 2021 compared to the year ended June 30, 2020, please refer to Part II, Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in our Annual Report on Form 10-K for the year ended June 30, 2021.\n\nOVERVI",
+    "_risk_factors": "ITEM 1A. RISK FACTORS\n\nOur operations and financial results are subject to various risks and uncertainties, including those described below, that could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our common stock.\n\nSTRATEGIC AND COMPETITIVE RISKS \n\nWe face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins. \n\nCompetition in the technology sector\n\nOur competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources. Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services. Our ability to re"
+  },
+  "2023": {
+    "income_statement": {
+      "September 20, 2022": {
+        "2023": 20.0
+      },
+      "November 29, 2022": {
+        "2023": 29.0
+      },
+      "March 14, 2023": {
+        "2023": 14.0
+      },
+      "June 13, 2023": {
+        "2023": 13.0
+      },
+      "Fiscal Year 2022": {
+        "2023": 2022.0
+      },
+      "September 14, 2021": {
+        "2023": 14.0
+      },
+      "December 7, 2021": {
+        "2023": 7.0
+      },
+      "March 14, 2022": {
+        "2023": 14.0
+      },
+      "June 14, 2022": {
+        "2023": 14.0
+      },
+      "Unrealized gains (losses), net of tax of$9, $(15), and $9": {
+        "2023": 9.0
+      },
+      "Net change related to derivatives, net of tax of$(4), $1, and $7": {
+        "2023": 1.0
+      },
+      "Translation adjustments and other, net of tax of$0, $0, and $(9)": {
+        "2023": 0.0
+      }
+    },
+    "balance_sheet": {
+      "accounts receivable": {
+        "2023": 650.0,
+        "2022": 633.0,
+        "2021": 751.0
+      },
+      "Other long-term assets": {
+        "2023": 66.0,
+        "2022": 77.0,
+        "2021": 47.0
+      },
+      "Total": {
+        "2023": 716.0,
+        "2022": 710.0,
+        "2021": 798.0
+      },
+      "June 30, 2022": {
+        "2023": 30.0
+      }
+    },
+    "cash_flow": {},
+    "raw_tables": [
+      {
+        "_ai_confidence": 0.5021334886550903,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3897533416748047,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5373412370681763,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.5296241044998169,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5408801436424255,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.23489759862422943,
+        "_table_type": "unknown"
+      },
+      {
+        "accounts receivable": {
+          "2023": 650.0,
+          "2022": 633.0,
+          "2021": 751.0
+        },
+        "Other long-term assets": {
+          "2023": 66.0,
+          "2022": 77.0,
+          "2021": 47.0
+        },
+        "Total": {
+          "2023": 716.0,
+          "2022": 710.0,
+          "2021": 798.0
+        },
+        "_ai_confidence": 0.30249011516571045,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.3966749310493469,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.36789262294769287,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.36446434259414673,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.35548824071884155,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.4858775734901428,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.5090612769126892,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.36347782611846924,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.35780301690101624,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.20487791299819946,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.23878127336502075,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.518451452255249,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "June 30, 2022": {
+          "2023": 30.0
+        },
+        "_ai_confidence": 0.3708449602127075,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.3311496376991272,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.2603510320186615,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.19422703981399536,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3042597472667694,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.38450801372528076,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.18451985716819763,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.40325719118118286,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.22550572454929352,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.24907119572162628,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.34576863050460815,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.2224673479795456,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.11826528608798981,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.23275983333587646,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.1403825283050537,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.25945979356765747,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.18242093920707703,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3968764841556549,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.5690566897392273,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.2828921973705292,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.1630634367465973,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.33107468485832214,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3049861192703247,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.3895570635795593,
+        "_table_type": "cash_flow"
+      },
+      {
+        "_ai_confidence": 0.5199120044708252,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "2025": {
+          "2024": 2025.0
+        },
+        "2026": {
+          "2024": 2026.0
+        },
+        "2027": {
+          "2024": 2027.0
+        },
+        "2028": {
+          "2024": 2028.0
+        },
+        "_ai_confidence": 0.31350773572921753,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.26743996143341064,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.30759909749031067,
+        "_table_type": "unknown"
+      },
+      {
+        "September 20, 2022": {
+          "2023": 20.0
+        },
+        "November 29, 2022": {
+          "2023": 29.0
+        },
+        "March 14, 2023": {
+          "2023": 14.0
+        },
+        "June 13, 2023": {
+          "2023": 13.0
+        },
+        "Fiscal Year 2022": {
+          "2023": 2022.0
+        },
+        "September 14, 2021": {
+          "2023": 14.0
+        },
+        "December 7, 2021": {
+          "2023": 7.0
+        },
+        "March 14, 2022": {
+          "2023": 14.0
+        },
+        "June 14, 2022": {
+          "2023": 14.0
+        },
+        "_ai_confidence": 0.3874013423919678,
+        "_table_type": "income_statement"
+      },
+      {
+        "Unrealized gains (losses), net of tax of$9, $(15), and $9": {
+          "2023": 9.0
+        },
+        "Net change related to derivatives, net of tax of$(4), $1, and $7": {
+          "2023": 1.0
+        },
+        "Translation adjustments and other, net of tax of$0, $0, and $(9)": {
+          "2023": 0.0
+        },
+        "_ai_confidence": 0.5390150547027588,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.3178780674934387,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.20044682919979095,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.29446786642074585,
+        "_table_type": "balance_sheet"
+      },
+      {
+        "_ai_confidence": 0.21871373057365417,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.29717469215393066,
+        "_table_type": "income_statement"
+      },
+      {
+        "_ai_confidence": 0.0850791409611702,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.2164883017539978,
+        "_table_type": "unknown"
+      },
+      {
+        "_ai_confidence": 0.09750212728977203,
+        "_table_type": "unknown"
+      },
+      {
+        "•": "We tested the mathematical accuracy of management's calculations of revenue and the associated timing of revenue recognized in the financial statements.",
+        "-": "Assessed the terms in the customer agreement and evaluated the appropriateness of management's application of their accounting policies, along with their use of estimates, in the determination of revenue recognition conclusions.",
+        "_ai_confidence": 0.28959256410598755,
+        "_table_type": "income_statement"
+      }
+    ],
+    "ai_insights": {},
+    "_ai_insights": {
+      "table_type": "income_statement",
+      "confidence": 0.3178780674934387,
+      "enhancement_applied": true
+    },
+    "_md_a_context": "ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS \n\nThe following Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations (&#8220;MD&#38;A&#8221;) is intended to help the reader understand the results of operations and financial condition of Microsoft Corporation. MD&#38;A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and the accompanying Notes to Financial Statements (Part II, Item 8 of this Form 10-K). This section generally discusses the results of our operations for the year ended June 30, 2023 compared to the year ended June 30, 2022. For a discussion of the year ended June 30 , 2022 compared to the year ended June 30, 2021, please refer to Part II, Item 7, &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in our Annual Report on Form 10-K for the year ended June 30, 2022. \n\nOVE",
+    "_risk_factors": "ITEM 1A. RIS K FACTORS \n\nOur operations and financial results are subject to various risks and uncertainties, including those described below, that could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our common stock. \n\nSTRATEGIC AND COMPETITIVE RISKS \n\nWe face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins. \n\nCompetition in the technology sector \n\nOur competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources. Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services. Our ability t"
+  }
+}

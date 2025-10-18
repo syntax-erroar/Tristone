@@ -1,0 +1,138 @@
+{
+  "company_ticker": "MSFT",
+  "company_name": "Microsoft Corporation",
+  "year": "2020",
+  "file_path": "cleaned_financial_statements_MSFT\\MSFT_10K_Part8_Cleaned_2020.txt",
+  "total_tables": 12,
+  "tables_info": [
+    {
+      "table_index": 5,
+      "line_items_count": 4,
+      "years": [
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 7,
+      "line_items_count": 4,
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 8,
+      "line_items_count": 2,
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 9,
+      "line_items_count": 1,
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 10,
+      "line_items_count": 4,
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2017"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 11,
+      "line_items_count": 1,
+      "years": [
+        "2020"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.2
+    },
+    {
+      "table_index": 12,
+      "line_items_count": 13,
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6
+    },
+    {
+      "table_index": 14,
+      "line_items_count": 6,
+      "years": [
+        "2018"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.3
+    },
+    {
+      "table_index": 16,
+      "line_items_count": 1,
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 17,
+      "line_items_count": 1,
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.5
+    },
+    {
+      "table_index": 19,
+      "line_items_count": 3,
+      "years": [
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "statement_type": "balance_sheet",
+      "confidence": 0.6000000000000001
+    },
+    {
+      "table_index": 21,
+      "line_items_count": 1,
+      "years": [
+        "2020",
+        "2019",
+        "2013"
+      ],
+      "statement_type": "income_statement",
+      "confidence": 0.5
+    }
+  ]
+}

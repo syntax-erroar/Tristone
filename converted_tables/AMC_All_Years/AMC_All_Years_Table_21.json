@@ -1,0 +1,90 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2021",
+    "2020",
+    "2019",
+    "2016"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "on March",
+      "values": [
+        14.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "on March",
+      "values": [
+        12.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The Company paid the sixth and final annual installment related to the promissory note in December",
+      "values": [
+        2019.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "As of December",
+      "values": [
+        31.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "balance_sheet",
+  "currency_unit": "millions",
+  "years": [
+    "2027",
+    "2026",
+    "2018",
+    "2017"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "million)",
+      "values": [
+        278.3,
+        226.7,
+        105.4,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Cash paid during the period for",
+      "is_total": false
+    },
+    {
+      "name": "million)",
+      "values": [
+        278.3,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Cash paid during the period for",
+      "is_total": false
+    },
+    {
+      "name": "See Note",
+      "values": [
+        6.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Income taxes paid, net $19.5 $10.94.7 Schedule of non-cash activities",
+      "is_total": false
+    },
+    {
+      "name": "Construction payables at period end",
+      "values": [
+        100.8,
+        82.7,
+        86.9,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Income taxes paid, net $19.5 $10.94.7 Schedule of non-cash activities",
+      "is_total": false
+    },
+    {
+      "name": "Investment in NCM (See Note 6 - Investments)",
+      "values": [
+        6.3,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Income taxes paid, net $19.5 $10.94.7 Schedule of non-cash activities",
+      "is_total": false
+    },
+    {
+      "name": "Construction payables at period end",
+      "values": [
+        100.8,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2018",
+        "2017"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": "Income taxes paid, net $19.5 $10.94.7 Schedule of non-cash activities",
+      "is_total": false
+    }
+  ]
+}

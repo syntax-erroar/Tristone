@@ -1,0 +1,90 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2018",
+    "2017",
+    "2016",
+    "1934"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "million for the years ended December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "1934"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "On November",
+      "values": [
+        21.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "1934"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "which the court granted on October",
+      "values": [
+        15.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "1934"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "which the court granted on December",
+      "values": [
+        17.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2018",
+        "2017",
+        "2016",
+        "1934"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

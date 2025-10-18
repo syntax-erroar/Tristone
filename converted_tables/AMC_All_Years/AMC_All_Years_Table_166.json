@@ -1,0 +1,109 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2027",
+    "2026",
+    "2025",
+    "2024"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "SUBSEQUENT EVENTS On February",
+      "values": [
+        15.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "CONDENSED CONSOLIDATING FINANCIAL INFORMATION Years Ended December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and December",
+      "values": [
+        31.0,
+        2016.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "X Rule",
+      "values": [
+        3.0,
+        10.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the Notes due",
+      "values": [
+        2025.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

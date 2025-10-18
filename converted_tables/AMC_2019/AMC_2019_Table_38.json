@@ -1,0 +1,30 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2019",
+    "2018",
+    "2017"
+  ],
+  "confidence": 0.7999999999999999,
+  "line_items": [
+    {
+      "name": "Unrealized net holding gain (loss) arising during the period \u200b (0.1) \u200b \u2014 \u200b (0.1) \u200b 0.2 \u200b \u2014 \u200b 0.2 \u200b \u2014 \u200b \u2014 \u200b \u2014 Realized net (gain) loss reclassified into equity in earnings of non-consolidated entities \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b (2.2) \u200b \u200b \u2014 \u200b \u200b (2.2) \u200b \u200b (1.5) \u200b \u200b 0.6 \u200b \u200b",
+      "values": [
+        0.9,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "category": "Net Income",
+      "confidence": 0.7,
+      "parent_item": "Unrealized net holding gain (loss) arising during the period \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b \u2014 \u200b 1.2 \u200b (0.5) \u200b 0.7 Realized net gain reclassified into investment expense (income) \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b \u2014 \u200b \u200b (0.6) \u200b \u200b 0.2 \u200b \u200b (0.4) Equity method investee's cash flow hedge",
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "thousands",
+  "years": [
+    "2019",
+    "2018",
+    "2017",
+    "2016"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "is classified within Level",
+      "values": [
+        2.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "was",
+      "values": [
+        1279000.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "s ASC Topic",
+      "values": [
+        606.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "that was to occur on October",
+      "values": [
+        1.0,
+        2016.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Note",
+      "values": [
+        3.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Note",
+      "values": [
+        4.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

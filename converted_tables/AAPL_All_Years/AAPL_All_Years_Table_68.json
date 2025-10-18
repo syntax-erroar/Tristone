@@ -1,0 +1,72 @@
+{
+  "company_name": "Apple Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.6,
+  "line_items": [
+    {
+      "name": "(",
+      "values": [
+        1.0,
+        2.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Balance Sheet. (",
+      "values": [
+        3.0,
+        26.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "of September 26,",
+      "values": [
+        2020.0,
+        28.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and September 28,",
+      "values": [
+        2019.0,
+        0.0
+      ],
+      "years": [
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2020",
+    "2019",
+    "2018"
+  ],
+  "confidence": 0.7499999999999999,
+  "line_items": [
+    {
+      "name": "Operations \u200b December",
+      "values": [
+        31.0,
+        2020.0,
+        31.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "\u200b December 31,",
+      "values": [
+        2019.0,
+        31.0,
+        2018.0
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        3.8,
+        22.4,
+        20.1
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        1.0,
+        3.6,
+        6.5
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "costs \u200b \u200b",
+      "values": [
+        3.9,
+        13.6,
+        12.9
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenue",
+      "values": [
+        2.6,
+        15.6,
+        15.1
+      ],
+      "years": [
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

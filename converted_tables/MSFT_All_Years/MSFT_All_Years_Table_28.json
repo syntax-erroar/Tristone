@@ -1,0 +1,52 @@
+{
+  "company_name": "Microsoft Corporation",
+  "statement_type": "income_statement",
+  "currency_unit": "billions",
+  "years": [
+    "2025",
+    "2024",
+    "2023",
+    "2022"
+  ],
+  "confidence": 0.75,
+  "line_items": [
+    {
+      "name": "Provisions enacted in the TCJA related to the capitalization for tax purposes of research and development expenditures became effective on July",
+      "values": [
+        1.0,
+        2022.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "category": "Operating Expenses",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "PART II Item",
+      "values": [
+        8.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

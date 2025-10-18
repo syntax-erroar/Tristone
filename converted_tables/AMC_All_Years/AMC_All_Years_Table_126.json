@@ -1,0 +1,223 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2021",
+    "2020",
+    "2019",
+    "2018"
+  ],
+  "confidence": 0.6545454545454545,
+  "line_items": [
+    {
+      "name": "Note",
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "On March",
+      "values": [
+        31.0,
+        2014.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "On August",
+      "values": [
+        2.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "see Note",
+      "values": [
+        7.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "see Note",
+      "values": [
+        2.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "The Company anticipates reaching cost recoupment as defined in the DCDAs in the fourth quarter of",
+      "values": [
+        2020.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Note",
+      "values": [
+        2.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "effective January",
+      "values": [
+        1.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the Company incurred bad debt expense of",
+      "values": [
+        674000.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Cost",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "revenues earned from Canadian sources totaled",
+      "values": [
+        1808000.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Revenues earned by the Company under the CNI MSA for theatres located in Latin America was",
+      "values": [
+        548000.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "category": "Revenue",
+      "confidence": 0.7,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

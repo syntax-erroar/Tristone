@@ -1,0 +1,37 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2019"
+  ],
+  "confidence": 0.30000000000000004,
+  "line_items": [
+    {
+      "name": "other \u200b \u200b",
+      "values": [
+        5.5
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Year Ended (In millions) \u200b Consolidated Statement of Operations \u200b December 31, 2019 Operating lease cost \u200b \u200b \u200b \u200b Theatre properties \u200b Rent \u200b $876.0 Theatre properties \u200b Operating expense \u200b \u200b 9.1 Equipment \u200b Operating expense \u200b \u200b 14.4 Office and other \u200b General and administrative",
+      "is_total": false
+    },
+    {
+      "name": "other \u200b \u200b",
+      "values": [
+        5.5
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": "Year Ended (In millions) \u200b Consolidated Statement of Operations \u200b December 31, 2019 Operating lease cost \u200b \u200b \u200b \u200b Theatre properties \u200b Rent \u200b $876.0 Theatre properties \u200b Operating expense \u200b \u200b 9.1 Equipment \u200b Operating expense \u200b \u200b 14.4 Office and other \u200b General and administrative",
+      "is_total": false
+    }
+  ]
+}

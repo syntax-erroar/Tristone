@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7,8
+nan,nan,"June 28,",nan,"June 29,",nan,"June 28,",nan,"June 29,"
+nan,nan,2025,nan,2024,nan,2025,nan,2024
+Net sales:,nan,nan,nan,nan,nan,nan,nan,nan
+Products,$,"66,613",$,"61,564",$,"233,287",$,"224,908"
+Services,nan,"27,423",nan,"24,213",nan,"80,408",nan,"71,197"
+Total net sales,nan,"94,036",nan,"85,777",nan,"313,695",nan,"296,105"
+Cost of sales:,nan,nan,nan,nan,nan,nan,nan,nan
+Products,nan,"43,620",nan,"39,803",nan,"147,097",nan,"140,667"
+Services,nan,"6,698",nan,"6,296",nan,"19,738",nan,"18,634"
+Total cost of sales,nan,"50,318",nan,"46,099",nan,"166,835",nan,"159,301"
+Gross margin,nan,"43,718",nan,"39,678",nan,"146,860",nan,"136,804"
+Operating expenses:,nan,nan,nan,nan,nan,nan,nan,nan
+Research and development,nan,"8,866",nan,"8,006",nan,"25,684",nan,"23,605"
+"Selling, general and administrative",nan,"6,650",nan,"6,320",nan,"20,553",nan,"19,574"
+Total operating expenses,nan,"15,516",nan,"14,326",nan,"46,237",nan,"43,179"
+Operating income,nan,"28,202",nan,"25,352",nan,"100,623",nan,"93,625"
+"Other income/(expense), net",nan,(171),nan,142,nan,(698),nan,250
+Income before provision for income taxes,nan,"28,031",nan,"25,494",nan,"99,925",nan,"93,875"
+Provision for income taxes,nan,"4,597",nan,"4,046",nan,"15,381",nan,"14,875"
+Net income,$,"23,434",$,"21,448",$,"84,544",$,"79,000"
+Earnings per share:,nan,nan,nan,nan,nan,nan,nan,nan
+Basic,$,1.57,$,1.40,$,5.64,$,5.13
+Diluted,$,1.57,$,1.40,$,5.62,$,5.11
+Shares used in computing earnings per share:,nan,nan,nan,nan,nan,nan,nan,nan
+Basic,nan,"14,902,886",nan,"15,287,521",nan,"14,992,898",nan,"15,401,047"
+Diluted,nan,"14,948,179",nan,"15,348,175",nan,"15,051,726",nan,"15,463,175"

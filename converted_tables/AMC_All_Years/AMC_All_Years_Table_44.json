@@ -1,0 +1,318 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2024",
+    "2021",
+    "2020",
+    "2019"
+  ],
+  "confidence": 0.6000000000000001,
+  "line_items": [
+    {
+      "name": "The Company estimates the sale of Forum Cinemas will be completed in",
+      "values": [
+        2021.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "s theatre screens and attendees through February",
+      "values": [
+        2037.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "Upon adoption of ASC",
+      "values": [
+        606.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "million for the years ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "during the years ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "during the years ended December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "and December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "quantitative goodwill impairment test of the Domestic and International reporting units as of March",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "impairment analysis as of September",
+      "values": [
+        30.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "quantitative impairment test of the Domestic and International reporting units as of September",
+      "values": [
+        30.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "quantitative impairment test of the Domestic and International reporting units as of December",
+      "values": [
+        31.0,
+        2020.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the Company performed a quantitative goodwill impairment test of the Domestic and International reporting units as of September",
+      "values": [
+        30.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "there was no goodwill impairment recorded as of September",
+      "values": [
+        30.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "impairment analysis as of December",
+      "values": [
+        31.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the Company performed a qualitative impairment test to evaluate whether it is more likely than not that the fair value of its two reporting units are less than their respective carrying amounts as of December",
+      "values": [
+        31.0,
+        2019.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    },
+    {
+      "name": "the comparative information has not been adjusted for the year ended December",
+      "values": [
+        31.0,
+        2018.0,
+        0.0,
+        0.0
+      ],
+      "years": [
+        "2024",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.4,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

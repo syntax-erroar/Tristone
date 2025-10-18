@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+(In millions),Level,Cost Basis,nan,Gains,nan,Losses,nan,Basis,Equivalents,Investments,Investments
+"June 30, 2024",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Changes in Fair Value,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Recorded in Other,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Comprehensive,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Income,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Commercial paper,Level 2,"$ 4,666",$,0,$,0,$,"4,666","$ 4,666",$ 0,$ 0
+Certificates of,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+deposit,Level 2,"1,547",nan,0,nan,0,nan,"1,547","1,503",44,0
+U.S. government,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+securities,Level 1,"49,603",nan,4,nan,"(2,948 )",nan,"46,659",14,"46,645",0
+U.S. agency,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+securities,Level 2,17,nan,0,nan,0,nan,17,0,17,0
+Foreign government,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+bonds,Level 2,319,nan,3,nan,(16 ),nan,306,0,306,0
+Mortgage- and,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+asset-backed,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+securities,Level 2,944,nan,3,nan,(35 ),nan,912,0,912,0
+Corporate notes and,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+bonds,Level 2,"9,106",nan,28,nan,(318 ),nan,"8,816",0,"8,816",0
+Corporate notes and,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+bonds,Level 3,"1,641",nan,0,nan,(1 ),nan,"1,640",0,140,"1,500"
+Municipal securities,Level 2,262,nan,0,nan,(13 ),nan,249,0,249,0
+Municipal securities,Level 3,104,nan,0,nan,(17 ),nan,87,0,87,0
+Total debt,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+investments,nan,"$ 68,209",$,38,$,"(3,348 )",$,"64,899","$ 6,183","$ 57,216","$ 1,500"
+Changes in Fair Value,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Recorded in Net,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Income,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Equity investments,Level 1,nan,nan,nan,nan,nan,$,"3,547",$ 561,$ 0,"$ 2,986"
+Equity investments,Other,nan,nan,nan,nan,nan,nan,"10,114",0,0,"10,114"
+Total equity,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+investments,nan,nan,nan,nan,nan,nan,$,"13,661",$ 561,$ 0,"$ 13,100"
+Cash,nan,nan,nan,nan,nan,nan,$,"11,571","$ 11,571",$ 0,$ 0
+"Derivatives, net (a)",nan,nan,nan,nan,nan,nan,nan,12,0,12,0
+Total,nan,nan,nan,nan,nan,nan,$,"90,143","$ 18,315","$ 57,228","$ 14,600"

@@ -1,0 +1,2717 @@
+RAW TABLES EXTRACTION SUMMARY
+==================================================
+
+Filing: filing_1
+Year: 2025, Type: 10-K
+Financial Tables Found: 39
+  Table 0: None ((31, 7))
+    Preview:
+          0                                         1    2    3    4    5     7
+0       nan  Information about our Executive Officers  nan  nan  nan  nan  14.0
+1  Item 1A.                              Risk Factors  nan  nan  nan  nan  16.0
+2  Item 1B.                 Unresolved Staff Comments  nan  nan  nan  nan  30.0
+
+  Table 1: None ((37, 1))
+    Preview:
+                                                                                                            0
+0  • A material part of our business involves cloud-based services available across the spectrum of computing
+1        devices. We and our competitors continue to devote significant resources to developing and deploying
+2          cloud-based strategies and services for consumers and business customers, and pricing and delivery
+
+  Table 2: None ((16, 12))
+    Preview:
+    0                                                                                                                 1    2           3        4        5    6              7    8         9    10     11
+0    •                                                                                        Cybersecurity: Legislative  and  regulatory  actions  related   to  cybersecurity  may  increase  the  costs
+1  nan         associated with developing, implementing, or securing our products and services. The legal and regulatory  nan         nan      nan      nan  nan            nan  nan       nan  nan    nan
+2  nan  environment in this area is complex and continues to evolve across multiple jurisdictions. As a result, there is  nan         nan      nan      nan  nan            nan  nan       nan  nan    nan
+
+  Table 3: None ((6, 7))
+    Preview:
+                                0          1    2               3            4    5                  6
+0                          Period  Purchased  nan  Paid Per Share  or Programs  nan  Plans or Programs
+1                             nan        nan  nan             nan          nan  nan      (In millions)
+2  April 1, 2025 – April 30, 2025  3,180,776    $          376.90    3,180,776    $             59,350
+
+  Table 4: None ((31, 1))
+    Preview:
+                                                                         0
+0                                                                   Item 7
+1  ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+2                                                    RESULTS OF OPERATIONS
+
+  Table 5: None ((7, 5))
+    Preview:
+                                                         0    1           2        3           4
+0                                                      nan  nan         nan      nan  Percentage
+1  (In millions, except percentages and per share amounts)  nan        2025     2024      Change
+2                                                  Revenue    $  281,724  $  245,122         15%
+
+  Table 6: None ((20, 5))
+    Preview:
+                                     0    1           2        3    4
+0  Productivity and Business Processes  nan         nan      nan  nan
+1                              Revenue    $  120,810  $  106,820  13%
+2                      Cost of revenue  nan      22,422   19,611  14%
+
+  Table 7: None ((2, 6))
+    Preview:
+                          0    1       2    3       4     5
+0  Research and development    $  32,488    $  29,510   10%
+1   As a percent of revenue  nan     12%  nan     12%  0ppt
+
+  Table 8: None ((9, 5))
+    Preview:
+                               0    1      2    3      4
+0                  (In millions)  nan    nan  nan    nan
+1            Year Ended June 30,  nan   2025  nan   2024
+2  Interest and dividends income    $  2,647    $  3,157
+
+  Table 9: None ((4, 1))
+    Preview:
+                                                                                                                          0
+0      We expect existing cash, cash equivalents, short-term investments, cash flows from operations, and access to capital
+1    markets to continue to be sufficient to fund our operating activities and cash commitments for investing and financing
+2  activities, such as dividends, share repurchases, debt maturities, material capital expenditures, and the transition tax
+
+  Table 10: None ((21, 5))
+    Preview:
+                     0    1          2          3       4
+0  Year Ended June 30,  nan       2025       2024    2023
+1             Revenue:  nan        nan        nan     nan
+2              Product    $  63,946  $  64,773  $  64,699
+
+  Table 11: None ((18, 5))
+    Preview:
+                                  0    1           2          3       4
+0               Year Ended June 30,  nan        2025       2024    2023
+1  Common stock and paid-in capital  nan         nan        nan     nan
+2      Balance, beginning of period    $  100,923  $  93,718  $  86,939
+
+  Table 12: None ((3, 5))
+    Preview:
+                                                         0    1           2          3       4
+0                                      Year Ended June 30,  nan        2025       2024    2023
+1         Net income available for common shareholders (A)    $  101,832  $  88,136  $  72,361
+2  Weighted average outstanding shares of common stock (B)  nan       7,433      7,431   7,446
+
+  Table 13: None ((8, 5))
+    Preview:
+                                                         0    1           2          3       4
+0                                      Year Ended June 30,  nan        2025       2024    2023
+1         Net income available for common shareholders (A)    $  101,832  $  88,136  $  72,361
+2  Weighted average outstanding shares of common stock (B)  nan       7,433      7,431   7,446
+
+  Table 14: None ((8, 5))
+    Preview:
+                               0    1         2         4        6
+0            Year Ended June 30,  nan      2025      2024     2023
+1  Interest and dividends income    $  2,647  $  3,157  $    2,994
+2               Interest expense  nan   (2,385)   (2,935)  (1,968)
+
+  Table 15: None ((10, 7))
+    Preview:
+                                                             0    1     2    3     4    5      6
+0                                          Year Ended June 30,  nan  2025  nan  2024  nan   2023
+1   Realized gains from sales of available-for-sale securities    $    40    $    22    $     36
+2  Realized losses from sales of available-for-sale securities  nan  (65)  nan  (98)  nan  (124)
+
+  Table 16: None ((31, 12))
+    Preview:
+                      0      1           2    3      4    5       6    7      8            9            10           11
+0          (In millions)  Level  Cost Basis  nan  Gains  nan  Losses  nan  Basis  Equivalents  Investments  Investments
+1          June 30, 2025    nan         nan  nan    nan  nan     nan  nan    nan          nan          nan          nan
+2  Changes in Fair Value    nan         nan  nan    nan  nan     nan  nan    nan          nan          nan          nan
+
+  Table 17: None ((31, 12))
+    Preview:
+                      0      1           2    3      4    5       6    7      8            9            10           11
+0          (In millions)  Level  Cost Basis  nan  Gains  nan  Losses  nan  Basis  Equivalents  Investments  Investments
+1          June 30, 2024    nan         nan  nan    nan  nan     nan  nan    nan          nan          nan          nan
+2  Changes in Fair Value    nan         nan  nan    nan  nan     nan  nan    nan          nan          nan          nan
+
+  Table 18: None ((25, 1))
+    Preview:
+                                                                     0
+0                                                                Total
+1                               Unrealized Unrealized Total Unrealized
+2  (In millions) Fair Value Losses Fair Value Losses Fair Value Losses
+
+  Table 19: None ((7, 5))
+    Preview:
+                         0    1           2    3           4
+0            (In millions)  nan  Cost Basis  nan  Fair Value
+1            June 30, 2025  nan         nan  nan         nan
+2  Due in one year or less    $      35,108    $      34,952
+
+  Table 20: None ((11, 5))
+    Preview:
+                                      0    1      2    3      4
+0                         (In millions)  nan   2025  nan   2024
+1     Designated as Hedging Instruments  nan    nan  nan    nan
+2  Foreign exchange contracts purchased    $  1,492    $  1,492
+
+  Table 21: None ((23, 6))
+    Preview:
+               0    1           2            3           4            5
+0            nan  nan  Derivative   Derivative  Derivative   Derivative
+1  (In millions)  nan      Assets  Liabilities      Assets  Liabilities
+2            nan  nan         nan     June 30,         nan     June 30,
+
+  Table 22: None ((20, 6))
+    Preview:
+                        0     1        2       3    4        5
+0           June 30, 2025   nan      nan     nan  nan      nan
+1    Derivative assets  $  1  $   474  $  283  $  nan      758
+2  Derivative liabilities     0  (1,832)     (5)  nan  (1,837)
+
+  Table 23: None ((7, 4))
+    Preview:
+                            0    1         2       3
+0                    June 30,  nan      2025    2024
+1                        Land    $  9,338  $   8,163
+2  Buildings and improvements  nan   137,921  93,943
+
+  Table 24: None ((8, 15))
+    Preview:
+                 0    1     2    3             4    5      6    7     8    9             10   11     12   13    14
+0     (In millions)  nan  2023  nan  Acquisitions  nan  Other  nan  2024  nan  Acquisitions  nan  Other  nan  2025
+1  Productivity and  nan   nan  nan           nan  nan    nan  nan   nan  nan           nan  nan    nan  nan   nan
+2          Business  nan   nan  nan           nan  nan    nan  nan   nan  nan           nan  nan    nan  nan   nan
+
+  Table 25: None ((7, 12))
+    Preview:
+                  0    1       2    3             4    5       6    7       8             9    10      11
+0      (In millions)  nan  Amount  nan  Amortization  nan  Amount  nan  Amount  Amortization  nan  Amount
+1           June 30,  nan     nan  nan           nan  nan    2025  nan     nan           nan  nan    2024
+2  Marketing-related    $  16,502    $       (3,901)    $  12,601    $  16,500     $ (3,101)    $  13,399
+
+  Table 26: None ((7, 6))
+    Preview:
+                     0    1       2             3       5             6
+0        (In millions)  nan  Amount  Average Life  Amount  Average Life
+1  Year Ended June 30,  nan    2025           nan    2024           nan
+2    Marketing-related    $      13    10 years $  11,619      24 years
+
+  Table 27: None ((3, 3))
+    Preview:
+                      0    1      2
+0         (In millions)  nan    nan
+1  Year Ending June 30,  nan    nan
+2                  2026    $  4,594
+
+  Table 28: None ((8, 3))
+    Preview:
+                      0    1      2
+0  Year Ending June 30,  nan    nan
+1                  2026    $  4,594
+2                  2027  nan  2,901
+
+  Table 29: None ((37, 7))
+    Preview:
+                                     0      1      2    3    4    5    6
+0  2009 issuance of $3.8 billion  2039  5.20%  5.24%    $  520    $  520
+1  2010 issuance of $4.8 billion  2040  4.50%  4.57%  nan  486  nan  486
+2  2011 issuance of $2.3 billion  2041  5.30%  5.36%  nan  718  nan  718
+
+  Table 30: None ((24, 4))
+    Preview:
+                                  0    1       2     3
+0                          June 30,  nan    2025  2024
+1        Deferred Income Tax Assets  nan     nan   nan
+2  Stock-based compensation expense    $  909  $   765
+
+  Table 31: None ((6, 4))
+    Preview:
+                            0      1      2      3
+0               (In millions)    nan    nan    nan
+1         Year Ended June 30,   2025   2024   2023
+2  Balance, beginning of year  7,434  7,432  7,464
+
+  Table 32: None ((7, 7))
+    Preview:
+                     0       1       2       3       4       5       6
+0        (In millions)  Shares  Amount  Shares  Amount  Shares  Amount
+1  Year Ended June 30,     nan    2025     nan    2024     nan    2023
+2        First Quarter    7  $   2,800   11  $   3,560   17  $   4,600
+
+  Table 33: None ((13, 6))
+    Preview:
+                    0                  1                  2    3          4              5
+0    Declaration Date        Record Date       Payment Date  nan  Per Share         Amount
+1    Fiscal Year 2025                nan                nan  nan        nan  (In millions)
+2  September 16, 2024  November 21, 2024  December 12, 2024    $    0.83  $          6,170
+
+  Table 34: None ((22, 7))
+    Preview:
+                     0    1     2    3     4    5     6
+0        (In millions)  nan   nan  nan   nan  nan   nan
+1  Year Ended June 30,  nan  2025  nan  2024  nan  2023
+2          Derivatives  nan   nan  nan   nan  nan   nan
+
+  Table 35: None ((7, 4))
+    Preview:
+                                      0              1    2       3
+0                                   nan  (In millions)  nan     NaN
+1                          Stock Awards            nan  nan     NaN
+2  Nonvested balance, beginning of year             88    $  292.28
+
+  Table 36: None ((30, 4))
+    Preview:
+                                     0     1     3     5
+0                        (In millions)   nan   nan   nan
+1                  Year Ended June 30,  2025  2024  2023
+2  Productivity and Business Processes   nan   nan   nan
+
+  Table 37: None ((28, 1))
+    Preview:
+                                                                                                                0
+0    • Determination of whether products and services are considered distinct performance obligations that should
+1  be accounted for separately versus together, such as software licenses and related services that are sold with
+2                                                                                           cloud-based services.
+
+  Table 38: balance_sheet ((27, 4))
+    Preview:
+                                 0    1    2   3
+0                Income Statements  nan  nan  50
+1  Comprehensive Income Statements  nan  nan  51
+2                   Balance Sheets  nan  nan  52
+
+------------------------------
+
+Filing: filing_2
+Year: 2025, Type: 10-Q
+Financial Tables Found: 32
+  Table 0: balance_sheet ((20, 2))
+    Preview:
+                                                                                  0    2
+0                                                      Item 1. Financial Statements  NaN
+1  a) Income Statements for the Three and Nine Months Ended March 31, 2025 and 2024  3.0
+2  b) Comprehensive Income Statements for the Three and Nine Months Ended March 31,  NaN
+
+  Table 1: None ((25, 8))
+    Preview:
+                                                     0    1     2    3          4    5     6          7
+0  (In millions, except per share amounts) (Unaudited)  nan   nan  nan  March 31,  nan   nan  March 31,
+1                                                  nan  nan  2025  nan       2024  nan  2025       2024
+2                                             Revenue:  nan   nan  nan        nan  nan   nan        nan
+
+  Table 2: None ((8, 7))
+    Preview:
+                                                0    1          2       3    4          5       6
+0                                             nan  nan       2025    2024  nan       2025    2024
+1                                      Net income    $  25,824  $  21,939    $  74,599  $  66,100
+2  Other comprehensive income (loss), net of tax:  nan        nan     nan  nan        nan     nan
+
+  Table 3: None ((45, 5))
+    Preview:
+               0          2          3          4       5
+0            nan       2025       2024       2025    2024
+1     Operations        nan        nan        nan     nan
+2  Net income  $  25,824  $  21,939  $  74,599  $  66,100
+
+  Table 4: None ((8, 8))
+    Preview:
+                                                         0    1        2       4    5       6    7       8
+0                                                      nan  nan     2025    2024  nan    2025  nan    2024
+1         Net income available for common shareholders (A)    $  25,824$  21,939    $  74,599    $  66,100
+2  Weighted average outstanding shares of common stock (B)  nan    7,434   7,431  nan   7,434  nan   7,431
+
+  Table 5: None ((32, 9))
+    Preview:
+               0      1                2           3       4         5                        6           7            8
+0            nan   Fair         Adjusted         nan     nan       nan                     Cash         nan       Equity
+1            nan  Value  Cost Unrealized  Unrealized     nan  Recorded                 and Cash  Short-term    and Other
+2  (In millions)  Level            Basis       Gains  Losses     Basis  Equivalents Investments         nan  Investments
+
+  Table 6: None ((32, 10))
+    Preview:
+               0      1    2                3           4       5         6                        7           8            9
+0            nan   Fair  nan         Adjusted         nan     nan       nan                     Cash         nan       Equity
+1            nan  Value  nan  Cost Unrealized  Unrealized     nan  Recorded                 and Cash  Short-term    and Other
+2  (In millions)  Level  nan            Basis       Gains  Losses     Basis  Equivalents Investments         nan  Investments
+
+  Table 7: None ((21, 1))
+    Preview:
+                                                                     0
+0                                                                Total
+1                               Unrealized Unrealized Total Unrealized
+2  (In millions) Fair Value Losses Fair Value Losses Fair Value Losses
+
+  Table 8: None ((6, 4))
+    Preview:
+                                       0    1          2       3
+0                         March 31, 2025  nan        nan     nan
+1                Due in one year or less    $  31,746  $  31,609
+2  Due after one year through five years  nan     32,127  30,870
+
+  Table 9: None ((11, 5))
+    Preview:
+                                      0    1      2    3      4
+0                         (In millions)  nan   2025  nan   2024
+1     Designated as Hedging Instruments  nan    nan  nan    nan
+2  Foreign exchange contracts purchased    $  1,492    $  1,492
+
+  Table 10: None ((17, 6))
+    Preview:
+                                       0    1      2        3      4     5
+0             Foreign exchange contracts    $  26  $  (80)  $  24  $  (76)
+1                Interest rate contracts  nan      5        0     19     0
+2  Not Designated as Hedging Instruments  nan    nan      nan    nan   nan
+
+  Table 11: None ((6, 6))
+    Preview:
+                        0    1     2        3       4        5
+0          March 31, 2025  nan   nan      nan     nan      nan
+1       Derivative assets    $  0  $   267  $  283  $      550
+2  Derivative liabilities  nan     0  (1,920)       0  (1,920)
+
+  Table 12: None ((21, 6))
+    Preview:
+                                              0    1          2     3    4     5
+0                                           nan  nan  2025 2024  2025  nan  2024
+1  Designated as Fair Value Hedging Instruments  nan        nan   nan  nan   nan
+2                       Interest rate contracts  nan        nan   nan  nan   nan
+
+  Table 13: None ((27, 2))
+    Preview:
+                              0       1
+0  Cash and cash equivalents  $  12,976
+1                      Goodwill  51,001
+2             Intangible assets  21,969
+
+  Table 14: None ((7, 9))
+    Preview:
+                   0    1       2    3           4          5          6           7         8
+0                nan  nan     nan  nan         nan  March 31,        nan         nan  June 30,
+1                nan  nan     nan  nan         nan       2025        nan         nan      2024
+2  Marketing-related    $  16,503    $  (3,703)  $  12,800  $  16,500  $  (3,101)  $    13,399
+
+  Table 15: None ((8, 3))
+    Preview:
+                                                       0    1      2
+0                                   Year Ending June 30,  nan    nan
+1  2025 (excluding the nine months ended March 31, 2025)    $  1,525
+2                                                   2026  nan  4,582
+
+  Table 16: None ((22, 7))
+    Preview:
+                                          0                1      2      3    4       5     6
+0  (In millions, issuance by calendar year)  (calendar year)   Rate   Rate  nan    2025  2024
+1             2009 issuance of $3.8 billion             2039  5.20%  5.24%    $  520  $   520
+2             2010 issuance of $4.8 billion             2040  4.50%  4.57%  nan     486   486
+
+  Table 17: None ((9, 3))
+    Preview:
+                                                       0    1    2
+0                                          (In millions)  nan  nan
+1                                   Year Ending June 30,  nan  nan
+2  2025 (excluding the nine months ended March 31, 2025)    $    0
+
+  Table 18: None ((10, 5))
+    Preview:
+                                                   0     1     2     3     4
+0                                                nan  2025  2024  2025  2024
+1  Cash paid for amounts included in the measurement   nan   nan   nan   nan
+2                              of lease liabilities:   nan   nan   nan   nan
+
+  Table 19: None ((5, 5))
+    Preview:
+                0     1      2      3      4
+0     Fiscal Year   nan   2025    nan   2024
+1   First Quarter  7  $  2,800  11  $  3,560
+2  Second Quarter     8  3,500      7  2,800
+
+  Table 20: None ((10, 6))
+    Preview:
+                    0                  1                  2    3        4              5
+0    Fiscal Year 2025                nan                nan  nan      nan  (In millions)
+1  September 16, 2024  November 21, 2024  December 12, 2024    $  0.83  $          6,170
+2    December 3, 2024  February 20, 2025     March 13, 2025  nan     0.83          6,169
+
+  Table 21: None ((30, 6))
+    Preview:
+                              0    1      2       3       4     5
+0                           nan  nan   2025    2024    2025  2024
+1                   Derivatives  nan    nan     nan     nan   nan
+2  Balance, beginning of period    $  21  $  (9)  $  (3)  $  (27)
+
+  Table 22: None ((18, 5))
+    Preview:
+               0     1          2     3          4
+0  (In millions)   nan  March 31,   nan  March 31,
+1            nan  2025       2024  2025       2024
+2        Revenue   nan        nan   nan        nan
+
+  Table 23: None ((13, 7))
+    Preview:
+                                    0    1          2          3    4          5          6
+0                       (In millions)  nan        nan  March 31,  nan        nan  March 31,
+1                                 nan  nan       2025       2024  nan       2025       2024
+2  Server products and cloud services    $  24,761  $     20,266    $  70,557  $     57,925
+
+  Table 24: None ((8, 2))
+    Preview:
+     0                                                                                                   1
+0    •  Microsoft 365 Commercial products and cloud services revenue increased 11% driven by Microsoft 365
+1  nan                                                             Commercial cloud revenue growth of 12%.
+2    •    Microsoft 365 Consumer products and cloud services revenue increased 10% driven by Microsoft 365
+
+  Table 25: None ((8, 7))
+    Preview:
+                                                0    1                   2           3    4                  5           6
+0  (In millions, except percentages and per share  nan  Three Months Ended  Percentage  nan  Nine Months Ended  Percentage
+1                                        amounts)  nan           March 31,      Change  nan          March 31,      Change
+2                                             nan  nan           2025 2024         nan  nan          2025 2024         nan
+
+  Table 26: None ((12, 10))
+    Preview:
+                                   0    1     2    3          4       5    6     7          8       9
+0  (In millions, except percentages)  nan   nan  nan  March 31,  Change  nan   nan  March 31,  Change
+1                                nan  nan  2025  nan       2024     nan  nan  2025       2024     nan
+2                            Revenue  nan   nan  nan        nan     nan  nan   nan        nan     nan
+
+  Table 27: None ((4, 10))
+    Preview:
+                                   0    1         2          3       4    5       6    7          8       9
+0  (In millions, except percentages)  nan       nan  March 31,  Change  nan     nan  nan  March 31,  Change
+1                                nan  nan      2025       2024     nan  nan    2025  nan       2024     nan
+2           Research and development    $  8,198  $      7,653      7%    $  23,659    $     21,454     10%
+
+  Table 28: None ((4, 10))
+    Preview:
+                                   0    1         2          3       4    5       6    7          8       9
+0  (In millions, except percentages)  nan       nan  March 31,  Change  nan     nan  nan  March 31,  Change
+1                                nan  nan      2025       2024     nan  nan    2025  nan       2024     nan
+2                Sales and marketing    $  6,212  $      6,207      0%    $  18,369    $     17,640      4%
+
+  Table 29: None ((5, 7))
+    Preview:
+                                   0    1                   2           3    4                  5           6
+0                                nan  nan  Three Months Ended  Percentage  nan  Nine Months Ended  Percentage
+1  (In millions, except percentages)  nan           March 31,      Change  nan          March 31,      Change
+2                                nan  nan           2025 2024         nan  nan          2025 2024         nan
+
+  Table 30: None ((8, 6))
+    Preview:
+                               0    1      2       4         5        6
+0                            nan  nan   2025    2024      2025     2024
+1  Interest and dividends income    $  597 $  619  $  1,878  $    2,519
+2               Interest expense  nan  (594)   (800)   (1,770)  (2,234)
+
+  Table 31: None ((3, 7))
+    Preview:
+                  0             1              2    3          4    5              6
+0  Declaration Date   Record Date   Payment Date  nan  Per Share  nan         Amount
+1               nan           nan            nan  nan        nan  nan  (In millions)
+2    March 11, 2025  May 15, 2025  June 12, 2025    $       0.83    $          6,170
+
+------------------------------
+
+Filing: filing_3
+Year: 2025, Type: 10-Q
+Financial Tables Found: 36
+  Table 0: balance_sheet ((21, 2))
+    Preview:
+                                                                                    0    2
+0                                                        Item 1. Financial Statements  NaN
+1  a) Income Statements for the Three and Six Months Ended December 31, 2024 and 2023  3.0
+2  b) Comprehensive Income Statements for the Three and Six Months Ended December 31,  NaN
+
+  Table 1: None ((8, 7))
+    Preview:
+                                                0    1          2       3    4          5       6
+0                                             nan  nan       2024    2023  nan       2024    2023
+1                                      Net income    $  24,108  $  21,870    $  48,775  $  44,161
+2  Other comprehensive income (loss), net of tax:  nan        nan     nan  nan        nan     nan
+
+  Table 2: None ((44, 9))
+    Preview:
+            0    1       2    3       4    5       6    7       8
+0         nan  nan    2024  nan    2023  nan    2024  nan    2023
+1  Operations  nan     nan  nan     nan  nan     nan  nan     nan
+2  Net income    $  24,108    $  21,870    $  48,775    $  44,161
+
+  Table 3: None ((22, 5))
+    Preview:
+                                                     0    1                   2    3                 4
+0                                                  nan  nan  Three Months Ended  nan  Six Months Ended
+1  (In millions, except per share amounts) (Unaudited)  nan        December 31,  nan      December 31,
+2                                                  nan  nan          2024  2023  nan        2024  2023
+
+  Table 4: None ((9, 9))
+    Preview:
+                                                     0    1       2    3       4    5       6    7       8
+0                                                  nan  nan    2024  nan    2023  nan    2024  nan    2023
+1     Net income available for common shareholders (A)    $  24,108    $  21,870    $  48,775    $  44,161
+2  Weighted average outstanding shares of common stock  nan     nan  nan     nan  nan     nan  nan     nan
+
+  Table 5: None ((30, 13))
+    Preview:
+                      0    1    2    3   4    5    6    8    9    10   11   12   13
+0      December 31, 2024  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan
+1  Changes in Fair Value  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan
+2      Recorded in Other  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan
+
+  Table 6: None ((33, 9))
+    Preview:
+               0      1         2                      3       4         6                         7           8            9
+0            nan   Fair  Adjusted                    nan     nan       nan                      Cash         nan       Equity
+1            nan  Value      Cost  Unrealized Unrealized     nan  Recorded                  and Cash  Short-term    and Other
+2  (In millions)  Level     Basis                  Gains  Losses     Basis  Equivalents  Investments         nan  Investments
+
+  Table 7: None ((22, 11))
+    Preview:
+              0    1           2    3           4           5    6           7           8    9           10
+0            nan  nan         nan  nan         nan         nan  nan         nan         nan  nan       Total
+1            nan  nan         nan  nan  Unrealized         nan  nan  Unrealized       Total  nan  Unrealized
+2  (In millions)  nan  Fair Value  nan      Losses  Fair Value  nan      Losses  Fair Value  nan      Losses
+
+  Table 8: None ((6, 5))
+    Preview:
+                                       0    1       2    3       4
+0                      December 31, 2024  nan     nan  nan     nan
+1                Due in one year or less    $  22,927    $  22,788
+2  Due after one year through five years  nan  33,344  nan  31,774
+
+  Table 9: None ((11, 5))
+    Preview:
+                                      0    1      2    3      4
+0                         (In millions)  nan   2024  nan   2024
+1     Designated as Hedging Instruments  nan    nan  nan    nan
+2  Foreign exchange contracts purchased    $  1,492    $  1,492
+
+  Table 10: balance_sheet ((3, 9))
+    Preview:
+                                                          0     3    4       7    8     11   12    15   16
+0                               Gross amounts of derivatives   884  nan  (1,452    )   331  nan  (800    )
+1  Gross amounts of derivatives offset in the balance sheets  (301    )     303  nan  (151    )   152  nan
+2                                   Cash collateral received     0  nan    (156    )     0  nan  (104    )
+
+  Table 11: None ((21, 7))
+    Preview:
+                                              0    1           2    3     4    5     6
+0                                           nan  nan  2024  2023  nan  2024  nan  2023
+1  Designated as Fair Value Hedging Instruments  nan         nan  nan   nan  nan   nan
+2                       Interest rate contracts  nan         nan  nan   nan  nan   nan
+
+  Table 12: None ((6, 5))
+    Preview:
+               0    1             2    3         4
+0            nan  nan  December 31,  nan  June 30,
+1            nan  nan          2024  nan      2024
+2  Raw materials    $           345    $       394
+
+  Table 13: None ((27, 2))
+    Preview:
+                              0       1
+0  Cash and cash equivalents  $  12,976
+1                      Goodwill  51,001
+2             Intangible assets  21,969
+
+  Table 14: None ((7, 11))
+    Preview:
+                  0    1       2    3            4             5    6       7    8            9         10
+0                nan  nan     nan  nan          nan  December 31,  nan     nan  nan          nan  June 30,
+1                nan  nan     nan  nan          nan          2024  nan     nan  nan          nan      2024
+2  Marketing-related    $  16,489    $  (3,499 )  $        12,990    $  16,500    $  (3,101 )  $    13,399
+
+  Table 15: None ((8, 3))
+    Preview:
+                                                         0    1      2
+0                                     Year Ending June 30,  nan    nan
+1  2025 (excluding the six months ended December 31, 2024)    $  3,075
+2                                                     2026  nan  4,576
+
+  Table 16: None ((36, 7))
+    Preview:
+                                                          0      1      2    3     4    5     6
+0  (In millions, issuance by calendar year) (calendar year)   Rate   Rate  nan  2024  nan  2024
+1                        2009 issuance of $3.8 billion 2039  5.20%  5.24%    $   520    $   520
+2                        2010 issuance of $4.8 billion 2040  4.50%  4.57%  nan   486  nan   486
+
+  Table 17: None ((6, 5))
+    Preview:
+                                     0    1             2    3         4
+0                                  nan  nan  December 31,  nan  June 30,
+1                                  nan  nan          2024  nan      2024
+2  Productivity and Business Processes    $        33,582    $    43,599
+
+  Table 18: None ((19, 8))
+    Preview:
+                      0    1       2     3    5      6    7      8
+0                   nan  nan    2024  2023  nan   2024  nan   2023
+1  Operating lease cost    $  1,293$   817    $  2,453    $  1,591
+2   Finance lease cost:  nan     nan   nan  nan    nan  nan    nan
+
+  Table 19: None ((2, 5))
+    Preview:
+               0       1       2       3       4
+0  (In millions)  Shares  Amount  Shares  Amount
+1    Fiscal Year     nan    2025     nan    2024
+
+  Table 20: None ((8, 7))
+    Preview:
+                    0                  1                  2    3     4    5              6
+0    Fiscal Year 2025                nan                nan  nan   NaN  nan  (In millions)
+1  September 16, 2024  November 21, 2024  December 12, 2024    $  0.83    $          6,170
+2    December 3, 2024  February 20, 2025     March 13, 2025  nan  0.83  nan          6,171
+
+  Table 21: None ((4, 7))
+    Preview:
+                0    1    2      3     4    5      6
+0     Fiscal Year  NaN  nan   2025   NaN  nan   2024
+1   First Quarter  7.0    $  2,800  11.0    $  3,560
+2  Second Quarter  8.0  nan  3,500   7.0  nan  2,800
+
+  Table 22: None ((31, 5))
+    Preview:
+               0     2             3     4             5
+0  (In millions)   nan  December 31,   nan  December 31,
+1            nan  2024          2023  2024          2023
+2    Derivatives   nan           nan   nan           nan
+
+  Table 23: None ((20, 8))
+    Preview:
+                                     0    1        2       3    4       5    6       7
+0                                  nan  nan     2024    2023  nan    2024  nan    2023
+1                              Revenue  nan      nan     nan  nan     nan  nan     nan
+2  Productivity and Business Processes    $  29,437$  25,854    $  57,754    $  51,080
+
+  Table 24: None ((12, 9))
+    Preview:
+                                                      0    1       2    3       4    5       6    7       8
+0                                                   nan  nan    2024  nan    2023  nan    2024  nan    2023
+1                    Server products and cloud services    $  23,641    $  19,597    $  45,796    $  37,659
+2  Microsoft 365 Commercial products and cloud services  nan  21,117  nan  18,321  nan  41,566  nan  36,365
+
+  Table 25: None ((8, 7))
+    Preview:
+                                                0    1                   2           3    4                 5           6
+0  (In millions, except percentages and per share  nan  Three Months Ended  Percentage  nan  Six Months Ended  Percentage
+1                                        amounts)  nan        December 31,      Change  nan      December 31,      Change
+2                                             nan  nan          2024  2023         nan  nan         2024 2023         nan
+
+  Table 26: None ((11, 11))
+    Preview:
+                                    0    1       2    3       4    5    6       7    8       9    10
+0                                  nan  nan    2024  nan    2023  nan  nan    2024  nan    2023  nan
+1                              Revenue  nan     nan  nan     nan  nan  nan     nan  nan     nan  nan
+2  Productivity and Business Processes    $  29,437    $  25,854  14%    $  57,754    $  51,080  13%
+
+  Table 27: None ((5, 2))
+    Preview:
+     0                                                                                                          1
+0    •  Microsoft 365 Commercial products and cloud services revenue increased $5.2 billion or 14%. Microsoft 365
+1  nan      Commercial cloud revenue grew 15% driven by seat growth and growth in revenue per user. Microsoft 365
+2  nan             Commercial products revenue grew 7% driven by the Windows Commercial on-premises components of
+
+  Table 28: None ((3, 11))
+    Preview:
+                         0    1      2    3      4       5    6       7    8       9       10
+0                       nan  nan   2024  nan   2023     nan  nan    2024  nan    2023     nan
+1  Research and development    $  7,917    $  7,142     11%    $  15,461    $  13,801     12%
+2   As a percent of revenue  nan    11%  nan    12%  (1)ppt  nan     11%  nan     12%  (1)ppt
+
+  Table 29: None ((2, 11))
+    Preview:
+                    0    1      2    3      4    5    6       7    8       9    10
+0                  nan  nan   2024  nan   2023  nan  nan    2024  nan    2023  nan
+1  Sales and marketing    $  6,440    $  6,246   3%    $  12,157    $  11,433   6%
+
+  Table 30: None ((3, 11))
+    Preview:
+                           0    1      2    3      4     5    6      7    8      9     10
+0                         nan  nan   2024  nan   2023   nan  nan   2024  nan   2023   nan
+1  General and administrative    $  1,823    $  1,977  (8)%    $  3,496    $  3,451    1%
+2     As a percent of revenue  nan     3%  nan     3%  0ppt  nan     3%  nan     3%  0ppt
+
+  Table 31: None ((7, 9))
+    Preview:
+                               0    1       2    3       4    5         6    7         8
+0                            nan  nan    2024  nan    2023  nan      2024  nan      2023
+1  Interest and dividends income    $     600    $     734    $     1,281    $     1,900
+2               Interest expense  nan  (594 )  nan  (909 )  nan  (1,176 )  nan  (1,434 )
+
+  Table 32: None ((7, 3))
+    Preview:
+                     0    1       2
+0  Three Months Ending  nan     nan
+1       March 31, 2025    $  23,167
+2        June 30, 2025  nan  13,764
+
+  Table 33: None ((8, 4))
+    Preview:
+                            0                                       1    2                   3
+0                         nan                                     nan  nan        December 31,
+1             Risk Categories                     Hypothetical Change  nan        2024  Impact
+2  Foreign currency – Revenue  10% decrease in foreign exchange rates    $  (9,903 )  Earnings
+
+  Table 34: None ((5, 7))
+    Preview:
+                                      0          1    2       3          4    5              6
+0                                   nan        nan  nan     NaN        nan  nan  (In millions)
+1    October 1, 2024 – October 31, 2024  2,572,520    $  419.95  2,572,520    $          6,469
+2  November 1, 2024 – November 30, 2024  2,886,539  nan  418.02  2,886,539  nan          5,262
+
+  Table 35: None ((3, 7))
+    Preview:
+                  0                  1               2    3          4    5              6
+0  Declaration Date        Record Date    Payment Date  nan  Per Share  nan         Amount
+1               nan                nan             nan  nan        nan  nan  (In millions)
+2  December 3, 2024  February 20, 2025  March 13, 2025    $       0.83    $          6,171
+
+------------------------------
+
+Filing: filing_4
+Year: 2024, Type: 10-Q
+Financial Tables Found: 29
+  Table 0: balance_sheet ((20, 2))
+    Preview:
+                                                                                       0    2
+0                                                           Item 1. Financial Statements  NaN
+1            a) Income Statements for the Three Months Ended September 30, 2024 and 2023  3.0
+2  Comprehensive Income Statements for the Three Months Ended September 30, 2024 and  b)  NaN
+
+  Table 1: None ((8, 5))
+    Preview:
+                                                         0    1       2    3       4
+0                         Three Months Ended September 30,  nan    2024  nan    2023
+1         Net income available for common shareholders (A)    $  24,667    $  22,291
+2  Weighted average outstanding shares of common stock (B)  nan   7,433  nan   7,429
+
+  Table 2: None ((8, 5))
+    Preview:
+                                  0    1       2    3       4
+0  Three Months Ended September 30,  nan    2024  nan    2023
+1     Interest and dividends income    $     681    $   1,166
+2                  Interest expense  nan  (582 )  nan  (525 )
+
+  Table 3: None ((13, 5))
+    Preview:
+                                                            0    1     2    3     4
+0                                               (In millions)  nan   nan  nan   nan
+1                            Three Months Ended September 30,  nan  2024  nan  2023
+2  Realized gains from sales of available-for-sale securities    $     8    $     2
+
+  Table 4: None ((36, 13))
+    Preview:
+                      0    1    3   4    5    6    7    9    10   11   12   13   14
+0     September 30, 2024  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan
+1  Changes in Fair Value  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan
+2      Recorded in Other  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan
+
+  Table 5: None ((40, 10))
+    Preview:
+     0      1    2         3           4           5         6         7           8           9
+0  nan    nan  nan       nan         nan         nan       nan       nan         nan  Equity and
+1  nan   Fair  nan  Adjusted         nan         nan       nan      Cash         nan       Other
+2  nan  Value  nan      Cost  Unrealized  Unrealized  Recorded  and Cash  Short-term  Investment
+
+  Table 6: None ((26, 9))
+    Preview:
+     0    1                    2    3                     4    5      6    7           8
+0  nan  nan  Less than 12 Months  nan  12 Months or Greater  nan    nan  nan         nan
+1  nan  nan                  nan  nan                   nan  nan    nan  nan       Total
+2  nan  nan           Unrealized  nan            Unrealized  nan  Total  nan  Unrealized
+
+  Table 7: None ((7, 5))
+    Preview:
+                         0    1           2    3           4
+0            (In millions)  nan  Cost Basis  nan  Fair Value
+1       September 30, 2024  nan         nan  nan         nan
+2  Due in one year or less    $      24,446    $      24,331
+
+  Table 8: None ((11, 5))
+    Preview:
+                                      0    1      2    3      4
+0                         (In millions)  nan   2024  nan   2024
+1     Designated as Hedging Instruments  nan    nan  nan    nan
+2  Foreign exchange contracts purchased    $  1,492    $  1,492
+
+  Table 9: balance_sheet ((3, 9))
+    Preview:
+                                                          0     3    4       7    8     11   12    15   16
+0                               Gross amounts of derivatives   318  nan  (1,490    )   331  nan  (800    )
+1  Gross amounts of derivatives offset in the balance sheets  (196    )     198  nan  (151    )   152  nan
+2                                   Cash collateral received     0  nan     (18    )     0  nan  (104    )
+
+  Table 10: None ((28, 4))
+    Preview:
+                                              0     1    2     3
+0              Three Months Ended September 30,  2024  nan  2023
+1  Designated as Fair Value Hedging Instruments   nan  nan   nan
+2                       Interest rate contracts   nan  nan   nan
+
+  Table 11: None ((39, 2))
+    Preview:
+                             0       1
+0  Cash and cash equivalents $  12,976
+1                     Goodwill  51,001
+2            Intangible assets  21,969
+
+  Table 12: None ((21, 11))
+    Preview:
+              0       1    2             3              4    5       6    7             8    9         10
+0  (In millions)  Amount  nan  Amortization         Amount  nan  Amount  nan  Amortization  nan    Amount
+1            nan     nan  nan           nan  September 30,  nan     nan  nan           nan  nan  June 30,
+2            nan     nan  nan           nan           2024  nan     nan  nan           nan  nan      2024
+
+  Table 13: None ((36, 7))
+    Preview:
+                                    0      1      2    3     4    5     6
+0               year) (calendar year)   Rate   Rate  nan  2024  nan  2024
+1  2009 issuance of $3.8 billion 2039  5.20%  5.24%    $   520    $   520
+2  2010 issuance of $4.8 billion 2040  4.50%  4.57%  nan   486  nan   486
+
+  Table 14: None ((7, 5))
+    Preview:
+               0    1              2    3         4
+0  (In millions)  nan            nan  nan       nan
+1            nan  nan  September 30,  nan  June 30,
+2            nan  nan           2024  nan      2024
+
+  Table 15: None ((16, 5))
+    Preview:
+                                  0    1      2    3     4
+0  Three Months Ended September 30,  nan   2024  nan  2023
+1              Operating lease cost    $  1,161    $   775
+2               Finance lease cost:  nan    nan  nan   nan
+
+  Table 16: None ((5, 7))
+    Preview:
+                    0                  1                  2    3          4    5              6
+0    Declaration Date        Record Date       Payment Date  nan  Per Share  nan         Amount
+1    Fiscal Year 2025                nan                nan  nan        nan  nan  (In millions)
+2  September 16, 2024  November 21, 2024  December 12, 2024    $       0.83    $          6,172
+
+  Table 17: None ((2, 5))
+    Preview:
+               0       1       2       3       4
+0  (In millions)  Shares  Amount  Shares  Amount
+1    Fiscal Year     nan    2025     nan    2024
+
+  Table 18: None ((24, 5))
+    Preview:
+                                  0    1     2    3      4
+0  Three Months Ended September 30,  nan  2024  nan   2023
+1                       Derivatives  nan   nan  nan    nan
+2      Balance, beginning of period    $  (3 )    $  (27 )
+
+  Table 19: None ((6, 2))
+    Preview:
+     0                                                                                                    1
+0    •  Dynamics products and cloud services revenue increased 14% driven by Dynamics 365 revenue growth of
+1  nan                                                                                                 18%.
+2    •    Server products and cloud services revenue increased 23% driven by Azure and other cloud services
+
+  Table 20: None ((8, 5))
+    Preview:
+                                                         0    1     2                   3           4
+0                                                      nan  nan   nan  Three Months Ended  Percentage
+1  (In millions, except percentages and per share amounts)  nan   nan       September 30,      Change
+2                                                      nan  nan  2024                2023         nan
+
+  Table 21: None ((10, 2))
+    Preview:
+                                      0                                                                    1
+0  Microsoft 365 Commercial seat growth  The number of Microsoft 365 Commercial seats at end of period where
+1                                   nan           seats are paid users covered by a Microsoft 365 Commercial
+2                                   nan                                                         subscription
+
+  Table 22: None ((11, 6))
+    Preview:
+                                     0    1       2    3       4    5
+0                                  nan  nan    2024  nan    2023  nan
+1                              Revenue  nan     nan  nan     nan  nan
+2  Productivity and Business Processes    $  28,317    $  25,226  12%
+
+  Table 23: None ((3, 6))
+    Preview:
+                          0    1      2    3      4     5
+0                       nan  nan   2024  nan   2023   nan
+1  Research and development    $  7,544    $  6,659   13%
+2   As a percent of revenue  nan    12%  nan    12%  0ppt
+
+  Table 24: None ((3, 6))
+    Preview:
+                         0    1      2    3      4     5
+0                      nan  nan   2024  nan   2023   nan
+1      Sales and marketing    $  5,717    $  5,187   10%
+2  As a percent of revenue  nan     9%  nan     9%  0ppt
+
+  Table 25: None ((3, 6))
+    Preview:
+                            0    1      2    3      4     5
+0                         nan  nan   2024  nan   2023   nan
+1  General and administrative    $  1,673    $  1,474   14%
+2     As a percent of revenue  nan     3%  nan     3%  0ppt
+
+  Table 26: None ((8, 4))
+    Preview:
+                            0                                       1              2         3
+0                         nan                                     nan  September 30,       nan
+1             Risk Categories                     Hypothetical Change           2024    Impact
+2  Foreign currency – Revenue  10% decrease in foreign exchange rates    $ (10,349 )  Earnings
+
+  Table 27: None ((3, 7))
+    Preview:
+                    0                  1                  2    3          4    5              6
+0    Declaration Date        Record Date       Payment Date  nan  Per Share  nan         Amount
+1                 nan                nan                nan  nan        nan  nan  (In millions)
+2  September 16, 2024  November 21, 2024  December 12, 2024    $       0.83    $          6,172
+
+  Table 28: None ((5, 7))
+    Preview:
+                                  0          1    2       3          4    5              6
+0                               nan        nan  nan     NaN        nan  nan  (In millions)
+1      July 1, 2024 – July 31, 2024  2,270,780    $  443.99  2,270,780    $          9,341
+2  August 1, 2024 – August 31, 2024  2,398,061  nan  412.62  2,398,061  nan          8,352
+
+------------------------------
+
+Filing: filing_5
+Year: 2024, Type: 10-K
+Financial Tables Found: 44
+  Table 0: None ((32, 7))
+    Preview:
+          0                                         1    2    3    4    5     7
+0       nan  Information about our Executive Officers  nan  nan  nan  nan  18.0
+1  Item 1A.                              Risk Factors  nan  nan  nan  nan  20.0
+2  Item 1B.                 Unresolved Staff Comments  nan  nan  nan  nan  34.0
+
+  Table 1: None ((4, 2))
+    Preview:
+     0                                                                                                                 1
+0    •      Microsoft Security – focuses on delivering a comprehensive portfolio of services that protect our customers’
+1  nan  digital infrastructure through cloud platform and application security, data protection and governance, identity
+2  nan                                                                        and network access, and device management.
+
+  Table 2: None ((20, 1))
+    Preview:
+                                                                                                                      0
+0        Our corporate headquarters are located in Redmond, Washington. We have approximately 15 million square feet of
+1  space located in King County, Washington that is used for engineering, sales, marketing, and operations, among other
+2     general and administrative purposes. These facilities include approximately 12 million square feet of owned space
+
+  Table 3: None ((35, 1))
+    Preview:
+                                                                                                        0
+0  Office Consumer products and cloud Revenue from Office Consumer products and cloud services, including
+1           services revenue growth Microsoft 365 Consumer and Copilot Pro subscriptions, Office licensed
+2                                                                  on-premises, and other Office services
+
+  Table 4: None ((13, 4))
+    Preview:
+                               0    1    2           3
+0                         Item 7  nan  nan         nan
+1  SUMMARY RESULTS OF OPERATIONS  nan  nan         nan
+2                            nan  nan  nan  Percentage
+
+  Table 5: None ((2, 6))
+    Preview:
+                          0    1       2    3       4       5
+0  Research and development    $  29,510    $  27,195      9%
+1   As a percent of revenue  nan     12%  nan     13%  (1)ppt
+
+  Table 6: None ((2, 6))
+    Preview:
+                         0    1       2    3       4       5
+0      Sales and marketing    $  24,456    $  22,759      7%
+1  As a percent of revenue  nan     10%  nan     11%  (1)ppt
+
+  Table 7: None ((4, 2))
+    Preview:
+     0                                                                                                1
+0    •  Windows revenue increased $1.7 billion or 8% driven by growth in Windows Commercial and Windows
+1  nan   OEM. Windows Commercial products and cloud services revenue increased 11% driven by demand for
+2  nan                                                 Microsoft 365. Windows OEM revenue increased 7%.
+
+  Table 8: None ((9, 5))
+    Preview:
+                               0    1      2    3      4
+0                  (In millions)  nan    nan  nan    nan
+1            Year Ended June 30,  nan   2024  nan   2023
+2  Interest and dividends income    $  3,157    $  2,994
+
+  Table 9: None ((2, 6))
+    Preview:
+                            0    1      2    3      4       5
+0  General and administrative    $  7,609    $  7,575      0%
+1     As a percent of revenue  nan     3%  nan     4%  (1)ppt
+
+  Table 10: None ((17, 6))
+    Preview:
+                                                         0    1        2    3        4       5
+0  (In millions, except percentages and per share amounts)  nan     2024  nan     2023  Change
+1                                             Gross margin    $  171,008    $  146,052     17%
+2        Severance, hardware-related impairment, and lease  nan      nan  nan      nan     nan
+
+  Table 11: None ((40, 1))
+    Preview:
+                                                                                                                       0
+0                                                                                                                 Item 7
+1  A majority of our investments are priced by pricing vendors and are generally Level 1 or Level 2 investments as these
+2    vendors either provide a quoted market price in an active market or use observable inputs for their pricing without
+
+  Table 12: None ((7, 7))
+    Preview:
+                     0    1      2    3       4    5       6
+0  Long-term debt: (a)  nan    nan  nan     nan  nan     nan
+1   Principal payments    $  2,250    $  48,971    $  51,221
+2    Interest payments  nan  1,618  nan  27,041  nan  28,659
+
+  Table 13: None ((9, 5))
+    Preview:
+                 0                    1    2         3       4
+0    (In millions)                  nan  nan       nan     nan
+1              nan                  nan  nan  June 30,     nan
+2  Risk Categories  Hypothetical Change  nan      2024  Impact
+
+  Table 14: None ((25, 7))
+    Preview:
+                                         0    1     2    3     4    5     6
+0  (In millions, except per share amounts)  nan   nan  nan   nan  nan   nan
+1                      Year Ended June 30,  nan  2024  nan  2023  nan  2022
+2                                 Revenue:  nan   nan  nan   nan  nan   nan
+
+  Table 15: None ((21, 7))
+    Preview:
+                                         0    1     2    3     4    5     6
+0  (In millions, except per share amounts)  nan   nan  nan   nan  nan   nan
+1                      Year Ended June 30,  nan  2024  nan  2023  nan  2022
+2         Common stock and paid-in capital  nan   nan  nan   nan  nan   nan
+
+  Table 16: None ((36, 12))
+    Preview:
+                      0      1           2    3      4    5       6    7      8            9            10           11
+0          (In millions)  Level  Cost Basis  nan  Gains  nan  Losses  nan  Basis  Equivalents  Investments  Investments
+1          June 30, 2024    nan         nan  nan    nan  nan     nan  nan    nan          nan          nan          nan
+2  Changes in Fair Value    nan         nan  nan    nan  nan     nan  nan    nan          nan          nan          nan
+
+  Table 17: None ((36, 12))
+    Preview:
+                      0      1           2    3      4    5       6    7      8            9            10           11
+0          (In millions)  Level  Cost Basis  nan  Gains  nan  Losses  nan  Basis  Equivalents  Investments  Investments
+1          June 30, 2023    nan         nan  nan    nan  nan     nan  nan    nan          nan          nan          nan
+2  Changes in Fair Value    nan         nan  nan    nan  nan     nan  nan    nan          nan          nan          nan
+
+  Table 18: None ((26, 9))
+    Preview:
+     0    1                    2    3                     4    5      6    7           8
+0  nan  nan  Less than 12 Months  nan  12 Months or Greater  nan    nan  nan         nan
+1  nan  nan                  nan  nan                   nan  nan    nan  nan       Total
+2  nan  nan           Unrealized  nan            Unrealized  nan  Total  nan  Unrealized
+
+  Table 19: None ((7, 5))
+    Preview:
+                         0    1           2    3           4
+0            (In millions)  nan  Cost Basis  nan  Fair Value
+1            June 30, 2024  nan         nan  nan         nan
+2  Due in one year or less    $      19,815    $      19,596
+
+  Table 20: None ((43, 8))
+    Preview:
+                                      0    1    2    3    4      5    6      7
+0     Designated as Hedging Instruments  nan  nan  nan  nan    nan  nan    nan
+1  Foreign exchange contracts purchased  nan  nan  nan    $  1,492    $  1,492
+2     Interest rate contracts purchased  nan  nan  nan  nan  1,100  nan  1,078
+
+  Table 21: None ((3, 7))
+    Preview:
+                           0     3    4     7  8    11   12
+0  Foreign exchange contracts   367  nan   (73  )  383  nan
+1            Equity contracts  (177    )  (420  )   13  nan
+2             Other contracts   (15    )   (41  )  (85    )
+
+  Table 22: None ((18, 3))
+    Preview:
+                     0       1         2
+0  Marketing-related $  11,619  24 years
+1     Technology-based   9,689   4 years
+2     Customer-related     661   4 years
+
+  Table 23: None ((2, 3))
+    Preview:
+               0    1       2
+0  (In millions)  nan     nan
+1   Goodwill (a)    $  16,326
+
+  Table 24: None ((5, 3))
+    Preview:
+                   0    1       2
+0       Goodwill (a)    $  16,326
+1  Intangible assets  nan   4,365
+2       Other assets  nan      42
+
+  Table 25: None ((15, 7))
+    Preview:
+                   0    1    2    3      4    5        6
+0   Customer-related  nan  nan    $  2,610  nan  9 years
+1   Technology-based  nan  nan  nan  1,540  nan  5 years
+2  Marketing-related  nan  nan  nan    215  nan  4 years
+
+  Table 26: None ((7, 11))
+    Preview:
+                  0    1       2             3    4       5    6       7             8    9       10
+0      (In millions)  nan  Amount  Amortization  nan  Amount  nan  Amount  Amortization  nan  Amount
+1           June 30,  nan     nan           nan  nan    2024  nan     nan           nan  nan    2023
+2  Marketing-related    $  16,500    $ (3,101 )    $  13,399    $   4,935    $ (2,473 )    $   2,462
+
+  Table 27: None ((7, 7))
+    Preview:
+                     0    1       2             3    4       5             6
+0        (In millions)  nan  Amount  Average Life  nan  Amount  Average Life
+1  Year Ended June 30,  nan    2024           nan  nan    2023           nan
+2    Marketing-related    $  11,619      24 years    $       7       5 years
+
+  Table 28: None ((8, 3))
+    Preview:
+                      0    1      2
+0  Year Ending June 30,  nan    nan
+1                  2025    $  5,892
+2                  2026  nan  4,471
+
+  Table 29: None ((21, 8))
+    Preview:
+                               0     1      2      3    4    5    6    7
+0  2009 issuance of $3.8 billion  2039  5.20%  5.24%    $  520    $  520
+1  2010 issuance of $4.8 billion  2040  4.50%  4.57%  nan  486  nan  486
+2  2011 issuance of $2.3 billion  2041  5.30%  5.36%  nan  718  nan  718
+
+  Table 30: None ((30, 7))
+    Preview:
+                      0    2    3    4    5    6      7
+0  Year Ending June 30,  nan  nan  nan  nan  nan    nan
+1                  2025  nan  nan  nan    $  nan  2,250
+2                  2026  nan  nan  nan  nan  nan  3,000
+
+  Table 31: None ((12, 4))
+    Preview:
+                        0      1      2      3
+0     Year Ended June 30,   2024   2023   2022
+1  Federal statutory rate  21.0%  21.0%  21.0%
+2              Effect of:    nan    nan    nan
+
+  Table 32: None ((9, 7))
+    Preview:
+                                     0    1       2    3       4    5       6
+0                        (In millions)  nan     nan  nan     nan  nan     nan
+1                  Year Ended June 30,  nan    2024  nan    2023  nan    2022
+2  Beginning unrecognized tax benefits    $  17,120    $  15,593    $  14,550
+
+  Table 33: None ((13, 5))
+    Preview:
+                                     0    1       2    3       4
+0                        (In millions)  nan     nan  nan     nan
+1                             June 30,  nan    2024  nan    2023
+2  Productivity and Business Processes    $  30,879    $  27,572
+
+  Table 34: None ((37, 5))
+    Preview:
+                        0      2    3          4      6
+0           (In millions)    nan  nan        nan    nan
+1     Year Ended June 30,   2024  nan       2023   2022
+2  Operating lease cost $  3,555    $  2,875   $  2,461
+
+  Table 35: None ((6, 4))
+    Preview:
+                            0      1      2      3
+0               (In millions)    nan    nan    nan
+1         Year Ended June 30,   2024   2023   2022
+2  Balance, beginning of year  7,432  7,464  7,519
+
+  Table 36: None ((6, 10))
+    Preview:
+                     0     1    2      3     4    5      6     7    8      9
+0  Year Ended June 30,   NaN  nan   2024   NaN  nan   2023   NaN  nan   2022
+1        First Quarter  11.0    $  3,560  17.0    $  4,600  21.0    $  6,200
+2       Second Quarter   7.0  nan  2,800  20.0  nan  4,600  20.0  nan  6,233
+
+  Table 37: None ((12, 7))
+    Preview:
+                    0                  1                  2    3     4    5              6
+0    Fiscal Year 2024                nan                nan  nan   NaN  nan  (In millions)
+1  September 19, 2023  November 16, 2023  December 14, 2023    $  0.75    $          5,574
+2   November 28, 2023  February 15, 2024     March 14, 2024  nan  0.75  nan          5,573
+
+  Table 38: None ((24, 7))
+    Preview:
+                     0    1     2    3     4    5     6
+0        (In millions)  nan   nan  nan   nan  nan   nan
+1  Year Ended June 30,  nan  2024  nan  2023  nan  2022
+2          Derivatives  nan   nan  nan   nan  nan   nan
+
+  Table 39: None ((3, 7))
+    Preview:
+                                                         0    1       2    3      4    5      6
+0                                      Year Ended June 30,  nan    2024  nan   2023  nan   2022
+1                         Stock-based compensation expense    $  10,734    $  9,611    $  7,502
+2  Income tax benefits related to stock-based compensation  nan   1,826  nan  1,651  nan  1,293
+
+  Table 40: None ((14, 6))
+    Preview:
+                                           0            1    3                4    5             6
+0                        Year ended June 30,         2024  nan             2023  nan          2022
+1  Dividends per share (quarterly amounts) $  0.68 – 0.75    $  0.62 – 0.68   $  nan   0.56 – 0.62
+2                             Interest rates  3.8% – 5.6%  nan      2.0% – 5.4%  nan  0.03% – 3.6%
+
+  Table 41: None ((20, 6))
+    Preview:
+                     0     1    2     3    4     5
+0        (In millions)   nan  nan   nan  nan   nan
+1  Year Ended June 30,  2024  nan  2023  nan  2022
+2              Revenue   nan  nan   nan  nan   nan
+
+  Table 42: None ((8, 13))
+    Preview:
+    0                                                                                                       1          2    3               4    5                    6    7           8        9    10         11   12
+0  nan                                                                                                     nan        nan  nan             nan  nan               Item 8  nan         nan      nan  nan        nan  nan
+1    •                                                                                                    When  assessing  the  reasonableness   of  assumptions related   to  forecasted  revenue  and  expenses,   we
+2  nan  evaluated whether the assumptions used were reasonable considering historical financial information of        nan  nan             nan  nan                  nan  nan         nan      nan  nan        nan  nan
+
+  Table 43: balance_sheet ((42, 4))
+    Preview:
+                                 0    1    2   3
+0                Income Statements  nan  nan  56
+1  Comprehensive Income Statements  nan  nan  57
+2                   Balance Sheets  nan  nan  58
+
+------------------------------
+
+Filing: filing_6
+Year: 2024, Type: 10-Q
+Financial Tables Found: 38
+  Table 0: balance_sheet ((20, 3))
+    Preview:
+     0                                                                                 1    3
+0  nan                                                      Item 1. Financial Statements  NaN
+1  nan  a) Income Statements for the Three and Nine Months Ended March 31, 2024 and 2023  3.0
+2  nan  b) Comprehensive Income Statements for the Three and Nine Months Ended March 31,  NaN
+
+  Table 1: None ((25, 9))
+    Preview:
+                                                     0    1     2    3          4    5     6    7          8
+0  (In millions, except per share amounts) (Unaudited)  nan   nan  nan  March 31,  nan   nan  nan  March 31,
+1                                                  nan  nan  2024  nan       2023  nan  2024  nan       2023
+2                                             Revenue:  nan   nan  nan        nan  nan   nan  nan        nan
+
+  Table 2: None ((8, 9))
+    Preview:
+                                                0    1       2    3       4    5       6    7       8
+0                                             nan  nan    2024  nan    2023  nan    2024  nan    2023
+1                                      Net income    $  21,939    $  18,299    $  66,100    $  52,280
+2  Other comprehensive income (loss), net of tax:  nan     nan  nan     nan  nan     nan  nan     nan
+
+  Table 3: None ((44, 5))
+    Preview:
+        0    1          2    3         4
+0     nan  nan  March 31,  nan  June 30,
+1     nan  nan       2024  nan      2023
+2  Assets  nan        nan  nan       nan
+
+  Table 4: None ((45, 9))
+    Preview:
+            0    1       2    3       4    5       6    7       8
+0         nan  nan    2024  nan    2023  nan    2024  nan    2023
+1  Operations  nan     nan  nan     nan  nan     nan  nan     nan
+2  Net income    $  21,939    $  18,299    $  66,100    $  52,280
+
+  Table 5: None ((22, 5))
+    Preview:
+                                                     0    1                   2    3                  4
+0                                                  nan  nan  Three Months Ended  nan  Nine Months Ended
+1  (In millions, except per share amounts) (Unaudited)  nan           March 31,  nan          March 31,
+2                                                  nan  nan          2024  2023  nan         2024  2023
+
+  Table 6: None ((9, 9))
+    Preview:
+                                                     0    1       2    3       4    5       6    7       8
+0                                                  nan  nan    2024  nan    2023  nan    2024  nan    2023
+1     Net income available for common shareholders (A)    $  21,939    $  18,299    $  66,100    $  52,280
+2  Weighted average outstanding shares of common stock  nan     nan  nan     nan  nan     nan  nan     nan
+
+  Table 7: None ((8, 9))
+    Preview:
+                               0    1       2    3       4    5         6    7         8
+0                            nan  nan    2024  nan    2023  nan      2024  nan      2023
+1  Interest and dividends income    $     619    $     748    $     2,519    $     2,089
+2               Interest expense  nan  (800 )  nan  (496 )  nan  (2,234 )  nan  (1,486 )
+
+  Table 8: None ((14, 8))
+    Preview:
+                                                              0     1    3          4    5     6    7          8
+0                                                 (In millions)   nan  nan  March 31,  nan   nan  nan  March 31,
+1                                                           nan  2024  nan       2023  nan  2024  nan       2023
+2  Realized gains from sales of available-for-sale securities $     8    $          4    $    14    $         19
+
+  Table 9: None ((31, 15))
+    Preview:
+                      0    1    2    3   4    5    6    7    8    9    10   11   12   13   14
+0         March 31, 2024  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+1  Changes in Fair Value  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+2      Recorded in Other  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+
+  Table 10: None ((26, 9))
+    Preview:
+     0    1                    2    3                     4    5      6    7           8
+0  nan  nan  Less than 12 Months  nan  12 Months or Greater  nan    nan  nan         nan
+1  nan  nan                  nan  nan                   nan  nan    nan  nan       Total
+2  nan  nan           Unrealized  nan            Unrealized  nan  Total  nan  Unrealized
+
+  Table 11: None ((6, 5))
+    Preview:
+                                       0    1       2    3       4
+0                         March 31, 2024  nan     nan  nan     nan
+1                Due in one year or less    $  19,613    $  19,428
+2  Due after one year through five years  nan  42,885  nan  40,676
+
+  Table 12: None ((11, 5))
+    Preview:
+                                      0    1      2    3      4
+0                         (In millions)  nan   2024  nan   2023
+1     Designated as Hedging Instruments  nan    nan  nan    nan
+2  Foreign exchange contracts purchased    $  1,492    $  1,492
+
+  Table 13: balance_sheet ((3, 9))
+    Preview:
+                                                         0     3    4     7    8     11   12    15   16
+0                              Gross amounts of derivatives   242  nan  (787    )   469  nan  (805    )
+1  Gross amounts of derivatives offset in the balance sheet  (125    )   126  nan  (202    )   206  nan
+2                                  Cash collateral received     0  nan   (17    )     0  nan  (125    )
+
+  Table 14: None ((31, 8))
+    Preview:
+                                              0     1    2          3    4     5    6          7
+0                                 (In millions)   nan  nan  March 31,  nan   nan  nan  March 31,
+1                                           nan  2024  nan       2023  nan  2024  nan       2023
+2  Designated as Fair Value Hedging Instruments   nan  nan        nan  nan   nan  nan        nan
+
+  Table 15: None ((35, 2))
+    Preview:
+                             0       1
+0  Cash and cash equivalents $  12,976
+1                     Goodwill  50,989
+2            Intangible assets  21,969
+
+  Table 16: None ((5, 9))
+    Preview:
+                                     0    1       2    3             4    5      6    7       8
+0                        (In millions)  nan    2023  nan  Acquisitions  nan  Other  nan    2024
+1  Productivity and Business Processes    $  24,775    $             0    $      3    $  24,778
+2                    Intelligent Cloud  nan  30,469  nan             0  nan  (17 )  nan  30,452
+
+  Table 17: None ((9, 13))
+    Preview:
+              0    1       2    3             4    5          6    7       8    9             10   11        12
+0  (In millions)  nan  Amount  nan  Amortization  nan     Amount  nan  Amount  nan  Amortization  nan    Amount
+1            nan  nan     nan  nan           nan  nan  March 31,  nan     nan  nan           nan  nan  June 30,
+2            nan  nan     nan  nan           nan  nan       2024  nan     nan  nan           nan  nan      2023
+
+  Table 18: None ((9, 3))
+    Preview:
+                                                       0    1      2
+0                                          (In millions)  nan    nan
+1                                   Year Ending June 30,  nan    nan
+2  2024 (excluding the nine months ended March 31, 2024)    $  1,454
+
+  Table 19: None ((25, 8))
+    Preview:
+                               0                1      2      3    4     5    6     7
+0                          year)  (calendar year)   Rate   Rate  nan  2024  nan  2023
+1  2009 issuance of $3.8 billion             2039  5.20%  5.24%    $   520    $   520
+2  2010 issuance of $4.8 billion             2040  4.50%  4.57%  nan   486  nan   486
+
+  Table 20: None ((8, 3))
+    Preview:
+                                                       0    1      2
+0                                   Year Ending June 30,  nan    nan
+1  2024 (excluding the nine months ended March 31, 2024)    $      0
+2                                                   2025  nan  2,250
+
+  Table 21: None ((45, 5))
+    Preview:
+               0    1                   2     3                  4
+0            nan  nan  Three Months Ended   nan  Nine Months Ended
+1  (In millions)  nan           March 31,   nan          March 31,
+2            nan  nan          2024  2023  2024               2023
+
+  Table 22: None ((11, 7))
+    Preview:
+                    0                  1                  2    3          4    5              6
+0    Declaration Date        Record Date       Payment Date  nan  Per Share  nan         Amount
+1    Fiscal Year 2024                nan                nan  nan        nan  nan  (In millions)
+2  September 19, 2023  November 16, 2023  December 14, 2023    $       0.75    $          5,574
+
+  Table 23: None ((6, 7))
+    Preview:
+               0       1    2       3       4    5       6
+0  (In millions)  Shares  nan  Amount  Shares  nan  Amount
+1    Fiscal Year     nan  nan    2024     nan  nan    2023
+2  First Quarter      11    $   3,560      17    $   4,600
+
+  Table 24: None ((31, 9))
+    Preview:
+                              0    1     2    3      4    5      6    7      8
+0                           nan  nan  2024  nan   2023  nan   2024  nan   2023
+1                   Derivatives  nan   nan  nan    nan  nan    nan  nan    nan
+2  Balance, beginning of period    $  (9 )    $  (38 )    $  (27 )    $  (13 )
+
+  Table 25: None ((23, 8))
+    Preview:
+               0     1    2          3    4     5    6          7
+0  (In millions)   nan  nan  March 31,  nan   nan  nan  March 31,
+1            nan  2024  nan       2023  nan  2024  nan       2023
+2        Revenue   nan  nan        nan  nan   nan  nan        nan
+
+  Table 26: None ((13, 9))
+    Preview:
+                                    0    1       2    3          4    5       6    7          8
+0                       (In millions)  nan     nan  nan  March 31,  nan     nan  nan  March 31,
+1                                 nan  nan    2024  nan       2023  nan    2024  nan       2023
+2  Server products and cloud services    $  24,832    $     20,025    $  71,093    $     58,007
+
+  Table 27: None ((35, 1))
+    Preview:
+                                                                                                        0
+0  Office Consumer products and cloud Revenue from Office Consumer products and cloud services, including
+1           services revenue growth Microsoft 365 Consumer and Copilot Pro subscriptions, Office licensed
+2                                                                  on-premises, and other Office services
+
+  Table 28: None ((14, 7))
+    Preview:
+                                                0    1                   2           3    4                  5           6
+0  (In millions, except percentages and per share  nan  Three Months Ended  Percentage  nan  Nine Months Ended  Percentage
+1                                        amounts)  nan           March 31,      Change  nan          March 31,      Change
+2                                             nan  nan          2024  2023         nan  nan          2024 2023         nan
+
+  Table 29: None ((13, 7))
+    Preview:
+                                   0    1                   2           3    4                  5           6
+0                                nan  nan  Three Months Ended  Percentage  nan  Nine Months Ended  Percentage
+1  (In millions, except percentages)  nan           March 31,      Change  nan          March 31,      Change
+2                                nan  nan          2024  2023         nan  nan         2024  2023         nan
+
+  Table 30: None ((3, 2))
+    Preview:
+     0                                                                                                        1
+0    •  Office Consumer products and cloud services revenue increased $63 million or 4%. Microsoft 365 Consumer
+1  nan                                                                    subscribers grew 14% to 80.8 million.
+2    •    LinkedIn revenue increased $354 million or 10% driven by growth across all lines of business – Talent
+
+  Table 31: None ((4, 11))
+    Preview:
+                                  0    1      2    3          4       5    6       7    8          9       10
+0  (In millions, except percentages)  nan    nan  nan  March 31,  Change  nan     nan  nan  March 31,  Change
+1                                nan  nan   2024  nan       2023     nan  nan    2024  nan       2023     nan
+2           Research and development    $  7,653    $      6,984     10%    $  21,454    $     20,456      5%
+
+  Table 32: None ((3, 11))
+    Preview:
+                        0    1      2    3      4       5    6       7    8       9       10
+0                      nan  nan   2024  nan   2023     nan  nan    2024  nan    2023     nan
+1      Sales and marketing    $  6,207    $  5,750      8%    $  17,640    $  16,555      7%
+2  As a percent of revenue  nan    10%  nan    11%  (1)ppt  nan     10%  nan     11%  (1)ppt
+
+  Table 33: None ((3, 11))
+    Preview:
+                           0    1      2    3      4     5    6      7    8      9     10
+0                         nan  nan   2024  nan   2023   nan  nan   2024  nan   2023   nan
+1  General and administrative    $  1,912    $  1,643   16%    $  5,363    $  5,378    0%
+2     As a percent of revenue  nan     3%  nan     3%  0ppt  nan     3%  nan     3%  0ppt
+
+  Table 34: None ((23, 9))
+    Preview:
+                             0    1       2    3       4    5          6          7    8
+0                          nan  nan    2024  nan    2023  nan       2024       2023  nan
+1                 Gross margin    $  43,353    $  36,729  18%  $ 125,965  $ 106,658  18%
+2  Severance, hardware-related  nan     nan  nan     nan  nan        nan        nan  nan
+
+  Table 35: None ((8, 5))
+    Preview:
+                            0                                       1    2          3         4
+0                         nan                                     nan  nan  March 31,       nan
+1             Risk Categories                     Hypothetical Change  nan       2024    Impact
+2  Foreign currency – Revenue  10% decrease in foreign exchange rates    $   (9,528 )  Earnings
+
+  Table 36: None ((6, 7))
+    Preview:
+                                    0          1    2          3            4    5              6
+0                              Period  Purchased  nan  Per Share  or Programs  nan    or Programs
+1                                 nan        nan  nan        nan          nan  nan  (In millions)
+2  January 1, 2024 – January 31, 2024  2,490,515    $     388.24    2,490,515    $         14,982
+
+  Table 37: None ((3, 7))
+    Preview:
+                  0             1              2    3          4    5              6
+0  Declaration Date   Record Date   Payment Date  nan  Per Share  nan         Amount
+1               nan           nan            nan  nan        nan  nan  (In millions)
+2    March 12, 2024  May 16, 2024  June 13, 2024    $       0.75    $          5,574
+
+------------------------------
+
+Filing: filing_7
+Year: 2024, Type: 10-Q
+Financial Tables Found: 35
+  Table 0: balance_sheet ((21, 3))
+    Preview:
+     0                                                                                   1    3
+0  nan                                                        Item 1. Financial Statements  NaN
+1  nan  a) Income Statements for the Three and Six Months Ended December 31, 2023 and 2022  3.0
+2  nan  b) Comprehensive Income Statements for the Three and Six Months Ended December 31,  NaN
+
+  Table 1: None ((8, 8))
+    Preview:
+                                                0    1          2       4    5       6    7       8
+0                                             nan  nan       2023    2022  nan    2023  nan    2022
+1                                      Net income    $  21,870  $  16,425    $  44,161    $  33,981
+2  Other comprehensive income (loss), net of tax:  nan        nan     nan  nan     nan  nan     nan
+
+  Table 2: None ((44, 5))
+    Preview:
+        0    1             2    3         4
+0     nan  nan  December 31,  nan  June 30,
+1     nan  nan          2023  nan      2023
+2  Assets  nan           nan  nan       nan
+
+  Table 3: None ((45, 9))
+    Preview:
+            0    1       2    3       4    5       6    7       8
+0         nan  nan    2023  nan    2022  nan    2023  nan    2022
+1  Operations  nan     nan  nan     nan  nan     nan  nan     nan
+2  Net income    $  21,870    $  16,425    $  44,161    $  33,981
+
+  Table 4: None ((22, 5))
+    Preview:
+                                                     0    1                   2    3                 4
+0                                                  nan  nan  Three Months Ended  nan  Six Months Ended
+1  (In millions, except per share amounts) (Unaudited)  nan        December 31,  nan      December 31,
+2                                                  nan  nan          2023  2022  nan        2023  2022
+
+  Table 5: None ((9, 9))
+    Preview:
+                                                     0    1       2    3       4    5       6    7       8
+0                                                  nan  nan    2023  nan    2022  nan    2023  nan    2022
+1     Net income available for common shareholders (A)    $  21,870    $  16,425    $  44,161    $  33,981
+2  Weighted average outstanding shares of common stock  nan     nan  nan     nan  nan     nan  nan     nan
+
+  Table 6: None ((24, 6))
+    Preview:
+                                 0       2       3    5         6       7
+0                              nan    2023    2022  nan      2023    2022
+1  Interest and dividends income $  734  $     700    $  1,900  $   1,341
+2                 Interest expense  (909 )  (490 )  nan  (1,434 )  (990 )
+
+  Table 7: None ((31, 15))
+    Preview:
+                      0    1    2    3   4    5    6    7    8    9    10   11   12   13   14
+0      December 31, 2023  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+1  Changes in Fair Value  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+2      Recorded in Other  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+
+  Table 8: None ((26, 9))
+    Preview:
+     0    1                    2    3                     4    5      6    7           8
+0  nan  nan  Less than 12 Months  nan  12 Months or Greater  nan    nan  nan         nan
+1  nan  nan                  nan  nan                   nan  nan    nan  nan       Total
+2  nan  nan           Unrealized  nan            Unrealized  nan  Total  nan  Unrealized
+
+  Table 9: None ((6, 5))
+    Preview:
+                                       0    1       2    3       4
+0                      December 31, 2023  nan     nan  nan     nan
+1                Due in one year or less    $  17,257    $  17,145
+2  Due after one year through five years  nan  46,857  nan  44,848
+
+  Table 10: None ((11, 5))
+    Preview:
+                                      0    1      2    3      4
+0                         (In millions)  nan   2023  nan   2023
+1     Designated as Hedging Instruments  nan    nan  nan    nan
+2  Foreign exchange contracts purchased    $  1,492    $  1,492
+
+  Table 11: balance_sheet ((3, 9))
+    Preview:
+                                                         0     3    4       7    8     11   12    15   16
+0                              Gross amounts of derivatives   520  nan  (1,274    )   469  nan  (805    )
+1  Gross amounts of derivatives offset in the balance sheet  (227    )     229  nan  (202    )   206  nan
+2                                  Cash collateral received     0  nan    (190    )     0  nan  (125    )
+
+  Table 12: None ((31, 6))
+    Preview:
+                                              0     1             2    3     4             5
+0                                 (In millions)   nan  December 31,  nan   nan  December 31,
+1                                           nan  2023          2022  nan  2023          2022
+2  Designated as Fair Value Hedging Instruments   nan           nan  nan   nan           nan
+
+  Table 13: None ((31, 2))
+    Preview:
+                             0       1
+0  Cash and cash equivalents $  12,976
+1                     Goodwill  50,945
+2            Intangible assets  22,046
+
+  Table 14: None ((5, 9))
+    Preview:
+                                     0    1       2    3             4    5      6    7       8
+0                        (In millions)  nan    2023  nan  Acquisitions  nan  Other  nan    2023
+1  Productivity and Business Processes    $  24,775    $             0    $     42    $  24,817
+2                    Intelligent Cloud  nan  30,469  nan             0  nan   (6 )  nan  30,463
+
+  Table 15: None ((22, 11))
+    Preview:
+              0       1    2             3             4    5       6    7             8    9         10
+0  (In millions)  Amount  nan  Amortization        Amount  nan  Amount  nan  Amortization  nan    Amount
+1            nan     nan  nan           nan  December 31,  nan     nan  nan           nan  nan  June 30,
+2            nan     nan  nan           nan          2023  nan     nan  nan           nan  nan      2023
+
+  Table 16: None ((40, 7))
+    Preview:
+                                    0      1      2    3     4    5     6
+0               year) (calendar year)   Rate   Rate  nan  2023  nan  2023
+1  2009 issuance of $3.8 billion 2039  5.20%  5.24%    $   520    $   520
+2  2010 issuance of $4.8 billion 2040  4.50%  4.57%  nan   486  nan   486
+
+  Table 17: None ((7, 5))
+    Preview:
+               0    1             2    3         4
+0  (In millions)  nan           nan  nan       nan
+1            nan  nan  December 31,  nan  June 30,
+2            nan  nan          2023  nan      2023
+
+  Table 18: None ((9, 7))
+    Preview:
+                    0                  1                  2    3          4    5              6
+0    Declaration Date        Record Date       Payment Date  nan  Per Share  nan         Amount
+1    Fiscal Year 2024                nan                nan  nan        nan  nan  (In millions)
+2  September 19, 2023  November 16, 2023  December 14, 2023    $       0.75    $          5,574
+
+  Table 19: None ((5, 7))
+    Preview:
+               0       1    2       3       4    5       6
+0  (In millions)  Shares  nan  Amount  Shares  nan  Amount
+1    Fiscal Year     nan  nan    2024     nan  nan    2023
+2  First Quarter      11    $   3,560      17    $   4,600
+
+  Table 20: None ((31, 8))
+    Preview:
+               0    1     2    3             4    5     6             7
+0  (In millions)  nan   nan  nan  December 31,  nan   nan  December 31,
+1            nan  nan  2023  nan          2022  nan  2023          2022
+2    Derivatives  nan   nan  nan           nan  nan   nan           nan
+
+  Table 21: None ((22, 6))
+    Preview:
+               0     1             2    3     4             5
+0  (In millions)   nan  December 31,  nan   nan  December 31,
+1            nan  2023          2022  nan  2023          2022
+2        Revenue   nan           nan  nan   nan           nan
+
+  Table 22: None ((13, 7))
+    Preview:
+                                    0    1       2             3    4       5             6
+0                       (In millions)  nan     nan  December 31,  nan     nan  December 31,
+1                                 nan  nan    2023          2022  nan    2023          2022
+2  Server products and cloud services    $  23,953      $ 19,594    $  46,261      $ 37,982
+
+  Table 23: None ((9, 2))
+    Preview:
+                                    0                                                                    1
+0  Office Consumer products and cloud  Revenue from Office Consumer products and cloud services, including
+1             services revenue growth   Microsoft 365 Consumer subscriptions, Office licensed on-premises,
+2                                 nan                                            and other Office services
+
+  Table 24: None ((14, 7))
+    Preview:
+                                                0    1                   2           3    4                 5           6
+0  (In millions, except percentages and per share  nan  Three Months Ended  Percentage  nan  Six Months Ended  Percentage
+1                                        amounts)  nan        December 31,      Change  nan      December 31,      Change
+2                                             nan  nan          2023  2022         nan  nan         2023 2022         nan
+
+  Table 25: None ((10, 8))
+    Preview:
+                                       0                                                               1           2       3             4          5    6          7
+0  Windows Commercial products and cloud                                            Revenue from Windows  Commercial     nan  products and      cloud  nan  services,
+1                services revenue growth                                               comprising volume   licensing  of the       Windows  operating  nan    system,
+2                                    nan  Windows cloud services, and other Windows commercial offerings         nan     nan           nan        nan  nan        nan
+
+  Table 26: None ((13, 7))
+    Preview:
+                                   0    1                   2           3    4                 5           6
+0                                nan  nan  Three Months Ended  Percentage  nan  Six Months Ended  Percentage
+1  (In millions, except percentages)  nan        December 31,      Change  nan      December 31,      Change
+2                                nan  nan          2023  2022         nan  nan        2023  2022         nan
+
+  Table 27: None ((3, 2))
+    Preview:
+     0                                                                                                        1
+0    •  Office Consumer products and cloud services revenue increased $74 million or 5%. Microsoft 365 Consumer
+1  nan                                                                    subscribers grew 16% to 78.4 million.
+2    •     LinkedIn revenue increased $362 million or 9% driven by growth across all lines of business – Talent
+
+  Table 28: None ((4, 9))
+    Preview:
+                                   0    1      2             3       4    5       6             7       8
+0  (In millions, except percentages)  nan    nan  December 31,  Change  nan     nan  December 31,  Change
+1                                nan  nan   2023          2022     nan  nan    2023          2022     nan
+2           Research and development    $  7,142       $ 6,844      4%    $  13,801      $ 13,472      2%
+
+  Table 29: None ((3, 11))
+    Preview:
+                        0    1      2    3      4       5    6       7    8       9       10
+0                      nan  nan   2023  nan   2022     nan  nan    2023  nan    2022     nan
+1      Sales and marketing    $  6,246    $  5,679     10%    $  11,433    $  10,805      6%
+2  As a percent of revenue  nan    10%  nan    11%  (1)ppt  nan     10%  nan     11%  (1)ppt
+
+  Table 30: None ((3, 11))
+    Preview:
+                           0    1      2    3      4       5    6      7    8      9       10
+0                         nan  nan   2023  nan   2022     nan  nan   2023  nan   2022     nan
+1  General and administrative    $  1,977    $  2,337   (15)%    $  3,451    $  3,735    (8)%
+2     As a percent of revenue  nan     3%  nan     4%  (1)ppt  nan     3%  nan     4%  (1)ppt
+
+  Table 31: None ((23, 11))
+    Preview:
+                            0    1       2    3       4    5    6       7    8       9    10
+0                          nan  nan    2023  nan    2022  nan  nan    2023  nan    2022  nan
+1                 Gross margin    $  42,397    $  35,259  20%    $  82,612    $  69,929  18%
+2  Severance, hardware-related  nan     nan  nan     nan  nan  nan     nan  nan     nan  nan
+
+  Table 32: None ((8, 5))
+    Preview:
+                            0                                       1    2             3         4
+0                         nan                                     nan  nan  December 31,       nan
+1             Risk Categories                     Hypothetical Change  nan          2023    Impact
+2  Foreign currency – Revenue  10% decrease in foreign exchange rates    $      (9,075 )  Earnings
+
+  Table 33: None ((6, 7))
+    Preview:
+                                    0          1    2          3            4    5              6
+0                              Period  Purchased  nan  Per Share  or Programs  nan    or Programs
+1                                 nan        nan  nan        nan          nan  nan  (In millions)
+2  October 1, 2023 – October 31, 2023    380,292    $     336.46      380,292    $         18,621
+
+  Table 34: None ((3, 7))
+    Preview:
+                   0                  1               2    3          4    5              6
+0   Declaration Date        Record Date    Payment Date  nan  Per Share  nan         Amount
+1                nan                nan             nan  nan        nan  nan  (In millions)
+2  November 28, 2023  February 15, 2024  March 14, 2024    $       0.75    $          5,574
+
+------------------------------
+
+Filing: filing_8
+Year: 2023, Type: 10-Q
+Financial Tables Found: 41
+  Table 0: balance_sheet ((25, 3))
+    Preview:
+     0                                                                            1    3
+0  nan                                                 Item 1. Financial Statements  NaN
+1  nan  a) Income Statements for the Three Months Ended September 30, 2023 and 2022  3.0
+2  nan  b) Comprehensive Income Statements for the Three Months Ended September 30,  NaN
+
+  Table 1: None ((24, 4))
+    Preview:
+                                  0    1          2       4
+0  Three Months Ended September 30,  nan       2023    2022
+1                          Revenue:  nan        nan     nan
+2                           Product    $  15,535  $  15,741
+
+  Table 2: None ((9, 4))
+    Preview:
+                                  0    1          2       3
+0         (In millions) (Unaudited)  nan        nan     nan
+1  Three Months Ended September 30,  nan       2023    2022
+2                        Net income    $  22,291  $  17,556
+
+  Table 3: None ((45, 4))
+    Preview:
+        0              1    2         3
+0     nan  September 30,  nan  June 30,
+1     nan           2023  nan      2023
+2  Assets            nan  nan       nan
+
+  Table 4: None ((41, 5))
+    Preview:
+                                  0    1       2    3       4
+0  Three Months Ended September 30,  nan    2023  nan    2022
+1                        Operations  nan     nan  nan     nan
+2                        Net income    $  22,291    $  17,556
+
+  Table 5: None ((20, 5))
+    Preview:
+                                  0    1       2    3       4
+0  Three Months Ended September 30,  nan    2023  nan    2022
+1  Common stock and paid-in capital  nan     nan  nan     nan
+2      Balance, beginning of period    $  93,718    $  86,939
+
+  Table 6: None ((8, 5))
+    Preview:
+                                                         0    1       2    3       4
+0                         Three Months Ended September 30,  nan    2023  nan    2022
+1         Net income available for common shareholders (A)    $  22,291    $  17,556
+2  Weighted average outstanding shares of common stock (B)  nan   7,429  nan   7,457
+
+  Table 7: None ((23, 5))
+    Preview:
+                                  0    1      2    3      4
+0  Three Months Ended September 30,  nan   2023  nan   2022
+1     Interest and dividends income    $  1,166    $    641
+2                  Interest expense  nan  (525)  nan  (500)
+
+  Table 8: None ((41, 9))
+    Preview:
+                      0    1    2    3    4    6    7    8    10
+0     September 30, 2023  nan  nan  nan  nan  nan  nan  nan  nan
+1  Changes in Fair Value  nan  nan  nan  nan  nan  nan  nan  nan
+2      Recorded in Other  nan  nan  nan  nan  nan  nan  nan  nan
+
+  Table 9: None ((45, 9))
+    Preview:
+     0      1    2         3          4           5                    7          8       9
+0  nan    nan  nan       nan        nan         nan                 Cash     Short-     nan
+1  nan   Fair  nan  Adjusted  Unrealize   Unrealize             and Cash       term  Equity
+2  nan  Value  nan      Cost          d  d Recorded  Equivalen Investmen  Investmen     nan
+
+  Table 10: None ((40, 8))
+    Preview:
+     0    1     2         3     4         5      6         7
+0  nan  nan   nan       nan   nan       nan    nan     Total
+1  nan  nan   nan  Unrealiz   nan  Unrealiz  Total  Unrealiz
+2  nan  nan  Fair        ed  Fair        ed   Fair        ed
+
+  Table 11: None ((11, 5))
+    Preview:
+                                      0    1      2    3      4
+0                         (In millions)  nan   2023  nan   2023
+1     Designated as Hedging Instruments  nan    nan  nan    nan
+2  Foreign exchange contracts purchased    $  1,492    $  1,492
+
+  Table 12: None ((22, 7))
+    Preview:
+               0    1              2            3       5    6            7
+0  (In millions)  nan         Assets  Liabilities  Assets  nan  Liabilities
+1            nan  nan  September 30,          nan     nan  nan     June 30,
+2            nan  nan            nan         2023     nan  nan         2023
+
+  Table 13: None ((7, 8))
+    Preview:
+                    0    1        2    3        4        6    7      8
+0       (In millions)  nan  Level 1  nan  Level 2  Level 3  nan  Total
+1  September 30, 2023  nan      nan  nan      nan      nan  nan    nan
+2   Derivative assets    $        2    $  629   $        5    $    636
+
+  Table 14: None ((17, 4))
+    Preview:
+                                              0     1    2     3
+0              Three Months Ended September 30,  2023  nan  2022
+1  Designated as Fair Value Hedging Instruments   nan  nan   nan
+2                       Interest rate contracts   nan  nan   nan
+
+  Table 15: None ((3, 3))
+    Preview:
+               0              1         2
+0  (In millions)            nan       nan
+1            nan  September 30,  June 30,
+2            nan           2023      2023
+
+  Table 16: None ((4, 8))
+    Preview:
+                                     0    1       2    3    4    5        6       7
+0  Productivity and Business Processes    $  24,775    $  0.0    $  (16)  $  24,759
+1                    Intelligent Cloud  nan  30,469  nan  0.0  nan     (49)  30,420
+2              More Personal Computing  nan  12,642  nan  0.0  nan     (31)  12,611
+
+  Table 17: None ((6, 4))
+    Preview:
+               0              1    2         3
+0            nan  September 30,  nan  June 30,
+1            nan           2023  nan      2023
+2  Raw materials          $ 520    $       709
+
+  Table 18: None ((20, 6))
+    Preview:
+                  0    1          2                              3           4         5
+0               nan  nan        nan                  September 30,         nan  June 30,
+1               nan  nan        nan                           2023         nan      2023
+2  Technology-based    $  11,409  $  (7,904)  $ 3,505  $ 11,245  $  (7,589)  $     3,656
+
+  Table 19: None ((35, 6))
+    Preview:
+                  0                1     2     3    4           5
+0    calendar year)  (calendar year)  Rate  Rate  nan  2023  2023
+1  2009 issuance of              nan  5.20  5.24  nan         nan
+2      $3.8 billion             2039     %     %    $  520  $ 520
+
+  Table 20: None ((6, 4))
+    Preview:
+                                     0              1    2         3
+0                                  nan  September 30,  nan  June 30,
+1                                  nan           2023  nan      2023
+2  Productivity and Business Processes       $ 25,316    $    27,572
+
+  Table 21: None ((16, 5))
+    Preview:
+                                  0    1     2    3     4
+0  Three Months Ended September 30,  nan  2023  nan  2022
+1              Operating lease cost    $   775    $   662
+2               Finance lease cost:  nan   nan  nan   nan
+
+  Table 22: None ((33, 3))
+    Preview:
+                  0              1         3
+0               nan  September 30,  June 30,
+1               nan           2023      2023
+2  Operating Leases            nan       nan
+
+  Table 23: None ((7, 7))
+    Preview:
+                    0             1             2    3          4    5              6
+0    Declaration Date   Record Date  Payment Date  nan  Per Share  nan         Amount
+1    Fiscal Year 2024           nan           nan  nan        nan  nan  (In millions)
+2  September 19, 2023  November 16,  December 14,  nan        nan  nan            nan
+
+  Table 24: None ((27, 5))
+    Preview:
+                                  0    1     2    3     4
+0  Three Months Ended September 30,  nan  2023  nan  2022
+1                       Derivatives  nan   nan  nan   nan
+2      Balance, beginning of period    $  (27)    $  (13)
+
+  Table 25: None ((20, 4))
+    Preview:
+                                       0       1    2       3
+0       Three Months Ended September 30,    2023  nan    2022
+1                                Revenue     nan  nan     nan
+2  Productivity and Business Processes $  18,592    $  16,465
+
+  Table 26: None ((12, 5))
+    Preview:
+                                    0    1       2    3       4
+0    Three Months Ended September 30,  nan    2023  nan    2022
+1  Server products and cloud services    $  22,308    $  18,388
+2  Office products and cloud services  nan  13,140  nan  11,577
+
+  Table 27: None ((8, 2))
+    Preview:
+     0                                                                                            1
+0    •     Office Commercial products and cloud services revenue increased 15% driven by Office 365
+1  nan                                                                    Commercial growth of 18%.
+2    •  Office Consumer products and cloud services revenue increased 3% and Microsoft 365 Consumer
+
+  Table 28: None ((15, 2))
+    Preview:
+                                    0                                                                1
+0  Office Consumer products and cloud        Revenue from Office Consumer products and cloud services,
+1             services revenue growth  including Microsoft 365 Consumer subscriptions, Office licensed
+2                                 nan                           on-premises, and other Office services
+
+  Table 29: None ((8, 4))
+    Preview:
+                                                         0    1                   2           3
+0                                                      nan  nan  Three Months Ended  Percentage
+1  (In millions, except percentages and per share amounts)  nan       September 30,      Change
+2                                                      nan  nan          2023  2022         nan
+
+  Table 30: None ((10, 2))
+    Preview:
+                                 0                                                               1
+0  Windows Commercial products and              Revenue from Windows Commercial products and cloud
+1    cloud services revenue growth  services, comprising volume licensing of the Windows operating
+2                              nan               system, Windows cloud services, and other Windows
+
+  Table 31: None ((11, 6))
+    Preview:
+                                     0    1       2    3       4    5
+0                                  nan  nan    2023  nan    2022  nan
+1                              Revenue  nan     nan  nan     nan  nan
+2  Productivity and Business Processes    $  18,592    $  16,465  13%
+
+  Table 32: None ((3, 6))
+    Preview:
+                          0    1      2    3      4       5
+0                       nan  nan   2023  nan   2022     nan
+1  Research and development    $  6,659    $  6,628      0%
+2   As a percent of revenue  nan    12%  nan    13%  (1)ppt
+
+  Table 33: None ((3, 6))
+    Preview:
+                         0    1      2    3      4       5
+0                      nan  nan   2023  nan   2022     nan
+1      Sales and marketing    $  5,187    $  5,126      1%
+2  As a percent of revenue  nan     9%  nan    10%  (1)ppt
+
+  Table 34: None ((8, 2))
+    Preview:
+     0                                                                                           1
+0    •     Windows revenue increased $254 million or 5% driven by growth in Windows Commercial and
+1  nan  Windows OEM. Windows Commercial products and cloud services revenue increased 8% driven by
+2  nan                                 demand for Microsoft 365. Windows OEM revenue increased 4%.
+
+  Table 35: None ((3, 6))
+    Preview:
+                            0    1      2    3      4     5
+0                         nan  nan   2023  nan   2022   nan
+1  General and administrative    $  1,474    $  1,398    5%
+2     As a percent of revenue  nan     3%  nan     3%  0ppt
+
+  Table 36: None ((8, 5))
+    Preview:
+                                  0    1      2    3      4
+0  Three Months Ended September 30,  nan   2023  nan   2022
+1     Interest and dividends income    $  1,166    $    641
+2                  Interest expense  nan  (525)  nan  (500)
+
+  Table 37: None ((10, 5))
+    Preview:
+                 0                    1    2          3       4
+0              nan                  nan  nan  September     nan
+1              nan                  nan  nan        30,     nan
+2  Risk Categories  Hypothetical Change  nan       2023  Impact
+
+  Table 38: None ((11, 2))
+    Preview:
+     0                                                                                                     1
+0    •  We are investing in artificial intelligence (“AI”) across the entire company and infusing generative
+1  nan      AI capabilities into our consumer and commercial offerings. We expect AI technology and services
+2  nan      to be a highly competitive and rapidly evolving market. We will bear significant development and
+
+  Table 39: None ((6, 7))
+    Preview:
+                                  0          1    2       3          4    5              6
+0                               nan        nan  nan     NaN        nan  nan  (In millions)
+1      July 1, 2023 – July 31, 2023  4,176,800    $  341.81  4,176,800    $         20,882
+2  August 1, 2023 – August 31, 2023  5,401,235  nan  325.01  5,401,235  nan         19,126
+
+  Table 40: None ((4, 7))
+    Preview:
+                    0             1             2    3          4    5              6
+0    Declaration Date   Record Date  Payment Date  nan  Per Share  nan         Amount
+1                 nan           nan           nan  nan        nan  nan  (In millions)
+2  September 19, 2023  November 16,  December 14,  nan        nan  nan            nan
+
+------------------------------
+
+Filing: filing_9
+Year: 2023, Type: 10-K
+Financial Tables Found: 54
+  Table 0: None ((35, 4))
+    Preview:
+        0        1         2     3
+0     nan      nan       nan  Page
+1  PART I      nan       nan   nan
+2     nan  Item 1.  Business     4
+
+  Table 1: None ((16, 1))
+    Preview:
+                                                                                                 0
+0                                            ct and Service Development, and Intellectual Property
+1     velop most of our products and services internally through the following engineering groups.
+2  • Cloud and AI – focuses on making IT professionals, developers, partners, independent software
+
+  Table 2: None ((6, 2))
+    Preview:
+     0                                                                                          1
+0    •   Announcements of investor conferences, speeches, and events at which our executives talk
+1  nan  about our product, service, and competitive strategies. Archives of these events are also
+2  nan                                                                                 available.
+
+  Table 3: None ((5, 2))
+    Preview:
+     0                                                                                                  1
+0    •      Other competitors develop and offer free applications, online services, and content, and make
+1  nan        money by selling third-party advertising. Advertising revenue funds development of products
+2  nan  and services these competitors provide to users at no or little cost, competing directly with our
+
+  Table 4: None ((10, 1))
+    Preview:
+                                                                                                   0
+0            If our goodwill or amortizable intangible assets become impaired, we may be required to
+1  record a significant charge to earnings. We acquire other companies and intangible assets and may
+2   not realize all the economic benefit from those acquisitions, which could cause an impairment of
+
+  Table 5: None ((25, 1))
+    Preview:
+                                                                                                      0
+0  We have received no written comments regarding our periodic or current reports from the staff of the
+1  Securities and Exchange Commission that were issued 180 days or more preceding the end of our fiscal
+2                                                                     year 2023 that remain unresolved.
+
+  Table 6: None ((5, 7))
+    Preview:
+                                0          1    2       3          4    5              6
+0                             nan        nan  nan     NaN        nan  nan  (In millions)
+1  April 1, 2023 – April 30, 2023  5,007,656    $  287.97  5,007,656    $         25,467
+2      May 1, 2023 – May 31, 2023  5,355,638  nan  314.26  5,355,638  nan         23,784
+
+  Table 7: None ((5, 7))
+    Preview:
+                  0            1             2    3          4    5          6
+0  Declaration Date  Record Date  Payment Date  nan  Per Share  nan     Amount
+1               nan          nan           nan  nan        nan  nan        (In
+2               nan          nan           nan  nan        nan  nan  millions)
+
+  Table 8: None ((35, 1))
+    Preview:
+                                                                                              0
+0  Office Consumer products and cloud Revenue from Office Consumer products and cloud services,
+1                services revenue growth including Microsoft 365 Consumer subscriptions, Office
+2                                               licensed on-premises, and other Office services
+
+  Table 9: None ((13, 4))
+    Preview:
+                               0    1    2           3
+0                         Item 7  nan  nan         nan
+1  SUMMARY RESULTS OF OPERATIONS  nan  nan         nan
+2                            nan  nan  nan  Percentage
+
+  Table 10: None ((10, 6))
+    Preview:
+                                     0    1       2    3       4    5
+0                              Revenue  nan     nan  nan     nan  nan
+1  Productivity and Business Processes    $  69,274    $  63,364   9%
+2                    Intelligent Cloud  nan  87,907  nan  74,965  17%
+
+  Table 11: None ((2, 6))
+    Preview:
+                          0    1       2    3       4     5
+0  Research and development    $  27,195    $  24,512   11%
+1   As a percent of revenue  nan     13%  nan     12%  1ppt
+
+  Table 12: None ((2, 6))
+    Preview:
+                            0    1      2    3      4     5
+0  General and administrative    $  7,575    $  5,900   28%
+1     As a percent of revenue  nan     4%  nan     3%  1ppt
+
+  Table 13: None ((8, 5))
+    Preview:
+                               0    1        2    3         4
+0            Year Ended June 30,  nan     2023  nan      2022
+1  Interest and dividends income    $    2,994    $     2,094
+2               Interest expense  nan  (1,968)  nan  (2,063 )
+
+  Table 14: None ((21, 6))
+    Preview:
+                                                         0    1        2    3        4       5
+0  (In millions, except percentages and per share amounts)  nan     2023  nan     2022  Change
+1                                             Gross margin    $  146,052    $  135,620      8%
+2        Severance, hardware-related impairment, and lease  nan      nan  nan      nan     nan
+
+  Table 15: None ((29, 2))
+    Preview:
+                      0       1
+0   Three Months Ending     nan
+1  September 30, 2023 $  19,673
+2     December 31, 2023  15,600
+
+  Table 16: None ((9, 5))
+    Preview:
+                            0                                       1    2         3         4
+0                         nan                                     nan  nan  June 30,       nan
+1             Risk Categories                     Hypothetical Change  nan      2023    Impact
+2  Foreign currency – Revenue  10% decrease in foreign exchange rates    $   (8,122)  Earnings
+
+  Table 17: None ((25, 7))
+    Preview:
+                                         0    1     2    3     4    5     6
+0  (In millions, except per share amounts)  nan   nan  nan   nan  nan   nan
+1                      Year Ended June 30,  nan  2023  nan  2022  nan  2021
+2                                 Revenue:  nan   nan  nan   nan  nan   nan
+
+  Table 18: None ((9, 7))
+    Preview:
+                     0    1       2    3       4    5       6
+0        (In millions)  nan     nan  nan     nan  nan     nan
+1  Year Ended June 30,  nan    2023  nan    2022  nan    2021
+2           Net income    $  72,361    $  72,738    $  61,271
+
+  Table 19: None ((43, 5))
+    Preview:
+                 0    1     2    3     4
+0         June 30,  nan  2023  nan  2022
+1           Assets  nan   nan  nan   nan
+2  Current assets:  nan   nan  nan   nan
+
+  Table 20: None ((44, 7))
+    Preview:
+                     0    1     2    3     4    5     6
+0        (In millions)  nan   nan  nan   nan  nan   nan
+1  Year Ended June 30,  nan  2023  nan  2022  nan  2021
+2           Operations  nan   nan  nan   nan  nan   nan
+
+  Table 21: None ((23, 7))
+    Preview:
+                                         0    1     2    3     4    5     6
+0  (In millions, except per share amounts)  nan   nan  nan   nan  nan   nan
+1                      Year Ended June 30,  nan  2023  nan  2022  nan  2021
+2         Common stock and paid-in capital  nan   nan  nan   nan  nan   nan
+
+  Table 22: None ((12, 6))
+    Preview:
+                                 0     1    3     4    5     6
+0                    (In millions)   nan  nan   nan  nan   nan
+1              Year Ended June 30,  2023  nan  2022  nan  2021
+2  Balance, beginning of period  $   710    $   798    $   816
+
+  Table 23: None ((3, 7))
+    Preview:
+                                                  0    1       2    3       4    5       6
+0          (In millions, except earnings per share)  nan     nan  nan     nan  nan     nan
+1                               Year Ended June 30,  nan    2023  nan    2022  nan    2021
+2  Net income available for common shareholders (A)    $  72,361    $  72,738    $  61,271
+
+  Table 24: None ((8, 7))
+    Preview:
+                                                         0    1       2    3       4    5       6
+0                                      Year Ended June 30,  nan    2023  nan    2022  nan    2021
+1         Net income available for common shareholders (A)    $  72,361    $  72,738    $  61,271
+2  Weighted average outstanding shares of common stock (B)  nan   7,446  nan   7,496  nan   7,547
+
+  Table 25: None ((9, 7))
+    Preview:
+                               0    1      2    3      4    5      6
+0                  (In millions)  nan    nan  nan    nan  nan    nan
+1            Year Ended June 30,  nan   2023  nan   2022  nan   2021
+2  Interest and dividends income    $  2,994    $  2,094    $  2,131
+
+  Table 26: None ((12, 5))
+    Preview:
+                                                               0       2       4    5      6
+0                                            Year Ended June 30,    2023    2022  nan   2021
+1  Realized gains from sales of available-for-sale securities  $  36   $     162    $    105
+2    Realized losses from sales of available-for-sale securities   (124)  (138 )  nan  (40 )
+
+  Table 27: None ((45, 15))
+    Preview:
+                0      1    2      3    4      5    6       7    8      9    10   11   12   13   14
+0    (In millions)  Level  nan  Basis  nan  Gains  nan  Losses  nan  Basis   ts  nan   ts  nan   ts
+1    June 30, 2023    nan  nan    nan  nan    nan  nan     nan  nan    nan  nan  nan  nan  nan  nan
+2  Changes in Fair    nan  nan    nan  nan    nan  nan     nan  nan    nan  nan  nan  nan  nan  nan
+
+  Table 28: None ((45, 16))
+    Preview:
+                0      1    2      3    4      5    6       7    8      9    10   11   12   13   14   15
+0    (In millions)  Level  nan  Basis  nan  Gains  nan  Losses  nan  Basis  nan   ts  nan   ts  nan   ts
+1    June 30, 2022    nan  nan    nan  nan    nan  nan     nan  nan    nan  nan  nan  nan  nan  nan  nan
+2  Changes in Fair    nan  nan    nan  nan    nan  nan     nan  nan    nan  nan  nan  nan  nan  nan  nan
+
+  Table 29: None ((26, 7))
+    Preview:
+               0           1    2                   3           4           5           7
+0            nan         nan  nan           Unrealize         nan         nan       Total
+1            nan         nan  nan                   d  Unrealized       Total  Unrealized
+2  (In millions)  Fair Value  nan  Losses  Fair Value      Losses  Fair Value      Losses
+
+  Table 30: None ((7, 5))
+    Preview:
+                         0    1           2    3           4
+0            (In millions)  nan  Cost Basis  nan  Fair Value
+1            June 30, 2023  nan         nan  nan         nan
+2  Due in one year or less    $      38,182    $      38,048
+
+  Table 31: None ((47, 5))
+    Preview:
+                                      0    1      2    3     4
+0                         (In millions)  nan   2023  nan  2022
+1     Designated as Hedging Instruments  nan    nan  nan   nan
+2  Foreign exchange contracts purchased    $  1,492    $   635
+
+  Table 32: None ((27, 6))
+    Preview:
+                                              0     1    2     3    4     5
+0                           Year Ended June 30,  2023  nan  2022  nan  2021
+1  Designated as Fair Value Hedging Instruments   nan  nan   nan  nan   nan
+2                    Foreign exchange contracts   nan  nan   nan  nan   nan
+
+  Table 33: None ((44, 4))
+    Preview:
+                            0       1    2       3
+0                    June 30,    2023  nan    2022
+1                      Land $   5,683    $   4,734
+2  Buildings and improvements  68,465  nan  55,014
+
+  Table 34: None ((15, 2))
+    Preview:
+                             0      1
+0  Cash and cash equivalents $    766
+1                     Goodwill  5,510
+2            Intangible assets  1,968
+
+  Table 35: None ((10, 13))
+    Preview:
+                 0     1    2    3    4      5     6    7    8    9      10   11     12
+0     (In millions)  2021  nan   ns  nan  Other  2022  nan   ns  nan  Other  nan   2023
+1  Productivity and   nan  nan  nan  nan    nan   nan  nan  nan  nan    nan  nan    nan
+2          Business   nan  nan  nan  nan    nan   nan  nan  nan  nan    nan  nan  24,77
+
+  Table 36: None ((7, 12))
+    Preview:
+                 0         1    2        3    4       5    6       7    8        9    10      11
+0     (In millions)    Amount  nan        n  nan  Amount  nan  Amount  nan        n  nan  Amount
+1          June 30,       nan  nan      nan  nan    2023  nan     nan  nan      nan  nan    2022
+2  Technology-based  $ 11,245    $  (7,589)    $   3,656    $  11,277    $  (6,958)    $   4,319
+
+  Table 37: None ((7, 6))
+    Preview:
+                     0       1        2    3       4        5
+0        (In millions)  Amount     Life  nan  Amount     Life
+1  Year Ended June 30,    2023      nan  nan    2022      nan
+2     Technology-based   $ 522  7 years    $   2,611  4 years
+
+  Table 38: None ((46, 7))
+    Preview:
+                      0    1    2    3    4    5      6
+0  Year Ending June 30,  nan  nan  nan  nan  nan    nan
+1                  2024  nan  nan  nan    $  nan  2,363
+2                  2025  nan  nan  nan  nan  nan  1,881
+
+  Table 39: None ((24, 6))
+    Preview:
+                      0    2    3    4    5      6
+0  Year Ending June 30,  nan  nan  nan  nan    nan
+1                  2024  nan  nan    $  nan  5,250
+2                  2025  nan  nan  nan  nan  2,250
+
+  Table 40: None ((4, 6))
+    Preview:
+                     0        1    2       3    4       5
+0  Year Ended June 30,     2023  nan    2022  nan    2021
+1                 U.S.  $52,917    $  47,837    $  34,972
+2              Foreign   36,394  nan  35,879  nan  36,130
+
+  Table 41: None ((12, 4))
+    Preview:
+                        0      1      2      3
+0     Year Ended June 30,   2023   2022   2021
+1  Federal statutory rate  21.0%  21.0%  21.0%
+2              Effect of:    nan    nan    nan
+
+  Table 42: None ((30, 5))
+    Preview:
+                            0    1     2    3     4
+0               (In millions)  nan   nan  nan   nan
+1                    June 30,  nan  2023  nan  2022
+2  Deferred Income Tax Assets  nan   nan  nan   nan
+
+  Table 43: None ((9, 6))
+    Preview:
+                                     0        1    2       3    4       5
+0                        (In millions)      nan  nan     nan  nan     nan
+1                  Year Ended June 30,     2023  nan    2022  nan    2021
+2  Beginning unrecognized tax benefits  $15,593    $  14,550    $  13,792
+
+  Table 44: None ((15, 5))
+    Preview:
+                                     0    1       2    3       4
+0                        (In millions)  nan     nan  nan     nan
+1                             June 30,  nan    2023  nan    2022
+2  Productivity and Business Processes    $  27,572    $  24,558
+
+  Table 45: None ((18, 6))
+    Preview:
+                         0      1    3      4    5      6
+0      Year Ended June 30,   2023  nan   2022  nan   2021
+1  Operating lease cost  $  2,875    $  2,461    $  2,127
+2      Finance lease cost:    nan  nan    nan  nan    nan
+
+  Table 46: None ((33, 4))
+    Preview:
+                                                    0     1    2     4
+0  (In millions, except lease term and discount rate)   nan  nan   nan
+1                                            June 30,  2023  nan  2022
+2                                    Operating Leases   nan  nan   nan
+
+  Table 47: None ((6, 10))
+    Preview:
+                     0     1    2      3     4    5      6     7    8      9
+0  Year Ended June 30,   NaN  nan   2023   NaN  nan   2022   NaN  nan   2021
+1        First Quarter  17.0    $  4,600  21.0    $  6,200  25.0    $  5,270
+2       Second Quarter  20.0  nan  4,600  20.0  nan  6,233  27.0  nan  5,750
+
+  Table 48: None ((16, 7))
+    Preview:
+                  0             1                 2    3     4    5              6
+0  Fiscal Year 2023           nan               nan  nan   NaN  nan  (In millions)
+1     September 20,  November 17,               nan  nan   NaN  nan            nan
+2              2022          2022  December 8, 2022    $  0.68    $          5,066
+
+  Table 49: None ((37, 7))
+    Preview:
+                     0    1     2    3     4    5     6
+0        (In millions)  nan   nan  nan   nan  nan   nan
+1  Year Ended June 30,  nan  2023  nan  2022  nan  2021
+2          Derivatives  nan   nan  nan   nan  nan   nan
+
+  Table 50: None ((8, 4))
+    Preview:
+                                      0              1    2       3
+0                                   nan  (In millions)  nan     NaN
+1                          Stock Awards            nan  nan     NaN
+2  Nonvested balance, beginning of year         93   $  nan  227.59
+
+  Table 51: None ((21, 6))
+    Preview:
+                     0     1    2     3    4     5
+0        (In millions)   nan  nan   nan  nan   nan
+1  Year Ended June 30,  2023  nan  2022  nan  2021
+2              Revenue   nan  nan   nan  nan   nan
+
+  Table 52: None ((30, 6))
+    Preview:
+                                      0       1    2       3    4       5
+0                   Year Ended June 30,    2023  nan    2022  nan    2021
+1  Server products and cloud services $  79,970    $  67,350    $  52,589
+2    Office products and cloud services  48,728  nan  44,862  nan  39,872
+
+  Table 53: balance_sheet ((46, 3))
+    Preview:
+                                 0    2   3
+0                Income Statements  nan  58
+1  Comprehensive Income Statements  nan  59
+2                   Balance Sheets  nan  60
+
+------------------------------
+
+Filing: filing_10
+Year: 2023, Type: 10-Q
+Financial Tables Found: 34
+  Table 0: balance_sheet ((19, 3))
+    Preview:
+     0                                                                                 1    3
+0  nan                                                      Item 1. Financial Statements  NaN
+1  nan  a) Income Statements for the Three and Nine Months Ended March 31, 2023 and 2022  3.0
+2  nan  b) Comprehensive Income Statements for the Three and Nine Months Ended March 31,  NaN
+
+  Table 1: None ((25, 8))
+    Preview:
+                                                     0    1     2    3          4     6    7          8
+0  (In millions, except per share amounts) (Unaudited)  nan   nan  nan  March 31,   nan  nan  March 31,
+1                                                  nan  nan  2023  nan       2022  2023  nan       2022
+2                                             Revenue:  nan   nan  nan        nan   nan  nan        nan
+
+  Table 2: None ((8, 6))
+    Preview:
+                                                0    1          2          4          6       8
+0                                             nan  nan       2023       2022       2023    2022
+1                                      Net income    $  18,299  $  16,728  $  52,280  $  55,998
+2  Other comprehensive income (loss), net of tax:  nan        nan        nan        nan     nan
+
+  Table 3: None ((43, 5))
+    Preview:
+        0    1          2    3         4
+0     nan  nan  March 31,  nan  June 30,
+1     nan  nan       2023  nan      2022
+2  Assets  nan        nan  nan       nan
+
+  Table 4: None ((42, 3))
+    Preview:
+                              0         1         2
+0                     2023 2022      2023      2022
+1                    Operations       nan       nan
+2  Net income $ 18,299 $ 16,728  $ 52,280  $ 55,998
+
+  Table 5: None ((20, 8))
+    Preview:
+                                  0    1       2    3       4    5          6       8
+0                               nan  nan    2023  nan    2022  nan       2023    2022
+1  Common stock and paid-in capital  nan     nan  nan     nan  nan        nan     nan
+2      Balance, beginning of period    $  90,225    $  84,528    $  86,939  $  83,111
+
+  Table 6: None ((9, 9))
+    Preview:
+                                                     0    1       2    3       4    5       6    7       8
+0                                                  nan  nan    2023  nan    2022  nan    2023  nan    2022
+1     Net income available for common shareholders (A)    $  18,299    $  16,728    $  52,280    $  55,998
+2  Weighted average outstanding shares of common stock  nan     nan  nan     nan  nan   7,450  nan   7,504
+
+  Table 7: None ((14, 6))
+    Preview:
+                                 0       2       3    5         6         7
+0                              nan    2023    2022  nan      2023      2022
+1  Interest and dividends income $  748  $     519    $  2,089  $     1,542
+2                 Interest expense  (496 )  (503 )  nan  (1,486 )  (1,567 )
+
+  Table 8: None ((5, 9))
+    Preview:
+                                                         0    1      2    3      4    5     6    7     8
+0                                                      nan  nan   2023  nan   2022  nan  2023  nan  2022
+1          Net realized gains (losses) on investments sold    $  (13 )    $  (22 )    $    77    $    46
+2  Net unrealized gains (losses) on investments still held  nan    144  nan  (34 )  nan   109  nan   559
+
+  Table 9: None ((30, 14))
+    Preview:
+                      0    1    2    3   4    5    6    7    9    10   11   12   13   14
+0         March 31, 2023  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan
+1  Changes in Fair Value  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan
+2      Recorded in Other  nan  nan  nan NaN  nan  nan  nan  nan  nan  nan  nan  nan  nan
+
+  Table 10: None ((33, 11))
+    Preview:
+              0      1    2         3           4           5    6         7            8            9            10
+0            nan   Fair  nan  Adjusted         nan         nan  nan       nan         Cash          nan          nan
+1            nan  Value  nan      Cost  Unrealized  Unrealized  nan  Recorded     and Cash   Short-term       Equity
+2  (In millions)  Level  nan     Basis       Gains      Losses  nan     Basis  Equivalents  Investments  Investments
+
+  Table 11: None ((26, 9))
+    Preview:
+     0    1                    2    3                     4    5      6    7           8
+0  nan  nan  Less than 12 Months  nan  12 Months or Greater  nan    nan  nan         nan
+1  nan  nan                  nan  nan                   nan  nan    nan  nan       Total
+2  nan  nan           Unrealized  nan            Unrealized  nan  Total  nan  Unrealized
+
+  Table 12: None ((6, 5))
+    Preview:
+                                       0    1       2    3       4
+0                         March 31, 2023  nan     nan  nan     nan
+1                Due in one year or less    $  34,947    $  34,805
+2  Due after one year through five years  nan  48,237  nan  46,168
+
+  Table 13: None ((43, 7))
+    Preview:
+                                      0    1    2    3         4    6     7
+0                         (In millions)  nan  nan  nan      2023  nan  2022
+1     Designated as Hedging Instruments  nan  nan  nan       nan  nan   nan
+2  Foreign exchange contracts purchased  nan  nan    $  1,492  $  nan   635
+
+  Table 14: None ((34, 8))
+    Preview:
+                                              0     1    2          3    4     5    6          7
+0                                 (In millions)   nan  nan  March 31,  nan   nan  nan  March 31,
+1                                           nan  2023  nan       2022  nan  2023  nan       2022
+2  Designated as Fair Value Hedging Instruments   nan  nan        nan  nan   nan  nan        nan
+
+  Table 15: None ((22, 12))
+    Preview:
+              0       1    2             3    4          5    6       7    8             9    10        11
+0  (In millions)  Amount  nan  Amortization  nan     Amount  nan  Amount  nan  Amortization  nan    Amount
+1            nan     nan  nan           nan  nan  March 31,  nan     nan  nan           nan  nan  June 30,
+2            nan     nan  nan           nan  nan       2023  nan     nan  nan           nan  nan      2022
+
+  Table 16: None ((22, 8))
+    Preview:
+                               0                1      2      3    4     5    6     7
+0                          year)  (calendar year)   Rate   Rate  nan  2023  nan  2022
+1  2009 issuance of $3.8 billion             2039  5.20%  5.24%    $   520    $   520
+2  2010 issuance of $4.8 billion             2040  4.50%  4.57%  nan   486  nan   486
+
+  Table 17: None ((9, 3))
+    Preview:
+                                                       0    1      2
+0                                          (In millions)  nan    nan
+1                                   Year Ending June 30,  nan    nan
+2  2023 (excluding the nine months ended March 31, 2023)    $  1,000
+
+  Table 18: None ((10, 5))
+    Preview:
+               0    1          2    3         4
+0  (In millions)  nan        nan  nan       nan
+1            nan  nan  March 31,  nan  June 30,
+2            nan  nan       2023  nan      2022
+
+  Table 19: None ((3, 9))
+    Preview:
+                      0    1       2    3       4    5      6    7      8
+0                   nan  nan  2023.0  nan  2022.0  nan   2023  nan   2022
+1  Operating lease cost    $   766.0    $   744.0    $  2,112    $  1,801
+2   Finance lease cost:  nan     NaN  nan     NaN  nan    nan  nan    nan
+
+  Table 20: None ((27, 6))
+    Preview:
+                   0    1      2    3    4      5
+0        Fiscal Year  nan   2023  nan  nan   2022
+1   First Quarter 17    $  4,600   21    $  6,200
+2  Second Quarter 20  nan  4,600   20  nan  6,233
+
+  Table 21: None ((33, 9))
+    Preview:
+                              0    1      2    3      4    5      6    7      8
+0                           nan  nan   2023  nan   2022  nan   2023  nan   2022
+1                   Derivatives  nan    nan  nan    nan  nan    nan  nan    nan
+2  Balance, beginning of period    $  (38 )    $  (17 )    $  (13 )    $  (19 )
+
+  Table 22: None ((20, 8))
+    Preview:
+                                     0    1          2       3    4       5    6       7
+0                                  nan  nan       2023    2022  nan    2023  nan    2022
+1                              Revenue  nan        nan     nan  nan     nan  nan     nan
+2  Productivity and Business Processes    $  17,516  $  15,789    $  50,983    $  46,764
+
+  Table 23: None ((11, 9))
+    Preview:
+                                    0    1       2    3       4    5       6    7       8
+0                                 nan  nan    2023  nan    2022  nan    2023  nan    2022
+1  Server products and cloud services    $  20,025    $  17,046    $  58,007    $  48,498
+2  Office products and cloud services  nan  12,438  nan  11,164  nan  35,823  nan  33,223
+
+  Table 24: None ((33, 1))
+    Preview:
+                                                                                                        0
+0  Office Consumer products and cloud Revenue from Office Consumer products and cloud services, including
+1              services revenue growth Microsoft 365 Consumer subscriptions, Office licensed on-premises,
+2                                                                               and other Office services
+
+  Table 25: None ((14, 6))
+    Preview:
+                                                0    1                   2           3                  4           5
+0  (In millions, except percentages and per share  nan  Three Months Ended  Percentage  Nine Months Ended  Percentage
+1                                        amounts)  nan           March 31,      Change          March 31,      Change
+2                                             nan  nan          2023  2022         nan         2023  2022         nan
+
+  Table 26: None ((13, 7))
+    Preview:
+                                   0    1                   2           3    4                  5           6
+0                                nan  nan  Three Months Ended  Percentage  nan  Nine Months Ended  Percentage
+1  (In millions, except percentages)  nan           March 31,      Change  nan          March 31,      Change
+2                                nan  nan          2023  2022         nan  nan         2023  2022         nan
+
+  Table 27: None ((3, 11))
+    Preview:
+                         0    1      2    3      4     5    6       7    8       9     10
+0                       nan  nan   2023  nan   2022   nan  nan    2023  nan    2022   nan
+1  Research and development    $  6,984    $  6,306   11%    $  20,456    $  17,663   16%
+2   As a percent of revenue  nan    13%  nan    13%  0ppt  nan     13%  nan     12%  1ppt
+
+  Table 28: None ((3, 10))
+    Preview:
+                         0    1      2    3      4     5         6    7       8     9
+0                      nan  nan   2023  nan   2022   nan      2023  nan    2022   nan
+1      Sales and marketing    $  5,750    $  5,595    3%  $ 16,555    $  15,521    7%
+2  As a percent of revenue  nan    11%  nan    11%  0ppt       11%  nan     11%  0ppt
+
+  Table 29: None ((4, 10))
+    Preview:
+                                   0    1      2    3          4       5    6      7          8       9
+0  (In millions, except percentages)  nan    nan  nan  March 31,  Change  nan    nan  March 31,  Change
+1                                nan  nan   2023  nan       2022     nan  nan   2023       2022     nan
+2         General and administrative    $  1,643    $      1,480     11%    $  5,378    $ 4,151     30%
+
+  Table 30: None ((27, 11))
+    Preview:
+                            0    1       2    3       4    5    6        7    8        9    10
+0                          nan  nan    2023  nan    2022  nan  nan     2023  nan     2022  nan
+1                 Gross margin    $  36,729    $  33,745   9%    $  106,658    $  100,184   6%
+2  Severance, hardware-related  nan     nan  nan     nan  nan  nan      nan  nan      nan  nan
+
+  Table 31: None ((8, 5))
+    Preview:
+                            0                                       1    2          3         4
+0                         nan                                     nan  nan  March 31,       nan
+1             Risk Categories                     Hypothetical Change  nan       2023    Impact
+2  Foreign currency – Revenue  10% decrease in foreign exchange rates    $   (7,353 )  Earnings
+
+  Table 32: None ((3, 7))
+    Preview:
+                  0             1             2    3          4    5              6
+0  Declaration Date   Record Date  Payment Date  nan  Per Share  nan         Amount
+1               nan           nan           nan  nan        nan  nan  (In millions)
+2    March 14, 2023  May 18, 2023  June 8, 2023    $       0.68    $          5,057
+
+  Table 33: None ((6, 7))
+    Preview:
+                                    0          1    2          3            4    5              6
+0                              Period  Purchased  nan  Per Share  or Programs  nan    or Programs
+1                                 nan        nan  nan        nan          nan  nan  (In millions)
+2  January 1, 2023 – January 31, 2023  6,499,500    $     236.28    6,499,500    $         29,974
+
+------------------------------
+

@@ -1,0 +1,24 @@
+{
+  "company_name": "AMC Entertainment Holdings Inc.",
+  "statement_type": "income_statement",
+  "currency_unit": "millions",
+  "years": [
+    "2019"
+  ],
+  "confidence": 0.2,
+  "line_items": [
+    {
+      "name": "year term of the ESA ending in February",
+      "values": [
+        2037.0
+      ],
+      "years": [
+        "2019"
+      ],
+      "category": "Other",
+      "confidence": 0.2,
+      "parent_item": null,
+      "is_total": false
+    }
+  ]
+}

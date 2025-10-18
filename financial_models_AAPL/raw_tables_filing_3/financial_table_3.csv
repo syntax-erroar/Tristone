@@ -1,0 +1,24 @@
+0,1,2,3,4
+nan,nan,"December 28,",nan,"December 30,"
+nan,nan,2024,nan,2023
+Net sales:,nan,nan,nan,nan
+Products,$,"97,960",$,"96,458"
+Services,nan,"26,340",nan,"23,117"
+Total net sales,nan,"124,300",nan,"119,575"
+Cost of sales:,nan,nan,nan,nan
+Products,nan,"59,447",nan,"58,440"
+Services,nan,"6,578",nan,"6,280"
+Total cost of sales,nan,"66,025",nan,"64,720"
+Gross margin,nan,"58,275",nan,"54,855"
+Operating expenses:,nan,nan,nan,nan
+Research and development,nan,"8,268",nan,"7,696"
+"Selling, general and administrative",nan,"7,175",nan,"6,786"
+Total operating expenses,nan,"15,443",nan,"14,482"
+Operating income,nan,"42,832",nan,"40,373"
+"Other income/(expense), net",nan,(248),nan,(50)
+Income before provision for income taxes,nan,"42,584",nan,"40,323"
+Provision for income taxes,nan,"6,254",nan,"6,407"
+Net income,$,"36,330",$,"33,916"
+Earnings per share:,nan,nan,nan,nan
+Basic,$,2.41,$,2.19
+Diluted,$,2.40,$,2.18
