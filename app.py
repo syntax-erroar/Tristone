@@ -146,18 +146,23 @@ def init_db() -> None:
             conn.execute("ALTER TABLE users ADD COLUMN role TEXT NOT NULL DEFAULT 'user';")
         if "created_at" not in existing_cols:
             conn.execute("ALTER TABLE users ADD COLUMN created_at TEXT NOT NULL DEFAULT '';")
-        # Seed default admin only if table empty
-        cur = conn.execute("SELECT COUNT(1) FROM users;")
-        count = cur.fetchone()[0]
-        if int(count) == 0:
-            pw_hash = bcrypt.hashpw(ENV_ADMIN_PASSWORD.encode(), bcrypt.gensalt()).decode()
-            insert_user_dynamic(
-                ENV_ADMIN_EMAIL,
-                pw_hash,
-                1,
-                "admin",
-                datetime.utcnow().isoformat(),
-            )
+        # Seed default admin only if table empty or admin doesn't exist
+        cur = conn.execute("SELECT COUNT(1) FROM users WHERE lower(email) = lower(?);", (ENV_ADMIN_EMAIL,))
+        admin_exists = cur.fetchone()[0]
+        
+        if admin_exists == 0:
+            try:
+                pw_hash = bcrypt.hashpw(ENV_ADMIN_PASSWORD.encode(), bcrypt.gensalt()).decode()
+                insert_user_dynamic(
+                    ENV_ADMIN_EMAIL,
+                    pw_hash,
+                    1,
+                    "admin",
+                    datetime.utcnow().isoformat(),
+                )
+            except sqlite3.IntegrityError:
+                # Admin user already exists, skip creation
+                pass
 
 def get_user_by_email(email: str) -> Optional[Tuple[int, str, str, int, str, str]]:
     with get_db() as conn:
