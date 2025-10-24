@@ -1733,15 +1733,21 @@ pause
                 if not os.path.exists(file_path):
                     continue
                     
-                # Extract year from filename
+                # Extract year from filename (and quarter for 10-Q)
                 filename = os.path.basename(file_path)
-                year = self._extract_year_from_filename(filename)
+                if form_type == "10-Q":
+                    year, quarter = self._extract_year_quarter_from_filename(filename)
+                    # Create a sortable key that includes quarter information
+                    year_key = f"{year}-Q{quarter}" if quarter > 0 else year
+                else:
+                    year = self._extract_year_from_filename(filename)
+                    year_key = year
                 
                 # Parse the individual file
                 statements = self._parse_individual_financial_file(file_path)
                 if statements:
-                    all_years_data[year] = statements
-                    print(f"  ✅ Parsed {year}: {len([s for s in statements.values() if s is not None])} statements")
+                    all_years_data[year_key] = statements
+                    print(f"  ✅ Parsed {year_key}: {len([s for s in statements.values() if s is not None])} statements")
             
             if not all_years_data:
                 print("  ❌ No valid data found for consolidation")
@@ -1749,7 +1755,7 @@ pause
             
             # Create master consolidated file
             master_file = os.path.join(output_dir, f"{ticker}_{form_type}_Master_Consolidated_Financials.xlsx")
-            self._create_horizontal_consolidated_excel(all_years_data, master_file, ticker)
+            self._create_horizontal_consolidated_excel(all_years_data, master_file, ticker, form_type)
             
             print(f"  ✅ Created master consolidated file: {os.path.basename(master_file)}")
             return master_file
@@ -1794,7 +1800,7 @@ pause
             
             # Create master consolidated file
             master_file = os.path.join(output_dir, f"{ticker}_{form_type}_Master_Consolidated_Financials.xlsx")
-            self._create_horizontal_consolidated_excel(all_years_data, master_file, ticker)
+            self._create_horizontal_consolidated_excel(all_years_data, master_file, ticker, form_type)
             
             print(f"  ✅ Created master consolidated file: {os.path.basename(master_file)}")
             return master_file
@@ -1831,6 +1837,32 @@ pause
                 return str(fiscal_year)
         
         return "Unknown"
+    
+    def _extract_year_quarter_from_filename(self, filename: str) -> tuple:
+        """Extract year and quarter from filename for 10-Q filings"""
+        import re
+        
+        # Look for patterns like "2023-Q1", "2023Q1", "2023-Q2", etc.
+        quarter_match = re.search(r'(\d{4})[-_]?Q(\d)', filename, re.IGNORECASE)
+        if quarter_match:
+            year = quarter_match.group(1)
+            quarter = int(quarter_match.group(2))
+            return year, quarter
+        
+        # Look for year in filename
+        year_match = re.search(r'20\d{2}', filename)
+        if year_match:
+            year = year_match.group()
+            # Try to extract quarter from other patterns
+            quarter_match = re.search(r'Q(\d)', filename, re.IGNORECASE)
+            if quarter_match:
+                quarter = int(quarter_match.group(1))
+                return year, quarter
+            
+            # If no quarter found, return year and 0 (will be treated as annual)
+            return year, 0
+        
+        return "Unknown", 0
     
     def _parse_individual_financial_file(self, file_path: str) -> Dict[str, pd.DataFrame]:
         """Parse individual financial file and extract the 3 statements - universal approach"""
@@ -2199,7 +2231,7 @@ pause
         # For now, return as is
         return df.reset_index(drop=True)
     
-    def _create_horizontal_consolidated_excel(self, all_years_data: Dict, output_file: str, ticker: str):
+    def _create_horizontal_consolidated_excel(self, all_years_data: Dict, output_file: str, ticker: str, form_type: str = "10-K"):
         """Create horizontal consolidated Excel file"""
         workbook = openpyxl.Workbook()
         ws = workbook.active
@@ -2215,7 +2247,7 @@ pause
         ]
         
         for statement_key, statement_title in statement_types:
-            current_row = self._add_smart_statement_section(ws, statement_key, statement_title, all_years_data, current_row)
+            current_row = self._add_smart_statement_section(ws, statement_key, statement_title, all_years_data, current_row, form_type)
             current_row += 3  # Add small spacing between sections
         
         # Auto-adjust column widths
@@ -2232,6 +2264,110 @@ pause
             ws.column_dimensions[column_letter].width = adjusted_width
         
         workbook.save(output_file)
+    
+    def _add_smart_statement_section(self, ws, statement_key: str, statement_title: str, all_years_data: Dict, start_row: int, form_type: str = "10-K"):
+        """Add a statement section with smart sorting for 10-Q vs 10-K filings"""
+        current_row = start_row
+        
+        # Add section title
+        title_cell = ws.cell(row=current_row, column=1)
+        title_cell.value = statement_title
+        title_cell.font = Font(bold=True, size=16)
+        current_row += 2
+        
+        # Get all years that have this statement
+        years_with_data = []
+        for year, statements in all_years_data.items():
+            if statements[statement_key] is not None:
+                years_with_data.append(year)
+        
+        if not years_with_data:
+            return current_row
+        
+        # Sort years properly based on form type
+        if form_type == "10-Q":
+            # For 10-Q, sort chronologically: 2022-Q1, 2022-Q2, 2022-Q3, 2023-Q1, etc.
+            years_with_data = self._sort_quarters_chronologically(years_with_data)
+        else:
+            # For 10-K, sort by year in reverse order (newest first)
+            try:
+                years_with_data = sorted(years_with_data, key=lambda x: int(x) if x.isdigit() else 0, reverse=True)
+            except:
+                years_with_data = sorted(years_with_data, reverse=True)
+        
+        # Calculate dynamic column spacing based on data width
+        max_cols_per_year = 0
+        for year in years_with_data:
+            df = all_years_data[year][statement_key]
+            if df is not None and not df.empty:
+                max_cols_per_year = max(max_cols_per_year, len(df.columns))
+        
+        # Use at least 8 columns per year, but adjust based on actual data
+        cols_per_year = max(8, min(max_cols_per_year + 2, 15))
+        
+        # Create year headers
+        col_start = 1
+        for year in years_with_data:
+            year_cell = ws.cell(row=current_row, column=col_start)
+            year_cell.value = f"Period {year}"
+            year_cell.font = Font(bold=True)
+            
+            # Merge cells for year header if we have multiple columns
+            if cols_per_year > 1:
+                ws.merge_cells(f'{get_column_letter(col_start)}{current_row}:{get_column_letter(col_start + cols_per_year - 1)}{current_row}')
+            
+            col_start += cols_per_year
+        
+        current_row += 1
+        
+        # Add the actual data for each year
+        max_rows = 0
+        col_start = 1
+        for year in years_with_data:
+            df = all_years_data[year][statement_key]
+            
+            if df is not None and not df.empty:
+                # Write data for this year
+                for r_idx, row in df.iterrows():
+                    for c_idx, value in enumerate(row):
+                        if pd.notna(value) and c_idx < cols_per_year:
+                            cell = ws.cell(row=current_row + r_idx, column=col_start + c_idx)
+                            cell.value = value
+                
+                max_rows = max(max_rows, len(df))
+            
+            col_start += cols_per_year
+        
+        return current_row + max_rows + 2
+    
+    def _sort_quarters_chronologically(self, years_with_data: List[str]) -> List[str]:
+        """Sort quarter-based years chronologically (oldest to newest)"""
+        def sort_key(year_str):
+            if '-' in year_str and 'Q' in year_str:
+                # Format: "2022-Q1", "2023-Q2", etc.
+                try:
+                    year_part, quarter_part = year_str.split('-')
+                    year = int(year_part)
+                    quarter = int(quarter_part[1:])  # Remove 'Q' prefix
+                    return (year, quarter)
+                except:
+                    return (0, 0)
+            elif 'Q' in year_str:
+                # Format: "2022Q1", "2023Q2", etc.
+                try:
+                    year = int(year_str[:4])
+                    quarter = int(year_str[5:])  # After 'Q'
+                    return (year, quarter)
+                except:
+                    return (0, 0)
+            else:
+                # Regular year format
+                try:
+                    return (int(year_str), 0)
+                except:
+                    return (0, 0)
+        
+        return sorted(years_with_data, key=sort_key)
     
     def _add_horizontal_statement_section(self, ws, statement_key: str, statement_title: str, all_years_data: Dict, start_row: int):
         """Add a horizontal statement section to the worksheet - universal approach"""

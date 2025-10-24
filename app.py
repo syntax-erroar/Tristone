@@ -229,13 +229,6 @@ def verify_credentials(email: str, password: str) -> bool:
 # Initialize DB and ensure seed exists
 init_db()
 
-# Initialize test user account if needed
-try:
-    from init_user_account import init_test_user
-    init_test_user()
-except ImportError:
-    pass  # init_user_account.py not available
-
 # Gate the rest of the app until user logs in
 if not is_authenticated():
     st.markdown(
@@ -600,52 +593,97 @@ def run_automated_downloader_tab():
                 import zipfile
                 import shutil
                 
+                # Validate files before processing
+                valid_files = []
+                missing_files = []
+                
                 for f in files:
+                    if f and os.path.exists(f):
+                        try:
+                            # Check if file is readable
+                            with open(f, 'rb') as test_file:
+                                test_file.read(1)  # Test read
+                            valid_files.append(f)
+                        except Exception:
+                            missing_files.append(f)
+                    else:
+                        missing_files.append(f)
+                
+                # Display missing files warning
+                if missing_files:
+                    st.warning(f"⚠️ {len(missing_files)} files could not be processed (missing or inaccessible)")
+                    for missing_file in missing_files:
+                        if missing_file:
+                            st.markdown(f"- ❌ `{os.path.basename(missing_file)}` (not found)")
+                
+                # Process valid files
+                for f in valid_files:
                     try:
                         size = os.path.getsize(f)
                         filename = os.path.basename(f)
                         
                         # Display file info
-                        st.markdown(f"- `{filename}` ({size:,} bytes)")
+                        st.markdown(f"- ✅ `{filename}` ({size:,} bytes)")
                         
                         # Add download button for each file
-                        if os.path.exists(f):
-                            with open(f, 'rb') as file:
-                                st.download_button(
-                                    label=f"📥 Download {filename}",
-                                    data=file.read(),
-                                    file_name=filename,
-                                    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                                    key=f"download_{filename}"
-                                )
+                        with open(f, 'rb') as file:
+                            st.download_button(
+                                label=f"📥 Download {filename}",
+                                data=file.read(),
+                                file_name=filename,
+                                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                key=f"download_{filename}"
+                            )
                     except Exception as e:
                         st.error(f"Error processing {f}: {e}")
                 
-                # Add download all button
-                if len(files) > 1:
+                # Add download all button with improved error handling
+                if len(valid_files) > 1:
                     try:
-                        # Create a zip file with all outputs
-                        zip_buffer = tempfile.NamedTemporaryFile(delete=False, suffix='.zip')
-                        with zipfile.ZipFile(zip_buffer.name, 'w', zipfile.ZIP_DEFLATED) as zip_file:
-                            for f in files:
-                                if os.path.exists(f):
-                                    zip_file.write(f, os.path.basename(f))
+                        # Create zip file safely with retry logic
+                        import time
+                        import random
                         
-                        # Read the zip file
-                        with open(zip_buffer.name, 'rb') as zip_file:
-                            zip_data = zip_file.read()
+                        def create_zip_safely(files_to_zip, max_attempts=3):
+                            for attempt in range(max_attempts):
+                                try:
+                                    zip_buffer = tempfile.NamedTemporaryFile(delete=False, suffix='.zip')
+                                    with zipfile.ZipFile(zip_buffer.name, 'w', zipfile.ZIP_DEFLATED) as zip_file:
+                                        for f in files_to_zip:
+                                            if os.path.exists(f):
+                                                zip_file.write(f, os.path.basename(f))
+                                    
+                                    # Read the zip file
+                                    with open(zip_buffer.name, 'rb') as zip_file:
+                                        zip_data = zip_file.read()
+                                    
+                                    # Clean up
+                                    os.unlink(zip_buffer.name)
+                                    return zip_data
+                                    
+                                except PermissionError:
+                                    if attempt < max_attempts - 1:
+                                        time.sleep(random.uniform(0.1, 0.5))  # Random delay
+                                        continue
+                                    else:
+                                        st.error("❌ Could not create zip file due to file access issues. Try downloading files individually.")
+                                        return None
+                                except Exception as e:
+                                    st.error(f"❌ Error creating zip file: {e}")
+                                    return None
+                            return None
                         
-                        # Clean up
-                        os.unlink(zip_buffer.name)
+                        zip_data = create_zip_safely(valid_files)
                         
-                        # Download button for all files
-                        st.download_button(
-                            label="📦 Download All Files (ZIP)",
-                            data=zip_data,
-                            file_name=f"{ticker}_{form_type}_all_files.zip",
-                            mime="application/zip",
-                            key="download_all"
-                        )
+                        if zip_data:
+                            # Download button for all files
+                            st.download_button(
+                                label="📦 Download All Files (ZIP)",
+                                data=zip_data,
+                                file_name=f"{ticker}_{form_type}_all_files.zip",
+                                mime="application/zip",
+                                key="download_all"
+                            )
                     except Exception as e:
                         st.warning(f"Could not create zip file: {e}")
             else:
