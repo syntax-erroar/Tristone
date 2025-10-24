@@ -229,6 +229,13 @@ def verify_credentials(email: str, password: str) -> bool:
 # Initialize DB and ensure seed exists
 init_db()
 
+# Initialize test user account if needed
+try:
+    from init_user_account import init_test_user
+    init_test_user()
+except ImportError:
+    pass  # init_user_account.py not available
+
 # Gate the rest of the app until user logs in
 if not is_authenticated():
     st.markdown(
