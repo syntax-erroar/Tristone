@@ -14,8 +14,15 @@ Run: streamlit run app.py
 
 import os
 import tempfile
+import time
+import random
 
 import pandas as pd
+from openpyxl import load_workbook
+from openpyxl.styles import PatternFill, Font, Border, Side, Alignment, NamedStyle
+from openpyxl.utils import get_column_letter
+from openpyxl.worksheet.table import Table, TableStyleInfo
+from openpyxl.formatting.rule import CellIsRule
 import streamlit as st
 import jwt
 import sqlite3
@@ -26,7 +33,7 @@ from typing import Optional, Tuple
 from xbrl_json_to_excel import main as xbrl_main
 
 
-st.set_page_config(page_title="SEC Tools", layout="wide")
+st.set_page_config(page_title="SEC Tools", page_icon="📊", layout="wide")
 
 # --- Simple JWT auth gate (email/password) ---
 SECRET_KEY = os.environ.get("APP_SECRET_KEY", "change-this-secret-key")
@@ -272,61 +279,82 @@ if is_admin:
 st.markdown(
     """
     <style>
-      /* Base typography and spacing */
-      .stApp { background: #FFFFFF; }
-      h1, h2, h3 { color: #064E3B; }
-      .block-container { padding-top: 1.5rem; padding-bottom: 2rem; }
+      :root {
+        --brand-50:#ECFDF5; --brand-100:#D1FAE5; --brand-200:#A7F3D0; --brand-500:#10B981; --brand-600:#059669;
+        --ink-800:#065F46; --ink-900:#064E3B; --bg:#FFFFFF; --card:#FFFFFF; --muted:#6B7280; --shadow:0 6px 18px rgba(6,95,70,.08);
+        --radius:12px;
+      }
+      .stApp { background: var(--bg); }
+      .block-container { padding-top: 1.25rem; padding-bottom: 2rem; }
+      h1, h2, h3 { color: var(--ink-900); }
+
+      /* Banner */
+      .banner {
+        background: linear-gradient(90deg, var(--brand-50), #FFFFFF);
+        border: 1px solid var(--brand-100);
+        border-radius: var(--radius);
+        padding: 14px 16px; margin-bottom: 10px;
+        box-shadow: var(--shadow);
+      }
+      .banner h1 { margin: 0; font-size: 1.4rem; color: var(--ink-900); }
+      .banner .sub { color: var(--muted); margin-top: 4px; font-size: .9rem; }
 
       /* Tabs */
-      .stTabs [data-baseweb="tab-list"] { gap: 0.25rem; }
+      .stTabs [data-baseweb="tab-list"] { gap: .25rem; }
       .stTabs [data-baseweb="tab"] {
-        background: #F0FDF4;
-        border: 1px solid #D1FAE5;
-        color: #065F46;
-        border-radius: 8px 8px 0 0;
-        padding: 0.5rem 0.75rem;
+        background: var(--brand-50);
+        border: 1px solid var(--brand-100);
+        color: var(--ink-800);
+        border-radius: 10px 10px 0 0; padding: .5rem .75rem;
       }
       .stTabs [aria-selected="true"] {
-        background: #FFFFFF !important;
-        border-bottom-color: #FFFFFF !important;
-        color: #065F46 !important;
-        box-shadow: 0 -2px 0 #10B981 inset;
+        background: var(--bg) !important; border-bottom-color: var(--bg) !important;
+        color: var(--ink-800) !important; box-shadow: 0 -2px 0 var(--brand-500) inset;
       }
 
       /* Buttons */
       .stButton>button {
-        background: #10B981;
-        color: #FFFFFF;
-        border: none;
-        border-radius: 8px;
-        padding: 0.6rem 1rem;
+        background: var(--brand-500); color: #fff; border: none; border-radius: 10px;
+        padding: .6rem 1rem; transition: all .15s ease; box-shadow: var(--shadow);
       }
-      .stButton>button:hover { background: #059669; }
-
-      /* Info/success states */
-      .stAlert { border-radius: 8px; }
+      .stButton>button:hover { background: var(--brand-600); transform: translateY(-1px); }
 
       /* Inputs */
       .stTextInput>div>div>input,
       .stTextArea>div>div>textarea,
       .stSelectbox>div>div,
       .stNumberInput>div>div>input {
-        border-radius: 8px;
+        border-radius: 10px;
       }
+
+      /* Card helper using Streamlit native bordered containers */
+      [data-testid="stVerticalBlock"] > div:has(> [data-testid="stContainer"])[aria-label="card"] {
+        background: var(--card); border: 1px solid var(--brand-100); border-radius: var(--radius);
+        padding: 1rem; box-shadow: var(--shadow);
+      }
+
+      /* Alerts */
+      .stAlert { border-radius: 10px; }
     </style>
     """,
     unsafe_allow_html=True,
 )
 
-header_cols = st.columns([8, 1])
-with header_cols[0]:
-    st.title("SEC Tools Suite")
-with header_cols[1]:
-    st.markdown("<div style=\"height: 1.75rem;\"></div>", unsafe_allow_html=True)
+st.markdown(
+    """
+    <div class="banner">
+      <h1>📊 SEC Tools Suite</h1>
+      <div class="sub">Unified tools to search, download, and transform EDGAR filings</div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
+
+top_cols = st.columns([9, 1])
+with top_cols[1]:
     if st.button("Logout"):
         logout()
         st.rerun()
-st.caption("Unified tools to search, download, and transform SEC EDGAR filings. Your default workflow starts below.")
 
 
 def run_xbrl_tool():
@@ -528,34 +556,38 @@ python stream_listener.py --out-jsonl stream.jsonl""", language="bash")
 
 def run_automated_downloader_tab():
     st.header("Automated SEC Excel Downloader")
-    st.markdown(
-        "Enter the minimal details and click Run. We'll find filings within your date range, download Excel, extract Income/Balance/Cash Flow, and build consolidated workbooks."
-    )
-    with st.expander("What will this do?", expanded=False):
-        st.markdown("- Finds filings for your ticker and form type within the specified date range.\n- Downloads Excel files and extracts the 3 main statements.\n- Creates detailed and cleaned consolidated workbooks in the appropriate `SEC_Excel_Downloads_{ticker}_{form}` folder.")
+    with st.container():
+        st.markdown("Enter the minimal details and click Run. We'll find filings within your date range, download Excel files, extract Income/Balance/Cash Flow, and build consolidated workbooks.")
+        with st.expander("What will this do?", expanded=False):
+            st.markdown("- Finds filings for your ticker and form type within the specified date range.\n- Downloads Excel files and extracts the 3 main statements.\n- Creates detailed and cleaned consolidated workbooks in the appropriate `SEC_Excel_Downloads_{ticker}_{form}` folder.")
 
     default_ticker = "AMZN"
     default_form = "10-K"
 
-    col1, col2, col3 = st.columns(3)
+    # Parameter Card
+    st.markdown("<div aria-label='card'>", unsafe_allow_html=True)
+    col1, col2, col3 = st.columns([1.2, 1, 1])
     with col1:
+        st.subheader("Parameters")
         ticker = st.text_input("Ticker", value=default_ticker, placeholder="e.g., AMZN, AAPL, TSLA", key="auto_ticker")
         form_options = ["10-K", "10-Q"]
         form_index = form_options.index(default_form) if default_form in form_options else 0
         form_type = st.selectbox("Form Type", form_options, index=form_index, key="auto_form_type")
         download_both = st.checkbox("Download both 10-K and 10-Q", value=False, key="auto_download_both")
         if download_both:
-            st.info("Will download both 10-K and 10-Q filings")
+            st.caption("Both annual and quarterly filings will be processed.")
     with col2:
-        st.empty()
+        st.subheader("Options")
+        beautify_flag = st.checkbox("Beautify Excel outputs", value=True, help="Format headers, widths, numbers, freeze panes, and add subtle styling", key="auto_beautify")
+        st.caption("Recommended: on")
     with col3:
-        st.empty()
-
-    d1, d2 = st.columns(2)
-    with d1:
-        start_date_val = st.date_input("Start date", key="auto_start_date", value=None)
-    with d2:
-        end_date_val = st.date_input("End date", key="auto_end_date", value=None)
+        st.subheader("Date Range")
+        d1, d2 = st.columns(2)
+        with d1:
+            start_date_val = st.date_input("Start", key="auto_start_date", value=None)
+        with d2:
+            end_date_val = st.date_input("End", key="auto_end_date", value=None)
+    st.markdown("</div>", unsafe_allow_html=True)
 
     st.divider()
     run_col, _ = st.columns([1,3])
@@ -586,13 +618,133 @@ def run_automated_downloader_tab():
                 )
             if files:
                 st.success(f"Completed. {len(files)} outputs produced.")
-                st.subheader("Outputs")
+                st.subheader("Download Center")
                 
                 # Create a temporary directory for downloads
                 import tempfile
                 import zipfile
                 import shutil
                 
+                # Excel beautification utility
+                def beautify_workbook(workbook_path: str) -> None:
+                    try:
+                        wb = load_workbook(workbook_path)
+                        thin = Side(style="thin", color="D1FAE5")
+                        header_fill = PatternFill(start_color="ECFDF5", end_color="ECFDF5", fill_type="solid")
+                        header_font = Font(bold=True, color="065F46")
+                        header_align = Alignment(vertical="center", horizontal="left", wrap_text=True)
+                        border = Border(left=thin, right=thin, top=thin, bottom=thin)
+
+                        sheet_names = []
+                        for ws in wb.worksheets:
+                            # Determine used range
+                            if ws.max_row == 1 and ws.max_column == 1 and ws[1][0].value is None:
+                                continue
+                            sheet_names.append(ws.title)
+                            # Header styling on first row
+                            for cell in ws[1]:
+                                cell.fill = header_fill
+                                cell.font = header_font
+                                cell.border = border
+                                cell.alignment = header_align
+                            # Freeze header
+                            ws.freeze_panes = ws["A2"]
+
+                            # Auto column widths and number formats
+                            for col_idx in range(1, ws.max_column + 1):
+                                col_letter = get_column_letter(col_idx)
+                                max_len = 0
+                                numeric_col = True
+                                for row_idx in range(1, ws.max_row + 1):
+                                    cell = ws.cell(row=row_idx, column=col_idx)
+                                    val = cell.value
+                                    if val is not None:
+                                        text = str(val)
+                                        max_len = max(max_len, len(text))
+                                    # Determine if column is numeric (skip header row)
+                                    if row_idx > 1 and val not in (None, ""):
+                                        if not isinstance(val, (int, float)):
+                                            numeric_col = False
+                                ws.column_dimensions[col_letter].width = min(max(10, max_len + 2), 60)
+                                if numeric_col:
+                                    for row_idx in range(2, ws.max_row + 1):
+                                        c = ws.cell(row=row_idx, column=col_idx)
+                                        if isinstance(c.value, (int, float)):
+                                            c.number_format = "#,##0.00;[Red]-#,##0.00"
+
+                            # Conditional formatting for negatives (shade red)
+                            if ws.max_row > 1 and ws.max_column > 0:
+                                rng = f"A2:{get_column_letter(ws.max_column)}{ws.max_row}"
+                                ws.conditional_formatting.add(
+                                    rng,
+                                    CellIsRule(operator="lessThan", formula=["0"], stopIfTrue=False, font=Font(color="9B1C1C"))
+                                )
+
+                            # Convert data range to a table for nicer Excel UX
+                            try:
+                                table_ref = f"A1:{get_column_letter(ws.max_column)}{ws.max_row}"
+                                tbl = Table(displayName=f"Table_{ws.title[:20].replace(' ','_')}", ref=table_ref)
+                                style = TableStyleInfo(name="TableStyleMedium9", showFirstColumn=False, showLastColumn=False, showRowStripes=True, showColumnStripes=False)
+                                tbl.tableStyleInfo = style
+                                ws.add_table(tbl)
+                            except Exception:
+                                pass
+
+                        # Add a lightweight cover + TOC sheet
+                        if "Summary" not in [s.title for s in wb.worksheets]:
+                            ws0 = wb.create_sheet("Summary", 0)
+                        else:
+                            ws0 = wb["Summary"]
+
+                        ws0["A1"] = "SEC Tools Export"
+                        ws0["A2"] = f"Ticker: {ticker.strip().upper()}"
+                        ws0["A3"] = f"Form: {form_type if not download_both else '10-K & 10-Q'}"
+                        ws0["A4"] = f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+                        ws0["A6"] = "Table of Contents"
+                        ws0.column_dimensions["A"].width = 60
+                        ws0.freeze_panes = "A2"
+
+                        for r in range(1, 7):
+                            ws0[f"A{r}"].font = Font(bold=True, color="065F46")
+
+                        # Place hyperlinks to each sheet
+                        row = 7
+                        for name in [n for n in sheet_names if n != "Summary"]:
+                            cell = ws0[f"A{row}"]
+                            cell.value = name
+                            cell.hyperlink = f"#{name}!A1"
+                            cell.style = "Hyperlink"
+                            row += 1
+
+                        # Add Analysis template sheet if not present
+                        if "Analysis" not in [s.title for s in wb.worksheets]:
+                            wa = wb.create_sheet("Analysis")
+                            wa["A1"] = "Analysis Template"
+                            wa["A2"] = "Use this sheet for quick ratios and charts. Suggested formulas:"
+                            wa["A4"] = "- Create YEAR list in B column and reference data sheets"
+                            wa["A5"] = "- Example: =SUMIF(Income!A:A, \"*Revenue*\", Income!B:B)"
+                            wa["A6"] = "- Example margin: =IFERROR(Revenue!=0, NetIncome/Revenue, 0)"
+                            wa["A8"] = "Tip: Insert sparklines from Insert > Sparklines to visualize trends"
+                            for r in [1,2,8]:
+                                wa[f"A{r}"].font = Font(bold=True, color="065F46")
+                            wa.column_dimensions["A"].width = 100
+
+                        wb.save(workbook_path)
+                    except Exception as beautify_err:
+                        st.warning(f"Could not beautify {os.path.basename(workbook_path)}: {beautify_err}")
+                
+                # Progress and optional beautification
+                progress = st.progress(0)
+                step_total = 3 if beautify_flag else 2
+                step = 0
+
+                if beautify_flag:
+                    with st.spinner("Beautifying Excel outputs..."):
+                        for f in [p for p in files if p and os.path.exists(p) and p.lower().endswith((".xlsx", ".xlsm"))]:
+                            beautify_workbook(f)
+                    step += 1
+                    progress.progress(int(step/step_total*100))
+
                 # Validate files before processing
                 valid_files = []
                 missing_files = []
@@ -609,6 +761,9 @@ def run_automated_downloader_tab():
                     else:
                         missing_files.append(f)
                 
+                step += 1
+                progress.progress(int(step/step_total*100))
+
                 # Display missing files warning
                 if missing_files:
                     st.warning(f"⚠️ {len(missing_files)} files could not be processed (missing or inaccessible)")
@@ -622,18 +777,37 @@ def run_automated_downloader_tab():
                         size = os.path.getsize(f)
                         filename = os.path.basename(f)
                         
-                        # Display file info
-                        st.markdown(f"- ✅ `{filename}` ({size:,} bytes)")
+                        with st.container(border=True):
+                            st.markdown(f"**{filename}**  ")
+                            st.caption(f"Size: {size:,} bytes")
                         
-                        # Add download button for each file
-                        with open(f, 'rb') as file:
-                            st.download_button(
-                                label=f"📥 Download {filename}",
-                                data=file.read(),
-                                file_name=filename,
-                                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                                key=f"download_{filename}"
-                            )
+                            # Actions row
+                            c1, c2 = st.columns([1,3])
+                            with c1:
+                                try:
+                                    with open(f, 'rb') as file:
+                                        file_data = file.read()
+                                        st.download_button(
+                                            label="📥 Download",
+                                            data=file_data,
+                                            file_name=filename,
+                                            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            key=f"download_{filename}_{int(time.time())}"
+                                        )
+                                except PermissionError:
+                                    st.error("❌ Permission denied")
+                                except FileNotFoundError:
+                                    st.error("❌ File not found")
+                                except Exception as file_error:
+                                    st.error(f"❌ Error: {file_error}")
+                            with c2:
+                                with st.expander("Preview first rows"):
+                                    try:
+                                        df_preview = pd.read_excel(f, nrows=10)
+                                        st.dataframe(df_preview, use_container_width=True)
+                                    except Exception as preview_err:
+                                        st.caption(f"Preview unavailable: {preview_err}")
+                            
                     except Exception as e:
                         st.error(f"Error processing {f}: {e}")
                 
@@ -641,36 +815,76 @@ def run_automated_downloader_tab():
                 if len(valid_files) > 1:
                     try:
                         # Create zip file safely with retry logic
-                        import time
-                        import random
                         
                         def create_zip_safely(files_to_zip, max_attempts=3):
                             for attempt in range(max_attempts):
+                                zip_buffer = None
                                 try:
-                                    zip_buffer = tempfile.NamedTemporaryFile(delete=False, suffix='.zip')
-                                    with zipfile.ZipFile(zip_buffer.name, 'w', zipfile.ZIP_DEFLATED) as zip_file:
+                                    # Create temporary file in a more accessible location
+                                    temp_dir = tempfile.gettempdir()
+                                    zip_filename = f"sec_download_{int(time.time())}_{random.randint(1000, 9999)}.zip"
+                                    zip_path = os.path.join(temp_dir, zip_filename)
+                                    
+                                    # Create zip file
+                                    with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as zip_file:
                                         for f in files_to_zip:
-                                            if os.path.exists(f):
-                                                zip_file.write(f, os.path.basename(f))
+                                            if os.path.exists(f) and os.access(f, os.R_OK):
+                                                try:
+                                                    # Use a safe filename for the zip entry
+                                                    safe_filename = os.path.basename(f)
+                                                    # Remove any problematic characters
+                                                    safe_filename = "".join(c for c in safe_filename if c.isalnum() or c in "._-")
+                                                    if not safe_filename:
+                                                        safe_filename = f"file_{files_to_zip.index(f)}.xlsx"
+                                                    
+                                                    zip_file.write(f, safe_filename)
+                                                except Exception as file_error:
+                                                    st.warning(f"⚠️ Could not add {os.path.basename(f)} to zip: {file_error}")
+                                                    continue
                                     
                                     # Read the zip file
-                                    with open(zip_buffer.name, 'rb') as zip_file:
-                                        zip_data = zip_file.read()
+                                    if os.path.exists(zip_path):
+                                        with open(zip_path, 'rb') as zip_file:
+                                            zip_data = zip_file.read()
+                                        
+                                        # Clean up
+                                        try:
+                                            os.unlink(zip_path)
+                                        except:
+                                            pass  # Ignore cleanup errors
+                                        
+                                        return zip_data
+                                    else:
+                                        return None
                                     
-                                    # Clean up
-                                    os.unlink(zip_buffer.name)
-                                    return zip_data
-                                    
-                                except PermissionError:
+                                except PermissionError as pe:
                                     if attempt < max_attempts - 1:
-                                        time.sleep(random.uniform(0.1, 0.5))  # Random delay
+                                        time.sleep(random.uniform(0.2, 0.8))  # Longer delay
                                         continue
                                     else:
-                                        st.error("❌ Could not create zip file due to file access issues. Try downloading files individually.")
+                                        st.warning("⚠️ Could not create zip file due to file access issues. Please download files individually using the buttons above.")
+                                        return None
+                                except OSError as ose:
+                                    if attempt < max_attempts - 1:
+                                        time.sleep(random.uniform(0.2, 0.8))
+                                        continue
+                                    else:
+                                        st.warning(f"⚠️ File system error creating zip: {ose}. Please download files individually.")
                                         return None
                                 except Exception as e:
-                                    st.error(f"❌ Error creating zip file: {e}")
-                                    return None
+                                    if attempt < max_attempts - 1:
+                                        time.sleep(random.uniform(0.2, 0.8))
+                                        continue
+                                    else:
+                                        st.warning(f"⚠️ Error creating zip file: {e}. Please download files individually.")
+                                        return None
+                                finally:
+                                    # Ensure cleanup
+                                    if zip_buffer:
+                                        try:
+                                            zip_buffer.close()
+                                        except:
+                                            pass
                             return None
                         
                         zip_data = create_zip_safely(valid_files)
@@ -684,27 +898,18 @@ def run_automated_downloader_tab():
                                 mime="application/zip",
                                 key="download_all"
                             )
+                        else:
+                            st.info("💡 Individual file downloads are available above. Use those if the zip download doesn't work.")
                     except Exception as e:
-                        st.warning(f"Could not create zip file: {e}")
+                        st.warning(f"⚠️ Could not create zip file: {e}. Please use the individual download buttons above.")
+
+                progress.progress(100)
             else:
                 st.error("⚠️ 0 files found. Please check your ticker symbol and try again.")
         except Exception as e:
             st.error(f"Error: {e}")
 
 
-tabs = st.tabs(["Automated Downloader", "Search", "XBRL JSON → Excel", "Full-Text Search", "Download/PDF", "Extractor", "Stream"])
-with tabs[0]:
-    run_automated_downloader_tab()
-with tabs[1]:
-    run_search_tab()
-with tabs[2]:
-    run_xbrl_tool()
-with tabs[3]:
-    run_full_text_tab()
-with tabs[4]:
-    run_download_pdf_tab()
-with tabs[5]:
-    run_extractor_tab()
-with tabs[6]:
-    run_stream_tab()
+# Simplified app with only Automated Downloader
+run_automated_downloader_tab()
 

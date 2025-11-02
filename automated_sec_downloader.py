@@ -46,10 +46,7 @@ class AdvancedSECDownloader:
             'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15'
         ]
         
-        # Lazy-loaded semantic model for metric similarity
         self._finlang_model = None
-
-    # ===================== Deduplication Helpers =====================
     def _load_finlang_model(self):
         """Lazy load FinLang embeddings model; fallback to None on failure."""
         if self._finlang_model is not None:
@@ -78,7 +75,6 @@ class AdvancedSECDownloader:
         if pd.isna(val):
             return ''
         val_str = str(val).strip()
-        # Extract last restated value if present
         if '{' in val_str and '}' in val_str:
             try:
                 matches = re.findall(r'\{([^}]+)\}', val_str)
@@ -89,7 +85,6 @@ class AdvancedSECDownloader:
                         val_str = last_split[-1]
             except Exception:
                 pass
-        # Remove formatting chars
         val_str = val_str.replace(',', '').replace('$', '').replace('%', '')
         return val_str.lower()
 
@@ -100,7 +95,6 @@ class AdvancedSECDownloader:
         norm2 = self._normalize_metric_name(metric2)
         if norm1 == norm2 and norm1 != '':
             return True
-        # Quick alias normalization for common revenue/sales synonyms
         alias_map = {
             'revenues': 'revenue', 'total revenues': 'revenue', 'total revenue': 'revenue',
             'net sales': 'revenue', 'sales': 'revenue', 'sales revenue': 'revenue',
@@ -212,7 +206,6 @@ class AdvancedSECDownloader:
             matched_group = None
             for group in metric_groups:
                 base_name, base_values, _ = group['base_metric']
-                # Only group when semantically the same (aliases included)
                 if self._are_metrics_similar(metric_name, base_name):
                     matched_group = group
                     break
@@ -357,22 +350,21 @@ class AdvancedSECDownloader:
                     # Set column width
                     if col_idx == 1:  # Metric name column
                         adjusted_width = max(15, min(50, max_len + 3))
-                    else:  # Value columns
+                    else:  
                         adjusted_width = max(12, min(20, max_len + 2))
                     
                     ws.column_dimensions[column_letter].width = adjusted_width
                     
-                    # Apply formatting to each cell in the column
+                    
                     for row_idx in range(1, ws.max_row + 1):
                         cell = ws.cell(row=row_idx, column=col_idx)
                         
-                        if row_idx == 1:  # Header row
+                        if row_idx == 1:  
                             cell.font = header_font
                             cell.fill = header_fill
                             cell.alignment = openpyxl.styles.Alignment(horizontal='center', vertical='center')
-                        else:  # Data rows
-                            if col_idx == 1:  # Metric name column
-                                # Check if this is a section header (contains ">" or is all caps)
+                        else:  
+                            if col_idx == 1:  
                                 metric_name = str(cell.value).strip()
                                 if '>' in metric_name or (metric_name.isupper() and len(metric_name) > 3):
                                     cell.font = section_header_font
@@ -380,37 +372,28 @@ class AdvancedSECDownloader:
                                 else:
                                     cell.font = metric_font
                                 cell.alignment = openpyxl.styles.Alignment(horizontal='left', vertical='center')
-                            else:  # Value columns
+                            else:  
                                 cell.font = number_font
                                 cell.alignment = openpyxl.styles.Alignment(horizontal='right', vertical='center')
                                 
-                                # Apply number formatting for numeric values
                                 if is_numeric_col and cell.value is not None:
                                     val_str = str(cell.value).strip()
                                     if val_str and val_str not in ['', 'None']:
-                                        # Skip conflict markers and text separators
                                         if not (val_str.startswith('{') and val_str.endswith('}')) and '|' not in val_str:
                                             try:
-                                                # Check if value is already in parentheses format
                                                 if val_str.startswith('(') and val_str.endswith(')'):
-                                                    # Extract the number and make it negative
                                                     clean_val = val_str[1:-1].replace(',', '').replace('$', '').replace('%', '')
                                                     float_val = -float(clean_val)
                                                 else:
-                                                    # Convert to float normally
                                                     clean_val = val_str.replace(',', '').replace('$', '').replace('%', '')
                                                     float_val = float(clean_val)
                                                 
-                                                # Apply standard financial number format with parentheses for negatives
                                                 cell.number_format = '#,##0.00_);(#,##0.00)'
                                                 
-                                                # Set the actual numeric value
                                                 cell.value = float_val
                                             except:
-                                                # Keep as text if conversion fails
                                                 pass
                 
-                # Add professional borders
                 thin_border = openpyxl.styles.Border(
                     left=openpyxl.styles.Side(style='thin', color='CCCCCC'),
                     right=openpyxl.styles.Side(style='thin', color='CCCCCC'),
